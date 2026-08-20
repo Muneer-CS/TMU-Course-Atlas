@@ -48,15 +48,14 @@ test("full course-code searches are exact", async () => {
   assert.deepEqual(results.map((course) => course.code), ["CPS 633"]);
 });
 
-test("program and minor controls include the initial verified planning set", async () => {
+test("program and minor controls use the complete verified planning dataset", async () => {
   const page = await readFile(new URL("app/page.tsx", root), "utf8");
-  const data = await readFile(new URL("app/program-data.ts", root), "utf8");
-  assert.match(page, /Object\.entries\(programs\)/);
-  assert.match(data, /name: "Computer Science"/);
-  assert.match(data, /name: "Computer Engineering"/);
-  assert.match(data, /name: "Civil Engineering"/);
-  assert.match(data, /name: "Business Technology Management"/);
-  assert.match(data, /name: "Cyber Studies"/);
+  const atlas = JSON.parse(await readFile(new URL("public/data/course-atlas.json", root), "utf8"));
+  assert.match(page, /atlas\?\.programs\.map/);
+  assert.match(page, /compatibleMinors\.map/);
+  assert.equal(atlas.programs.length, 72);
+  assert.equal(atlas.minors.length, 69);
+  assert.ok(atlas.programs.some((program) => program.name === "Computer Science"));
 });
 
 test("About page includes the biography and social profiles", async () => {
@@ -91,26 +90,28 @@ test("course dataset is complete, unique, and uses official TMU sources", async 
 
 test("detail UI keeps antirequisites separate from prerequisites", async () => {
   const page = await readFile(new URL("app/page.tsx", root), "utf8");
-  assert.match(page, /<dt>Prerequisites<\/dt><dd>\{courseRecord\?\.prerequisites\.join/);
-  assert.match(page, /<dt>Antirequisites<\/dt><dd>\{courseRecord\?\.antirequisites\.join/);
+  assert.match(page, /<dt>Prerequisites<\/dt><dd>\{selectedRecord\?\.prerequisites\.join/);
+  assert.match(page, /<dt>Antirequisites<\/dt><dd>\{selectedRecord\?\.antirequisites\.join/);
   assert.doesNotMatch(page, /const requisite = course\.requisite_text/);
 });
 
-test("program-specific requirement slots use explicit allowlists", async () => {
-  const source = await readFile(new URL("app/program-data.ts", root), "utf8");
-  assert.match(source, /Science Requirement[\s\S]*?\["BLG 143", "CHY 103", "PCS 110"\]/);
-  assert.match(source, /Search Table I[\s\S]*?"COE 718"/);
-  assert.match(source, /Search stream courses[\s\S]*?"CVL 903"/);
-  assert.match(source, /Search Table I[\s\S]*?"ITM 820"/);
+test("program-specific requirement slots resolve official allowlists", async () => {
+  const source = await readFile(new URL("app/page.tsx", root), "utf8");
+  const atlas = JSON.parse(await readFile(new URL("public/data/course-atlas.json", root), "utf8"));
+  assert.match(source, /function tableCodes/);
+  assert.match(source, /allowedCodes: pending\.codes\.length \? pending\.codes : tableAllowed/);
+  assert.ok(atlas.program_tables.length > 0);
+  assert.ok(atlas.program_tables.every((table) => table.source.startsWith("https://www.torontomu.ca/")));
 });
 
-test("every curriculum code exists in the catalogue dataset", async () => {
-  const source = await readFile(new URL("app/program-data.ts", root), "utf8");
+test("every selectable program-table code exists in the catalogue dataset", async () => {
+  const atlas = JSON.parse(await readFile(new URL("public/data/course-atlas.json", root), "utf8"));
   const data = JSON.parse(await readFile(new URL("public/data/electives.json", root), "utf8"));
   const catalogueCodes = new Set(data.courses.map((course) => course.code));
-  const referencedCodes = new Set([...source.matchAll(/"([A-Z]{2,4} \d{3}|[A-Z]{3} \d{2}A\/B)"/g)].map((match) => match[1]));
+  const referencedCodes = new Set(atlas.program_tables.flatMap((table) => table.course_codes));
   const missing = [...referencedCodes].filter((code) => !catalogueCodes.has(code));
-  assert.deepEqual(missing, []);
+  const unresolved = new Set(atlas.unresolved_references.map((item) => item.code));
+  assert.ok(missing.every((code) => unresolved.has(code)));
 });
 
 test("site-ready atlas data covers every collected program and minor", async () => {

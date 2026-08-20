@@ -38,6 +38,8 @@ function audienceFromQualifiers(qualifiers, context = []) {
   return {
     audience_key: year ? `${contextKey}--fall-${year}-${direction}` : `qualified-${contextKey}${qualifierKey ? `--${qualifierKey}` : ""}`,
     audience_label: label,
+    path_key: year ? `${contextKey}--fall-${year}-${direction}` : contextKey,
+    path_label: year ? `${context.join(" - ") || "Program curriculum"} - Fall ${year} ${direction}` : context.join(" - ") || "Program curriculum",
   };
 }
 
@@ -99,6 +101,8 @@ function applyVerifiedVariantOverrides(programName, sequences) {
       context: [major, ...sequence.context],
       audience_key: `${major.toLowerCase().replace(/[^a-z0-9]+/g, "-")}--${sequence.audience_key}`,
       audience_label: `${major} - ${sequence.audience_label || sequence.context.join(" - ")}`,
+      path_key: `${major.toLowerCase().replace(/[^a-z0-9]+/g, "-")}--${sequence.path_key}`,
+      path_label: `${major} - ${sequence.path_label}`,
     };
   });
 }
@@ -222,6 +226,7 @@ for (const file of programFiles) {
 }
 
 const minorsSource = await readJson(new URL("minors.json", normalizedRoot));
+const programTablesSource = await readJson(new URL("program-tables.json", normalizedRoot));
 const compatibilitySource = await readJson(new URL("major-minor-compatibility.json", normalizedRoot));
 const unresolvedSource = await readJson(new URL("unresolved-course-references.json", normalizedRoot));
 
@@ -246,6 +251,13 @@ const minors = minorsSource.records.map((minor) => ({
   source: minor.evidence.source_url,
 }));
 
+const programTables = programTablesSource.records.map((table) => ({
+  name: table.name,
+  title: table.title,
+  course_codes: table.course_codes_referenced,
+  source: table.evidence.source_url,
+}));
+
 const dataset = {
   metadata: {
     calendar_year: "2026-2027",
@@ -257,6 +269,7 @@ const dataset = {
     programs: programs.length,
     minors: minors.length,
     compatibility_assessments: compatibilitySource.records.length,
+    program_tables: programTables.length,
     unresolved_references: unresolvedSource.records.length,
     programs_with_individual_semesters: programs.filter((program) => program.sequences.some((item) => item.display_mode === "semester")).length,
     programs_with_grouped_periods: programs.filter((program) => program.sequences.some((item) => item.display_mode === "published_period")).length,
@@ -265,6 +278,7 @@ const dataset = {
   },
   programs,
   minors,
+  program_tables: programTables,
   compatibility: compatibilitySource.records,
   unresolved_references: unresolvedSource.records,
 };
