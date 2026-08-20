@@ -40,3 +40,5 @@ yarn-error.log*
 /work/
 /tmp/
 /pages-dist/
+__pycache__/
+*.pyc
