@@ -27,6 +27,6 @@ The yearly update process is documented in `research/update-guide.md`. Curriculu
 
 The research and curriculum-variant foundation is complete. The full all-program interface is under active development.
 
-## License
+## Copyright
 
-MIT
+Copyright (c) 2026 Muneer Mahmoud. All rights reserved. See [LICENSE](LICENSE) for details.
