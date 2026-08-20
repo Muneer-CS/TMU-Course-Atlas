@@ -1,0 +1,887 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "393b98f3ae3362f5ba0e14438bf00658467603211d66e080872f68663ba664a5",
+  "source_bytes": 60804,
+  "title": "Creative Industries Core Elective Table I",
+  "headings": [
+    "Creative Industries Core Elective Table I",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CRI 410",
+    "CRI 420",
+    "CRI 430",
+    "CRI 450",
+    "CRI 510",
+    "CRI 520",
+    "CRI 530",
+    "CRI 540",
+    "CRI 560",
+    "CRI 570",
+    "CRI 590",
+    "CRI 620",
+    "CRI 630",
+    "CRI 670",
+    "CRI 680",
+    "CRI 720",
+    "CRI 730",
+    "CRI 750",
+    "CRI 760",
+    "CRI 770",
+    "CRI 780",
+    "CRI 820",
+    "CRI 830",
+    "CRI 840",
+    "CRI 850",
+    "CRI 860",
+    "CSE 310",
+    "CSE 400",
+    "CSE 410",
+    "EID 100",
+    "FCD 222",
+    "FCD 240",
+    "FCD 362",
+    "FCD 551",
+    "FCD 700",
+    "FCD 710",
+    "FCD 720",
+    "FCD 730",
+    "FCD 815",
+    "FCD 816",
+    "FCD 825",
+    "FCD 826",
+    "FCD 962",
+    "PFC 470",
+    "ZON 100"
+  ],
+  "official_links": [
+    {
+      "text": "Creative Industries",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+    },
+    {
+      "text": "CRI 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/410/"
+    },
+    {
+      "text": "CRI 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/420/"
+    },
+    {
+      "text": "CRI 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/430/"
+    },
+    {
+      "text": "CRI 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/450/"
+    },
+    {
+      "text": "CRI 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/510/"
+    },
+    {
+      "text": "CRI 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/520/"
+    },
+    {
+      "text": "CRI 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/530/"
+    },
+    {
+      "text": "CRI 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/540/"
+    },
+    {
+      "text": "CRI 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/560/"
+    },
+    {
+      "text": "CRI 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/570/"
+    },
+    {
+      "text": "CRI 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/590/"
+    },
+    {
+      "text": "CRI 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/620/"
+    },
+    {
+      "text": "CRI 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/630/"
+    },
+    {
+      "text": "CRI 670",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/670/"
+    },
+    {
+      "text": "CRI 680",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/680/"
+    },
+    {
+      "text": "CRI 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/720/"
+    },
+    {
+      "text": "CRI 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/730/"
+    },
+    {
+      "text": "CRI 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/750/"
+    },
+    {
+      "text": "CRI 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/760/"
+    },
+    {
+      "text": "CRI 770",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/770/"
+    },
+    {
+      "text": "CRI 780",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/780/"
+    },
+    {
+      "text": "CRI 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/820/"
+    },
+    {
+      "text": "CRI 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/830/"
+    },
+    {
+      "text": "CRI 840",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/840/"
+    },
+    {
+      "text": "CRI 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/850/"
+    },
+    {
+      "text": "CRI 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/860/"
+    },
+    {
+      "text": "CSE 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+    },
+    {
+      "text": "CSE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+    },
+    {
+      "text": "CSE 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+    },
+    {
+      "text": "EID 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+    },
+    {
+      "text": "FCD 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+    },
+    {
+      "text": "FCD 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/240/"
+    },
+    {
+      "text": "FCD 362",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+    },
+    {
+      "text": "FCD 551",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/551/"
+    },
+    {
+      "text": "FCD 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/700/"
+    },
+    {
+      "text": "FCD 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/710/"
+    },
+    {
+      "text": "FCD 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/720/"
+    },
+    {
+      "text": "FCD 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/730/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "FCD 816",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/816/"
+    },
+    {
+      "text": "FCD 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/825/"
+    },
+    {
+      "text": "FCD 826",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/826/"
+    },
+    {
+      "text": "FCD 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+    },
+    {
+      "text": "PFC 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/470/"
+    },
+    {
+      "text": "ZON 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_i/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Creative Industries Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Creative Industries",
+      "links": [
+        {
+          "text": "Creative Industries",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Courses are offered in alternate years. Contact The School of Creative Industries for scheduling information."
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 410 Beggars, Choosers: C.I. Advocacy",
+      "links": [
+        {
+          "text": "CRI 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 420 Book Publishing and Marketing",
+      "links": [
+        {
+          "text": "CRI 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 430 Canadian Media Entertainment Industries",
+      "links": [
+        {
+          "text": "CRI 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 450 Appreciating Creativity in Practice",
+      "links": [
+        {
+          "text": "CRI 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 510 Art and Business of Gaming",
+      "links": [
+        {
+          "text": "CRI 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 520 Design Management",
+      "links": [
+        {
+          "text": "CRI 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 530 Talent Management",
+      "links": [
+        {
+          "text": "CRI 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 540 Marketing the Creative Industries",
+      "links": [
+        {
+          "text": "CRI 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 560 Topics in Creative Industries",
+      "links": [
+        {
+          "text": "CRI 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 570 Creative Industries: International Lab",
+      "links": [
+        {
+          "text": "CRI 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 590 Storytelling Indigenous People",
+      "links": [
+        {
+          "text": "CRI 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 620 Concert and Festival Management",
+      "links": [
+        {
+          "text": "CRI 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 630 Advertising Theory and Practice",
+      "links": [
+        {
+          "text": "CRI 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 670 Music and Brands",
+      "links": [
+        {
+          "text": "CRI 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 680 Celebrity",
+      "links": [
+        {
+          "text": "CRI 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 720 Media Regulation and Communication Policy",
+      "links": [
+        {
+          "text": "CRI 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 730 Strategic Leadership in Cr. Industries",
+      "links": [
+        {
+          "text": "CRI 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 750 Emerging Media and Business Models",
+      "links": [
+        {
+          "text": "CRI 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 760 Diversity in Creative Industries",
+      "links": [
+        {
+          "text": "CRI 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 770 Trendwatching",
+      "links": [
+        {
+          "text": "CRI 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 780 Your Creative Self",
+      "links": [
+        {
+          "text": "CRI 780",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/780/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 820 Global Licensing/Distribution Agreements",
+      "links": [
+        {
+          "text": "CRI 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 830 Youth Cultural Production",
+      "links": [
+        {
+          "text": "CRI 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 840 Experience Innovation",
+      "links": [
+        {
+          "text": "CRI 840",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/840/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 850 Directed Reading Course",
+      "links": [
+        {
+          "text": "CRI 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 860 The Big Night",
+      "links": [
+        {
+          "text": "CRI 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/860/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 310 International Context*†",
+      "links": [
+        {
+          "text": "CSE 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 400 Special Projects Placement*",
+      "links": [
+        {
+          "text": "CSE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 410 Creative Capstone Enrichment*",
+      "links": [
+        {
+          "text": "CSE 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EID 100 Digital Skills and Innovation",
+      "links": [
+        {
+          "text": "EID 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 222 Coding for Creatives",
+      "links": [
+        {
+          "text": "FCD 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 240 History of Art and Design: Global Survey",
+      "links": [
+        {
+          "text": "FCD 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 362 Introduction to UX/UI Design",
+      "links": [
+        {
+          "text": "FCD 362",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 551 Digital Media and Networked Cultures",
+      "links": [
+        {
+          "text": "FCD 551",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/551/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 700 Cortona Experience: Design Intensive",
+      "links": [
+        {
+          "text": "FCD 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 710 London Experience: Creative Technology",
+      "links": [
+        {
+          "text": "FCD 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 720 New York Experience: Creative Enterprise",
+      "links": [
+        {
+          "text": "FCD 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 730 Dubai Experience: Creative Strategies",
+      "links": [
+        {
+          "text": "FCD 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse I",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 816 Global Campus Studio Supercourse I",
+      "links": [
+        {
+          "text": "FCD 816",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/816/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 825 Design Solutions Supercourse II",
+      "links": [
+        {
+          "text": "FCD 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 826 Global Campus Studio Supercourse II",
+      "links": [
+        {
+          "text": "FCD 826",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/826/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 962 Designing Interactions",
+      "links": [
+        {
+          "text": "FCD 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 470 Black Creative Practices",
+      "links": [
+        {
+          "text": "PFC 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ZON 100 Zone Learning Project I",
+      "links": [
+        {
+          "text": "ZON 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Available as a Table I Core Elective only to students admitted Fall 2025 and after. † CSE 310 is not available as a Core Elective Table I course if already taken as a Required Group 1 course.",
+      "links": [
+        {
+          "text": "CSE 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Creative Industries Core Elective Table I"
+}

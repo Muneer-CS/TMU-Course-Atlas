@@ -1,0 +1,512 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/law_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "755a0b0313db4f99e6eb991f87ac1e05132b4fafe9f7eb43fddfb4971eb81860",
+  "source_bytes": 59566,
+  "title": "Minor in Business Law",
+  "headings": [
+    "Minor in Business Law"
+  ],
+  "course_codes_referenced": [
+    "BUS 223",
+    "ECN 321",
+    "ENH 121",
+    "ENH 721",
+    "LAW 122",
+    "LAW 321",
+    "LAW 326",
+    "LAW 401",
+    "LAW 402",
+    "LAW 525",
+    "LAW 529",
+    "LAW 535",
+    "LAW 568",
+    "LAW 573",
+    "LAW 580",
+    "LAW 601",
+    "LAW 602",
+    "LAW 603",
+    "LAW 604",
+    "LAW 605",
+    "LAW 606",
+    "LAW 607",
+    "LAW 703",
+    "LAW 723",
+    "LAW 724",
+    "LAW 725",
+    "OHS 208",
+    "PPA 301"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Business Management - Law and Business Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "LAW 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+    },
+    {
+      "text": "BUS 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+    },
+    {
+      "text": "LAW 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+    },
+    {
+      "text": "LAW 326",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+    },
+    {
+      "text": "LAW 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+    },
+    {
+      "text": "LAW 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+    },
+    {
+      "text": "LAW 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+    },
+    {
+      "text": "LAW 529",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+    },
+    {
+      "text": "LAW 568",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+    },
+    {
+      "text": "LAW 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+    },
+    {
+      "text": "LAW 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+    },
+    {
+      "text": "LAW 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+    },
+    {
+      "text": "LAW 573",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+    },
+    {
+      "text": "LAW 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+    },
+    {
+      "text": "LAW 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+    },
+    {
+      "text": "LAW 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+    },
+    {
+      "text": "LAW 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+    },
+    {
+      "text": "LAW 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+    },
+    {
+      "text": "LAW 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+    },
+    {
+      "text": "LAW 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+    },
+    {
+      "text": "LAW 724",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+    },
+    {
+      "text": "LAW 725",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+    },
+    {
+      "text": "ECN 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+    },
+    {
+      "text": "ENH 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+    },
+    {
+      "text": "ENH 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/721/"
+    },
+    {
+      "text": "OHS 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/208/"
+    },
+    {
+      "text": "PPA 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/301/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Business Law"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Increasingly, legal issues are affecting organizations in many fields, whether through increased regulation of particular workplaces or through the need to understand the more global issues affecting many different organizations, in relation to the legal aspects of, for example, international trade, environmental health or information technology. The Business Law Minor is designed to allow students to prepare themselves for the legal and regulatory environment which they will meet and which they will need to understand in order to function well in their chosen field."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Ted Rogers School of Business Management, Law and Business Department"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management - Law and Business Major (regular and co-operative options)",
+      "links": [
+        {
+          "text": "Business Management - Law and Business Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) Required courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) elective courses from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Group 1: A minimum of three (3) and a maximum of four (4) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2: A minimum of zero (0) and a maximum of one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 121 Health Law",
+      "links": [
+        {
+          "text": "ENH 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 721 Public Health Law",
+      "links": [
+        {
+          "text": "ENH 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 208 Occupational Health and Safety Law",
+      "links": [
+        {
+          "text": "OHS 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/208/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 301 Administrative Law",
+      "links": [
+        {
+          "text": "PPA 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Law"
+}

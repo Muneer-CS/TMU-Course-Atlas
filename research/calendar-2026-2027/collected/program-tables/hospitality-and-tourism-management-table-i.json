@@ -1,0 +1,642 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "be1003f4c7658e9351db447580d298d7e82f9ffbcb2a239435d007fe1e5b8359",
+  "source_bytes": 57220,
+  "title": "Hospitality and Tourism Management Core Elective Table I",
+  "headings": [
+    "Hospitality and Tourism Management Core Elective Table I",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "HTD 500",
+    "HTF 505",
+    "HTF 506",
+    "HTF 601",
+    "HTH 700",
+    "HTH 706",
+    "HTH 810",
+    "HTH 901",
+    "HTI 746",
+    "HTL 503",
+    "HTL 510",
+    "HTL 701",
+    "HTL 801",
+    "HTM 402",
+    "HTM 604",
+    "HTM 621",
+    "HTM 704",
+    "HTR 900",
+    "HTT 501",
+    "HTT 509",
+    "HTT 510",
+    "HTT 600",
+    "HTT 605",
+    "HTT 607",
+    "HTT 610",
+    "HTT 622",
+    "HTT 700",
+    "HTT 800"
+  ],
+  "official_links": [
+    {
+      "text": "Hospitality and Tourism Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/"
+    },
+    {
+      "text": "HTD 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTD/500/"
+    },
+    {
+      "text": "HTF 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/505/"
+    },
+    {
+      "text": "HTF 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/506/"
+    },
+    {
+      "text": "HTF 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/601/"
+    },
+    {
+      "text": "HTH 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/700/"
+    },
+    {
+      "text": "HTH 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/706/"
+    },
+    {
+      "text": "HTH 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/810/"
+    },
+    {
+      "text": "HTH 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/901/"
+    },
+    {
+      "text": "HTI 746",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTI/746/"
+    },
+    {
+      "text": "HTL 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/503/"
+    },
+    {
+      "text": "HTL 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+    },
+    {
+      "text": "HTL 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/701/"
+    },
+    {
+      "text": "HTL 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/801/"
+    },
+    {
+      "text": "HTM 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/402/"
+    },
+    {
+      "text": "HTM 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/604/"
+    },
+    {
+      "text": "HTM 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/621/"
+    },
+    {
+      "text": "HTM 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/704/"
+    },
+    {
+      "text": "HTR 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTR/900/"
+    },
+    {
+      "text": "HTT 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/501/"
+    },
+    {
+      "text": "HTT 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/509/"
+    },
+    {
+      "text": "HTT 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+    },
+    {
+      "text": "HTT 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/600/"
+    },
+    {
+      "text": "HTT 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/605/"
+    },
+    {
+      "text": "HTT 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/607/"
+    },
+    {
+      "text": "HTT 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/610/"
+    },
+    {
+      "text": "HTT 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/622/"
+    },
+    {
+      "text": "HTT 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/700/"
+    },
+    {
+      "text": "HTT 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/800/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/table_i/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Hospitality and Tourism Management Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Hospitality and Tourism Management",
+      "links": [
+        {
+          "text": "Hospitality and Tourism Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTD 500 Hotel Feasibility and Valuation Studies",
+      "links": [
+        {
+          "text": "HTD 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTD/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTF 505 Restaurants from Concept to Operations",
+      "links": [
+        {
+          "text": "HTF 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTF 506 Food and Beverage Operations",
+      "links": [
+        {
+          "text": "HTF 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTF 601 The Business of Beverages",
+      "links": [
+        {
+          "text": "HTF 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTH 700 * Professional Ethics in Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTH 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTH 706 Management Placement and Experience",
+      "links": [
+        {
+          "text": "HTH 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTH 810 Luxury Management",
+      "links": [
+        {
+          "text": "HTH 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTH 901 Career Strategies",
+      "links": [
+        {
+          "text": "HTH 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTI 746 Digital Marketing for Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTI 746",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTI/746/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 503 Meeting and Convention Management",
+      "links": [
+        {
+          "text": "HTL 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 701 The Power of Branding in Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTL 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 801 Hospitality Strategic Management",
+      "links": [
+        {
+          "text": "HTL 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTM 402 † Strategic Marketing Planning",
+      "links": [
+        {
+          "text": "HTM 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTM 604 Professional Selling and Communications",
+      "links": [
+        {
+          "text": "HTM 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTM 621 Advertising and Promotion",
+      "links": [
+        {
+          "text": "HTM 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTM 704 Advanced Professional Selling",
+      "links": [
+        {
+          "text": "HTM 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTR 900 Director's Special Project",
+      "links": [
+        {
+          "text": "HTR 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTR/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 501 Casino Resort Management",
+      "links": [
+        {
+          "text": "HTT 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 509 Politics and Power in Tourism",
+      "links": [
+        {
+          "text": "HTT 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 510 * Sustainable Tourism Development",
+      "links": [
+        {
+          "text": "HTT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 600 Special Topics in Hospitality/Tourism",
+      "links": [
+        {
+          "text": "HTT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 605 Incentive Marketing",
+      "links": [
+        {
+          "text": "HTT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 607 Event Management",
+      "links": [
+        {
+          "text": "HTT 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 610 Business of Events and Entertainment",
+      "links": [
+        {
+          "text": "HTT 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 622 Destination Management and Marketing",
+      "links": [
+        {
+          "text": "HTT 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/622/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 700 Current Issues in Hospitality/Tourism",
+      "links": [
+        {
+          "text": "HTT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 800 Field Studies in Hospitality and Tourism",
+      "links": [
+        {
+          "text": "HTT 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* HTH 700 and HTT 510 are only available as Table I courses for students admitted Fall 2023 and before.",
+      "links": [
+        {
+          "text": "HTH 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/700/"
+        },
+        {
+          "text": "HTT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† HTM 402 is only available as a Table I course for students admitted Fall 2024 and after.",
+      "links": [
+        {
+          "text": "HTM 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTM/402/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Hospitality and Tourism Management - Table I"
+}

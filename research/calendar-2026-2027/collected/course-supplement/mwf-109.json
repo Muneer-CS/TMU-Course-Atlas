@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/109/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "0b8c9e0e0e4832c3d56203880c3ab2f5e9e7663f68d4f14f6acffd7f432d9048",
+  "source_bytes": 48618,
+  "title": "MWF 109",
+  "headings": [
+    "MWF 109",
+    "Critical Appraisal of Research Literature",
+    "Prerequisites",
+    "Co-Requisites",
+    "Antirequisites",
+    "Custom Requisites",
+    "Mentioned in the Following Calendar Pages"
+  ],
+  "course_codes_referenced": [
+    "MWF 109"
+  ],
+  "official_links": [
+    {
+      "text": "Midwifery",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "MWF 109"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Critical Appraisal of Research Literature"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Prerequisites"
+    },
+    {
+      "kind": "text",
+      "text": "None"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Co-Requisites"
+    },
+    {
+      "kind": "text",
+      "text": "None"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Antirequisites"
+    },
+    {
+      "kind": "text",
+      "text": "None"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Custom Requisites"
+    },
+    {
+      "kind": "text",
+      "text": "Available only to Midwifery students."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mentioned in the Following Calendar Pages"
+    },
+    {
+      "kind": "list_item",
+      "text": "Midwifery",
+      "links": [
+        {
+          "text": "Midwifery",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "MWF 109"
+}

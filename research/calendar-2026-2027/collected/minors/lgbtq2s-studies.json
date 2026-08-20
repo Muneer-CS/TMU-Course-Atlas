@@ -1,0 +1,625 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/lgbtq2s_studies_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "5c0a22c58c8fb073cc80526aa155d86ff5432299df6889b6e2d48c87eeba5bc4",
+  "source_bytes": 60270,
+  "title": "Minor in LGBTQ2S+ Studies",
+  "headings": [
+    "Minor in LGBTQ2S+ Studies"
+  ],
+  "course_codes_referenced": [
+    "CMN 230",
+    "CRM 205",
+    "CRM 515",
+    "DST 300",
+    "DST 605",
+    "ENG 610",
+    "ENG 941",
+    "FSN 605",
+    "GEO 655",
+    "HIS 475",
+    "HST 375",
+    "HST 627",
+    "HST 658",
+    "IDE 450",
+    "JRN 415",
+    "NNS 410",
+    "PHL 320",
+    "PHL 340",
+    "POG 303",
+    "POL 510",
+    "PSY 304",
+    "PSY 535",
+    "PSY 550",
+    "PSY 621",
+    "SOC 350",
+    "SOC 633",
+    "SPS 503"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "HST 375",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+    },
+    {
+      "text": "PHL 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/320/"
+    },
+    {
+      "text": "SOC 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+    },
+    {
+      "text": "CMN 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+    },
+    {
+      "text": "CRM 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/515/"
+    },
+    {
+      "text": "CRM 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/205/"
+    },
+    {
+      "text": "DST 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/300/"
+    },
+    {
+      "text": "DST 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/605/"
+    },
+    {
+      "text": "ENG 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/610/"
+    },
+    {
+      "text": "ENG 941",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/941/"
+    },
+    {
+      "text": "FSN 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/605/"
+    },
+    {
+      "text": "GEO 655",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+    },
+    {
+      "text": "HIS 475",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+    },
+    {
+      "text": "HST 627",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/627/"
+    },
+    {
+      "text": "HST 658",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/658/"
+    },
+    {
+      "text": "IDE 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/450/"
+    },
+    {
+      "text": "NNS 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/410/"
+    },
+    {
+      "text": "JRN 415",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/415/"
+    },
+    {
+      "text": "PHL 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/340/"
+    },
+    {
+      "text": "POG 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/303/"
+    },
+    {
+      "text": "POL 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/510/"
+    },
+    {
+      "text": "PSY 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/304/"
+    },
+    {
+      "text": "PSY 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/535/"
+    },
+    {
+      "text": "PSY 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/621/"
+    },
+    {
+      "text": "PSY 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/550/"
+    },
+    {
+      "text": "SOC 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/633/"
+    },
+    {
+      "text": "SPS 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/503/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/lgbtq2s_studies_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in LGBTQ2S+ Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The LGBTQ2S+ Studies Minor provides students with an interdisciplinary, intersectional approach to exploring the Canadian and international histories and cultures of LGBTQ2S+ identities, communities, anti-LGBTQ2S+ attitudes and actions, and strategies of LGBTQ2S+ resistance."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Sociology"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: Students may use a maximum of two (2) courses in any given discipline (indicated by the subject prefix of the course code; for History courses this means that students may use a maximum of two (2) HIS/HST courses towards completion of the minor.)"
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses in total including:"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 375 LGBTQ2S+ Histories",
+      "links": [
+        {
+          "text": "HST 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 320 Queer Theory",
+      "links": [
+        {
+          "text": "PHL 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 350 Queer Sociology",
+      "links": [
+        {
+          "text": "SOC 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 230 Trans Studies and Communication",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 515 Gendering Justice or CRM 205 Gender, Sexuality and the Law",
+      "links": [
+        {
+          "text": "CRM 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/515/"
+        },
+        {
+          "text": "CRM 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/205/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 300 Whose Lives Matter?",
+      "links": [
+        {
+          "text": "DST 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 605 Sexuality, Desire, and Disability",
+      "links": [
+        {
+          "text": "DST 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 610 The Language of Love, Sex, and Gender or ENG 941 Gender and Sex in Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/610/"
+        },
+        {
+          "text": "ENG 941",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/941/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 605 Fashioning Queer Futures",
+      "links": [
+        {
+          "text": "FSN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 655 Queer Geographies",
+      "links": [
+        {
+          "text": "GEO 655",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 475 Human Rights in Global History",
+      "links": [
+        {
+          "text": "HIS 475",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 375 * LGBTQ2S+ Histories",
+      "links": [
+        {
+          "text": "HST 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 627 Transgender Histories",
+      "links": [
+        {
+          "text": "HST 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 658 Sex in the City",
+      "links": [
+        {
+          "text": "HST 658",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/658/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 450 Queer Interior",
+      "links": [
+        {
+          "text": "IDE 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 410 Queer Media or JRN 415 Queer Media",
+      "links": [
+        {
+          "text": "NNS 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/410/"
+        },
+        {
+          "text": "JRN 415",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/415/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 320 * Queer Theory",
+      "links": [
+        {
+          "text": "PHL 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 340 Trans Philosophy",
+      "links": [
+        {
+          "text": "PHL 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 303 Race and Gender in Public Policy",
+      "links": [
+        {
+          "text": "POG 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 510 Politics of Sexual Diversity",
+      "links": [
+        {
+          "text": "POL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 304 Psychology of Gender or PSY 535 Gender Issues in Psychology",
+      "links": [
+        {
+          "text": "PSY 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/304/"
+        },
+        {
+          "text": "PSY 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 621 Psychology of Human Sexuality or PSY 550 Human Sexuality",
+      "links": [
+        {
+          "text": "PSY 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/621/"
+        },
+        {
+          "text": "PSY 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 350 * Queer Sociology",
+      "links": [
+        {
+          "text": "SOC 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 633 Sex, Gender and Sexualities",
+      "links": [
+        {
+          "text": "SOC 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPS 503 Sex in the Early Modern City",
+      "links": [
+        {
+          "text": "SPS 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*If not taken as a required course."
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "LGBTQ2S+ Studies"
+}

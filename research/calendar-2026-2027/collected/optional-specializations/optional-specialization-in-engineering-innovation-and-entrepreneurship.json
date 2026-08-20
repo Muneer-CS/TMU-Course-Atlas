@@ -1,0 +1,316 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8caf0d27c3a9718e2d5e373f09c80ecb878114adf36db07bbe45a84d251011bd",
+  "source_bytes": 53328,
+  "title": "Optional Specialization in Engineering Innovation and Entrepreneurship",
+  "headings": [
+    "Optional Specialization in Engineering Innovation and Entrepreneurship"
+  ],
+  "course_codes_referenced": [
+    "ECN 801",
+    "EIE 201",
+    "EIE 301",
+    "EIE 401",
+    "EIE 501",
+    "EMS 201"
+  ],
+  "official_links": [
+    {
+      "text": "Optional Specializations",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/"
+    },
+    {
+      "text": "ECN 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+    },
+    {
+      "text": "EMS 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-management-science/EMS/201/"
+    },
+    {
+      "text": "EIE 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/201/"
+    },
+    {
+      "text": "EIE 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/301/"
+    },
+    {
+      "text": "EIE 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/401/"
+    },
+    {
+      "text": "EIE 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/501/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship"
+    },
+    {
+      "kind": "text",
+      "text": "Optional Specializations",
+      "links": [
+        {
+          "text": "Optional Specializations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This specialization is open to undergraduate engineering students."
+    },
+    {
+      "kind": "text",
+      "text": "Students who opt for this specialization will gain both a solid foundation of innovation and entrepreneurship theory as well as the immersive experience of advancing and shaping their own ideas into a business. Students who complete this optional specialization will develop a competency in needs assessments and market research so that they are prepared to analyze the competitive landscape and hone in on suitable target markets. Students will develop greater financial literacy with respect to technology venture financing including cost analysis, cash flow management and inflation impacts."
+    },
+    {
+      "kind": "text",
+      "text": "Admission is restricted to undergraduate engineering students who have completed the first year or higher of their undergraduate degree program with CLEAR academic standing."
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete all six courses within the OS EIE with a minimum CGPA of 1.67 (and achieve a minimum CGPA of 1.67 for all courses required for their program simultaneously) before graduation to earn this special designation on their transcripts."
+    },
+    {
+      "kind": "text",
+      "text": "There are two types of courses offered within the optional specialization:"
+    },
+    {
+      "kind": "list_item",
+      "text": "lecture-based, and"
+    },
+    {
+      "kind": "list_item",
+      "text": "practicum (experiential) courses."
+    },
+    {
+      "kind": "text",
+      "text": "The lecture based courses cover the Principles of Engineering Economics, Entrepreneurship and Innovation Management, and Technology based New Venture Creation."
+    },
+    {
+      "kind": "text",
+      "text": "The practicum (experiential) suite of courses mirrors a well known three-stage technology commercialization phase-gate process which involves: Business Concept Identification – customer's discovery stage, Market & Technology Development – customer's validation stage, and Business Development & Market Readiness – customer's creation stage."
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Optional Specialization, you must complete the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED (6 courses) :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 801 Principles of Engineering Economics",
+      "links": [
+        {
+          "text": "ECN 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EMS 201 Entrepreneurship and Innovation Management",
+      "links": [
+        {
+          "text": "EMS 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-management-science/EMS/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EIE 201 Start-up of Technology Ventures",
+      "links": [
+        {
+          "text": "EIE 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EIE 301 Practicum I – New Venture Identification",
+      "links": [
+        {
+          "text": "EIE 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EIE 401 Practicum II – Market and Tech Development",
+      "links": [
+        {
+          "text": "EIE 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EIE 501 Practicum III – Bus Dev and Mkt Readiness",
+      "links": [
+        {
+          "text": "EIE 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/engineering-innovation-and-entrepreneurship/EIE/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Optional Specialization in Engineering Innovation and Entrepreneurship"
+}

@@ -1,0 +1,2429 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8f4f23e8330eb48babf6d2c1906f62640649abfd00055cd857ab2c168d65b625",
+  "source_bytes": 141804,
+  "title": "Aerospace Engineering",
+  "headings": [
+    "Aerospace Engineering",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Transition Programs",
+    "Early Intervention Program",
+    "Writing Skills Resource Path",
+    "Co-operative Program",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section.",
+    "Optional Internship Program",
+    "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Engineering Transfer Credits",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Accelerated Master of Applied Science (MASc) Pathway",
+    "Full-Time, Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Academic Standing Variation",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "AER 150",
+    "AER 222",
+    "AER 309",
+    "AER 316",
+    "AER 318",
+    "AER 320",
+    "AER 403",
+    "AER 404",
+    "AER 416",
+    "AER 423",
+    "AER 504",
+    "AER 507",
+    "AER 509",
+    "AER 520",
+    "AER 606",
+    "AER 615",
+    "AER 621",
+    "AER 622",
+    "AER 626",
+    "AER 627",
+    "AER 699",
+    "AER 710",
+    "AER 715",
+    "AER 716",
+    "AER 721",
+    "AER 722",
+    "AER 723",
+    "AER 813",
+    "AER 814",
+    "AER 817",
+    "AER 818",
+    "AER 821",
+    "AER 822",
+    "AER 827",
+    "AER 850",
+    "AER 870",
+    "ASC 120",
+    "BLG 181",
+    "BLG 599",
+    "BLG 699",
+    "BLG 850",
+    "BME 100",
+    "BMS 150",
+    "CEN 100",
+    "CEN 199",
+    "CEN 800",
+    "CEN 810",
+    "CHE 200",
+    "CHY 102",
+    "CHY 182",
+    "CHY 183",
+    "CHY 211",
+    "CHY 583",
+    "CHY 599",
+    "CMN 432",
+    "CPS 125",
+    "CPS 188",
+    "CPS 650",
+    "CVL 207",
+    "ECN 801",
+    "EES 508",
+    "EES 512",
+    "EES 612",
+    "ELE 202",
+    "ELE 900",
+    "ENG 377",
+    "ENG 503",
+    "GEO 702",
+    "HST 701",
+    "LNG 111",
+    "LNG 112",
+    "LNG 113",
+    "LNG 121",
+    "MEC 110",
+    "MEC 222",
+    "MTH 140",
+    "MTH 141",
+    "MTH 240",
+    "MTH 410",
+    "MTH 425",
+    "MTH 510",
+    "MTH 511",
+    "MTH 599",
+    "MTL 200",
+    "PCS 111",
+    "PCS 125",
+    "PCS 181",
+    "PCS 182",
+    "PCS 211",
+    "PCS 581",
+    "PHL 709",
+    "POL 507",
+    "WKT 118",
+    "WKT 218",
+    "WKT 298",
+    "WKT 318",
+    "WKT 418"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Engineering and Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+    },
+    {
+      "text": "CHY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+    },
+    {
+      "text": "MTH 140",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+    },
+    {
+      "text": "MTH 141",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+    },
+    {
+      "text": "PCS 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+    },
+    {
+      "text": "AER 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+    },
+    {
+      "text": "BME 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+    },
+    {
+      "text": "CHE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+    },
+    {
+      "text": "CHY 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+    },
+    {
+      "text": "CPS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+    },
+    {
+      "text": "CPS 188",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+    },
+    {
+      "text": "CVL 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/207/"
+    },
+    {
+      "text": "ELE 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+    },
+    {
+      "text": "MEC 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/222/"
+    },
+    {
+      "text": "MTH 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+    },
+    {
+      "text": "MTL 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+    },
+    {
+      "text": "PCS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+    },
+    {
+      "text": "EES 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/512/"
+    },
+    {
+      "text": "MTH 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/410/"
+    },
+    {
+      "text": "CEN 199",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+    },
+    {
+      "text": "LNG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+    },
+    {
+      "text": "LNG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+    },
+    {
+      "text": "LNG 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+    },
+    {
+      "text": "LNG 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+    },
+    {
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "AER 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+    },
+    {
+      "text": "ASC 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+    },
+    {
+      "text": "BLG 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "CHY 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+    },
+    {
+      "text": "MEC 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "PCS 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+    },
+    {
+      "text": "PCS 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+    },
+    {
+      "text": "BLG 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+    },
+    {
+      "text": "BLG 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+    },
+    {
+      "text": "BLG 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+    },
+    {
+      "text": "CHY 583",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+    },
+    {
+      "text": "CHY 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/599/"
+    },
+    {
+      "text": "CPS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+    },
+    {
+      "text": "ELE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "PCS 581",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/581/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CEN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/100/"
+    },
+    {
+      "text": "ECN 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+    },
+    {
+      "text": "AER 309",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/309/"
+    },
+    {
+      "text": "AER 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/316/"
+    },
+    {
+      "text": "AER 318",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/318/"
+    },
+    {
+      "text": "AER 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/320/"
+    },
+    {
+      "text": "CMN 432",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/432/"
+    },
+    {
+      "text": "MTH 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/425/"
+    },
+    {
+      "text": "AER 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/403/"
+    },
+    {
+      "text": "AER 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/404/"
+    },
+    {
+      "text": "AER 416",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/416/"
+    },
+    {
+      "text": "AER 423",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/423/"
+    },
+    {
+      "text": "AER 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/504/"
+    },
+    {
+      "text": "AER 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/507/"
+    },
+    {
+      "text": "AER 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/520/"
+    },
+    {
+      "text": "EES 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/612/"
+    },
+    {
+      "text": "MTH 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/510/"
+    },
+    {
+      "text": "AER 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/509/"
+    },
+    {
+      "text": "AER 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/606/"
+    },
+    {
+      "text": "AER 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/615/"
+    },
+    {
+      "text": "AER 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/621/"
+    },
+    {
+      "text": "AER 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/622/"
+    },
+    {
+      "text": "AER 626",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/626/"
+    },
+    {
+      "text": "AER 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/699/"
+    },
+    {
+      "text": "AER 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/721/"
+    },
+    {
+      "text": "ENG 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+    },
+    {
+      "text": "GEO 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/702/"
+    },
+    {
+      "text": "HST 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/701/"
+    },
+    {
+      "text": "PHL 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/709/"
+    },
+    {
+      "text": "POL 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/507/"
+    },
+    {
+      "text": "AER 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/715/"
+    },
+    {
+      "text": "AER 716",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/716/"
+    },
+    {
+      "text": "AER 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/722/"
+    },
+    {
+      "text": "AER 817",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/817/"
+    },
+    {
+      "text": "AER 827",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/827/"
+    },
+    {
+      "text": "AER 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/850/"
+    },
+    {
+      "text": "EES 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/508/"
+    },
+    {
+      "text": "AER 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/723/"
+    },
+    {
+      "text": "AER 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/821/"
+    },
+    {
+      "text": "AER 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/710/"
+    },
+    {
+      "text": "CEN 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/800/"
+    },
+    {
+      "text": "AER 627",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/627/"
+    },
+    {
+      "text": "AER 818",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/818/"
+    },
+    {
+      "text": "AER 870",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/870/"
+    },
+    {
+      "text": "CEN 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+    },
+    {
+      "text": "AER 814",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/814/"
+    },
+    {
+      "text": "AER 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/822/"
+    },
+    {
+      "text": "AER 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/813/"
+    },
+    {
+      "text": "WKT 118",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/118/"
+    },
+    {
+      "text": "WKT 218",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/218/"
+    },
+    {
+      "text": "WKT 318",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/318/"
+    },
+    {
+      "text": "WKT 418",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/418/"
+    },
+    {
+      "text": "WKT 298",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/298/"
+    },
+    {
+      "text": "Academic Standings",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/academic-information/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Aerospace Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Engineering and Architectural Science",
+      "links": [
+        {
+          "text": "Faculty of Engineering and Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Engineering (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Aerospace Engineering",
+      "links": [
+        {
+          "text": "Department of Aerospace Engineering",
+          "url": "https://www.torontomu.ca/content/ryerson/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U courses in: English, Advanced Functions (MHF4U), Calculus and Vectors (MCV4U), Physics (SPH4U) and Chemistry (SCH4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in subject prerequisites (normally in the 70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "text",
+      "text": "The Aerospace Engineering BEng degree program is accredited by the Canadian Engineering Accreditation Board."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Aerospace Engineering program is comprehensive and prepares students for careers in this dynamic industry. The program includes directly related studies in aerodynamics, stress analysis and structural design, flight mechanics, stability and control, and aircraft performance, together with courses in the fields of Mechanical and Electrical Engineering."
+    },
+    {
+      "kind": "text",
+      "text": "The first year of study covers mathematics, basic sciences, computer programming and introductory courses in engineering. Second and third years include a wide range of aerospace and mechanical engineering courses together with courses in communications, advanced mathematics, electronics and electrical engineering. There is a strong emphasis on design and much of the analytical work is reinforced by computer and hardware laboratories. Studies in the humanities and social sciences complement the engineering courses and provide a rounded perspective."
+    },
+    {
+      "kind": "text",
+      "text": "Students are required to choose one of three streams in the sixth semester: Aircraft, Avionics, or Spacecraft. Also included in the fourth year is a capstone design course, a course in professional practice and a course which examines the impact of technology on society."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transition Programs"
+    },
+    {
+      "kind": "text",
+      "text": "First Year Transition Program : The objective of the first year transition program (opens in new window) is to provide students, who may need more time to adapt to the demanding university curriculum, with an immediate opportunity to upgrade their Academic Standing.",
+      "links": [
+        {
+          "text": "first year transition program (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/students/current/transition/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In the second semester, Phase I of the transition program offers all first semester core courses: CHY 102 , MTH 140 , MTH 141 , and PCS 211 in parallel with the second semester regular program courses. Students who have failed and/or are missing any one of these courses at the end of the first semester are required to upgrade their Academic Standing through enrolling in the transition program. During the condensed Spring semester (May-July) Phase II of the transition program offers all second semester core courses: AER 222 , BME 100 , CHE 200 , CHY 211 , CPS 125 , CPS 188 , CVL 207 , ELE 202 , MEC 222 , MTH 240 , MTL 200 , and PCS 125 . These courses represent a repeat of the second semester regular program courses that were not taken by students enrolled in Phase I of the transition program. These courses will be offered subject to adequate enrolment.",
+      "links": [
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        },
+        {
+          "text": "MTH 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+        },
+        {
+          "text": "MTH 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+        },
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        },
+        {
+          "text": "AER 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+        },
+        {
+          "text": "BME 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+        },
+        {
+          "text": "CHE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+        },
+        {
+          "text": "CHY 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+        },
+        {
+          "text": "CPS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+        },
+        {
+          "text": "CPS 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+        },
+        {
+          "text": "CVL 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/207/"
+        },
+        {
+          "text": "ELE 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+        },
+        {
+          "text": "MEC 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/222/"
+        },
+        {
+          "text": "MTH 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+        },
+        {
+          "text": "MTL 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+        },
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Second Year : The second year transition program is intended to help students who have failed or dropped the second year courses EES 512 or MTH 410 to stay in-phase with their classmates and still have a chance to be promoted to third year in the following academic year. This is accomplished by allowing such students to enrol in any of EES 512 or MTH 410 in a condensed Spring/Summer semester (May-July). These courses are offered in the Spring/Summer semester subject to adequate enrolment.",
+      "links": [
+        {
+          "text": "EES 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/512/"
+        },
+        {
+          "text": "MTH 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/410/"
+        },
+        {
+          "text": "EES 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/512/"
+        },
+        {
+          "text": "MTH 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/410/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Early Intervention Program"
+    },
+    {
+      "kind": "text",
+      "text": "Highly innovative and proactive retention strategies play an important role in helping students build the skills for success in a demanding engineering curriculum. Through the First-Year Engineering Office (opens in new window) , the Faculty of Engineering and Architectural Science has incorporated the Early Intervention Program into the first-year engineering experience. At the semester's mid-point, students who are failing courses in their core curriculum are identified and encouraged to attend an interview with a member of our academic support team (Program Director/Academic Advisor and/or the Student Counsellor). Together, they discuss options to help reduce the chances of academic failure.",
+      "links": [
+        {
+          "text": "First-Year Engineering Office (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/fyeo/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Writing Skills Resource Path"
+    },
+    {
+      "kind": "text",
+      "text": "All new engineering students are automatically enrolled in CEN 199 : Writing Skills.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CEN 199 is graded on a Pass/Fail basis, and is used to track the results of the Writing Skills Test (WST).",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All students admitted into engineering are required to write the mandatory Writing Skills Test (WST) during Orientation Week. Students who pass the WST (by achieving a grade of ‘B' or higher) will receive a PASS in CEN 199 and therefore may enrol in the lower level liberal studies course of their choice (subject to availability).",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who do not pass the WST will receive an INP (In Progress Grade) in CEN 199 and will be required to enrol in one of LNG 111 , LNG 112 , LNG 113 , or LNG 121 as their first-year lower level liberal studies course. These courses, which count toward lower level liberal studies requirements, are writing-intensive humanities and social science courses designed to give students the opportunity to strengthen their foundations in communication. These students will then have three additional opportunities to write and pass the WST:",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        },
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        },
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        },
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        },
+        {
+          "text": "LNG 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "In May, following 2nd Semester."
+    },
+    {
+      "kind": "list_item",
+      "text": "During Orientation Week before 3rd Semester."
+    },
+    {
+      "kind": "list_item",
+      "text": "In May, following 4th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "A PASS in CEN 199 : Writing Skills is required to enrol in all third-year engineering courses. Students with a grade of INP in CEN 199 will not be allowed to enrol in any third-year engineering course.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        },
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261.",
+      "links": [
+        {
+          "text": "First-Year Engineering Office (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/fyeo/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program"
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "After completing the first three years of the regular curriculum, a student in the Aerospace Engineering Program with CLEAR academic standing has options of continuing with the regular program or enrolling in the Aerospace Engineering Co-operative program after obtaining a 12 to 16-month Co-op job offer. After completing their co-operative job placement, a student in the Aerospace Engineering Co-operative program will return to the program to complete their degree requirements. The length of the Aerospace Engineering Co-operative Program is five years."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Internship Program"
+    },
+    {
+      "kind": "text",
+      "text": "After completing the first three years of the regular curriculum, students in the Aerospace Engineering Program with CLEAR Academic Standing may be eligible to enrol in the Optional Internship Program. If they are selected by one of the partner corporations, they spend a period of 8 months as engineering interns at the corresponding corporations. After the completion of the Internship, students return to the academic program to complete their final year of studies. Enrolment in the Internship Program extends the program length to five years."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)"
+    },
+    {
+      "kind": "text",
+      "text": "This option provides students with a solid foundation in innovation and entrepreneurship theory as well as the immersive experience of advancing and shaping an idea into a business. The lecture courses cover principles of engineering economics, entrepreneurship and innovation management, and technology based new venture creation. The practicum will guide students through the process of identifying a new business concept, developing their technology, and preparing their business for market readiness. For eligibility, registration and course information see the Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance, and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Engineering Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants approved into an Engineering program cannot expect to receive any transfer credits in Engineering discipline or Engineering related discipline courses if their applicable post-secondary education was not completed at a program accredited by the Canadian Engineering Accreditation Board (external link, opens in new window) (CEAB).",
+      "links": [
+        {
+          "text": "Canadian Engineering Accreditation Board (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/accreditation/accredited-programs"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Core and professional engineering course transfer credits will ONLY be granted at the time of admission. An Offer of Admission will notify the applicant of transfer credit decision(s) subject to acceptance of their Offer."
+    },
+    {
+      "kind": "text",
+      "text": "Liberal studies discipline courses taken at CEAB accredited or non-accredited schools will be considered for either lower- or upper-level liberal studies transfer credit. College courses, in general, are not eligible for transfer credit except in the case of lower-level liberal studies courses."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and two upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, Mechatronics, and Undeclared Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "AER 150 , ASC 120 , BLG 181 , BMS 150 , CHY 182 , CHY 183 , MEC 110 , PCS 111 , PCS 181 , PCS 182 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "AER 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+        },
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        },
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        },
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "PCS 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+        },
+        {
+          "text": "PCS 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "BLG 599 , BLG 699 , BLG 850 , CHY 583 , CHY 599 , CPS 650 , ELE 900 , MTH 511 , MTH 599 and PCS 581 are not available for credit.",
+      "links": [
+        {
+          "text": "BLG 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+        },
+        {
+          "text": "BLG 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+        },
+        {
+          "text": "BLG 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+        },
+        {
+          "text": "CHY 583",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+        },
+        {
+          "text": "CHY 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/599/"
+        },
+        {
+          "text": "CPS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+        },
+        {
+          "text": "ELE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+        },
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        },
+        {
+          "text": "PCS 581",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/581/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Accelerated Master of Applied Science (MASc) Pathway"
+    },
+    {
+      "kind": "text",
+      "text": "The Accelerated Master of Applied Science (MASc) Pathway is open to undergraduate engineering students who have demonstrated academic excellence and/or research potential by the end of the third year of their undergraduate program. Students can enrol in a maximum of two graduate level courses in addition to their regular undergraduate course requirements in the final year of their undergraduate program and commence their Master’s research such that the MASc program can be completed in approximately one year. The Accelerated MASc Pathway does not change the degree requirements for the existing BEng or MASc programs. For more information about and application to this pathway, please contact the Associate Dean, Graduate Studies, Faculty of Engineering and Architectural Science."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Common to Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, and Mechatronics Engineering programs."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 100 Introduction to Engineering",
+      "links": [
+        {
+          "text": "CEN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 199 * Writing Skills",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 102 General Chemistry",
+      "links": [
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 140 Calculus I",
+      "links": [
+        {
+          "text": "MTH 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 141 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 211 Physics: Mechanics",
+      "links": [
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 222 Engineering Design and Graphical Communication",
+      "links": [
+        {
+          "text": "AER 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 125 Digital Computation and Programming",
+      "links": [
+        {
+          "text": "CPS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 801 Principles of Engineering Economics",
+      "links": [
+        {
+          "text": "ECN 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 240 Calculus II",
+      "links": [
+        {
+          "text": "MTH 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTL 200 Materials Science Fundamentals",
+      "links": [
+        {
+          "text": "MTL 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 125 Physics: Waves and Fields",
+      "links": [
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 309 Basic Thermodynamics",
+      "links": [
+        {
+          "text": "AER 309",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/309/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 316 Fluid Mechanics",
+      "links": [
+        {
+          "text": "AER 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 318 Dynamics",
+      "links": [
+        {
+          "text": "AER 318",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/318/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 320 Statics and Intro to Strength of Materials",
+      "links": [
+        {
+          "text": "AER 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 432 Communication in the Engineering Professions",
+      "links": [
+        {
+          "text": "CMN 432",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/432/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 425 Differential Equations and Vector Calculus",
+      "links": [
+        {
+          "text": "MTH 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/425/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 403 Mechanisms and Vibrations",
+      "links": [
+        {
+          "text": "AER 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 404 Intro to Aerospace Engineering Design",
+      "links": [
+        {
+          "text": "AER 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 416 Flight Mechanics",
+      "links": [
+        {
+          "text": "AER 416",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/416/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 423 Thermodynamics and Heat Transfer",
+      "links": [
+        {
+          "text": "AER 423",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/423/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EES 512 Electric Circuits",
+      "links": [
+        {
+          "text": "EES 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/512/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 410 Statistics",
+      "links": [
+        {
+          "text": "MTH 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: All required courses in 1st and 2nd semester are prerequisites to all required courses in 3rd & 4th Semester."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 504 Aerodynamics",
+      "links": [
+        {
+          "text": "AER 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 507 Materials and Manufacturing",
+      "links": [
+        {
+          "text": "AER 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 520 Stress Analysis",
+      "links": [
+        {
+          "text": "AER 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EES 612 Electric Machines and Actuators",
+      "links": [
+        {
+          "text": "EES 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 510 Numerical Analysis",
+      "links": [
+        {
+          "text": "MTH 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/510/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 509 Control Systems",
+      "links": [
+        {
+          "text": "AER 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 606 Component Design and Material Selection",
+      "links": [
+        {
+          "text": "AER 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 615 Aircraft Performance",
+      "links": [
+        {
+          "text": "AER 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 621 Aerospace Structural Design",
+      "links": [
+        {
+          "text": "AER 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 622 Gas Dynamics",
+      "links": [
+        {
+          "text": "AER 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/622/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from the following. Students must complete the requirements for one of the following Streams:"
+    },
+    {
+      "kind": "text",
+      "text": "Aircraft Stream"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 626 Applied Finite Elements",
+      "links": [
+        {
+          "text": "AER 626",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/626/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Avionics Stream"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 699 Aerospace Sensors",
+      "links": [
+        {
+          "text": "AER 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/699/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spacecraft Stream"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 721 Orbital Dynamics",
+      "links": [
+        {
+          "text": "AER 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/721/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All required courses in 1st and 2nd semester are prerequisites to all required courses in 5th & 6th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: Students after the 6th semester have options of continuing with the regular program (including, if eligible, enrolling in the Optional Internship Program) or, if eligible, enrolling in the Aerospace Engineering Co-operative Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 503 Science Fiction",
+      "links": [
+        {
+          "text": "ENG 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 702 Technology and the Contemporary Environment",
+      "links": [
+        {
+          "text": "GEO 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 701 Scientific Technology and Modern Society",
+      "links": [
+        {
+          "text": "HST 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 709 Religion, Science and Philosophy",
+      "links": [
+        {
+          "text": "PHL 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 507 Power, Change and Technology",
+      "links": [
+        {
+          "text": "POL 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/507/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Aircraft Stream Required :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 715 Avionics and Systems",
+      "links": [
+        {
+          "text": "AER 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 716 Aircraft Stability and Control",
+      "links": [
+        {
+          "text": "AER 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/716/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 722 Aeroelasticity",
+      "links": [
+        {
+          "text": "AER 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Aircraft Stream Core Elective :"
+    },
+    {
+      "kind": "text",
+      "text": "One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 817 Systems Engineering",
+      "links": [
+        {
+          "text": "AER 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 827 Composite Materials",
+      "links": [
+        {
+          "text": "AER 827",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/827/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 850 Introduction to Machine Learning",
+      "links": [
+        {
+          "text": "AER 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Avionics Stream Required :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 715 Avionics and Systems",
+      "links": [
+        {
+          "text": "AER 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 716 Aircraft Stability and Control",
+      "links": [
+        {
+          "text": "AER 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/716/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EES 508 Digital Systems",
+      "links": [
+        {
+          "text": "EES 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/508/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Avionics Stream Core Elective :"
+    },
+    {
+      "kind": "text",
+      "text": "One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 817 Systems Engineering",
+      "links": [
+        {
+          "text": "AER 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 827 Composite Materials",
+      "links": [
+        {
+          "text": "AER 827",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/827/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 850 Introduction to Machine Learning",
+      "links": [
+        {
+          "text": "AER 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spacecraft Stream Required :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 723 Introduction to Space Systems Design",
+      "links": [
+        {
+          "text": "AER 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 817 Systems Engineering",
+      "links": [
+        {
+          "text": "AER 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 821 Spacecraft Attitude Dynamics and Control",
+      "links": [
+        {
+          "text": "AER 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/821/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spacecraft Stream Core Elective :"
+    },
+    {
+      "kind": "text",
+      "text": "One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 715 Avionics and Systems",
+      "links": [
+        {
+          "text": "AER 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 827 Composite Materials",
+      "links": [
+        {
+          "text": "AER 827",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/827/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 850 Introduction to Machine Learning",
+      "links": [
+        {
+          "text": "AER 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 710 Propulsion",
+      "links": [
+        {
+          "text": "AER 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 800 Law and Ethics in Engineering Practice",
+      "links": [
+        {
+          "text": "CEN 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE† : One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 627 Introduction to Space Robotics",
+      "links": [
+        {
+          "text": "AER 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 818 Manufacturing Management",
+      "links": [
+        {
+          "text": "AER 818",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/818/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 870 Aerospace Engineering Thesis",
+      "links": [
+        {
+          "text": "AER 870",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/870/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 810 Selected Topics in Engineering",
+      "links": [
+        {
+          "text": "CEN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Aircraft Stream Required :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 814 Aircraft Design Project",
+      "links": [
+        {
+          "text": "AER 814",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/814/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Avionics Stream Required :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 822 Avionics Design Project",
+      "links": [
+        {
+          "text": "AER 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/822/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spacecraft Stream Required :"
+    },
+    {
+      "kind": "list_item",
+      "text": "AER 813 Space Systems Design Project",
+      "links": [
+        {
+          "text": "AER 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/813/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: All required courses in 1st through 4th semester are prerequisites to all required courses in 7th & 8th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: Students after the 6th semester have options of continuing with the regular program (including, if eligible, enrolling in the Optional Internship Program) or, if eligible, enrolling in the Aerospace Engineering Co-operative Program."
+    },
+    {
+      "kind": "text",
+      "text": "† Not every course will be offered every year."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the regular Aerospace Engineering curriculum, students can choose to pursue the Aerospace Engineering Co-operative Program. The following table shows the sequence of academic and work terms for this program. Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of three work terms."
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Work Term I – WKT 118",
+      "links": [
+        {
+          "text": "WKT 118",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/118/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "Work Term I or II WKT 118 or WKT 218",
+      "links": [
+        {
+          "text": "WKT 118",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/118/"
+        },
+        {
+          "text": "WKT 218",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/218/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work Term II or III WKT 218 or WKT 318",
+      "links": [
+        {
+          "text": "WKT 218",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/218/"
+        },
+        {
+          "text": "WKT 318",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/318/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work Term III or IV WKT 318 or WKT 418",
+      "links": [
+        {
+          "text": "WKT 318",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/318/"
+        },
+        {
+          "text": "WKT 418",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/418/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Students obtaining extensions to placements not previously eligible for co-op may be granted department permission to use WKT 298 towards co-op WKT requirements.",
+      "links": [
+        {
+          "text": "WKT 298",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/298/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation",
+      "links": [
+        {
+          "text": "Academic Standing Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the general criteria used to determine Academic Standing, students in this program must also meet the following conditions: All students in undergraduate Engineering programs have an additional condition for Clear academic standing. In addition to students needing a cumulative grade point average (CGPA) of 1.67 or higher, students also need to have a term grade point average (TGPA) of 1.33 or higher, based on at least two reported grades for that term (not including Pass, DEF, INP or AEG grades). Students who have a TGPA less than 1.33 will be given PROBATIONARY Academic Standing. Students with only one reported grade for that term will be evaluated based on CGPA only. Students with a cumulative grade point average (CGPA) less than 1.67 will be assigned a Probationary or Required to Withdraw (RTW) standing. See Academic Standings for information about the process and consequences.",
+      "links": [
+        {
+          "text": "Academic Standings",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/academic-information/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Phil Arthurs Director of Operations Downsview Aerospace Innovation and Research (DAIR) Hub"
+    },
+    {
+      "kind": "text",
+      "text": "Gary Ataman Product Improvement Manager, Engineering Safran Landing Systems"
+    },
+    {
+      "kind": "text",
+      "text": "Anthony Burgess President TDM Technical Services"
+    },
+    {
+      "kind": "text",
+      "text": "Jeffrey Dunning Associate Director, Development Engineering Pratt & Whitney Canada"
+    },
+    {
+      "kind": "text",
+      "text": "Rosa Gordon Research and Technology Program Officer Bombardier"
+    },
+    {
+      "kind": "text",
+      "text": "V-Bond Lee President Advanced Mobility Products Inc."
+    },
+    {
+      "kind": "text",
+      "text": "Robert Mobilio Vice President, Engineering De Havilland Aircraft of Canada Limited Andrew Shenouda VP Operations NAVBLUE, an Airbus Company"
+    },
+    {
+      "kind": "text",
+      "text": "Alex Tsoulis Senior Advisor - Business Development & Advanced Technologies MHI Canada Aerospace Inc."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Aerospace Engineering"
+}

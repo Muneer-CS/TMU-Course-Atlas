@@ -1,0 +1,1561 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "997899a74a05e6e74f864d7288fd64317cdc58fec0f80d46d917048d05833f47",
+  "source_bytes": 72270,
+  "title": "History and Sociology Double Major Core Elective Table II",
+  "headings": [
+    "History and Sociology Double Major Core Elective Table II",
+    "History:",
+    "Sociology:",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "DST 501",
+    "HIS 500",
+    "HIS 501",
+    "HIS 502",
+    "HIS 510",
+    "HIS 541",
+    "HIS 556",
+    "HIS 559",
+    "HIS 560",
+    "HIS 561",
+    "HIS 590",
+    "HIS 610",
+    "HIS 615",
+    "HIS 620",
+    "HIS 630",
+    "HIS 656",
+    "HIS 661",
+    "HIS 662",
+    "HIS 677",
+    "HIS 678",
+    "HIS 696",
+    "HIS 710",
+    "HIS 742",
+    "HIS 755",
+    "HIS 760",
+    "HIS 762",
+    "HIS 790",
+    "HIS 826",
+    "HIS 828",
+    "HIS 830",
+    "HIS 845",
+    "HIS 854",
+    "HIS 886",
+    "HIS 898",
+    "HIS 900",
+    "HIS 901",
+    "SOC 300",
+    "SOC 319",
+    "SOC 320",
+    "SOC 330",
+    "SOC 350",
+    "SOC 402",
+    "SOC 420",
+    "SOC 472",
+    "SOC 474",
+    "SOC 476",
+    "SOC 478",
+    "SOC 479",
+    "SOC 491",
+    "SOC 500",
+    "SOC 502",
+    "SOC 503",
+    "SOC 504",
+    "SOC 505",
+    "SOC 506",
+    "SOC 507",
+    "SOC 525",
+    "SOC 530",
+    "SOC 540",
+    "SOC 553",
+    "SOC 558",
+    "SOC 576",
+    "SOC 580",
+    "SOC 595",
+    "SOC 600",
+    "SOC 603",
+    "SOC 605",
+    "SOC 606",
+    "SOC 608",
+    "SOC 609",
+    "SOC 611",
+    "SOC 633",
+    "SOC 700",
+    "SOC 703",
+    "SOC 704",
+    "SOC 705",
+    "SOC 706",
+    "SOC 708",
+    "SOC 801",
+    "SOC 803",
+    "SOC 808",
+    "SOC 880",
+    "SOC 885",
+    "SOC 902",
+    "SOC 903",
+    "SOC 931",
+    "SOC 932",
+    "SOC 941",
+    "SOC 943"
+  ],
+  "official_links": [
+    {
+      "text": "History and Sociology Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/"
+    },
+    {
+      "text": "HIS 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+    },
+    {
+      "text": "HIS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+    },
+    {
+      "text": "HIS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+    },
+    {
+      "text": "HIS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/510/"
+    },
+    {
+      "text": "HIS 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/541/"
+    },
+    {
+      "text": "HIS 556",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/556/"
+    },
+    {
+      "text": "HIS 559",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+    },
+    {
+      "text": "HIS 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+    },
+    {
+      "text": "HIS 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+    },
+    {
+      "text": "HIS 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/590/"
+    },
+    {
+      "text": "HIS 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/610/"
+    },
+    {
+      "text": "HIS 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+    },
+    {
+      "text": "HIS 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/620/"
+    },
+    {
+      "text": "HIS 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/630/"
+    },
+    {
+      "text": "HIS 656",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/656/"
+    },
+    {
+      "text": "HIS 661",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/661/"
+    },
+    {
+      "text": "HIS 662",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/662/"
+    },
+    {
+      "text": "HIS 677",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/677/"
+    },
+    {
+      "text": "HIS 678",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/678/"
+    },
+    {
+      "text": "HIS 696",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+    },
+    {
+      "text": "HIS 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/710/"
+    },
+    {
+      "text": "HIS 742",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/742/"
+    },
+    {
+      "text": "HIS 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+    },
+    {
+      "text": "HIS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+    },
+    {
+      "text": "HIS 762",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/762/"
+    },
+    {
+      "text": "HIS 790",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/790/"
+    },
+    {
+      "text": "HIS 826",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/826/"
+    },
+    {
+      "text": "HIS 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+    },
+    {
+      "text": "HIS 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/830/"
+    },
+    {
+      "text": "HIS 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+    },
+    {
+      "text": "HIS 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+    },
+    {
+      "text": "HIS 886",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/886/"
+    },
+    {
+      "text": "HIS 898",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/898/"
+    },
+    {
+      "text": "HIS 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/900/"
+    },
+    {
+      "text": "HIS 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/901/"
+    },
+    {
+      "text": "DST 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+    },
+    {
+      "text": "SOC 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/300/"
+    },
+    {
+      "text": "SOC 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/319/"
+    },
+    {
+      "text": "SOC 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+    },
+    {
+      "text": "SOC 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/330/"
+    },
+    {
+      "text": "SOC 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+    },
+    {
+      "text": "SOC 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/402/"
+    },
+    {
+      "text": "SOC 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/420/"
+    },
+    {
+      "text": "SOC 472",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+    },
+    {
+      "text": "SOC 474",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/474/"
+    },
+    {
+      "text": "SOC 476",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/476/"
+    },
+    {
+      "text": "SOC 478",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/478/"
+    },
+    {
+      "text": "SOC 479",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/479/"
+    },
+    {
+      "text": "SOC 491",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/491/"
+    },
+    {
+      "text": "SOC 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/500/"
+    },
+    {
+      "text": "SOC 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+    },
+    {
+      "text": "SOC 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/503/"
+    },
+    {
+      "text": "SOC 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/504/"
+    },
+    {
+      "text": "SOC 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+    },
+    {
+      "text": "SOC 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+    },
+    {
+      "text": "SOC 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/507/"
+    },
+    {
+      "text": "SOC 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+    },
+    {
+      "text": "SOC 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+    },
+    {
+      "text": "SOC 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/540/"
+    },
+    {
+      "text": "SOC 553",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/553/"
+    },
+    {
+      "text": "SOC 558",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/558/"
+    },
+    {
+      "text": "SOC 576",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/576/"
+    },
+    {
+      "text": "SOC 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/580/"
+    },
+    {
+      "text": "SOC 595",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/595/"
+    },
+    {
+      "text": "SOC 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/600/"
+    },
+    {
+      "text": "SOC 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+    },
+    {
+      "text": "SOC 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+    },
+    {
+      "text": "SOC 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+    },
+    {
+      "text": "SOC 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+    },
+    {
+      "text": "SOC 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+    },
+    {
+      "text": "SOC 611",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/611/"
+    },
+    {
+      "text": "SOC 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/633/"
+    },
+    {
+      "text": "SOC 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/700/"
+    },
+    {
+      "text": "SOC 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+    },
+    {
+      "text": "SOC 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/704/"
+    },
+    {
+      "text": "SOC 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/705/"
+    },
+    {
+      "text": "SOC 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/706/"
+    },
+    {
+      "text": "SOC 708",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/708/"
+    },
+    {
+      "text": "SOC 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/801/"
+    },
+    {
+      "text": "SOC 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/803/"
+    },
+    {
+      "text": "SOC 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/808/"
+    },
+    {
+      "text": "SOC 880",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/880/"
+    },
+    {
+      "text": "SOC 885",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+    },
+    {
+      "text": "SOC 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/902/"
+    },
+    {
+      "text": "SOC 903",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/903/"
+    },
+    {
+      "text": "SOC 931",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/931/"
+    },
+    {
+      "text": "SOC 932",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/932/"
+    },
+    {
+      "text": "SOC 941",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/941/"
+    },
+    {
+      "text": "SOC 943",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/943/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/table_ii/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "History and Sociology Double Major Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "History and Sociology Double Major",
+      "links": [
+        {
+          "text": "History and Sociology Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A total of seven (7) courses are required from Core Elective Table II. History: A total of five HIS courses* must be taken. Sociology: A minimum of two SOC courses must be taken"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "History:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 500 Digital History",
+      "links": [
+        {
+          "text": "HIS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 501 Archaeology and Material Culture",
+      "links": [
+        {
+          "text": "HIS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 502 Life Stories: Oral History",
+      "links": [
+        {
+          "text": "HIS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 510 Museology and Public History",
+      "links": [
+        {
+          "text": "HIS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 541 Canada and the First World War",
+      "links": [
+        {
+          "text": "HIS 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 556 Colonial Africa",
+      "links": [
+        {
+          "text": "HIS 556",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/556/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 559 The World of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 559",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 560 History of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 561 The Ottoman Empire",
+      "links": [
+        {
+          "text": "HIS 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 590 Modern International Relations",
+      "links": [
+        {
+          "text": "HIS 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 610 Curating the Past",
+      "links": [
+        {
+          "text": "HIS 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 615 Film, Television and 20th C History",
+      "links": [
+        {
+          "text": "HIS 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 620 Imperial Russia",
+      "links": [
+        {
+          "text": "HIS 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 630 The Soviet Union",
+      "links": [
+        {
+          "text": "HIS 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 656 Post-Colonial Africa",
+      "links": [
+        {
+          "text": "HIS 656",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/656/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 661 The Middle East from 1908",
+      "links": [
+        {
+          "text": "HIS 661",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/661/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 662 The Mughal Empire, 1526-1764",
+      "links": [
+        {
+          "text": "HIS 662",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/662/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 677 Society in the High Middle Ages, 1000-1500",
+      "links": [
+        {
+          "text": "HIS 677",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/677/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 678 The Renaissance in Europe",
+      "links": [
+        {
+          "text": "HIS 678",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/678/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 696 The History of Terrorism",
+      "links": [
+        {
+          "text": "HIS 696",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 710 Managing Heritage Resources",
+      "links": [
+        {
+          "text": "HIS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 742 Canadian Cultural Industries",
+      "links": [
+        {
+          "text": "HIS 742",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/742/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 755 Themes in Material Culture",
+      "links": [
+        {
+          "text": "HIS 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 760 African Diaspora",
+      "links": [
+        {
+          "text": "HIS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 762 The Making of Modern South Asia, 1757-1947",
+      "links": [
+        {
+          "text": "HIS 762",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/762/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 790 Modern Germany",
+      "links": [
+        {
+          "text": "HIS 790",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/790/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 826 Science and World Exploration",
+      "links": [
+        {
+          "text": "HIS 826",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/826/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 828 Science, Corporations and the Environment",
+      "links": [
+        {
+          "text": "HIS 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 830 Settler Colonialism",
+      "links": [
+        {
+          "text": "HIS 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 845 Canada in the International Sphere",
+      "links": [
+        {
+          "text": "HIS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 854 African-American History",
+      "links": [
+        {
+          "text": "HIS 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 886 The British Empire and the World",
+      "links": [
+        {
+          "text": "HIS 886",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/886/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 898 A History of International Organizations",
+      "links": [
+        {
+          "text": "HIS 898",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/898/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 900 Experiential Learning I",
+      "links": [
+        {
+          "text": "HIS 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 901 Experiential Learning II",
+      "links": [
+        {
+          "text": "HIS 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*A maximum of four (4) HST (Liberal Studies) courses between 500-899 may be substituted. A maximum of four (4) HST (Liberal Studies) courses may be used towards degree requirements."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sociology:"
+    },
+    {
+      "kind": "text",
+      "text": "A maximum of two (2) courses, marked with a dagger (†), can be used toward Table II requirements."
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 501 Rethinking Disability",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 300 ** Sociology of Equity and Diversity",
+      "links": [
+        {
+          "text": "SOC 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 319 Sociological Perspectives on Crime",
+      "links": [
+        {
+          "text": "SOC 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 320 Black Popular Culture",
+      "links": [
+        {
+          "text": "SOC 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 330 Sociology of the Caribbean",
+      "links": [
+        {
+          "text": "SOC 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 350 Queer Sociology",
+      "links": [
+        {
+          "text": "SOC 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 402 The City and Social Problems",
+      "links": [
+        {
+          "text": "SOC 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 420 ** Social Class in Changing Times",
+      "links": [
+        {
+          "text": "SOC 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 474 Immigration, Borders and Belonging",
+      "links": [
+        {
+          "text": "SOC 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/474/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 476 Sociology of Fear",
+      "links": [
+        {
+          "text": "SOC 476",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/476/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 478 Sociology of Fun",
+      "links": [
+        {
+          "text": "SOC 478",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/478/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 479 Social Networks and the World Wide Web",
+      "links": [
+        {
+          "text": "SOC 479",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/479/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 491 * Independent Sociological Analysis",
+      "links": [
+        {
+          "text": "SOC 491",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/491/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 500 Youth and Society",
+      "links": [
+        {
+          "text": "SOC 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 502 Violence and the Family",
+      "links": [
+        {
+          "text": "SOC 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 503 † Sociology of Education",
+      "links": [
+        {
+          "text": "SOC 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 504 Children and Society",
+      "links": [
+        {
+          "text": "SOC 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 505 † Sociology of Sport",
+      "links": [
+        {
+          "text": "SOC 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 506 † Health and Society",
+      "links": [
+        {
+          "text": "SOC 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 507 † Understanding Racism in Canada",
+      "links": [
+        {
+          "text": "SOC 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 525 ** Media and Images of Inequality",
+      "links": [
+        {
+          "text": "SOC 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 530 Blackness and Freedom",
+      "links": [
+        {
+          "text": "SOC 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 540 Special Topics in Indigenous Studies",
+      "links": [
+        {
+          "text": "SOC 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 553 Indigenist Thought",
+      "links": [
+        {
+          "text": "SOC 553",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/553/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 558 Sociology of Bodies",
+      "links": [
+        {
+          "text": "SOC 558",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/558/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 576 Colonialism and Anti-Blackness",
+      "links": [
+        {
+          "text": "SOC 576",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/576/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 580 Indigenous Feminisms",
+      "links": [
+        {
+          "text": "SOC 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 595 Gender and Care Across Lifespan",
+      "links": [
+        {
+          "text": "SOC 595",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/595/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 600 Globalization and Health",
+      "links": [
+        {
+          "text": "SOC 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 603 † Sociology of Gender",
+      "links": [
+        {
+          "text": "SOC 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 605 Families: Difference and Diversity",
+      "links": [
+        {
+          "text": "SOC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 606 Families and Care Work",
+      "links": [
+        {
+          "text": "SOC 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 ** Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 609 Gender and Global Human Rights",
+      "links": [
+        {
+          "text": "SOC 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 611 Future Worlds: Technology and Social Change",
+      "links": [
+        {
+          "text": "SOC 611",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/611/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 633 † Sex, Gender Identities and Sexualities",
+      "links": [
+        {
+          "text": "SOC 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 700 Men and Masculinities in the 21st Century",
+      "links": [
+        {
+          "text": "SOC 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 703 † Women, Power and the Global South",
+      "links": [
+        {
+          "text": "SOC 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 704 † Aging, Culture and Society",
+      "links": [
+        {
+          "text": "SOC 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 705 † Law, Justice, and Abolition",
+      "links": [
+        {
+          "text": "SOC 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 706 Globalized Labour and Consumption",
+      "links": [
+        {
+          "text": "SOC 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 708 Environmental Sociology",
+      "links": [
+        {
+          "text": "SOC 708",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/708/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 801 † Global Power Relations",
+      "links": [
+        {
+          "text": "SOC 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 803 International Community Engagement",
+      "links": [
+        {
+          "text": "SOC 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 808 † Sociology of Food and Eating",
+      "links": [
+        {
+          "text": "SOC 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 880 † Information Technology and Society",
+      "links": [
+        {
+          "text": "SOC 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/880/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 † Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 902 † Hollywood and Society",
+      "links": [
+        {
+          "text": "SOC 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 903 Media and Modern Fandom",
+      "links": [
+        {
+          "text": "SOC 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/903/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 931 Waste and Consumerism",
+      "links": [
+        {
+          "text": "SOC 931",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/931/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 932 The Entertainment Industry",
+      "links": [
+        {
+          "text": "SOC 932",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/932/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 941 Colonialism and Racialization",
+      "links": [
+        {
+          "text": "SOC 941",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/941/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 943 Poverty Issues",
+      "links": [
+        {
+          "text": "SOC 943",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/943/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Departmental approval required. ** If not previously selected."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "History and Sociology Double Major - Table II (Sociology) (opens in new window)"
+}

@@ -1,0 +1,928 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "88947941606f44de9a90e89704d823466ff37d3b2f0b9fae74f06f47bec46e87",
+  "source_bytes": 63144,
+  "title": "Sport Media Core Elective Table I",
+  "headings": [
+    "Sport Media Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "BSM 100",
+    "BSM 200",
+    "ENT 500",
+    "ENT 505",
+    "FCD 222",
+    "FCD 230",
+    "FCD 810",
+    "FCD 816",
+    "NMA 223",
+    "NMA 828",
+    "NMA 928",
+    "NMA 934",
+    "NMA 997",
+    "RTA 210",
+    "RTA 236",
+    "RTA 311",
+    "RTA 312",
+    "RTA 314",
+    "RTA 315",
+    "RTA 803",
+    "RTA 837",
+    "RTA 840",
+    "RTA 844",
+    "RTA 845",
+    "RTA 848",
+    "RTA 850",
+    "RTA 854",
+    "RTA 855",
+    "RTA 858",
+    "RTA 860",
+    "RTA 863",
+    "RTA 864",
+    "RTA 865",
+    "RTA 870",
+    "RTA 875",
+    "RTA 890",
+    "RTA 902",
+    "RTA 908",
+    "RTA 910",
+    "RTA 918",
+    "RTA 923",
+    "RTA 938",
+    "RTA 945",
+    "RTA 950",
+    "RTA 963",
+    "RTA 969",
+    "RTA 970",
+    "RTA 974",
+    "RTA 978",
+    "RTA 985",
+    "RTA 986",
+    "RTA 988",
+    "RTA 991",
+    "RTA 992",
+    "RTA 993",
+    "RTA 996",
+    "RTA 999",
+    "SOC 505"
+  ],
+  "official_links": [
+    {
+      "text": "Sport Media",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/"
+    },
+    {
+      "text": "BSM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+    },
+    {
+      "text": "BSM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+    },
+    {
+      "text": "ENT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+    },
+    {
+      "text": "ENT 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+    },
+    {
+      "text": "FCD 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+    },
+    {
+      "text": "FCD 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/230/"
+    },
+    {
+      "text": "FCD 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/810/"
+    },
+    {
+      "text": "FCD 816",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/816/"
+    },
+    {
+      "text": "NMA 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+    },
+    {
+      "text": "NMA 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/828/"
+    },
+    {
+      "text": "NMA 928",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+    },
+    {
+      "text": "NMA 934",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+    },
+    {
+      "text": "NMA 997",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+    },
+    {
+      "text": "RTA 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/210/"
+    },
+    {
+      "text": "RTA 236",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/236/"
+    },
+    {
+      "text": "RTA 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+    },
+    {
+      "text": "RTA 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/312/"
+    },
+    {
+      "text": "RTA 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+    },
+    {
+      "text": "RTA 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+    },
+    {
+      "text": "RTA 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/803/"
+    },
+    {
+      "text": "RTA 837",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/837/"
+    },
+    {
+      "text": "RTA 840",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/840/"
+    },
+    {
+      "text": "RTA 844",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/844/"
+    },
+    {
+      "text": "RTA 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/845/"
+    },
+    {
+      "text": "RTA 848",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/848/"
+    },
+    {
+      "text": "RTA 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/850/"
+    },
+    {
+      "text": "RTA 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/854/"
+    },
+    {
+      "text": "RTA 855",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/855/"
+    },
+    {
+      "text": "RTA 858",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/858/"
+    },
+    {
+      "text": "RTA 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/860/"
+    },
+    {
+      "text": "RTA 863",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/863/"
+    },
+    {
+      "text": "RTA 864",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/864/"
+    },
+    {
+      "text": "RTA 865",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/865/"
+    },
+    {
+      "text": "RTA 870",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/870/"
+    },
+    {
+      "text": "RTA 875",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/875/"
+    },
+    {
+      "text": "RTA 890",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/890/"
+    },
+    {
+      "text": "RTA 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/902/"
+    },
+    {
+      "text": "RTA 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/908/"
+    },
+    {
+      "text": "RTA 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/910/"
+    },
+    {
+      "text": "RTA 918",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/918/"
+    },
+    {
+      "text": "RTA 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/923/"
+    },
+    {
+      "text": "RTA 938",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/938/"
+    },
+    {
+      "text": "RTA 945",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/945/"
+    },
+    {
+      "text": "RTA 950",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/950/"
+    },
+    {
+      "text": "RTA 963",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/963/"
+    },
+    {
+      "text": "RTA 969",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/969/"
+    },
+    {
+      "text": "RTA 970",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/970/"
+    },
+    {
+      "text": "RTA 974",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/974/"
+    },
+    {
+      "text": "RTA 978",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/978/"
+    },
+    {
+      "text": "RTA 985",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/985/"
+    },
+    {
+      "text": "RTA 986",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/986/"
+    },
+    {
+      "text": "RTA 988",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/988/"
+    },
+    {
+      "text": "RTA 991",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/991/"
+    },
+    {
+      "text": "RTA 992",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/992/"
+    },
+    {
+      "text": "RTA 993",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/993/"
+    },
+    {
+      "text": "RTA 996",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/996/"
+    },
+    {
+      "text": "RTA 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/999/"
+    },
+    {
+      "text": "SOC 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sport Media Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Sport Media",
+      "links": [
+        {
+          "text": "Sport Media",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 100 The New Business: From Idea to Reality",
+      "links": [
+        {
+          "text": "BSM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 200 The Growing Business: Breaking Even",
+      "links": [
+        {
+          "text": "BSM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 500 New Venture Startup",
+      "links": [
+        {
+          "text": "ENT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 505 Small-Business Management",
+      "links": [
+        {
+          "text": "ENT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 222 Coding for Creatives",
+      "links": [
+        {
+          "text": "FCD 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 230 Topics in Communication and Design",
+      "links": [
+        {
+          "text": "FCD 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 810 Immersion in Communication and Design",
+      "links": [
+        {
+          "text": "FCD 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 816 Global Campus Studio Supercourse I",
+      "links": [
+        {
+          "text": "FCD 816",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/816/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 223 Designing Material Experiences",
+      "links": [
+        {
+          "text": "NMA 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 828 Special Topics in Game Design",
+      "links": [
+        {
+          "text": "NMA 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 928 Introduction to Game Design",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 934 Virtual Identities and Communities",
+      "links": [
+        {
+          "text": "NMA 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 997 Mechanics of Play",
+      "links": [
+        {
+          "text": "NMA 997",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 210 Media History",
+      "links": [
+        {
+          "text": "RTA 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 236 * On-Air Sports Presentation",
+      "links": [
+        {
+          "text": "RTA 236",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/236/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 311 † Intermediate Audio Production",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 312 Motion Graphics",
+      "links": [
+        {
+          "text": "RTA 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 314 † Intermediate Single Camera",
+      "links": [
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 315 Business of Creative Media",
+      "links": [
+        {
+          "text": "RTA 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 803 † Production: Advanced Single Camera",
+      "links": [
+        {
+          "text": "RTA 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 837 Live Audio Production",
+      "links": [
+        {
+          "text": "RTA 837",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/837/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 840 ESports",
+      "links": [
+        {
+          "text": "RTA 840",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/840/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 844 Sport in Film",
+      "links": [
+        {
+          "text": "RTA 844",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/844/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 845 Producing the Olympics",
+      "links": [
+        {
+          "text": "RTA 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 848 Esports and Online Streaming Production",
+      "links": [
+        {
+          "text": "RTA 848",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/848/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 850 Long-Form Sports Feature Writing",
+      "links": [
+        {
+          "text": "RTA 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 854 Live Radio Broadcasting",
+      "links": [
+        {
+          "text": "RTA 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 855 The Athlete's Perspective",
+      "links": [
+        {
+          "text": "RTA 855",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/855/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 858 Music Production",
+      "links": [
+        {
+          "text": "RTA 858",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/858/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 860 Selected Topics in Sport Media",
+      "links": [
+        {
+          "text": "RTA 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/860/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 863 Creative AI",
+      "links": [
+        {
+          "text": "RTA 863",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/863/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 864 Immersive and Interactive Audio",
+      "links": [
+        {
+          "text": "RTA 864",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/864/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 865 Exploring Virtual Environments",
+      "links": [
+        {
+          "text": "RTA 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/865/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 870 Global Experiential Intensive - Sport Media",
+      "links": [
+        {
+          "text": "RTA 870",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/870/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 875 Exploring Virtual Environments II",
+      "links": [
+        {
+          "text": "RTA 875",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/875/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 890 AI and Planetary Futures",
+      "links": [
+        {
+          "text": "RTA 890",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/890/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 902 Social Media",
+      "links": [
+        {
+          "text": "RTA 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 908 Business of Producing I",
+      "links": [
+        {
+          "text": "RTA 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 910 Production Management",
+      "links": [
+        {
+          "text": "RTA 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 918 Ethics in Media",
+      "links": [
+        {
+          "text": "RTA 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/918/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 923 Videogame Narrative",
+      "links": [
+        {
+          "text": "RTA 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 938 Digital Popular Cultures",
+      "links": [
+        {
+          "text": "RTA 938",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/938/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 945 Writing for Factual and Reality Programs",
+      "links": [
+        {
+          "text": "RTA 945",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/945/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 950 Selected Topics in Media",
+      "links": [
+        {
+          "text": "RTA 950",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/950/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 963 Web Design",
+      "links": [
+        {
+          "text": "RTA 963",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/963/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 969 Technical Producing (Visual Media)",
+      "links": [
+        {
+          "text": "RTA 969",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/969/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 970 Lighting, Grip and Effects Specialty",
+      "links": [
+        {
+          "text": "RTA 970",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/970/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 974 Radio Broadcasting",
+      "links": [
+        {
+          "text": "RTA 974",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/974/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 978 Editing Specialty",
+      "links": [
+        {
+          "text": "RTA 978",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/978/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 985 Advanced Audio: Sound for Video",
+      "links": [
+        {
+          "text": "RTA 985",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/985/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 986 Media for International Development",
+      "links": [
+        {
+          "text": "RTA 986",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/986/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 988 International Media Storytelling",
+      "links": [
+        {
+          "text": "RTA 988",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/988/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 991 Sport Writing",
+      "links": [
+        {
+          "text": "RTA 991",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/991/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 992 Social and Interactive Media for Sports",
+      "links": [
+        {
+          "text": "RTA 992",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/992/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 993 Sport Graphics",
+      "links": [
+        {
+          "text": "RTA 993",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/993/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 996 The Art of Podcasting",
+      "links": [
+        {
+          "text": "RTA 996",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/996/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 999 RTA in LA",
+      "links": [
+        {
+          "text": "RTA 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 505 Sociology of Sport",
+      "links": [
+        {
+          "text": "SOC 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RTA 236 is available as a Table I core elective only to students admitted Fall 2026 and after. † RTA 311 , RTA 314 , and RTA 803 have a course count of 2.00",
+      "links": [
+        {
+          "text": "RTA 236",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/236/"
+        },
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        },
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        },
+        {
+          "text": "RTA 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/803/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Sport Media Core Elective Table I"
+}

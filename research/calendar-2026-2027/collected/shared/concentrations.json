@@ -1,0 +1,445 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/concentrations/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "6586d60ad14d6d82f3b92650fd15a767398bb28a9f2f281bec24df26b86b5e71",
+  "source_bytes": 52024,
+  "title": "Concentrations",
+  "headings": [
+    "Concentrations",
+    "Policy Elements",
+    "Alphabetical List of Programs With Concentrations"
+  ],
+  "course_codes_referenced": [],
+  "official_links": [
+    {
+      "text": "Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+    },
+    {
+      "text": "Arts and Contemporary Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "Biomedical Sciences",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biomedical_sci/"
+    },
+    {
+      "text": "Business Management - Human Resources Management Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+    },
+    {
+      "text": "Business Technology Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_tech/"
+    },
+    {
+      "text": "Child and Youth Care",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/"
+    },
+    {
+      "text": "Computer Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+    },
+    {
+      "text": "English",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+    },
+    {
+      "text": "Graphic Communications Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+    },
+    {
+      "text": "Language and Intercultural Relations",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+    },
+    {
+      "text": "Media Production",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+    },
+    {
+      "text": "Nutrition and Food",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/"
+    },
+    {
+      "text": "Politics and Governance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/concentrations/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations"
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a Senate-approved curricular element that provides students the opportunity to develop in-depth knowledge representing a sub-specialization or emphasis within the core of a degree program or major. Courses for a Concentration are selected from the core elective courses offered to students within their degree program or major. Concentrations are optional."
+    },
+    {
+      "kind": "text",
+      "text": "For more information see Senate Policy 2 (opens in new window) , Section 7.1 Concentration",
+      "links": [
+        {
+          "text": "Senate Policy 2 (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Policy Elements"
+    },
+    {
+      "kind": "list_item",
+      "text": "A Concentration curriculum consists of at least six, specified/prescribed one- term degree-level core elective courses offered to students within their degree program or major."
+    },
+    {
+      "kind": "list_item",
+      "text": "Core required courses of the degree program or major may not be included in the course count/defined structure of a Concentration."
+    },
+    {
+      "kind": "list_item",
+      "text": "The completion of a Concentration cannot be made mandatory."
+    },
+    {
+      "kind": "list_item",
+      "text": "Earning one Concentration will not increase the number of courses required to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "Where it is possible, a student may complete more than one Concentration; however, no individual course can be applied to satisfy the requirements of more than one Concentration."
+    },
+    {
+      "kind": "list_item",
+      "text": "Course substitutions are not permitted."
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of a Concentration is subject to availability of courses."
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of the degree, with the addition of more than one Concentration, may require the completion of extra courses. Additional fees may also be incurred."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must complete all courses in a Concentration prior to graduation from their program of studies."
+    },
+    {
+      "kind": "list_item",
+      "text": "Restrictions [e.g., grade variations on individual courses; a minimum Cumulative Grade Point Average (CGPA) requirement for completion of the Concentration] are not permitted."
+    },
+    {
+      "kind": "list_item",
+      "text": "Any course used to satisfy a requirement of a Concentration cannot also be used to satisfy a requirement of a Minor."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must declare a Concentration(s) at a time specified by their program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of a Concentration is noted on the academic transcript, but not on the award document."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Alphabetical List of Programs With Concentrations"
+    },
+    {
+      "kind": "text",
+      "text": "Alphabetical List of Programs With Concentrations"
+    },
+    {
+      "kind": "text",
+      "text": "Architectural Science",
+      "links": [
+        {
+          "text": "Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Arts and Contemporary Studies",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Biomedical Sciences",
+      "links": [
+        {
+          "text": "Biomedical Sciences",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biomedical_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management - Human Resources Management Major",
+      "links": [
+        {
+          "text": "Business Management - Human Resources Management Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Technology Management",
+      "links": [
+        {
+          "text": "Business Technology Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_tech/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Child and Youth Care",
+      "links": [
+        {
+          "text": "Child and Youth Care",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Computer Science",
+      "links": [
+        {
+          "text": "Computer Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "English",
+      "links": [
+        {
+          "text": "English",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fashion",
+      "links": [
+        {
+          "text": "Fashion",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Graphic Communications Management",
+      "links": [
+        {
+          "text": "Graphic Communications Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Language and Intercultural Relations",
+      "links": [
+        {
+          "text": "Language and Intercultural Relations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Media Production",
+      "links": [
+        {
+          "text": "Media Production",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Nutrition and Food",
+      "links": [
+        {
+          "text": "Nutrition and Food",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Politics and Governance",
+      "links": [
+        {
+          "text": "Politics and Governance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Concentrations"
+}

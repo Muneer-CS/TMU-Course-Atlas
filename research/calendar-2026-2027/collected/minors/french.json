@@ -1,0 +1,721 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/french_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "b245d05a7b1ed409625d5316625e1b4503dd11292dd2a754bc883309508e0962",
+  "source_bytes": 63524,
+  "title": "Minor in French",
+  "headings": [
+    "Minor in French"
+  ],
+  "course_codes_referenced": [
+    "FRE 301",
+    "FRE 302",
+    "FRE 303",
+    "FRE 401",
+    "FRE 402",
+    "FRE 501",
+    "FRE 502",
+    "FRE 503",
+    "FRE 504",
+    "FRE 505",
+    "FRE 507",
+    "FRE 510",
+    "FRE 515",
+    "FRE 601",
+    "FRE 602",
+    "FRE 603",
+    "FRE 604",
+    "FRE 605",
+    "FRE 607",
+    "FRE 608",
+    "FRE 609",
+    "FRE 610",
+    "FRE 701",
+    "FRE 702",
+    "FRE 704",
+    "FRE 706",
+    "FRE 707",
+    "FRE 709",
+    "FRE 801",
+    "FRE 805",
+    "FRE 900",
+    "FRE 901",
+    "FRE 903"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Arts and Contemporary Studies - French Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "Language and Intercultural Relations - French Stream",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+    },
+    {
+      "text": "FRE 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+    },
+    {
+      "text": "FRE 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+    },
+    {
+      "text": "FRE 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+    },
+    {
+      "text": "FRE 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/510/"
+    },
+    {
+      "text": "FRE 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+    },
+    {
+      "text": "FRE 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+    },
+    {
+      "text": "FRE 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+    },
+    {
+      "text": "FRE 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/610/"
+    },
+    {
+      "text": "FRE 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/701/"
+    },
+    {
+      "text": "FRE 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/801/"
+    },
+    {
+      "text": "FRE 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+    },
+    {
+      "text": "FRE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+    },
+    {
+      "text": "FRE 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/301/"
+    },
+    {
+      "text": "FRE 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+    },
+    {
+      "text": "FRE 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+    },
+    {
+      "text": "FRE 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/401/"
+    },
+    {
+      "text": "FRE 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/501/"
+    },
+    {
+      "text": "FRE 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/503/"
+    },
+    {
+      "text": "FRE 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/504/"
+    },
+    {
+      "text": "FRE 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+    },
+    {
+      "text": "FRE 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/601/"
+    },
+    {
+      "text": "FRE 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/603/"
+    },
+    {
+      "text": "FRE 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+    },
+    {
+      "text": "FRE 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+    },
+    {
+      "text": "FRE 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/608/"
+    },
+    {
+      "text": "FRE 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/609/"
+    },
+    {
+      "text": "FRE 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/702/"
+    },
+    {
+      "text": "FRE 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/704/"
+    },
+    {
+      "text": "FRE 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+    },
+    {
+      "text": "FRE 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+    },
+    {
+      "text": "FRE 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+    },
+    {
+      "text": "FRE 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/901/"
+    },
+    {
+      "text": "FRE 903",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/903/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in French"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This minor presents an excellent opportunity to acquire the necessary language and cultural skills to be able to use French as part of your academic and career plans."
+    },
+    {
+      "kind": "text",
+      "text": "Based on the results of their online placement test, students will be advised to enrol in any of the courses below. It must be noted that many language courses build on the learning of previous courses. Sequencing (or prerequisite) requirements may restrict concurrent enrolment in some terms. Students are strongly advised to plan their course progression early."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Languages, Literatures, and Cultures"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Arts and Contemporary Studies - French Option",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies - French Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Language and Intercultural Relations - French Stream",
+      "links": [
+        {
+          "text": "Language and Intercultural Relations - French Stream",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 502 Communication and Business French",
+      "links": [
+        {
+          "text": "FRE 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 French Language and Culture",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 510 Effective Writing",
+      "links": [
+        {
+          "text": "FRE 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 515 Introduction to Business French",
+      "links": [
+        {
+          "text": "FRE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 602 Business French in Practice",
+      "links": [
+        {
+          "text": "FRE 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 610 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "FRE 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 701 French for Today",
+      "links": [
+        {
+          "text": "FRE 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 801 French and New Media",
+      "links": [
+        {
+          "text": "FRE 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 900 Senior French Seminar",
+      "links": [
+        {
+          "text": "FRE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 301 Intermediate French I",
+      "links": [
+        {
+          "text": "FRE 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 302 French Food, Wine and Hospitality",
+      "links": [
+        {
+          "text": "FRE 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 303 French and Fashion",
+      "links": [
+        {
+          "text": "FRE 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 401 Intermediate French II",
+      "links": [
+        {
+          "text": "FRE 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 501 Speaking and Writing French I",
+      "links": [
+        {
+          "text": "FRE 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 502 Communication and Business French",
+      "links": [
+        {
+          "text": "FRE 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 503 Middle Ages to Classicism",
+      "links": [
+        {
+          "text": "FRE 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 504 French Audiovisual Translation",
+      "links": [
+        {
+          "text": "FRE 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 French Language and Culture",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 507 English-French Translation I",
+      "links": [
+        {
+          "text": "FRE 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 510 Effective Writing",
+      "links": [
+        {
+          "text": "FRE 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 515 Introduction to Business French",
+      "links": [
+        {
+          "text": "FRE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 601 Speaking and Writing French II",
+      "links": [
+        {
+          "text": "FRE 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 602 Business French in Practice",
+      "links": [
+        {
+          "text": "FRE 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 603 Enlightenment to La Belle Époque",
+      "links": [
+        {
+          "text": "FRE 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 604 French for Healthcare",
+      "links": [
+        {
+          "text": "FRE 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 607 English-French Translation II",
+      "links": [
+        {
+          "text": "FRE 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 608 Contemporary French Literature",
+      "links": [
+        {
+          "text": "FRE 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 609 Franco-Canadian Literature",
+      "links": [
+        {
+          "text": "FRE 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 610 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "FRE 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 701 French for Today",
+      "links": [
+        {
+          "text": "FRE 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 702 French Gastronomy and Culture",
+      "links": [
+        {
+          "text": "FRE 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 704 Franco-Canadian Culture",
+      "links": [
+        {
+          "text": "FRE 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 706 The Life and Times of the French Language",
+      "links": [
+        {
+          "text": "FRE 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 707 Introduction to French-English Translation",
+      "links": [
+        {
+          "text": "FRE 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 709 Children's Literature in French",
+      "links": [
+        {
+          "text": "FRE 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 801 French and New Media",
+      "links": [
+        {
+          "text": "FRE 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 900 Senior French Seminar",
+      "links": [
+        {
+          "text": "FRE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 901 Francophone Women Writers",
+      "links": [
+        {
+          "text": "FRE 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 903 The Francophone Short Story",
+      "links": [
+        {
+          "text": "FRE 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/903/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students interested in pursuing a minor in French should consult with the Department of Languages, Literatures and Cultures early in their studies. To achieve a minor in French, planning is key."
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "French"
+}

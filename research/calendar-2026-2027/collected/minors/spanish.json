@@ -1,0 +1,768 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/spanish_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "f34d3d38ac8560bf69a2f86c84bca799dbad8cff19fdf856b6c50048cd330eb1",
+  "source_bytes": 62161,
+  "title": "Minor in Spanish",
+  "headings": [
+    "Minor in Spanish"
+  ],
+  "course_codes_referenced": [
+    "SPN 301",
+    "SPN 302",
+    "SPN 303",
+    "SPN 401",
+    "SPN 402",
+    "SPN 501",
+    "SPN 504",
+    "SPN 506",
+    "SPN 507",
+    "SPN 510",
+    "SPN 515",
+    "SPN 601",
+    "SPN 607",
+    "SPN 610",
+    "SPN 702",
+    "SPN 704",
+    "SPN 705",
+    "SPN 706",
+    "SPN 707",
+    "SPN 708",
+    "SPN 710",
+    "SPN 802",
+    "SPN 803",
+    "SPN 804",
+    "SPN 805",
+    "SPN 810",
+    "SPN 900",
+    "SPS 512"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Language and Intercultural Relations - Spanish Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+    },
+    {
+      "text": "SPN 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+    },
+    {
+      "text": "SPN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/510/"
+    },
+    {
+      "text": "SPN 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+    },
+    {
+      "text": "SPN 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/610/"
+    },
+    {
+      "text": "SPN 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+    },
+    {
+      "text": "SPN 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+    },
+    {
+      "text": "SPN 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+    },
+    {
+      "text": "SPN 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/803/"
+    },
+    {
+      "text": "SPN 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+    },
+    {
+      "text": "SPN 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/810/"
+    },
+    {
+      "text": "SPN 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+    },
+    {
+      "text": "SPN 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/301/"
+    },
+    {
+      "text": "SPN 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/302/"
+    },
+    {
+      "text": "SPN 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/303/"
+    },
+    {
+      "text": "SPN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/401/"
+    },
+    {
+      "text": "SPN 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/501/"
+    },
+    {
+      "text": "SPN 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+    },
+    {
+      "text": "SPN 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+    },
+    {
+      "text": "SPN 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+    },
+    {
+      "text": "SPN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/601/"
+    },
+    {
+      "text": "SPN 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+    },
+    {
+      "text": "SPN 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+    },
+    {
+      "text": "SPN 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/705/"
+    },
+    {
+      "text": "SPN 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/706/"
+    },
+    {
+      "text": "SPN 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+    },
+    {
+      "text": "SPN 708",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/708/"
+    },
+    {
+      "text": "SPN 804",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+    },
+    {
+      "text": "SPS 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/512/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/spanish_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Spanish"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This minor presents an excellent opportunity to acquire the necessary language and cultural skills to be able to use Spanish as part of your academic and career plans."
+    },
+    {
+      "kind": "text",
+      "text": "Based on the results of their online placement test, students will be advised to enrol in any of the courses below. It must be noted that many language courses build on the learning of previous courses. Sequencing (or prerequisite) requirements may restrict concurrent enrolment in some terms. Students are strongly advised to plan their course progression early."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Languages, Literatures and Cultures"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Language and Intercultural Relations - Spanish Option",
+      "links": [
+        {
+          "text": "Language and Intercultural Relations - Spanish Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 510 Effective Writing",
+      "links": [
+        {
+          "text": "SPN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 515 Introduction to Business Spanish",
+      "links": [
+        {
+          "text": "SPN 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 610 Spanish Writing Composition",
+      "links": [
+        {
+          "text": "SPN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 702 Communication in Business Spanish",
+      "links": [
+        {
+          "text": "SPN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 710 History of the Spanish Language",
+      "links": [
+        {
+          "text": "SPN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 802 Spanish for Business Strategies",
+      "links": [
+        {
+          "text": "SPN 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 803 Latin American Short Story",
+      "links": [
+        {
+          "text": "SPN 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 810 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "SPN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 900 Senior Spanish Seminar",
+      "links": [
+        {
+          "text": "SPN 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 301 Intermediate Spanish I",
+      "links": [
+        {
+          "text": "SPN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 302 Spanish for the Tourism Industry",
+      "links": [
+        {
+          "text": "SPN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 303 Spanish and Fashion",
+      "links": [
+        {
+          "text": "SPN 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 401 Intermediate Spanish II",
+      "links": [
+        {
+          "text": "SPN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 501 Advanced Spanish I",
+      "links": [
+        {
+          "text": "SPN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 504 Spanish Language and Culture through Films",
+      "links": [
+        {
+          "text": "SPN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 506 Spanish Audiovisual Translation",
+      "links": [
+        {
+          "text": "SPN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 507 English-Spanish Translation I",
+      "links": [
+        {
+          "text": "SPN 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 510 Effective Writing",
+      "links": [
+        {
+          "text": "SPN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 515 Introduction to Business Spanish",
+      "links": [
+        {
+          "text": "SPN 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 601 Advanced Spanish II",
+      "links": [
+        {
+          "text": "SPN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 607 English-Spanish Translation II",
+      "links": [
+        {
+          "text": "SPN 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 610 Spanish Writing Composition",
+      "links": [
+        {
+          "text": "SPN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 702 Communication in Business Spanish",
+      "links": [
+        {
+          "text": "SPN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 704 Latin American Arts and Culture",
+      "links": [
+        {
+          "text": "SPN 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 705 The Boom in Latin American Literature",
+      "links": [
+        {
+          "text": "SPN 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 706 Spanish Graphic Novels",
+      "links": [
+        {
+          "text": "SPN 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 707 Spanish-English Translation",
+      "links": [
+        {
+          "text": "SPN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 708 Contemporary Spanish Fiction",
+      "links": [
+        {
+          "text": "SPN 708",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/708/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 710 History of the Spanish Language",
+      "links": [
+        {
+          "text": "SPN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 802 Spanish for Business Strategies",
+      "links": [
+        {
+          "text": "SPN 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 803 Latin American Short Story",
+      "links": [
+        {
+          "text": "SPN 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 804 Culture and Resistance in the Americas",
+      "links": [
+        {
+          "text": "SPN 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 810 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "SPN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 900 Senior Spanish Seminar",
+      "links": [
+        {
+          "text": "SPN 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPS 512 Films for Change",
+      "links": [
+        {
+          "text": "SPS 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/512/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students interested in pursuing a minor in Spanish should consult with the Department of Languages, Literatures and Cultures early in their studies. To achieve a minor in Spanish, planning is key."
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Spanish"
+}

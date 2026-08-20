@@ -1,0 +1,1020 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "ca16b9a87a628c0fef76b605fd867d257e9b03f03849888ff6a0169a981b33b8",
+  "source_bytes": 95524,
+  "title": "Disability Studies",
+  "headings": [
+    "Disability Studies",
+    "Disability Studies",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Curriculum Information",
+    "Course Sequencing",
+    "Course Identification",
+    "Transfer Credits",
+    "Years to Complete - Time-Span",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Part-Time Degree Completion Program",
+    "Full-Time, Two-Year Degree Completion Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "DST 501",
+    "DST 502",
+    "DST 504",
+    "DST 506",
+    "DST 507",
+    "DST 525",
+    "DST 727",
+    "DST 880",
+    "DST 881",
+    "DST 990"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Community Services",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "DST 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+    },
+    {
+      "text": "DST 880",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+    },
+    {
+      "text": "DST 881",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/881/"
+    },
+    {
+      "text": "DST 990",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/990/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies.",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "DST 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/502/"
+    },
+    {
+      "text": "DST 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+    },
+    {
+      "text": "DST 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/506/"
+    },
+    {
+      "text": "DST 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/507/"
+    },
+    {
+      "text": "DST 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/525/"
+    },
+    {
+      "text": "DST 727",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/727/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/disability_core_elective_i/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Disability Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Disability Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (BA)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "School of Disability Studies",
+      "links": [
+        {
+          "text": "School of Disability Studies",
+          "url": "https://www.torontomu.ca/content/ryerson/disability-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Part-time degree completion program. Full-time degree completion program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The admission requirements for the Post Diploma Degree Completion program in Disability Studies are:"
+    },
+    {
+      "kind": "list_item",
+      "text": "A Diploma or Advanced Diploma from a public Canadian community college. Diplomas must have an academic focus (e.g. community and social services, business, arts, engineering, science)."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants with equivalent international academic qualifications may be considered on a case by case basis."
+    },
+    {
+      "kind": "list_item",
+      "text": "The diploma must include a one-year (or equivalent) introductory university-level humanities or social science course or equivalent."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants with less than a 'B' range average in an academic Diploma or Advanced Diploma program may be asked to complete up to two (2) one-term university level liberal studies courses prior to admission."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants are required to submit a personal letter outlining their relevant experience and rationale for applying to the program."
+    },
+    {
+      "kind": "text",
+      "text": "Admission Procedures"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants are required to submit the following to Undergraduate Admissions in addition to their online application and Supplementary Form."
+    },
+    {
+      "kind": "text",
+      "text": "Visit Submission of Documents for instructions:",
+      "links": [
+        {
+          "text": "Submission of Documents",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/apply/document-submission/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Academic transcripts of all post-secondary studies, including promotion/graduation status. High School transcripts are not required. Mature Student guidelines do not apply."
+    },
+    {
+      "kind": "list_item",
+      "text": "A personal letter explaining how attending this program will benefit the applicant and Disability Communities. The letter should not exceed two pages, double spaced. It will be read for both admission eligibility and selection of potential recipients of the David and Sylvia Pollock Entrance Award in Disability Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants to the part-time option are considered for admission three times a year (in the fall, winter and spring/summer semesters). Applicants to the full-time option are only considered for admission to the fall semester. The part-time option allows students to take courses at their own pace. Students can complete as few as one to two courses per semester, or they can complete three courses or more per semester (making it full-time, OSAP eligible)."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Established in 1999, this program provides full-time and part-time university education to adults with a college diploma in the disability field or other related post-secondary academic credentials and work experience in a diverse range of fields. At the end of the equivalent of approximately two years of full time study, students will receive a Bachelor of Arts, (Disability Studies) from Toronto Metropolitan University. This degree program is designed to build on the direct practice skills that students have acquired from programs such as Developmental Services Worker, Educational Assistant, Mental Health and Addictions program and other disability studies related Canadian College diplomas and through work experience, (or other disability studies related post-secondary education and experience deemed suitable by the admissions committee), and to prepare them for leadership roles in a variety of areas including direct care, management, community development, policy, planning, and advocacy. In addition to paid careers, it is expected that some people, especially those within the disability community, will enrol in the program to enhance their ability to do effective advocacy."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information"
+    },
+    {
+      "kind": "text",
+      "text": "In order to promote access for people from across Ontario (and perhaps elsewhere), all required courses are offered in an online format. Students will be able to take elective courses at TMU or, with a Letter of Permission , at other universities. The flexible modes of delivery that characterize this program will also facilitate access by people with disabilities.",
+      "links": [
+        {
+          "text": "Letter of Permission",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Due to the program's reliance on online courses, students will be required to have access to a computer, the Internet and the World Wide Web. Students who are graduates of an Ontario College may be able to access computers at the college from which they graduated. However, students are strongly encouraged to purchase their own computers."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Sequencing"
+    },
+    {
+      "kind": "text",
+      "text": "DST 501 and DST 880 are prerequisites for many subsequent courses, so it is recommended, even for part-time students, that these courses are taken in the first term of the first year of their program of study. Students wishing to complete the full-time degree option within two years must take DST 501 and DST 880 as their first two required courses. DST 880 is a prerequisite for DST 881 . The prerequisites for DST 990 are DST 501 and DST 881 , therefore 2-year full-time students would be eligible to take DST 990 in the Fall term of their second year.. Students should note that certain liberal studies and professionally-related courses may have their own prerequisites.",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        },
+        {
+          "text": "DST 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+        },
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        },
+        {
+          "text": "DST 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+        },
+        {
+          "text": "DST 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+        },
+        {
+          "text": "DST 881",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/881/"
+        },
+        {
+          "text": "DST 990",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/990/"
+        },
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        },
+        {
+          "text": "DST 881",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/881/"
+        },
+        {
+          "text": "DST 990",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/990/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Identification"
+    },
+    {
+      "kind": "text",
+      "text": "Courses are administered by either the program department or The G. Raymond Chang School of Continuing Education. The mode of delivery is not reflected in this calendar. Continuing education courses are identified in your course enrolment package with a 'C' prefix. These identifiers are for internal use only and do not affect the equivalency."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Students with post-secondary studies beyond the basis of admission may be eligible for transfer credits, with no more than 50 percent of a program's requirements consisting of advanced standing/credits (transfer credits, credits granted on a Letter of Permission)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Years to Complete - Time-Span"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time students are required to complete the program in no more than four years. Part-time students are required to complete the program in no more than seven years. The completion time will vary with the number of courses taken each year."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take one lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "If an upper level liberal studies course requires a prerequisite, students MUST apply for a transfer credit for that prerequisite. This will only serve as a proof of prerequisite and will not apply toward the degree."
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Disability Studies courses are not available for credit."
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "DST courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time Degree Completion Program",
+      "links": [
+        {
+          "text": "Part-Time Degree Completion Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 501 * Rethinking Disability",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 502 Disability and the State",
+      "links": [
+        {
+          "text": "DST 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 504 Mad People's History",
+      "links": [
+        {
+          "text": "DST 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 506 Principles and Practices of Accessibility",
+      "links": [
+        {
+          "text": "DST 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 507 Disability, Justice and Good Human Life",
+      "links": [
+        {
+          "text": "DST 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 525 Disability and Representation",
+      "links": [
+        {
+          "text": "DST 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 727 Leadership Practices for Changing Times",
+      "links": [
+        {
+          "text": "DST 727",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/727/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 880 * Foundations: Disability Studies Research",
+      "links": [
+        {
+          "text": "DST 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 881 Disability Studies Research in Action",
+      "links": [
+        {
+          "text": "DST 881",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/881/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 990 Applied Community or Research Project",
+      "links": [
+        {
+          "text": "DST 990",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/990/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Students are advised to take DST 501 and DST 880 in their 1st semester.",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        },
+        {
+          "text": "DST 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Four courses. One from Table A and three from Table B .",
+      "links": [
+        {
+          "text": "Table A",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "Table B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I.",
+      "links": [
+        {
+          "text": "Table I.",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/disability_core_elective_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Four Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Two-Year Degree Completion Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Two-Year Degree Completion Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2026-2027 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 501 Rethinking Disability",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 504 Mad People's History",
+      "links": [
+        {
+          "text": "DST 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 880 Foundations of Knowledge in Disability Studies",
+      "links": [
+        {
+          "text": "DST 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/880/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 507 Disability, Justice and Good Human Life",
+      "links": [
+        {
+          "text": "DST 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 525 Disability and Representation",
+      "links": [
+        {
+          "text": "DST 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 881 Disability Studies Research in Action",
+      "links": [
+        {
+          "text": "DST 881",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/881/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2027-2028 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 502 Disability and the State",
+      "links": [
+        {
+          "text": "DST 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 506 Principles and Practices of Accessibility",
+      "links": [
+        {
+          "text": "DST 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 990 Applied Community or Research Project",
+      "links": [
+        {
+          "text": "DST 990",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/990/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies.",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies.",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/disability_core_elective_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 727 Leadership Practices for Changing Times",
+      "links": [
+        {
+          "text": "DST 727",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/727/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies.",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies.",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/disability_core_elective_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Kim Collins Doctoral Candidate Dalla Lana School of Public Health, University of Toronto Loree Erickson Sessional Instructor Mark S. Bonham Centre for Sexual Diversity Studies, University of Toronto Tobin Haley Assistant Professor Department of Social Science, University of New Brunswick Sean Lee Director of Programming Tangled Art + Disability Kirsty Liddiard Senior Research Fellow School of Education, University of Sheffield Amanda Lin Alumna School of Disability Studies, TMU Paul Oberoi Vice-Principal York Region District School Board Melanie Panitch Executive Director Office of Social Innovation, TMU Jennifer Paterson Health Promoter Toronto Public Health"
+    },
+    {
+      "kind": "text",
+      "text": "Tiffany-Anne Stones Program Coordinator Community Living Elgin Heather Willis Accessibility Coordinator Office of the Vice-President, Equity and Community Inclusion, TMU"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Disability Studies"
+}

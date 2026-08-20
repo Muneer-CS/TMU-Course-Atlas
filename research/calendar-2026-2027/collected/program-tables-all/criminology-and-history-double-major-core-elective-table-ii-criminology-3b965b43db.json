@@ -1,0 +1,1250 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "f85171098cf076158cd087819bc9bee21a1855c5efe87cfb4b3019a880a737a5",
+  "source_bytes": 66892,
+  "title": "Criminology and History Core Elective Table II",
+  "headings": [
+    "Criminology and History Core Elective Table II",
+    "Criminology:",
+    "History:",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CRM 200",
+    "CRM 201",
+    "CRM 202",
+    "CRM 205",
+    "CRM 206",
+    "CRM 225",
+    "CRM 250",
+    "CRM 285",
+    "CRM 300",
+    "CRM 302",
+    "CRM 303",
+    "CRM 304",
+    "CRM 306",
+    "CRM 308",
+    "CRM 310",
+    "CRM 311",
+    "CRM 312",
+    "CRM 314",
+    "CRM 315",
+    "CRM 316",
+    "CRM 317",
+    "CRM 318",
+    "CRM 319",
+    "CRM 324",
+    "CRM 335",
+    "CRM 340",
+    "CRM 350",
+    "CRM 360",
+    "CRM 365",
+    "CRM 370",
+    "CRM 375",
+    "CRM 402",
+    "CRM 404",
+    "HIS 500",
+    "HIS 501",
+    "HIS 502",
+    "HIS 510",
+    "HIS 541",
+    "HIS 556",
+    "HIS 559",
+    "HIS 560",
+    "HIS 561",
+    "HIS 590",
+    "HIS 610",
+    "HIS 615",
+    "HIS 620",
+    "HIS 630",
+    "HIS 656",
+    "HIS 661",
+    "HIS 662",
+    "HIS 677",
+    "HIS 678",
+    "HIS 696",
+    "HIS 710",
+    "HIS 742",
+    "HIS 755",
+    "HIS 760",
+    "HIS 762",
+    "HIS 790",
+    "HIS 826",
+    "HIS 828",
+    "HIS 830",
+    "HIS 845",
+    "HIS 854",
+    "HIS 886",
+    "HIS 898",
+    "HIS 900",
+    "HIS 901"
+  ],
+  "official_links": [
+    {
+      "text": "Criminology and History Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/"
+    },
+    {
+      "text": "CRM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+    },
+    {
+      "text": "CRM 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/201/"
+    },
+    {
+      "text": "CRM 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/202/"
+    },
+    {
+      "text": "CRM 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/205/"
+    },
+    {
+      "text": "CRM 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/206/"
+    },
+    {
+      "text": "CRM 225",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/225/"
+    },
+    {
+      "text": "CRM 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/250/"
+    },
+    {
+      "text": "CRM 285",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/285/"
+    },
+    {
+      "text": "CRM 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/300/"
+    },
+    {
+      "text": "CRM 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/302/"
+    },
+    {
+      "text": "CRM 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/303/"
+    },
+    {
+      "text": "CRM 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/304/"
+    },
+    {
+      "text": "CRM 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/306/"
+    },
+    {
+      "text": "CRM 308",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/308/"
+    },
+    {
+      "text": "CRM 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/310/"
+    },
+    {
+      "text": "CRM 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/311/"
+    },
+    {
+      "text": "CRM 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/312/"
+    },
+    {
+      "text": "CRM 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/314/"
+    },
+    {
+      "text": "CRM 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/315/"
+    },
+    {
+      "text": "CRM 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/316/"
+    },
+    {
+      "text": "CRM 317",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/317/"
+    },
+    {
+      "text": "CRM 318",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/318/"
+    },
+    {
+      "text": "CRM 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/319/"
+    },
+    {
+      "text": "CRM 324",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/324/"
+    },
+    {
+      "text": "CRM 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/335/"
+    },
+    {
+      "text": "CRM 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/340/"
+    },
+    {
+      "text": "CRM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+    },
+    {
+      "text": "CRM 360",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/360/"
+    },
+    {
+      "text": "CRM 365",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/365/"
+    },
+    {
+      "text": "CRM 370",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/370/"
+    },
+    {
+      "text": "CRM 375",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/375/"
+    },
+    {
+      "text": "CRM 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/402/"
+    },
+    {
+      "text": "CRM 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/404/"
+    },
+    {
+      "text": "HIS 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+    },
+    {
+      "text": "HIS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+    },
+    {
+      "text": "HIS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+    },
+    {
+      "text": "HIS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/510/"
+    },
+    {
+      "text": "HIS 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/541/"
+    },
+    {
+      "text": "HIS 556",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/556/"
+    },
+    {
+      "text": "HIS 559",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+    },
+    {
+      "text": "HIS 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+    },
+    {
+      "text": "HIS 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+    },
+    {
+      "text": "HIS 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/590/"
+    },
+    {
+      "text": "HIS 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/610/"
+    },
+    {
+      "text": "HIS 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+    },
+    {
+      "text": "HIS 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/620/"
+    },
+    {
+      "text": "HIS 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/630/"
+    },
+    {
+      "text": "HIS 656",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/656/"
+    },
+    {
+      "text": "HIS 661",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/661/"
+    },
+    {
+      "text": "HIS 662",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/662/"
+    },
+    {
+      "text": "HIS 677",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/677/"
+    },
+    {
+      "text": "HIS 678",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/678/"
+    },
+    {
+      "text": "HIS 696",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+    },
+    {
+      "text": "HIS 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/710/"
+    },
+    {
+      "text": "HIS 742",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/742/"
+    },
+    {
+      "text": "HIS 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+    },
+    {
+      "text": "HIS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+    },
+    {
+      "text": "HIS 762",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/762/"
+    },
+    {
+      "text": "HIS 790",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/790/"
+    },
+    {
+      "text": "HIS 826",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/826/"
+    },
+    {
+      "text": "HIS 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+    },
+    {
+      "text": "HIS 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/830/"
+    },
+    {
+      "text": "HIS 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+    },
+    {
+      "text": "HIS 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+    },
+    {
+      "text": "HIS 886",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/886/"
+    },
+    {
+      "text": "HIS 898",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/898/"
+    },
+    {
+      "text": "HIS 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/900/"
+    },
+    {
+      "text": "HIS 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/901/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/table_ii/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Criminology and History Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and History Double Major",
+      "links": [
+        {
+          "text": "Criminology and History Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A total of nine (9) courses are required from Core Elective Table II."
+    },
+    {
+      "kind": "text",
+      "text": "Criminology: A total of four (4) CRM courses must be taken."
+    },
+    {
+      "kind": "text",
+      "text": "History: A total of five (5) HIS courses* must be taken."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Criminology:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 † Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 201 Making Public Order in Canada",
+      "links": [
+        {
+          "text": "CRM 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 202 ** Victims and the Criminal Process",
+      "links": [
+        {
+          "text": "CRM 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 205 ** Gender, Sexuality and the Law",
+      "links": [
+        {
+          "text": "CRM 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/205/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 206 ** Race, Ethnicity and Justice",
+      "links": [
+        {
+          "text": "CRM 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/206/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 225 The Experience of Incarceration",
+      "links": [
+        {
+          "text": "CRM 225",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/225/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 250 Criminalizing Blackness",
+      "links": [
+        {
+          "text": "CRM 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/250/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 285 Green Criminology and Climate Justice",
+      "links": [
+        {
+          "text": "CRM 285",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/285/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 300 † Policing in Canada",
+      "links": [
+        {
+          "text": "CRM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 302 Criminological Theories",
+      "links": [
+        {
+          "text": "CRM 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 303 Immigration and Refugee Protection in CJS",
+      "links": [
+        {
+          "text": "CRM 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 304 Youth Justice in Canada",
+      "links": [
+        {
+          "text": "CRM 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 306 † Corrections in Canada",
+      "links": [
+        {
+          "text": "CRM 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 308 † Criminal Courts in Canada",
+      "links": [
+        {
+          "text": "CRM 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/308/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 310 † Advanced Qualitative Research Methods",
+      "links": [
+        {
+          "text": "CRM 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 311 Regulating Public Space",
+      "links": [
+        {
+          "text": "CRM 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 312 Representing Crime",
+      "links": [
+        {
+          "text": "CRM 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 314 Criminal Justice and the Charter",
+      "links": [
+        {
+          "text": "CRM 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 315 † Advanced Quantitative Research Methods",
+      "links": [
+        {
+          "text": "CRM 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 316 International Perspectives",
+      "links": [
+        {
+          "text": "CRM 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 317 Special Topics in Criminology/Law",
+      "links": [
+        {
+          "text": "CRM 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 318 Violence and Communities",
+      "links": [
+        {
+          "text": "CRM 318",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/318/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 319 Criminalizing Indigenous Sovereignty",
+      "links": [
+        {
+          "text": "CRM 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 324 Security Threats",
+      "links": [
+        {
+          "text": "CRM 324",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/324/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 335 History and Politics of Abolition",
+      "links": [
+        {
+          "text": "CRM 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 340 Theories of Crime and Society",
+      "links": [
+        {
+          "text": "CRM 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 350 Cyber Criminology",
+      "links": [
+        {
+          "text": "CRM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 360 Criminalizing Global Migration",
+      "links": [
+        {
+          "text": "CRM 360",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/360/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 365 CrimJust Voluntary Sector",
+      "links": [
+        {
+          "text": "CRM 365",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/365/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 370 Health and Imprisonment",
+      "links": [
+        {
+          "text": "CRM 370",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/370/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 375 State Violence and Resistance",
+      "links": [
+        {
+          "text": "CRM 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/375/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 402 ** Criminal Justice and Social Inequality",
+      "links": [
+        {
+          "text": "CRM 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 404 Debates In Justice Policy (students admitted Fall 2014 and after only)",
+      "links": [
+        {
+          "text": "CRM 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/404/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "** If not selected in 3rd & 4th semester. † If not selected in 5th & 6th semester."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "History:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 500 Digital History",
+      "links": [
+        {
+          "text": "HIS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 501 Archaeology and Material Culture",
+      "links": [
+        {
+          "text": "HIS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 502 Life Stories: Oral History",
+      "links": [
+        {
+          "text": "HIS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 510 Museology and Public History",
+      "links": [
+        {
+          "text": "HIS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 541 Canada and the First World War",
+      "links": [
+        {
+          "text": "HIS 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 556 Colonial Africa",
+      "links": [
+        {
+          "text": "HIS 556",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/556/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 559 The World of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 559",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 560 History of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 561 The Ottoman Empire",
+      "links": [
+        {
+          "text": "HIS 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 590 Modern International Relations",
+      "links": [
+        {
+          "text": "HIS 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 610 Curating the Past",
+      "links": [
+        {
+          "text": "HIS 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 615 Film, Television and 20th C History",
+      "links": [
+        {
+          "text": "HIS 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 620 Imperial Russia",
+      "links": [
+        {
+          "text": "HIS 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 630 The Soviet Union",
+      "links": [
+        {
+          "text": "HIS 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 656 Post-Colonial Africa",
+      "links": [
+        {
+          "text": "HIS 656",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/656/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 661 The Middle East from 1908",
+      "links": [
+        {
+          "text": "HIS 661",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/661/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 662 The Mughal Empire, 1526-1764",
+      "links": [
+        {
+          "text": "HIS 662",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/662/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 677 Society in the High Middle Ages, 1000-1500",
+      "links": [
+        {
+          "text": "HIS 677",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/677/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 678 The Renaissance in Europe",
+      "links": [
+        {
+          "text": "HIS 678",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/678/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 696 The History of Terrorism",
+      "links": [
+        {
+          "text": "HIS 696",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 710 Museum and Heritage Management",
+      "links": [
+        {
+          "text": "HIS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 742 Canadian Cultural Industries",
+      "links": [
+        {
+          "text": "HIS 742",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/742/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 755 Themes in Material Culture",
+      "links": [
+        {
+          "text": "HIS 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 760 African Diaspora",
+      "links": [
+        {
+          "text": "HIS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 762 The Making of Modern South Asia, 1757-1947",
+      "links": [
+        {
+          "text": "HIS 762",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/762/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 790 Modern Germany",
+      "links": [
+        {
+          "text": "HIS 790",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/790/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 826 Science and World Exploration",
+      "links": [
+        {
+          "text": "HIS 826",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/826/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 828 Science, Corporations and the Environment",
+      "links": [
+        {
+          "text": "HIS 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 830 Settler Colonialism",
+      "links": [
+        {
+          "text": "HIS 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 845 Canada in the International Sphere",
+      "links": [
+        {
+          "text": "HIS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 854 African-American History",
+      "links": [
+        {
+          "text": "HIS 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 886 The British Empire and the World",
+      "links": [
+        {
+          "text": "HIS 886",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/886/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 898 A History of International Organizations",
+      "links": [
+        {
+          "text": "HIS 898",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/898/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 900 Experiential Learning I",
+      "links": [
+        {
+          "text": "HIS 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 901 Experiential Learning II",
+      "links": [
+        {
+          "text": "HIS 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*A maximum of four (4) HST (Liberal Studies) courses between 500-899 may be substituted. A maximum of four (4) HST (Liberal Studies) courses may be used towards degree requirements."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Criminology and History Double Major - Core Elective Table II (Criminology)"
+}

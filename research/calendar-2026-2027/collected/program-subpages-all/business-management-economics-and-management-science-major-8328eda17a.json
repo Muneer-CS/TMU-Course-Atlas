@@ -1,0 +1,5175 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "648d79ced30330212d13b71961368a231003f04e4bf06cb18cf5bc039bb7c24c",
+  "source_bytes": 242576,
+  "title": "Business Management - Economics and Management Science Major",
+  "headings": [
+    "Business Management - Economics and Management Science Major",
+    "Program Overview",
+    "Optional Co-operative Program Overview",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-Op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Full-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, First-Year Entry Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "BUS 800",
+    "ECN 104",
+    "ECN 204",
+    "ECN 230",
+    "ECN 301",
+    "ECN 321",
+    "ECN 501",
+    "ECN 502",
+    "ECN 504",
+    "ECN 506",
+    "ECN 510",
+    "ECN 600",
+    "ECN 601",
+    "ECN 605",
+    "ECN 606",
+    "ECN 610",
+    "ECN 614",
+    "ECN 620",
+    "ECN 627",
+    "ECN 630",
+    "ECN 640",
+    "ECN 700",
+    "ECN 702",
+    "ECN 703",
+    "ECN 707",
+    "ECN 715",
+    "ECN 723",
+    "ECN 724",
+    "ECN 725",
+    "ECN 726",
+    "ECN 729",
+    "ECN 808",
+    "ECN 815",
+    "ECN 820",
+    "ENT 101",
+    "FIN 300",
+    "FIN 401",
+    "GMS 200",
+    "GMS 401",
+    "ITM 102",
+    "LAW 122",
+    "MHR 523",
+    "MKT 100",
+    "QMS 110",
+    "QMS 210",
+    "QMS 442",
+    "QMS 702",
+    "WKT 100",
+    "WKT 125",
+    "WKT 200",
+    "WKT 225",
+    "WKT 300",
+    "WKT 325",
+    "WKT 400",
+    "WKT 425"
+  ],
+  "official_links": [
+    {
+      "text": "Business Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "GMS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "QMS 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/702/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "ECN 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/230/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "QMS 442",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/442/"
+    },
+    {
+      "text": "ECN 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+    },
+    {
+      "text": "ECN 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+    },
+    {
+      "text": "ECN 627",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/627/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "ECN 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/600/"
+    },
+    {
+      "text": "ECN 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/700/"
+    },
+    {
+      "text": "ECN 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/702/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "ECN 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+    },
+    {
+      "text": "ECN 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+    },
+    {
+      "text": "ECN 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+    },
+    {
+      "text": "ECN 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+    },
+    {
+      "text": "ECN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+    },
+    {
+      "text": "ECN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+    },
+    {
+      "text": "ECN 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+    },
+    {
+      "text": "ECN 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+    },
+    {
+      "text": "ECN 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+    },
+    {
+      "text": "ECN 614",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+    },
+    {
+      "text": "ECN 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+    },
+    {
+      "text": "ECN 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+    },
+    {
+      "text": "ECN 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+    },
+    {
+      "text": "ECN 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+    },
+    {
+      "text": "ECN 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+    },
+    {
+      "text": "ECN 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+    },
+    {
+      "text": "ECN 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+    },
+    {
+      "text": "ECN 724",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+    },
+    {
+      "text": "ECN 725",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+    },
+    {
+      "text": "ECN 726",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+    },
+    {
+      "text": "ECN 729",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+    },
+    {
+      "text": "ECN 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+    },
+    {
+      "text": "ECN 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+    },
+    {
+      "text": "ECN 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+    },
+    {
+      "text": "BUS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+    },
+    {
+      "text": "WKT 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/125/"
+    },
+    {
+      "text": "WKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+    },
+    {
+      "text": "WKT 225",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/225/"
+    },
+    {
+      "text": "WKT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+    },
+    {
+      "text": "WKT 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/325/"
+    },
+    {
+      "text": "WKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+    },
+    {
+      "text": "WKT 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/425/"
+    },
+    {
+      "text": "WKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Management - Economics and Management Science Major"
+    },
+    {
+      "kind": "text",
+      "text": "Business Management",
+      "links": [
+        {
+          "text": "Business Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview",
+      "links": [
+        {
+          "text": "Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In today's highly technical and computerized world, acquiring timely and accurate business and economic data is essential for successful management decision-making. In this major you will become well-versed in economic analysis and quantitative skills, which are in high-demand in today’s fast-paced global economy."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Optional Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section(s). The School offers an optional co-op program which provides graduates with up to 16 months of work experience integrated into their academic program. The co-op option extends the program by one year. The School cannot guarantee work term jobs, but the Business Career Hub and the School will prospect for employers and make every effort to locate suitable positions, as well as be available to advise students on their search for program related jobs. The co-op program enables students to earn prevailing wages for the level of responsibility and contribution of the jobs they perform and thus finance at least part of their university education."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 702 Calculus for Business",
+      "links": [
+        {
+          "text": "QMS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . Course selection must not include any courses with an ECN prefix.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 230 Mathematics for Economics II",
+      "links": [
+        {
+          "text": "ECN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 442 Multiple Regression for Business",
+      "links": [
+        {
+          "text": "QMS 442",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/442/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . Course selection must not include any courses with an ECN prefix.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 122 and ITM 102 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        },
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 301 Intermediate Macroeconomics I",
+      "links": [
+        {
+          "text": "ECN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 504 Intermediate Microeconomics I",
+      "links": [
+        {
+          "text": "ECN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 627 Econometrics I",
+      "links": [
+        {
+          "text": "ECN 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 600 Intermediate Macroeconomics II",
+      "links": [
+        {
+          "text": "ECN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 700 Intermediate Microeconomics II",
+      "links": [
+        {
+          "text": "ECN 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 702 Econometrics II",
+      "links": [
+        {
+          "text": "ECN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.0 and completion of all 1st and 2nd year courses at the time of application. Subject to competition, grades above the minimum may be required"
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communication skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 702 Calculus for Business",
+      "links": [
+        {
+          "text": "QMS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . Course selection must not include any courses with an ECN prefix.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 230 Mathematics for Economics",
+      "links": [
+        {
+          "text": "ECN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 442 Multiple Regression for Business",
+      "links": [
+        {
+          "text": "QMS 442",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/442/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . Course selection must not include any courses with an ECN prefix.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 122 and ITM 102 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        },
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 301 Intermediate Macroeconomics I",
+      "links": [
+        {
+          "text": "ECN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 504 Intermediate Microeconomics I",
+      "links": [
+        {
+          "text": "ECN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 627 Econometrics I",
+      "links": [
+        {
+          "text": "ECN 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 600 Intermediate Macroeconomics II",
+      "links": [
+        {
+          "text": "ECN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 700 Intermediate Microeconomics II",
+      "links": [
+        {
+          "text": "ECN 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 702 Econometrics II",
+      "links": [
+        {
+          "text": "ECN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 125 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/125/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 225 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 225",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/225/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 325 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/325/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 425 or WKT 400 – Work Term IV",
+      "links": [
+        {
+          "text": "WKT 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/425/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Full-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 230 Mathematics for Economics II",
+      "links": [
+        {
+          "text": "ECN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 442 Multiple Regression for Business",
+      "links": [
+        {
+          "text": "QMS 442",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/442/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 702 Calculus for Business",
+      "links": [
+        {
+          "text": "QMS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 301 Intermediate Macroeconomics I",
+      "links": [
+        {
+          "text": "ECN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 504 Intermediate Microeconomics I",
+      "links": [
+        {
+          "text": "ECN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 627 Econometrics I",
+      "links": [
+        {
+          "text": "ECN 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 600 Intermediate Macroeconomics II",
+      "links": [
+        {
+          "text": "ECN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 700 Intermediate Microeconomics II",
+      "links": [
+        {
+          "text": "ECN 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 702 Econometrics II",
+      "links": [
+        {
+          "text": "ECN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 702 Calculus for Business",
+      "links": [
+        {
+          "text": "QMS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . Course selection must not include any courses with an ECN prefix.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 230 Mathematics for Economics",
+      "links": [
+        {
+          "text": "ECN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 442 Multiple Regression for Business",
+      "links": [
+        {
+          "text": "QMS 442",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/442/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . Course selection must not include any courses with an ECN prefix.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 122 and ITM 102 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        },
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 301 Intermediate Macroeconomics I",
+      "links": [
+        {
+          "text": "ECN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 504 Intermediate Microeconomics I",
+      "links": [
+        {
+          "text": "ECN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 627 Econometrics I",
+      "links": [
+        {
+          "text": "ECN 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 600 Intermediate Macroeconomics II",
+      "links": [
+        {
+          "text": "ECN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 700 Intermediate Microeconomics II",
+      "links": [
+        {
+          "text": "ECN 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 702 Econometrics II",
+      "links": [
+        {
+          "text": "ECN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 230 Mathematics for Economics II",
+      "links": [
+        {
+          "text": "ECN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 442 Multiple Regression for Business",
+      "links": [
+        {
+          "text": "QMS 442",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/442/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 702 Calculus for Business",
+      "links": [
+        {
+          "text": "QMS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 301 Intermediate Macroeconomics I",
+      "links": [
+        {
+          "text": "ECN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 504 Intermediate Microeconomics I",
+      "links": [
+        {
+          "text": "ECN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 627 Econometrics I",
+      "links": [
+        {
+          "text": "ECN 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 600 Intermediate Macroeconomics II",
+      "links": [
+        {
+          "text": "ECN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 700 Intermediate Microeconomics II",
+      "links": [
+        {
+          "text": "ECN 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 702 Econometrics II",
+      "links": [
+        {
+          "text": "ECN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 501 Industrial Organization",
+      "links": [
+        {
+          "text": "ECN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 601 Economics of Information",
+      "links": [
+        {
+          "text": "ECN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 610 The History of Economic Thought",
+      "links": [
+        {
+          "text": "ECN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 614 An Introduction to Game Theory",
+      "links": [
+        {
+          "text": "ECN 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 620 Applied Economic Analysis",
+      "links": [
+        {
+          "text": "ECN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 630 Economic History",
+      "links": [
+        {
+          "text": "ECN 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 640 Economics of Immigration",
+      "links": [
+        {
+          "text": "ECN 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 703 Public Sector Economics",
+      "links": [
+        {
+          "text": "ECN 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 707 Economics of International Trade",
+      "links": [
+        {
+          "text": "ECN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 715 Advanced Microeconomics",
+      "links": [
+        {
+          "text": "ECN 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 723 Applied Research Methods",
+      "links": [
+        {
+          "text": "ECN 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 724 Advanced Econometrics",
+      "links": [
+        {
+          "text": "ECN 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 725 Financial Econometrics",
+      "links": [
+        {
+          "text": "ECN 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 726 Economics of Developing Countries",
+      "links": [
+        {
+          "text": "ECN 726",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/726/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 729 Sports Economics",
+      "links": [
+        {
+          "text": "ECN 729",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/729/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 808 Economic Growth and Technological Change",
+      "links": [
+        {
+          "text": "ECN 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 815 Advanced Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 820 Thesis",
+      "links": [
+        {
+          "text": "ECN 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Course selection must not include any courses with an ECN prefix."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Business Management - Economics and Management Science Major"
+}

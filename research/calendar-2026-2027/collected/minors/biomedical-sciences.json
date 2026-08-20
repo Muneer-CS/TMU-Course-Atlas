@@ -1,0 +1,579 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/biomedical_sciences_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "27215c5664483f1d463cea2a97159132c4ecee5f4739e8308bfa2eca2d0df7da",
+  "source_bytes": 56444,
+  "title": "Minor in Biomedical Sciences",
+  "headings": [
+    "Minor in Biomedical Sciences"
+  ],
+  "course_codes_referenced": [
+    "BCH 261",
+    "BLG 101",
+    "BLG 111",
+    "BLG 143",
+    "BLG 151",
+    "BLG 251",
+    "BLG 311",
+    "BLG 315",
+    "BLG 400",
+    "BLG 408",
+    "BLG 411",
+    "BLG 578",
+    "BLG 601",
+    "BLG 655",
+    "BLG 678",
+    "BLG 699",
+    "BLG 701",
+    "BLG 788",
+    "BLG 850",
+    "BMS 110",
+    "BMS 451",
+    "BMS 600",
+    "BMS 700"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Biology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+    },
+    {
+      "text": "Biomedical Sciences",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biomedical_sci/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "BMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/110/"
+    },
+    {
+      "text": "BCH 261",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+    },
+    {
+      "text": "BLG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+    },
+    {
+      "text": "BLG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+    },
+    {
+      "text": "BLG 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+    },
+    {
+      "text": "BLG 251",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/251/"
+    },
+    {
+      "text": "BLG 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+    },
+    {
+      "text": "BLG 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+    },
+    {
+      "text": "BLG 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+    },
+    {
+      "text": "BLG 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/408/"
+    },
+    {
+      "text": "BLG 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/411/"
+    },
+    {
+      "text": "BLG 578",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/578/"
+    },
+    {
+      "text": "BLG 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+    },
+    {
+      "text": "BLG 655",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/655/"
+    },
+    {
+      "text": "BLG 678",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/678/"
+    },
+    {
+      "text": "BLG 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+    },
+    {
+      "text": "BLG 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+    },
+    {
+      "text": "BLG 788",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/788/"
+    },
+    {
+      "text": "BLG 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+    },
+    {
+      "text": "BMS 451",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/451/"
+    },
+    {
+      "text": "BMS 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/600/"
+    },
+    {
+      "text": "BMS 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/700/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/biomedical_sciences_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Biomedical Sciences"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Biomedical Sciences allows students to increase their understanding of the role that biomedical sciences plays in modern society. Students completing the Minor in Biomedical Sciences will be introduced to basic knowledge of the cellular basis of life, introduction to heredity and cellular metabolism as well as historical developments in biomedical sciences and a brief introduction to ethical issues inherent in this field. This minor is also intended to provide students with additional qualifications that will enhance their options in science-related careers and graduate studies, particularly in biotechnology- or life-science-associated fields."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Chemistry and Biology"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Biology - all options, regular and co-op programs",
+      "links": [
+        {
+          "text": "Biology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Biomedical Sciences - regular and co-op programs",
+      "links": [
+        {
+          "text": "Biomedical Sciences",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biomedical_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This minor cannot be taken in conjunction with the Minor in Biology."
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (2):"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 110 Biomedical Science in Society",
+      "links": [
+        {
+          "text": "BMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 261 Biochemistry",
+      "links": [
+        {
+          "text": "BCH 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 101 Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 111 Anatomy and Physiology II",
+      "links": [
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 151 Microbiology I",
+      "links": [
+        {
+          "text": "BLG 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 251 Microbiology II",
+      "links": [
+        {
+          "text": "BLG 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/251/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 315 Evolution",
+      "links": [
+        {
+          "text": "BLG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 400 Genetics",
+      "links": [
+        {
+          "text": "BLG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 408 Viruses",
+      "links": [
+        {
+          "text": "BLG 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 411 Cell Biology II",
+      "links": [
+        {
+          "text": "BLG 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 578 Pharmacology",
+      "links": [
+        {
+          "text": "BLG 578",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/578/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 601 Physiology",
+      "links": [
+        {
+          "text": "BLG 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 655 Viruses Among Us",
+      "links": [
+        {
+          "text": "BLG 655",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/655/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 678 Current Topics in Biology",
+      "links": [
+        {
+          "text": "BLG 678",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/678/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 699 Social Factors in Drug Development",
+      "links": [
+        {
+          "text": "BLG 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 701 Anatomy",
+      "links": [
+        {
+          "text": "BLG 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 788 Current Topics in Biotechnology",
+      "links": [
+        {
+          "text": "BLG 788",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/788/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 850 What is Cancer?",
+      "links": [
+        {
+          "text": "BLG 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 451 Medical Microbiology",
+      "links": [
+        {
+          "text": "BMS 451",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/451/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 600 Human Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BMS 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 700 Human Anatomy and Physiology II",
+      "links": [
+        {
+          "text": "BMS 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Biomedical Sciences"
+}

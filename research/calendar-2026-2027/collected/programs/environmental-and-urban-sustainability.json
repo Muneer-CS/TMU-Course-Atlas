@@ -1,0 +1,2173 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "e5962308d003808eb2c76d44cbc2d749276c15bd0ae76bb4d4ceb5d25e5c0a4e",
+  "source_bytes": 146063,
+  "title": "Environmental and Urban Sustainability",
+  "headings": [
+    "Environmental and Urban Sustainability",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Career Opportunities",
+    "Transferability Guidelines",
+    "Co-operative Program Overview",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BLG 143",
+    "EUS 102",
+    "EUS 202",
+    "EUS 301",
+    "EUS 401",
+    "EUS 402",
+    "EUS 450",
+    "EUS 501",
+    "EUS 550",
+    "EUS 601",
+    "EUS 701",
+    "EUS 801",
+    "EUS 860",
+    "EUS 900",
+    "EUS 901",
+    "GEO 110",
+    "GEO 131",
+    "GEO 141",
+    "GEO 161",
+    "GEO 171",
+    "GEO 231",
+    "GEO 311",
+    "GEO 313",
+    "GEO 513",
+    "HST 788",
+    "PHL 214",
+    "POL 203",
+    "POL 377",
+    "SSH 105",
+    "SSH 205",
+    "SSH 301",
+    "WKT 150",
+    "WKT 250",
+    "WKT 350",
+    "WKT 450"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+    },
+    {
+      "text": "EUS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+    },
+    {
+      "text": "EUS 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+    },
+    {
+      "text": "GEO 171",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/171/"
+    },
+    {
+      "text": "WKT 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+    },
+    {
+      "text": "WKT 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+    },
+    {
+      "text": "WKT 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+    },
+    {
+      "text": "WKT 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "GEO 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "POL 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/203/"
+    },
+    {
+      "text": "HST 788",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/788/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "EUS 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/301/"
+    },
+    {
+      "text": "EUS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/401/"
+    },
+    {
+      "text": "EUS 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/402/"
+    },
+    {
+      "text": "GEO 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/313/"
+    },
+    {
+      "text": "SSH 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "GEO 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "EUS 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/900/"
+    },
+    {
+      "text": "EUS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/501/"
+    },
+    {
+      "text": "EUS 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/601/"
+    },
+    {
+      "text": "GEO 513",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+    },
+    {
+      "text": "POL 377",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/377/"
+    },
+    {
+      "text": "EUS 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/901/"
+    },
+    {
+      "text": "EUS 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/701/"
+    },
+    {
+      "text": "EUS 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/801/"
+    },
+    {
+      "text": "SSH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+    },
+    {
+      "text": "GEO 161",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/161/"
+    },
+    {
+      "text": "SSH 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+    },
+    {
+      "text": "GEO 141",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/141/"
+    },
+    {
+      "text": "GEO 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+    },
+    {
+      "text": "EUS 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+    },
+    {
+      "text": "GEO 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+    },
+    {
+      "text": "EUS 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+    },
+    {
+      "text": "EUS 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Environmental and Urban Sustainability"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Arts",
+      "links": [
+        {
+          "text": "Faculty of Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Geography and Environmental Studies",
+      "links": [
+        {
+          "text": "Department of Geography and Environmental Studies",
+          "url": "https://www.torontomu.ca/content/ryerson/geography/programs/environment-urban-sustainability/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The program integrates the social sciences, natural sciences, and applied disciplines as related to environmental and sustainability issues."
+    },
+    {
+      "kind": "text",
+      "text": "The first year of the Environmental and Urban Sustainability program is structured around a core of courses focused on the development of the skills required for academic and future success in the workplace: field methods, research design, academic writing, critical thinking and demographic analysis."
+    },
+    {
+      "kind": "text",
+      "text": "In years 2, 3 and 4 these skills are honed as students interpret environments, examine ecological processes, explore urban policy, critique sustainable initiatives, and use the principles underlying physical and natural environments."
+    },
+    {
+      "kind": "text",
+      "text": "Students can select courses from a variety of fields including geography, history, philosophy, politics and public administration, sociology, law and business, architectural science, economics, chemistry, biology, occupational and public health and urban planning. The flexibility in the curriculum allows students to focus on a specific field of interest. For example, students can choose to focus their studies on environmental management, environmental policy, environmental design, community studies, or natural science, or they can sample widely from among the options."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "The environmental sector is one of the largest employers in the Canadian economy. With a background in environment and urban sustainability students are prepared for success in a number of stimulating career opportunities depending on the focus they have chosen for their studies. As the number and complexity of environmental challenges grow, employers in the private sector, non-government organizations, consulting firms and governments are seeking graduates with a well-rounded understanding of the issues, who are able to act as analysts, managers and communicators. The program may also serve as a stepping stone to further studies, such as those offered in colleges of education, law schools and a variety of graduate programs."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transferability Guidelines"
+    },
+    {
+      "kind": "text",
+      "text": "In order to transfer to Environmental and Urban Sustainability from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology, or Sociology, students must:"
+    },
+    {
+      "kind": "list_item",
+      "text": "have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and"
+    },
+    {
+      "kind": "list_item",
+      "text": "have successfully completed EUS 102 or EUS 202 . It is strongly recommended that students complete both EUS 102 and EUS 202 in first year.",
+      "links": [
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        },
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        },
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        },
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "text",
+      "text": "An optional co-operative education program is available which provides students with 12 months of work experience which will complement their classroom studies and support the development of essential employability skills required for the workforce, including communication, collaboration and problem-solving. Although the Career & Co-op Centre cannot guarantee placements, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education."
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first semester of the regular program must apply through the department for admission to the co-operative program before the end of the first year. Enrolment in the co-op program is limited. Admission will be based on a portfolio which includes the student's grade point average, a resume and a statement of intent. Students must complete GEO 171 prior to their first placement. The sequencing of academic and work terms is shown below:",
+      "links": [
+        {
+          "text": "GEO 171",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/171/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 450",
+      "links": [
+        {
+          "text": "WKT 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the co-op program. Once the requirements are satisfied, the possibility of doing another work term is at the discretion of the Career & Co-op Centre, in consultation with the Faculty Advisor. In most cases the co-op program requires five years to complete the degree in Environmental and Urban Sustainability. Students may have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All co-op placements must be approved by the Career & Co-op Centre and the Faculty Advisor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and four upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 110 , PHL 214 , POL 203 and EUS courses are not available for credit. Students may take only one Geography course for credit.",
+      "links": [
+        {
+          "text": "GEO 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        },
+        {
+          "text": "POL 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "HST 788 is not available for credit to students who choose HST 788 from Core Elective Table II. Students may take only three Politics courses or Geography courses for credit. EUS courses are not available for credit.",
+      "links": [
+        {
+          "text": "HST 788",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/788/"
+        },
+        {
+          "text": "HST 788",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/788/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 301 Reading Neighbourhood Environments",
+      "links": [
+        {
+          "text": "EUS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 401 Patterns of Demography and Environment",
+      "links": [
+        {
+          "text": "EUS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 402 Research and Statistics",
+      "links": [
+        {
+          "text": "EUS 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 313 Weather and Climate",
+      "links": [
+        {
+          "text": "GEO 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One of:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 131 Energy, Earth and Ecosystems",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE: One course from Table I or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students may opt to enrol in EUS 900 EUS Internship Placement I. Eligible students must obtain department consent. This is a non-credit course. Contact the Environmental and Urban Sustainability website (opens in new window) for further information.",
+      "links": [
+        {
+          "text": "EUS 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/900/"
+        },
+        {
+          "text": "Environmental and Urban Sustainability website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/geography/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2027-2028 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 501 Ecological Processes in the Cdn Landscape",
+      "links": [
+        {
+          "text": "EUS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 601 Nature in Fragments",
+      "links": [
+        {
+          "text": "EUS 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 513 Physical Geography in Decision Support",
+      "links": [
+        {
+          "text": "GEO 513",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 377 Urban Sustainability Policy",
+      "links": [
+        {
+          "text": "POL 377",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/377/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students may opt to enrol in EUS 901 EUS Internship Placement II. Eligible students must obtain department consent. This is a non-credit course. Contact the Environmental and Urban Sustainability website (opens in new window) for further information.",
+      "links": [
+        {
+          "text": "EUS 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/901/"
+        },
+        {
+          "text": "Environmental and Urban Sustainability website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/geography/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2028-2029 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 701 Field Studies in Urban Environmental Sci.",
+      "links": [
+        {
+          "text": "EUS 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 801 Senior Professional Project",
+      "links": [
+        {
+          "text": "EUS 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/801/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2026-2027 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 102 Environment and Sustainability",
+      "links": [
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 131 Energy, Earth and Ecosystems",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking I",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 202 Sustaining the City’s Environments",
+      "links": [
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 161 Introduction to Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 161",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/161/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2027-2028 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 141 Geography and GIS",
+      "links": [
+        {
+          "text": "GEO 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/141/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 311 Indigenous Geographies",
+      "links": [
+        {
+          "text": "GEO 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 313 Weather and Climate",
+      "links": [
+        {
+          "text": "GEO 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/313/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE: One course from Table I or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 301 Reading Neighbourhood Environments",
+      "links": [
+        {
+          "text": "EUS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 450 Responses to Climate Change",
+      "links": [
+        {
+          "text": "EUS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2028-2029 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 701 Field Studies in Urban Environmental Sci",
+      "links": [
+        {
+          "text": "EUS 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 550 Sustainable Cities: Politics and Equity",
+      "links": [
+        {
+          "text": "EUS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 601 Nature in Fragments",
+      "links": [
+        {
+          "text": "EUS 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/601/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2029-2030 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 860 Measuring Sustainability",
+      "links": [
+        {
+          "text": "EUS 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 801 Senior Professional Project",
+      "links": [
+        {
+          "text": "EUS 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/801/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2026-2027 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 102 Environment and Sustainability",
+      "links": [
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 131 Energy, Earth and Ecosystems",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking I",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 202 Sustaining the City’s Environments",
+      "links": [
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 161 Introduction to Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 161",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/161/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2027-2028 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 141 Geography and GIS",
+      "links": [
+        {
+          "text": "GEO 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/141/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 311 Indigenous Geographies",
+      "links": [
+        {
+          "text": "GEO 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 313 Weather and Climate",
+      "links": [
+        {
+          "text": "GEO 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/313/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE: One course from Table I or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Students in the Co-op Program should take GEO 171 (Table I) to fulfil this requirement.",
+      "links": [
+        {
+          "text": "GEO 171",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/171/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 301 Reading Neighbourhood Environments",
+      "links": [
+        {
+          "text": "EUS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 450 Responses to Climate Change",
+      "links": [
+        {
+          "text": "EUS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2028-2029 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered Fall 2028 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 701 Field Studies in Urban Environmental Sci",
+      "links": [
+        {
+          "text": "EUS 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered Winter 2030 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 550 Sustainable Cities: Politics and Equity",
+      "links": [
+        {
+          "text": "EUS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 601 Nature in Fragments",
+      "links": [
+        {
+          "text": "EUS 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/601/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2030-2031 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 860 Measuring Sustainability",
+      "links": [
+        {
+          "text": "EUS 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 801 Senior Professional Project",
+      "links": [
+        {
+          "text": "EUS 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/801/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 450",
+      "links": [
+        {
+          "text": "WKT 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the co-op program. Once the requirements are satisfied, the possibility of doing another work term is at the discretion of the Career & Co-op Centre, in consultation with the Faculty Advisor. In most cases the co-op program requires five years to complete the degree in Environmental and Urban Sustainability. Students may have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All co-op placements must be approved by the Career & Co-op Centre and the Faculty Advisor."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Michelle Blake Environmental Compliance and Sustainability Manager Toromont Industries Sheldomar Elliott Racial Equity Coordinator FoodShare Toronto Rachel Singer Circular Economy Advisor ReLondon David MacLeod Senior Environmental Specialist Environment & Climate Division City of Toronto Megan Meaney Executive Director International Council for Local Environmental Initiatives Canada"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Environmental and Urban Sustainability"
+}

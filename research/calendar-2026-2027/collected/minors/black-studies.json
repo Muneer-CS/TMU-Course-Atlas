@@ -1,0 +1,713 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/blackstudies_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "e0043d08714d012a029e32c9bfe47a9c3f920ad7b8f3c14e413373d039e9784a",
+  "source_bytes": 63923,
+  "title": "Minor in Black Studies",
+  "headings": [
+    "Minor in Black Studies"
+  ],
+  "course_codes_referenced": [
+    "BPM 183",
+    "BPM 484",
+    "CLD 540",
+    "CRB 501",
+    "CRM 250",
+    "CYC 650",
+    "ENG 142",
+    "ENG 620",
+    "ENG 647",
+    "ENG 653",
+    "FFS 120",
+    "FRE 605",
+    "FRS 602",
+    "FSN 610",
+    "FSN 620",
+    "GEO 705",
+    "GMS 693",
+    "GMS 694",
+    "HIS 107",
+    "HIS 392",
+    "HIS 760",
+    "HIS 854",
+    "HST 222",
+    "HST 633",
+    "IDE 400",
+    "JRN 333",
+    "LIR 204",
+    "MWF 508",
+    "NNS 333",
+    "PHL 220",
+    "PHL 570",
+    "POG 342",
+    "POL 688",
+    "SOC 221",
+    "SOC 320",
+    "SOC 330",
+    "SOC 530",
+    "SOC 576",
+    "SOC 705",
+    "SPS 502",
+    "THF 470"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CRB 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/501/"
+    },
+    {
+      "text": "ENG 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+    },
+    {
+      "text": "FRS 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/602/"
+    },
+    {
+      "text": "GEO 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/705/"
+    },
+    {
+      "text": "GMS 693",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/693/"
+    },
+    {
+      "text": "HST 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/222/"
+    },
+    {
+      "text": "SPS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/502/"
+    },
+    {
+      "text": "ENG 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+    },
+    {
+      "text": "CLD 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/540/"
+    },
+    {
+      "text": "CRM 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/250/"
+    },
+    {
+      "text": "CYC 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/650/"
+    },
+    {
+      "text": "ENG 647",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+    },
+    {
+      "text": "ENG 653",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/653/"
+    },
+    {
+      "text": "FFS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/120/"
+    },
+    {
+      "text": "FRE 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+    },
+    {
+      "text": "FSN 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/610/"
+    },
+    {
+      "text": "FSN 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/620/"
+    },
+    {
+      "text": "GMS 694",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/694/"
+    },
+    {
+      "text": "HIS 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/107/"
+    },
+    {
+      "text": "HIS 392",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+    },
+    {
+      "text": "HIS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+    },
+    {
+      "text": "HIS 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+    },
+    {
+      "text": "HST 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/633/"
+    },
+    {
+      "text": "IDE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/400/"
+    },
+    {
+      "text": "JRN 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/333/"
+    },
+    {
+      "text": "LIR 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/204/"
+    },
+    {
+      "text": "MWF 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+    },
+    {
+      "text": "NNS 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/333/"
+    },
+    {
+      "text": "PHL 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/220/"
+    },
+    {
+      "text": "PHL 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/570/"
+    },
+    {
+      "text": "POG 342",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/342/"
+    },
+    {
+      "text": "POL 688",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/688/"
+    },
+    {
+      "text": "BPM 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/183/"
+    },
+    {
+      "text": "BPM 484",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/484/"
+    },
+    {
+      "text": "SOC 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+    },
+    {
+      "text": "SOC 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+    },
+    {
+      "text": "SOC 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+    },
+    {
+      "text": "SOC 576",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/576/"
+    },
+    {
+      "text": "SOC 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/705/"
+    },
+    {
+      "text": "THF 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/470/"
+    },
+    {
+      "text": "SOC 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/330/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Black Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Black Studies Minor provides students with an interdisciplinary approach to exploring the histories and cultures of Black diasporas, ideologies of anti-Black racism, themes of Black resistance to oppression and exploitation, and the range of political strategies and community-based mobilization tactics Black activists and their allies have employed to counter systemic and institutionalized oppressions and fight for social justice."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by : Department of English"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: Students may use a maximum of two (2) courses in any given discipline (indicated by the subject prefix of the course code) toward completion of the minor in Black Studies. Students may use a maximum of two (2) of HIS or HST courses towards completion of the minor. To enhance the cross-disciplinary range of the minor and to limit overlap with the Caribbean Studies minor, students are limited to only two (2) Caribbean Studies courses in the Black Studies minor; a maximum of two from the following: CRB 501 , ENG 620 , FRS 602 , GEO 705 , GMS 693 , HST 222 , SPS 502 . Please note, it is not possible for students to use the same course to count for more than ONE minor.",
+      "links": [
+        {
+          "text": "CRB 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/501/"
+        },
+        {
+          "text": "ENG 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+        },
+        {
+          "text": "FRS 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/602/"
+        },
+        {
+          "text": "GEO 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/705/"
+        },
+        {
+          "text": "GMS 693",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/693/"
+        },
+        {
+          "text": "HST 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/222/"
+        },
+        {
+          "text": "SPS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses in total from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Required course (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 142 Black Arts, Black Power",
+      "links": [
+        {
+          "text": "ENG 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) elective courses from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Group 1 : A minimum of three (3), maximum of five (5) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 540 Black Childhoods in Canada",
+      "links": [
+        {
+          "text": "CLD 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 250 Criminalizing Blackness",
+      "links": [
+        {
+          "text": "CRM 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/250/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 650 Roots and Resistance to Anti-Black Racism",
+      "links": [
+        {
+          "text": "CYC 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 647 Afrofuturism: Black 2 the Future",
+      "links": [
+        {
+          "text": "ENG 647",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 653 Black Literatures and Cultures",
+      "links": [
+        {
+          "text": "ENG 653",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/653/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 120 Fashion and Race",
+      "links": [
+        {
+          "text": "FFS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 610 Carnival Arts",
+      "links": [
+        {
+          "text": "FSN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 620 Black Fashion",
+      "links": [
+        {
+          "text": "FSN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 694 The African Business Environment",
+      "links": [
+        {
+          "text": "GMS 694",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/694/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 107 Colonization, Colonialism and Independence",
+      "links": [
+        {
+          "text": "HIS 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/107/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 392 African Canadian History",
+      "links": [
+        {
+          "text": "HIS 392",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 760 The African Diaspora",
+      "links": [
+        {
+          "text": "HIS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 854 African-American History",
+      "links": [
+        {
+          "text": "HIS 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 633 Modern Africa",
+      "links": [
+        {
+          "text": "HST 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 400 Africa and Beyond: The Decolonization of Design Culture",
+      "links": [
+        {
+          "text": "IDE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "JRN 333 Reporting on Race",
+      "links": [
+        {
+          "text": "JRN 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 204 African Studies and Beyond",
+      "links": [
+        {
+          "text": "LIR 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 333 Covering Race",
+      "links": [
+        {
+          "text": "NNS 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 220 Introduction to Africana Philosophy",
+      "links": [
+        {
+          "text": "PHL 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 570 Black Political Thought",
+      "links": [
+        {
+          "text": "PHL 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 342 Politics in Africa",
+      "links": [
+        {
+          "text": "POG 342",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/342/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 688 Colonialism and Imperialism",
+      "links": [
+        {
+          "text": "POL 688",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/688/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 183 Rhythm, Beat and Groove",
+      "links": [
+        {
+          "text": "BPM 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/183/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 484 Music of the African Diaspora",
+      "links": [
+        {
+          "text": "BPM 484",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/484/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 221 The Hip Hop Lens on Society",
+      "links": [
+        {
+          "text": "SOC 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 320 Black Popular Culture",
+      "links": [
+        {
+          "text": "SOC 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 530 Blackness and Freedom",
+      "links": [
+        {
+          "text": "SOC 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 576 Colonialism and Anti-Blackness",
+      "links": [
+        {
+          "text": "SOC 576",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/576/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 705 Law, Justice, and Abolition",
+      "links": [
+        {
+          "text": "SOC 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 470 Black Creative Practices",
+      "links": [
+        {
+          "text": "THF 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/470/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2: Minimum of zero (0) to a maximum of two (2) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRB 501 Racism & Caribbean Peoples in Canada",
+      "links": [
+        {
+          "text": "CRB 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 620 Literatures of the Caribbean",
+      "links": [
+        {
+          "text": "ENG 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRS 602 French Caribbean Literature and Culture",
+      "links": [
+        {
+          "text": "FRS 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 705 Environment and Society of the Caribbean",
+      "links": [
+        {
+          "text": "GEO 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 693 The Latin American and Caribbean Business Environment",
+      "links": [
+        {
+          "text": "GMS 693",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/693/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 222 The History of the Caribbean",
+      "links": [
+        {
+          "text": "HST 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 330 Sociology of the Caribbean",
+      "links": [
+        {
+          "text": "SOC 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPS 502 Spanish Caribbean Literature and Culture",
+      "links": [
+        {
+          "text": "SPS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish-studies/SPS/502/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Black Studies"
+}

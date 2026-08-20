@@ -1,0 +1,2732 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "e5639de855ddf20cced17f48dfef0e1735c035baf63388ae520f3d484774f942",
+  "source_bytes": 103074,
+  "title": "Arts and Contemporary Studies - Table II",
+  "headings": [
+    "Arts and Contemporary Studies - Table II",
+    "Concentrations",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACS 106",
+    "ACS 210",
+    "ACS 220",
+    "ACS 300",
+    "ACS 302",
+    "ACS 400",
+    "ACS 402",
+    "ACS 910",
+    "ACS 950",
+    "ANT 100",
+    "ANT 200",
+    "ANT 306",
+    "ANT 900",
+    "ASL 101",
+    "ASL 201",
+    "BLG 143",
+    "BLG 144",
+    "CHS 504",
+    "CRM 250",
+    "CRM 515",
+    "DST 501",
+    "DST 504",
+    "DST 509",
+    "ECN 340",
+    "ECN 503",
+    "ECN 511",
+    "ENG 142",
+    "ENG 515",
+    "ENG 520",
+    "ENG 527",
+    "ENG 611",
+    "ENG 620",
+    "ENG 623",
+    "ENG 647",
+    "ENG 921",
+    "ENG 942",
+    "FRE 302",
+    "FRE 303",
+    "FRE 505",
+    "FRE 604",
+    "FRE 605",
+    "FRE 805",
+    "GEO 206",
+    "GEO 811",
+    "HIS 265",
+    "HIS 350",
+    "HIS 392",
+    "HIS 462",
+    "HIS 475",
+    "HIS 490",
+    "HIS 500",
+    "HIS 501",
+    "HIS 502",
+    "HIS 615",
+    "HIS 696",
+    "HIS 755",
+    "HIS 760",
+    "HIS 845",
+    "HST 219",
+    "HST 375",
+    "HST 430",
+    "HST 540",
+    "HST 658",
+    "INT 908",
+    "INT 965",
+    "LIR 200",
+    "LIR 208",
+    "LIR 300",
+    "LIR 302",
+    "LIR 400",
+    "MHR 523",
+    "MHR 600",
+    "MUS 503",
+    "MUS 505",
+    "NPF 571",
+    "PHL 220",
+    "PHL 320",
+    "PHL 340",
+    "PHL 400",
+    "PHL 430",
+    "PHL 509",
+    "PHL 570",
+    "PHL 603",
+    "PHL 710",
+    "POG 313",
+    "POG 323",
+    "POG 331",
+    "POG 370",
+    "POG 426",
+    "POG 427",
+    "POG 431",
+    "POG 443",
+    "PSY 505",
+    "PSY 802",
+    "PSY 813",
+    "REL 101",
+    "SEM 101",
+    "SEM 301",
+    "SOC 203",
+    "SOC 221",
+    "SOC 320",
+    "SOC 350",
+    "SOC 470",
+    "SOC 474",
+    "SOC 493",
+    "SOC 505",
+    "SOC 525",
+    "SOC 530",
+    "SOC 885",
+    "SPN 504",
+    "SPN 805",
+    "ZON 100"
+  ],
+  "official_links": [
+    {
+      "text": "Arts and Contemporary Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "ACS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+    },
+    {
+      "text": "ACS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/210/"
+    },
+    {
+      "text": "ACS 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/220/"
+    },
+    {
+      "text": "ACS 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/300/"
+    },
+    {
+      "text": "ACS 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/302/"
+    },
+    {
+      "text": "ACS 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/400/"
+    },
+    {
+      "text": "ACS 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/402/"
+    },
+    {
+      "text": "ACS 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/910/"
+    },
+    {
+      "text": "ACS 950",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/950/"
+    },
+    {
+      "text": "ANT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+    },
+    {
+      "text": "ANT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/200/"
+    },
+    {
+      "text": "ANT 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/306/"
+    },
+    {
+      "text": "ANT 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/900/"
+    },
+    {
+      "text": "ARB ***",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/"
+    },
+    {
+      "text": "ASL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/101/"
+    },
+    {
+      "text": "ASL 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/201/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "BLG 144",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+    },
+    {
+      "text": "CHN ***",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/"
+    },
+    {
+      "text": "CHS 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese-studies/CHS/504/"
+    },
+    {
+      "text": "CRM 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/250/"
+    },
+    {
+      "text": "CRM 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/515/"
+    },
+    {
+      "text": "DST 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+    },
+    {
+      "text": "DST 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+    },
+    {
+      "text": "DST 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/509/"
+    },
+    {
+      "text": "ECN 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/340/"
+    },
+    {
+      "text": "ECN 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/503/"
+    },
+    {
+      "text": "ECN 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/511/"
+    },
+    {
+      "text": "ENG 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+    },
+    {
+      "text": "ENG 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/515/"
+    },
+    {
+      "text": "ENG 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/520/"
+    },
+    {
+      "text": "ENG 527",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/527/"
+    },
+    {
+      "text": "ENG 611",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/611/"
+    },
+    {
+      "text": "ENG 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+    },
+    {
+      "text": "ENG 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+    },
+    {
+      "text": "ENG 647",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+    },
+    {
+      "text": "ENG 921",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/921/"
+    },
+    {
+      "text": "ENG 942",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/942/"
+    },
+    {
+      "text": "FRE 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+    },
+    {
+      "text": "FRE 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+    },
+    {
+      "text": "FRE 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+    },
+    {
+      "text": "FRE 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+    },
+    {
+      "text": "FRE 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+    },
+    {
+      "text": "FRE 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+    },
+    {
+      "text": "GEO 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/206/"
+    },
+    {
+      "text": "GEO 811",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/811/"
+    },
+    {
+      "text": "HIS 265",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/265/"
+    },
+    {
+      "text": "HIS 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/350/"
+    },
+    {
+      "text": "HIS 392",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+    },
+    {
+      "text": "HIS 462",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+    },
+    {
+      "text": "HIS 475",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+    },
+    {
+      "text": "HIS 490",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+    },
+    {
+      "text": "HIS 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+    },
+    {
+      "text": "HIS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+    },
+    {
+      "text": "HIS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+    },
+    {
+      "text": "HIS 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+    },
+    {
+      "text": "HIS 696",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+    },
+    {
+      "text": "HIS 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+    },
+    {
+      "text": "HIS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+    },
+    {
+      "text": "HIS 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+    },
+    {
+      "text": "HST 219",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/219/"
+    },
+    {
+      "text": "HST 375",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+    },
+    {
+      "text": "HST 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/430/"
+    },
+    {
+      "text": "HST 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/540/"
+    },
+    {
+      "text": "HST 658",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/658/"
+    },
+    {
+      "text": "INT 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+    },
+    {
+      "text": "INT 965",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/965/"
+    },
+    {
+      "text": "LIR 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+    },
+    {
+      "text": "LIR 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/208/"
+    },
+    {
+      "text": "LIR 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+    },
+    {
+      "text": "LIR 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/302/"
+    },
+    {
+      "text": "LIR 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+    },
+    {
+      "text": "MHK ***",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MHR 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+    },
+    {
+      "text": "MUS 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/503/"
+    },
+    {
+      "text": "MUS 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/505/"
+    },
+    {
+      "text": "NPF 571",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/571/"
+    },
+    {
+      "text": "PHL 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/220/"
+    },
+    {
+      "text": "PHL 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/320/"
+    },
+    {
+      "text": "PHL 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/340/"
+    },
+    {
+      "text": "PHL 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/400/"
+    },
+    {
+      "text": "PHL 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/430/"
+    },
+    {
+      "text": "PHL 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+    },
+    {
+      "text": "PHL 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/570/"
+    },
+    {
+      "text": "PHL 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/603/"
+    },
+    {
+      "text": "PHL 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/710/"
+    },
+    {
+      "text": "POG 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/313/"
+    },
+    {
+      "text": "POG 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/323/"
+    },
+    {
+      "text": "POG 331",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/331/"
+    },
+    {
+      "text": "POG 370",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/370/"
+    },
+    {
+      "text": "POG 426",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/426/"
+    },
+    {
+      "text": "POG 427",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/427/"
+    },
+    {
+      "text": "POG 431",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/431/"
+    },
+    {
+      "text": "POG 443",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/443/"
+    },
+    {
+      "text": "PSY 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/505/"
+    },
+    {
+      "text": "PSY 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+    },
+    {
+      "text": "PSY 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+    },
+    {
+      "text": "REL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/101/"
+    },
+    {
+      "text": "SEM 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/101/"
+    },
+    {
+      "text": "SEM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/301/"
+    },
+    {
+      "text": "SOC 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/203/"
+    },
+    {
+      "text": "SOC 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+    },
+    {
+      "text": "SOC 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+    },
+    {
+      "text": "SOC 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+    },
+    {
+      "text": "SOC 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/470/"
+    },
+    {
+      "text": "SOC 474",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/474/"
+    },
+    {
+      "text": "SOC 493",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/493/"
+    },
+    {
+      "text": "SOC 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+    },
+    {
+      "text": "SOC 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+    },
+    {
+      "text": "SOC 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+    },
+    {
+      "text": "SOC 885",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+    },
+    {
+      "text": "SPN 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+    },
+    {
+      "text": "SPN 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+    },
+    {
+      "text": "ZON 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_ii/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Arts and Contemporary Studies - Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Arts and Contemporary Studies",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Society, Equity and Ethics For students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 106 Introduction to Language",
+      "links": [
+        {
+          "text": "ACS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 210 Ideas: Antiquity",
+      "links": [
+        {
+          "text": "ACS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 220 Ideas: Middle Ages",
+      "links": [
+        {
+          "text": "ACS 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 300 Ideas: Early Modern",
+      "links": [
+        {
+          "text": "ACS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 302 Introduction to Culture and Media Studies",
+      "links": [
+        {
+          "text": "ACS 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 400 Ideas: Modernity",
+      "links": [
+        {
+          "text": "ACS 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 402 Introduction to Global Studies",
+      "links": [
+        {
+          "text": "ACS 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 910 Fellowship Practicum",
+      "links": [
+        {
+          "text": "ACS 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 950 Independent Research Paper",
+      "links": [
+        {
+          "text": "ACS 950",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/950/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 100 Introduction to Anthropology",
+      "links": [
+        {
+          "text": "ANT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 200 Decoding Culture",
+      "links": [
+        {
+          "text": "ANT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 306 Language, Culture, and Power",
+      "links": [
+        {
+          "text": "ANT 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 900 Anthropology Capstone",
+      "links": [
+        {
+          "text": "ANT 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB *** An Arabic course",
+      "links": [
+        {
+          "text": "ARB ***",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASL 101 American Sign language I",
+      "links": [
+        {
+          "text": "ASL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASL 201 American Sign Language I",
+      "links": [
+        {
+          "text": "ASL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 144 Biology II",
+      "links": [
+        {
+          "text": "BLG 144",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHN *** A Chinese course",
+      "links": [
+        {
+          "text": "CHN ***",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHS 504 Chinese Cultural Traditions",
+      "links": [
+        {
+          "text": "CHS 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese-studies/CHS/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 250 Criminalizing Blackness",
+      "links": [
+        {
+          "text": "CRM 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/250/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 515 Gendering Justice",
+      "links": [
+        {
+          "text": "CRM 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 501 Rethinking Disability",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 504 Mad People’s History",
+      "links": [
+        {
+          "text": "DST 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 509 Disability, Arts and Culture",
+      "links": [
+        {
+          "text": "DST 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 340 Economics of Human Behaviour",
+      "links": [
+        {
+          "text": "ECN 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 503 Economic Development",
+      "links": [
+        {
+          "text": "ECN 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 511 Economy and Environment",
+      "links": [
+        {
+          "text": "ECN 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 142 Black Arts, Black Power",
+      "links": [
+        {
+          "text": "ENG 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 515 Madness in Fiction",
+      "links": [
+        {
+          "text": "ENG 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 520 The Language of Persuasion",
+      "links": [
+        {
+          "text": "ENG 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 527 Digital Media and Story",
+      "links": [
+        {
+          "text": "ENG 527",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/527/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 611 Film and Literature",
+      "links": [
+        {
+          "text": "ENG 611",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/611/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 620 Literatures of the Caribbean",
+      "links": [
+        {
+          "text": "ENG 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 623 Film/Literature: Middle East, North Africa",
+      "links": [
+        {
+          "text": "ENG 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 647 Afrofuturism",
+      "links": [
+        {
+          "text": "ENG 647",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 921 Storytelling in the Algorithmic Age",
+      "links": [
+        {
+          "text": "ENG 921",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/921/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 942 Decolonizing Literature",
+      "links": [
+        {
+          "text": "ENG 942",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/942/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 302 French Food, Wine and Hospitality",
+      "links": [
+        {
+          "text": "FRE 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 303 French Fashion",
+      "links": [
+        {
+          "text": "FRE 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 Language and Culture I",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 604 French for Health Care",
+      "links": [
+        {
+          "text": "FRE 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Language and Culture II",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 206 Regions, Nations and the Global Community",
+      "links": [
+        {
+          "text": "GEO 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/206/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 811 Global Environmental Issues",
+      "links": [
+        {
+          "text": "GEO 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/811/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 265 Asia: Foundations and Modern Nations",
+      "links": [
+        {
+          "text": "HIS 265",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/265/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 350 The Fight for Rights in North America",
+      "links": [
+        {
+          "text": "HIS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 392 African Canadian History",
+      "links": [
+        {
+          "text": "HIS 392",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 462 Intro to the Islamic World",
+      "links": [
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 475 Human Rights in Global History",
+      "links": [
+        {
+          "text": "HIS 475",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 490 International Relations from 1945",
+      "links": [
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 500 Digital History",
+      "links": [
+        {
+          "text": "HIS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 501 Archaeology and Material Culture",
+      "links": [
+        {
+          "text": "HIS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 502 Life Stories: Oral History",
+      "links": [
+        {
+          "text": "HIS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 615 Film, Television and 20th C History",
+      "links": [
+        {
+          "text": "HIS 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 696 History of Terrorism",
+      "links": [
+        {
+          "text": "HIS 696",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 755 Themes in Material Culture",
+      "links": [
+        {
+          "text": "HIS 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 760 The African Diaspora",
+      "links": [
+        {
+          "text": "HIS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 845 Canada in the International Sphere",
+      "links": [
+        {
+          "text": "HIS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 219 Decolonization: History Through Film",
+      "links": [
+        {
+          "text": "HST 219",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/219/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 375 LGBTQ2S+ Histories",
+      "links": [
+        {
+          "text": "HST 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 430 Food History",
+      "links": [
+        {
+          "text": "HST 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 540 Espionage: A Modern History",
+      "links": [
+        {
+          "text": "HST 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 658 Sex in the City",
+      "links": [
+        {
+          "text": "HST 658",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/658/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 908 Homelessness in Canada",
+      "links": [
+        {
+          "text": "INT 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 965 Sex, Drugs and Incarceration",
+      "links": [
+        {
+          "text": "INT 965",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/965/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 200 Critical Practices in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 208 Skateboarding as a Cultural Bridge",
+      "links": [
+        {
+          "text": "LIR 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/208/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 300 Intercultural Negotiations",
+      "links": [
+        {
+          "text": "LIR 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 302 Food Language and Culture",
+      "links": [
+        {
+          "text": "LIR 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 400 Ethnographic Practices",
+      "links": [
+        {
+          "text": "LIR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK *** A Mohawk course",
+      "links": [
+        {
+          "text": "MHK ***",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 503 Social Issues in Popular Music",
+      "links": [
+        {
+          "text": "MUS 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 505 History of Pop Music",
+      "links": [
+        {
+          "text": "MUS 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 571 Introduction to Museum and Gallery Studies",
+      "links": [
+        {
+          "text": "NPF 571",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/571/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 220 Introduction to Africana Philosophy",
+      "links": [
+        {
+          "text": "PHL 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 320 Queer Theory",
+      "links": [
+        {
+          "text": "PHL 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 340 Trans Philosophy",
+      "links": [
+        {
+          "text": "PHL 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 400 Human Rights and Justice",
+      "links": [
+        {
+          "text": "PHL 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 430 Philosophy of Artificial Intelligence",
+      "links": [
+        {
+          "text": "PHL 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 509 Bioethics",
+      "links": [
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 570 Black Political Thought",
+      "links": [
+        {
+          "text": "PHL 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 603 The Nature of Ethics",
+      "links": [
+        {
+          "text": "PHL 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 710 Philosophy and Film",
+      "links": [
+        {
+          "text": "PHL 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 313 The Politics of Race and Ethnicity",
+      "links": [
+        {
+          "text": "POG 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 323 Politics of International Development",
+      "links": [
+        {
+          "text": "POG 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 331 Politics and Cinema",
+      "links": [
+        {
+          "text": "POG 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 370 Politics of Global Migration and Inequality",
+      "links": [
+        {
+          "text": "POG 370",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/370/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 426 Global Conflict and Peace",
+      "links": [
+        {
+          "text": "POG 426",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/426/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 427 Women, War and Peace",
+      "links": [
+        {
+          "text": "POG 427",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/427/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 431 Power, Domination and Resistance",
+      "links": [
+        {
+          "text": "POG 431",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/431/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 443 Global Urban Politics",
+      "links": [
+        {
+          "text": "POG 443",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/443/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 505 Personality Theory",
+      "links": [
+        {
+          "text": "PSY 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 802 Death, Dying and Bereavement",
+      "links": [
+        {
+          "text": "PSY 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 813 Psychology of Art and Creativity",
+      "links": [
+        {
+          "text": "PSY 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REL 101 Introduction to World Religions",
+      "links": [
+        {
+          "text": "REL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SEM 101 Sign, Sense and Meaning",
+      "links": [
+        {
+          "text": "SEM 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SEM 301 Cognitive Semiotics",
+      "links": [
+        {
+          "text": "SEM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 203 Social Class and Inequality",
+      "links": [
+        {
+          "text": "SOC 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 221 Hip Hop Lens on Society",
+      "links": [
+        {
+          "text": "SOC 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 320 Black Popular Culture",
+      "links": [
+        {
+          "text": "SOC 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 350 Queer Sociology",
+      "links": [
+        {
+          "text": "SOC 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 470 Toronto: the Changing City",
+      "links": [
+        {
+          "text": "SOC 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 474 Immigration, Borders and Belonging",
+      "links": [
+        {
+          "text": "SOC 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/474/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 493 Creating Social Change",
+      "links": [
+        {
+          "text": "SOC 493",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/493/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 505 Sociology of Sport",
+      "links": [
+        {
+          "text": "SOC 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 525 Media and Images of Inequality",
+      "links": [
+        {
+          "text": "SOC 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 530 Blackness and Freedom",
+      "links": [
+        {
+          "text": "SOC 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 504 Spanish Language and Culture Through Films",
+      "links": [
+        {
+          "text": "SPN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ZON 100 Zone Learning Project I",
+      "links": [
+        {
+          "text": "ZON 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentrations"
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Courses are selected from Core Elective Table II. Students must declare their concentration prior to applying to graduate. Students must declare their intention to pursue the Concentration at the end of the Winter semester in Year 2. Concentrations are not required. Students who are not completing a concentration may choose any core elective from Table II, including electives from the concentrations. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirement of minor."
+    },
+    {
+      "kind": "text",
+      "text": "Students may choose to complete an optional Concentration (from Core Elective Table II) from the list below:"
+    },
+    {
+      "kind": "text",
+      "text": "Concentration in Anthropology This concentration examines the study of anthropology in its attempts to understand the human experience, past and present, using holistic, comparative, and field based evolutionary perspectives and practices. Students will earn a strong base in anthropological history, theory and methods as well as acquire important skills allowing them to conduct research and analysis in the mode of an anthropologist, examining and interpreting the immediate world around them. Students must complete eight (8) courses as follows: REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 100 Introduction to Anthropology",
+      "links": [
+        {
+          "text": "ANT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "One (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 200 Decoding Culture",
+      "links": [
+        {
+          "text": "ANT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 306 Language, Culture, and Power Six (6) of the following:",
+      "links": [
+        {
+          "text": "ANT 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 106 Introduction to Language",
+      "links": [
+        {
+          "text": "ACS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 200 Decoding Culture",
+      "links": [
+        {
+          "text": "ANT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 306 Language, Culture, and Power;",
+      "links": [
+        {
+          "text": "ANT 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 900 Anthropology Capstone",
+      "links": [
+        {
+          "text": "ANT 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 144 Biology II",
+      "links": [
+        {
+          "text": "BLG 144",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 501 Archaeology and Material Culture",
+      "links": [
+        {
+          "text": "HIS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 502 Life Stories: Oral History",
+      "links": [
+        {
+          "text": "HIS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 755 Themes in Material Culture",
+      "links": [
+        {
+          "text": "HIS 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 200 Critical Practices in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 300 Intercultural Negotiations",
+      "links": [
+        {
+          "text": "LIR 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 400 Ethnographic Practices",
+      "links": [
+        {
+          "text": "LIR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SEM 101 Sign, Sense and Meaning",
+      "links": [
+        {
+          "text": "SEM 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SEM 301 Cognitive Semiotics",
+      "links": [
+        {
+          "text": "SEM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Concentration in Culture and Media Studies Students examine the forms of cultural expression that have become a measure of who we are and who we dream of becoming. They explore cultural identity through both high culture and popular entertainment. Students must complete eight (8) courses as follows: REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 302 Introduction to Culture and Media Studies",
+      "links": [
+        {
+          "text": "ACS 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/302/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Seven (7) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHS 504 Chinese Cultural Traditions",
+      "links": [
+        {
+          "text": "CHS 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese-studies/CHS/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 509 Disability, Arts and Culture",
+      "links": [
+        {
+          "text": "DST 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 142 Black Arts, Black Power",
+      "links": [
+        {
+          "text": "ENG 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 515 Madness in Fiction",
+      "links": [
+        {
+          "text": "ENG 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 611 Film and Literature",
+      "links": [
+        {
+          "text": "ENG 611",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/611/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 620 Literatures of the Caribbean",
+      "links": [
+        {
+          "text": "ENG 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 623 Film/Literature: Middle East, North Africa",
+      "links": [
+        {
+          "text": "ENG 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 647 Afrofuturism",
+      "links": [
+        {
+          "text": "ENG 647",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 302 French Food, Wine and Hospitality",
+      "links": [
+        {
+          "text": "FRE 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 303 French Fashion",
+      "links": [
+        {
+          "text": "FRE 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 Language and Culture I",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Language and Culture II",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 392 African Canadian History",
+      "links": [
+        {
+          "text": "HIS 392",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 462 Intro to the Islamic World",
+      "links": [
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 615 Film, Television and 20th C History",
+      "links": [
+        {
+          "text": "HIS 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 219 Decolonization: History Through Film",
+      "links": [
+        {
+          "text": "HST 219",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/219/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 375 LGBTQS+ Histories",
+      "links": [
+        {
+          "text": "HST 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 430 Food History",
+      "links": [
+        {
+          "text": "HST 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 658 Sex in the City",
+      "links": [
+        {
+          "text": "HST 658",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/658/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 208 Skateboarding as a Cultural Bridge",
+      "links": [
+        {
+          "text": "LIR 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/208/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 302 Food Language and Culture",
+      "links": [
+        {
+          "text": "LIR 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 503 Social Issues in Popular Music",
+      "links": [
+        {
+          "text": "MUS 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 505 History of Pop Music",
+      "links": [
+        {
+          "text": "MUS 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 571 Introduction to Museum and Gallery Studies",
+      "links": [
+        {
+          "text": "NPF 571",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/571/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 220 Introduction to Africana Philosophy",
+      "links": [
+        {
+          "text": "PHL 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 320 Queer Theory",
+      "links": [
+        {
+          "text": "PHL 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 710 Philosophy and Film",
+      "links": [
+        {
+          "text": "PHL 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 331 Politics and Cinema",
+      "links": [
+        {
+          "text": "POG 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 802 Death, Dying and Bereavement",
+      "links": [
+        {
+          "text": "PSY 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 813 Psychology of Art and Creativity",
+      "links": [
+        {
+          "text": "PSY 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REL 101 Introduction to World Religions",
+      "links": [
+        {
+          "text": "REL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 221 Hip Hop Lens on Society",
+      "links": [
+        {
+          "text": "SOC 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 320 Black Popular Culture",
+      "links": [
+        {
+          "text": "SOC 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 350 Queer Sociology",
+      "links": [
+        {
+          "text": "SOC 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 505 Sociology of Sport",
+      "links": [
+        {
+          "text": "SOC 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 525 Media and Images of Inequality",
+      "links": [
+        {
+          "text": "SOC 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 504 Spanish Language and Culture through Films",
+      "links": [
+        {
+          "text": "SPN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Concentration in Global Studies This option explores the often volatile mix of global issues and perspectives, environmental concerns and corporate interests that drive contemporary society and culture at a time when global transformations are transcending political boundaries. Students must complete eight (8) courses as follows: REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 402 Introduction to Global Studies",
+      "links": [
+        {
+          "text": "ACS 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/402/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Seven (7) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 503 Economic Development",
+      "links": [
+        {
+          "text": "ECN 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 511 Economy and Environment",
+      "links": [
+        {
+          "text": "ECN 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 942 Decolonizing Literature",
+      "links": [
+        {
+          "text": "ENG 942",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/942/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 206 Regions, Nations and the Global Community",
+      "links": [
+        {
+          "text": "GEO 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/206/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 811 Global Environmental Issues",
+      "links": [
+        {
+          "text": "GEO 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/811/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 265 Asia: Foundations and Modern Nations",
+      "links": [
+        {
+          "text": "HIS 265",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/265/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 350 The Fight for Rights in North America",
+      "links": [
+        {
+          "text": "HIS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 475 Human Rights in Global History",
+      "links": [
+        {
+          "text": "HIS 475",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 490 International Relations from 1945",
+      "links": [
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 760 The African Diaspora",
+      "links": [
+        {
+          "text": "HIS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 696 History of Terrorism",
+      "links": [
+        {
+          "text": "HIS 696",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 845 Canada in the International Sphere",
+      "links": [
+        {
+          "text": "HIS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 540 Espionage: A Modern History",
+      "links": [
+        {
+          "text": "HST 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 570 Black Political Thought",
+      "links": [
+        {
+          "text": "PHL 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 323 Politics of International Development",
+      "links": [
+        {
+          "text": "POG 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 370 Politics of Global Migration and Inequality",
+      "links": [
+        {
+          "text": "POG 370",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/370/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 426 Global Conflict and Peace",
+      "links": [
+        {
+          "text": "POG 426",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/426/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 431 Power, Domination and Resistance",
+      "links": [
+        {
+          "text": "POG 431",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/431/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 443 Global Urban Politics",
+      "links": [
+        {
+          "text": "POG 443",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/443/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 474 Immigration, Borders and Belonging",
+      "links": [
+        {
+          "text": "SOC 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/474/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 530 Blackness and Freedom",
+      "links": [
+        {
+          "text": "SOC 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/530/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Arts and Contemporary Studies - Table II."
+}

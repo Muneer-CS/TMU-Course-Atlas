@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "862cf0f773998b7373be4c66dcbf12b47d340a079771e962d5fd57579b528b23",
+  "source_bytes": 47372,
+  "title": "Faculty of Engineering and Architectural Science",
+  "headings": [
+    "Faculty of Engineering and Architectural Science",
+    "Undergraduate Programs Listed Alphabetically"
+  ],
+  "course_codes_referenced": [],
+  "official_links": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Faculty of Engineering and Architectural Science"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Undergraduate Programs Listed Alphabetically"
+    }
+  ],
+  "inventory_name": "Faculty of Engineering and Architectural Science"
+}

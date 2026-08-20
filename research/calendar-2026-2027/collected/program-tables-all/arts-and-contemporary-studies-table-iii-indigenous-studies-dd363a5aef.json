@@ -1,0 +1,346 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_iii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "eb789343550bb38b610ccd30e980052964ef1fbbc9dc76ab8c35481c2f09e176",
+  "source_bytes": 52709,
+  "title": "Arts and Contemporary Studies - Table III",
+  "headings": [
+    "Arts and Contemporary Studies - Table III",
+    "Indigenous Studies"
+  ],
+  "course_codes_referenced": [
+    "ENG 203",
+    "ENG 650",
+    "GEO 311",
+    "GEO 711",
+    "HAU 100",
+    "HAU 400",
+    "HST 580",
+    "LIR 203",
+    "MHK 101",
+    "MHK 201",
+    "PHL 535",
+    "PHL 565",
+    "POG 311",
+    "POG 440",
+    "PPA 124",
+    "PSY 674",
+    "SOC 427",
+    "SOC 540",
+    "SOC 553",
+    "SOC 580"
+  ],
+  "official_links": [
+    {
+      "text": "Arts and Contemporary Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "ENG 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+    },
+    {
+      "text": "ENG 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/650/"
+    },
+    {
+      "text": "GEO 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+    },
+    {
+      "text": "GEO 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+    },
+    {
+      "text": "HAU 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+    },
+    {
+      "text": "HAU 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/400/"
+    },
+    {
+      "text": "HST 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/580/"
+    },
+    {
+      "text": "LIR 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/203/"
+    },
+    {
+      "text": "MHK 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+    },
+    {
+      "text": "MHK 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+    },
+    {
+      "text": "PHL 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/535/"
+    },
+    {
+      "text": "PHL 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/565/"
+    },
+    {
+      "text": "POG 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/311/"
+    },
+    {
+      "text": "POG 440",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/440/"
+    },
+    {
+      "text": "PPA 124",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/124/"
+    },
+    {
+      "text": "PSY 674",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/674/"
+    },
+    {
+      "text": "SOC 427",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/427/"
+    },
+    {
+      "text": "SOC 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/540/"
+    },
+    {
+      "text": "SOC 553",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/553/"
+    },
+    {
+      "text": "SOC 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/580/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Arts and Contemporary Studies - Table III"
+    },
+    {
+      "kind": "text",
+      "text": "Arts and Contemporary Studies",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Indigenous Studies"
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 203 Literature of Indigenous peoples",
+      "links": [
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 650 Indigenous World Views",
+      "links": [
+        {
+          "text": "ENG 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 311 Indigenous Geographies",
+      "links": [
+        {
+          "text": "GEO 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 711 An Indigenous Guide to the Apocalypse",
+      "links": [
+        {
+          "text": "GEO 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HAU 100 Haudenosaunee Cultural Perspective",
+      "links": [
+        {
+          "text": "HAU 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HAU 400 Haudenosaunee Leaders and Writers",
+      "links": [
+        {
+          "text": "HAU 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 580 Indigenous History: An Introduction",
+      "links": [
+        {
+          "text": "HST 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 203 Indigenous Oral Traditions (new course)",
+      "links": [
+        {
+          "text": "LIR 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK 101 Introductory Kanyen’kéha I",
+      "links": [
+        {
+          "text": "MHK 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK 201 Introductory Kanyen’kéha II",
+      "links": [
+        {
+          "text": "MHK 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 535 Introduction to Indigenous Philosophy",
+      "links": [
+        {
+          "text": "PHL 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 565 Topics in Indigenous Philosophy",
+      "links": [
+        {
+          "text": "PHL 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 311 Indigenous Self Determination",
+      "links": [
+        {
+          "text": "POG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 440 Indigenous Governance/Justice",
+      "links": [
+        {
+          "text": "POG 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 124 Indigenous Politics and Governance",
+      "links": [
+        {
+          "text": "PPA 124",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/124/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 674 Indigenous Peoples and Psychology",
+      "links": [
+        {
+          "text": "PSY 674",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/674/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 427 Indigenous Perspectives on Canada",
+      "links": [
+        {
+          "text": "SOC 427",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/427/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 540 Special Topics in Indigenous Studies",
+      "links": [
+        {
+          "text": "SOC 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 553 Indigenist Thought",
+      "links": [
+        {
+          "text": "SOC 553",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/553/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 580 Indigenous Feminisms",
+      "links": [
+        {
+          "text": "SOC 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/580/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Arts and Contemporary Studies - Table III (Indigenous Studies)"
+}

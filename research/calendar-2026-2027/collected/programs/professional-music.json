@@ -1,0 +1,1430 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "dd25708348e0be9bf05e83472b2fafcee2e21749626bad74f73bebb44ee238f6",
+  "source_bytes": 112992,
+  "title": "Professional Music",
+  "headings": [
+    "Professional Music",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Learning Outcomes",
+    "Graduate Career Path Possibilities",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2024 and earlier)",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2025 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BPM 101",
+    "BPM 102",
+    "BPM 201",
+    "BPM 202",
+    "BPM 301",
+    "BPM 302",
+    "BPM 401",
+    "BPM 402",
+    "BPM 927",
+    "BPM 937",
+    "BSM 100",
+    "CRI 200",
+    "CRI 300",
+    "CRI 620",
+    "CRI 670",
+    "CRI 800",
+    "CSE 100",
+    "CSE 200",
+    "CSE 300",
+    "CSE 310",
+    "FCD 800",
+    "MKT 100"
+  ],
+  "official_links": [
+    {
+      "text": "The Creative School",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B – Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CRI 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+    },
+    {
+      "text": "FCD 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/800/"
+    },
+    {
+      "text": "Creative Industries Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+    },
+    {
+      "text": "Media Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+    },
+    {
+      "text": "Performance Table III",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+    },
+    {
+      "text": "Music Table IV",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "BPM 937",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/937/"
+    },
+    {
+      "text": "CRI 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/620/"
+    },
+    {
+      "text": "BPM 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/401/"
+    },
+    {
+      "text": "CRI 670",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/670/"
+    },
+    {
+      "text": "BPM 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/402/"
+    },
+    {
+      "text": "CRI 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/800/"
+    },
+    {
+      "text": "BPM 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/101/"
+    },
+    {
+      "text": "BPM 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/201/"
+    },
+    {
+      "text": "CSE 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+    },
+    {
+      "text": "BPM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/102/"
+    },
+    {
+      "text": "BPM 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/202/"
+    },
+    {
+      "text": "BSM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+    },
+    {
+      "text": "CRI 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/200/"
+    },
+    {
+      "text": "BPM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/301/"
+    },
+    {
+      "text": "BPM 927",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/927/"
+    },
+    {
+      "text": "CSE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+    },
+    {
+      "text": "BPM 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/302/"
+    },
+    {
+      "text": "CSE 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/300/"
+    },
+    {
+      "text": "CSE 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+    },
+    {
+      "text": "Business Core Elective Table V",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_v/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Professional Music"
+    },
+    {
+      "kind": "text",
+      "text": "The Creative School",
+      "links": [
+        {
+          "text": "The Creative School",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Fine Arts (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "RTA School of Media",
+      "links": [
+        {
+          "text": "RTA School of Media",
+          "url": "https://www.torontomu.ca/content/ryerson/programs/undergraduate/professional-music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "As part of the admission selection process, applicants must visit the Program page for details about the non-academic requirements.",
+      "links": [
+        {
+          "text": "Program",
+          "url": "https://www.torontomu.ca/content/ryerson/programs/undergraduate/professional-music/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Admission decisions are made based on meeting the academic requirements, and an assessment of the Non-Academic Requirements (resume, music production demo or business executive summary, written statement, and reference forms) by the Professional Music program department."
+    },
+    {
+      "kind": "list_item",
+      "text": "A non-academic assessment fee of $50 CAD (non-refundable and subject to change) is required."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Professional Music BFA is a unique four-year undergraduate program located in the heart of Toronto. The cross-disciplinary program enrols students in courses that include studio and live production, music fundamentals and the business of music."
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum is designed to prepare the modern music-minded person for a career in digital audio recording, live entertainment, entrepreneurship and a variety of other music industry positions. Professional Music will equip students with the skills necessary for the ever-evolving music industry, providing an experiential learning environment in the centre of Canada’s music industry."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Learning Outcomes"
+    },
+    {
+      "kind": "list_item",
+      "text": "Theoretically describe digital music production and creative production requirements and apply those principles within a digital music production context."
+    },
+    {
+      "kind": "list_item",
+      "text": "Theoretically describe the concepts and relationships between melody, harmony, and rhythm, the fundamental aspects of musicianship, and apply those relationships in a digital music production context."
+    },
+    {
+      "kind": "list_item",
+      "text": "Theoretically describe the concepts and the implications of music and media business practices and instruments including contracts, negotiation, financial documents, sales & marketing, and apply those insights and processes in a music industry and entrepreneurial context."
+    },
+    {
+      "kind": "list_item",
+      "text": "Theoretically describe and apply digital media production skills and requirements."
+    },
+    {
+      "kind": "list_item",
+      "text": "Draw on existing skills through self-awareness, awareness of context, and theory to engage in entrepreneurial practices, risks, and opportunities."
+    },
+    {
+      "kind": "list_item",
+      "text": "Professionally communicate verbally, in writing and other media."
+    },
+    {
+      "kind": "list_item",
+      "text": "Be sensitive and open to diversity in terms of people and cultures, with consideration of specific issues of equity, social justice, and inclusion in media and the music industry."
+    },
+    {
+      "kind": "list_item",
+      "text": "Be aware of and consider the patterns and ongoing implications of technological, cultural and economic forces which have shaped the media and music industry in Canada and around the world."
+    },
+    {
+      "kind": "list_item",
+      "text": "Interact and professionally engage with industry."
+    },
+    {
+      "kind": "list_item",
+      "text": "Think, create and iterate in the music industry by operating at the nexus of context, skills, theory and self."
+    },
+    {
+      "kind": "list_item",
+      "text": "Critically recognize and analyze ethical problems to effect practical solutions within consideration of context."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Graduate Career Path Possibilities"
+    },
+    {
+      "kind": "text",
+      "text": "Students develop holistic 21st-century skills and competencies necessary for the modern music industry across creativity, commerce and community. There are a variety of potential career paths available to graduates:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business and Management: Artist management, concert promotion and production, music publishing, business development, public relations, film and television production, technology, advertising and marketing"
+    },
+    {
+      "kind": "list_item",
+      "text": "Musician: Recording, performing, songwriting, production, session musician, composition, film and television scoring"
+    },
+    {
+      "kind": "list_item",
+      "text": "Community: Education, governance, journalism, non-profit, activism, leadership"
+    },
+    {
+      "kind": "list_item",
+      "text": "Professional and Graduate School: Graduates will be prepared to pursue further postsecondary education, including research-based education, (including media, education, cultural studies) and professional education (including law school, MBA)"
+    },
+    {
+      "kind": "list_item",
+      "text": "Entrepreneurship: Students will be encouraged to pursue entrepreneurship and launch their own ventures, with support from on campus incubators such as the Transmedia Zone and the Music Den"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions: BPM, MUS, NMA and RTA courses are not available for credit."
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions: BPM, MUS and RTA courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2024 and earlier)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2024 and earlier)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2024."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 300 Digital Design Studio",
+      "links": [
+        {
+          "text": "CRI 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 800 Foundations of Research Methods",
+      "links": [
+        {
+          "text": "FCD 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV . OPEN ELECTIVES : One Open Elective",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B – Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Table B – Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 937 Business of Music II",
+      "links": [
+        {
+          "text": "BPM 937",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/937/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 620 Concert and Festival Management",
+      "links": [
+        {
+          "text": "CRI 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/620/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV . OPEN ELECTIVE : Two Open Electives",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        },
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2027-2028 to students admitted Fall 2024 and earlier."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 401 Practicum Project",
+      "links": [
+        {
+          "text": "BPM 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 670 Music and Brands",
+      "links": [
+        {
+          "text": "CRI 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/670/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV .",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 402 Masterclass",
+      "links": [
+        {
+          "text": "BPM 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 800 Managing Creative Enterprises",
+      "links": [
+        {
+          "text": "CRI 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV . OPEN ELECTIVE : One Open Elective",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B – Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Table B – Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 101 Modern Music Fundamentals I",
+      "links": [
+        {
+          "text": "BPM 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 201 Digital Music Production I",
+      "links": [
+        {
+          "text": "BPM 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 100 Wicked Problems and Creative Intervention",
+      "links": [
+        {
+          "text": "CSE 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV .",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 102 Modern Music Fundamentals I",
+      "links": [
+        {
+          "text": "BPM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 202 Digital Music Production II",
+      "links": [
+        {
+          "text": "BPM 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 100 The New Business: From Idea to Reality",
+      "links": [
+        {
+          "text": "BSM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 200 IP Issues",
+      "links": [
+        {
+          "text": "CRI 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2026-2027 for students admitted Fall 2025 and after."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 301 Performance Production I",
+      "links": [
+        {
+          "text": "BPM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 927 Business of Music I",
+      "links": [
+        {
+          "text": "BPM 927",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/927/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 200 Creative Strategic Foresight",
+      "links": [
+        {
+          "text": "CSE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV .",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 302 Performance Production II",
+      "links": [
+        {
+          "text": "BPM 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/302/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV . OPEN ELECTIVE : One Open Elective LIBERAL STUDIES: One course from Table B – Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B – Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2027-2028 for students admitted Fall 2025 and after."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 800 Foundations of Research Method",
+      "links": [
+        {
+          "text": "FCD 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 300 Creative Global Masterclass",
+      "links": [
+        {
+          "text": "CSE 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 310 International Context",
+      "links": [
+        {
+          "text": "CSE 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from the Business Core Elective Table V OPEN ELECTIVE : One Open Elective LIBERAL STUDIES: One course from Table B – Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Business Core Elective Table V",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_v/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B – Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 937 Business of Music II",
+      "links": [
+        {
+          "text": "BPM 937",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/937/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 620 Concert and Festival Management",
+      "links": [
+        {
+          "text": "CRI 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from the Business Core Elective Table V OPEN ELECTIVE : One Open Elective",
+      "links": [
+        {
+          "text": "Business Core Elective Table V",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_v/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2028-2029 for students admitted Fall 2025 and after."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 401 Practicum Project",
+      "links": [
+        {
+          "text": "BPM 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 670 Music and Brands",
+      "links": [
+        {
+          "text": "CRI 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/670/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV .",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 402 Masterclass",
+      "links": [
+        {
+          "text": "BPM 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 800 Managing Creative Enterprises",
+      "links": [
+        {
+          "text": "CRI 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Creative Industries Table I , Media Table II , Performance Table III , or Music Table IV . OPEN ELECTIVE : One Open Elective",
+      "links": [
+        {
+          "text": "Creative Industries Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+        },
+        {
+          "text": "Media Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+        },
+        {
+          "text": "Performance Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+        },
+        {
+          "text": "Music Table IV",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B – Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Table B – Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Thompson Egbo-Egbo Artist, Founder Thompson T. Egbo-Egbo Arts Foundation Angelika Heim Partner Stohn Hay Cafazzo Dembroski Richmond LLP Dalton Higgins Publicist, Festival Producer, Journalist, Author Mike McCarty Chief Membership and Business Development Officer SOCAN Stephen McGrath Artist & Audience Development Manager The Corporation of Massey Hall & Roy Thomson Hall Greg Mills Head, Global Equities (Retired) RBC Toni Morgan Founder, The Beat Academy Manager Director, Northeastern University School of Law"
+    },
+    {
+      "kind": "text",
+      "text": "Gary Moss President & CEO Yangaroo Vel Omazic Executive Director Canada’s Music Incubator"
+    },
+    {
+      "kind": "text",
+      "text": "Gilles Paquin President & CEO Paquin Entertainment Group Cherie Sinclair Owner/Executive Producer The Field Mike Tanner Music Sector Development Officer City of Toronto"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Professional Music"
+}

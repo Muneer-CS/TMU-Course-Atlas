@@ -1,0 +1,2482 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "90a19517d8f16d1ccc0d684cfd19cc029ddecc78bb20d75f0fe8fcaa17f22843",
+  "source_bytes": 160199,
+  "title": "Computer Science",
+  "headings": [
+    "Computer Science",
+    "Admission Information - Full-Time Program",
+    "Admission Information - Part-Time Program",
+    "Part-Time, First-Year Entry",
+    "Program Overview/Curriculum Information",
+    "Co-operative Program Overview",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section. Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section.",
+    "Part-Time Program",
+    "Course Identification (part-time courses)",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Research Practicum",
+    "How to Enrol",
+    "Transfer Credits",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Part-Time Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Concentrations",
+    "Concentration in Software Engineering",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BLG 143",
+    "CHY 103",
+    "CMN 300",
+    "CPS 100",
+    "CPS 106",
+    "CPS 109",
+    "CPS 209",
+    "CPS 213",
+    "CPS 305",
+    "CPS 310",
+    "CPS 393",
+    "CPS 406",
+    "CPS 412",
+    "CPS 420",
+    "CPS 499",
+    "CPS 506",
+    "CPS 510",
+    "CPS 513",
+    "CPS 590",
+    "CPS 610",
+    "CPS 613",
+    "CPS 616",
+    "CPS 633",
+    "CPS 650",
+    "CPS 706",
+    "CPS 707",
+    "CPS 714",
+    "CPS 721",
+    "CPS 731",
+    "CPS 831",
+    "CPS 845",
+    "CPS 847",
+    "CPS 853",
+    "CPS 865",
+    "ELE 900",
+    "GEO 609",
+    "ITM 330",
+    "ITM 350",
+    "ITM 410",
+    "ITM 735",
+    "MTH 108",
+    "MTH 110",
+    "MTH 207",
+    "MTH 380",
+    "MTH 511",
+    "MTH 599",
+    "PCS 110",
+    "PCS 111",
+    "SCI 999",
+    "WKT 103",
+    "WKT 203",
+    "WKT 303",
+    "WKT 403",
+    "WKT 503"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "SCI 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "CPS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+    },
+    {
+      "text": "ELE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+    },
+    {
+      "text": "GEO 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/609/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "CPS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/106/"
+    },
+    {
+      "text": "CPS 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+    },
+    {
+      "text": "MTH 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "CHY 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+    },
+    {
+      "text": "PCS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/110/"
+    },
+    {
+      "text": "CPS 209",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+    },
+    {
+      "text": "CPS 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/310/"
+    },
+    {
+      "text": "CPS 412",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/412/"
+    },
+    {
+      "text": "MTH 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/207/"
+    },
+    {
+      "text": "CMN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/300/"
+    },
+    {
+      "text": "CPS 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+    },
+    {
+      "text": "CPS 393",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+    },
+    {
+      "text": "MTH 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "CPS 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/406/"
+    },
+    {
+      "text": "CPS 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/420/"
+    },
+    {
+      "text": "CPS 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/506/"
+    },
+    {
+      "text": "CPS 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/590/"
+    },
+    {
+      "text": "MTH 380",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/380/"
+    },
+    {
+      "text": "ITM 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+    },
+    {
+      "text": "ITM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+    },
+    {
+      "text": "ITM 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+    },
+    {
+      "text": "ITM 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+    },
+    {
+      "text": "CPS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+    },
+    {
+      "text": "CPS 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+    },
+    {
+      "text": "CPS 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/721/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+    },
+    {
+      "text": "CPS 616",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/616/"
+    },
+    {
+      "text": "CPS 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+    },
+    {
+      "text": "WKT 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/103/"
+    },
+    {
+      "text": "WKT 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/203/"
+    },
+    {
+      "text": "WKT 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/303/"
+    },
+    {
+      "text": "WKT 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/403/"
+    },
+    {
+      "text": "WKT 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+    },
+    {
+      "text": "CPS 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/610/"
+    },
+    {
+      "text": "CPS 613",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/613/"
+    },
+    {
+      "text": "CPS 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/707/"
+    },
+    {
+      "text": "CPS 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/714/"
+    },
+    {
+      "text": "CPS 731",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/731/"
+    },
+    {
+      "text": "CPS 831",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/831/"
+    },
+    {
+      "text": "CPS 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/845/"
+    },
+    {
+      "text": "CPS 847",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/847/"
+    },
+    {
+      "text": "CPS 853",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/853/"
+    },
+    {
+      "text": "CPS 865",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/865/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Computer Science"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Science",
+      "links": [
+        {
+          "text": "Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Science (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Computer Science",
+      "links": [
+        {
+          "text": "Department of Computer Science",
+          "url": "https://www.torontomu.ca/content/ryerson/cs/future-undergraduate-students/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program. Part-time, first-year entry program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time Program",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Advanced Functions (MHF4U), one of Physics (SPH4U), or Chemistry (SCH4U), or Biology (SBI4U), and either Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Grade 12 U Calculus and Vectors (MCV4U) is the preferred mathematics course."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the range of 70 percent) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Part-Time Program",
+      "links": [
+        {
+          "text": "Admission Information - Part-Time Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Part-Time, First-Year Entry"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants for admission to the part-time, 40-course degree program must have the following qualifications: A or B."
+    },
+    {
+      "kind": "text",
+      "text": "Qualification A : O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Advanced Functions (MHF4U), one of Physics (SPH4U), or Chemistry (SCH4U), or Biology (SBI4U), and either Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U)."
+    },
+    {
+      "kind": "text",
+      "text": "OR"
+    },
+    {
+      "kind": "text",
+      "text": "Qualification B. Ability to meet the Toronto Metropolitan University's Mature Student guidelines .",
+      "links": [
+        {
+          "text": "Mature Student guidelines",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/requirements/mature/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Grade 12 U Calculus and Vectors (MCV4U) is the preferred mathematics course."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the range of 70 percent) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students wishing to transfer from the part-time to the full-time Computer Science degree program must complete all of the courses from the first two years of the full-time program in order to apply to transfer. Students who transfer from part-time to full-time are not eligible for the co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Throughout their studies, Toronto Met Computer Science students are provided with a solid foundation in and exposure to many areas of computer science, at both the systems and applications levels. Students learn to become versatile in many development methodologies and technologies. In the later years of their studies, they can opt to deepen their knowledge of a particular sub-discipline of computer science or continue broadening their knowledge of the entire field. An optional thesis in fourth year also provides high­ performing students with the opportunity to work on a capstone project or research thesis."
+    },
+    {
+      "kind": "text",
+      "text": "The skills acquired by Toronto Met Computer Science students make them desirable in the computing industry. In addition to pursuing graduate studies, our graduates are employed as software engineers, IT specialists, developers, software architects, communications and network specialists, system and database administrators, or security consultants."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section. Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "The Department of Computer Science also offers an optional co-operative program for full time students that provides the graduating students with 20 months of work experience that enhances their organizational and technical abilities as well as their oral and written communication skills. The optional co-op extends the program from four years to five. Although the Career & Co-op Centre cannot guarantee work term employment, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education."
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first year of the Computer Science program can apply through the Career & Co-op Centre for admission to the co-operative education program at the end of first year during our spring/summer admissions period. This is the only time for students to apply to Co-op. Enrolment in the co-op program is limited. Admission will be based on a criteria which includes the student's grade point average, courses completed, a resume, statement of intent and interview if deemed necessary."
+    },
+    {
+      "kind": "text",
+      "text": "To be admitted into the co-­op program, students must have all first year courses completed and a CLEAR Academic Standing and a minimum cumulative GPA of 3.00 at the end of the 2nd semester of their first year, or receive departmental approval. To stay in the co-­op program, students must maintain a CLEAR Standing and minimum cumulative GPA of 3.00, or receive departmental approval."
+    },
+    {
+      "kind": "text",
+      "text": "Students who are direct entry/transfer are not permitted into the program except on an exceptional case by case basis. Students who are ahead with significant course credits are not permitted into the program except on an exceptional case by case basis."
+    },
+    {
+      "kind": "text",
+      "text": "All decisions regarding admission into the program are final and at the discretion of the Career and Co-op Centre. Students normally commence work terms upon completion of the second year of the program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Part-Time Program"
+    },
+    {
+      "kind": "text",
+      "text": "Toronto Met's Bachelor of Science in Computer Science Part-­time Program is designed for individuals who are currently employed and do not have the opportunity to commit to a full-­time education schedule."
+    },
+    {
+      "kind": "text",
+      "text": "It is intended primarily for students who have some prior post­secondary education in computer science or related program in addition to the high school admission requirements."
+    },
+    {
+      "kind": "text",
+      "text": "The academic content of the program is identical to the current full-­time degree program in Computer Science, except for some modifications to allow some substitutions to be drawn from existing continuing education courses. Some courses that are not available in the evening may be offered in the late afternoon period."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Identification (part-time courses)"
+    },
+    {
+      "kind": "text",
+      "text": "Part-time courses are administered by either the program department or The G. Raymond Chang School of Continuing Education. The mode of delivery is not reflected in this calendar. Continuing education courses are listed in your enrollment information package and are identified by with a 'C' prefix (e.g., CACC100). These identifiers are for internal use only and do not affect the equivalency."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Research Practicum"
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 999 - Research Practicum gives students the chance to gain hands-on research experience, in a lab or in the field, by engaging in the research work of a faculty member. Toronto Met records participation in the practicum on the student’s Official Transcript.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 999 is a non-credit, pass-fail course that is not used to fulfil degree program requirements. Students who meet the expectations for the research will get a passing grade. These expectations will be worked out between the student and the professor at enrolment. To take part in SCI 999 , students must have a CGPA of 2.5 or more, and they must commit to a minimum of 5 to 10 hours each week (on average) for one term.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        },
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "There are no tuition fees associated with this practicum."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to Enrol"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must first find a supervisor. Descriptions of faculty research are available on the Faculty of Science website (opens in new window) .",
+      "links": [
+        {
+          "text": "Faculty of Science website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/science/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Students should contact supervisors whose research interests them by email or in person. Students must give their potential supervisor an unofficial transcript (opens in new window) , a one-page resumé and a brief covering letter. This package must include their contact information, degree program and stream, a brief statement of their career goals and how this research experience would further those goals, and any relevant work experience (paid or volunteer).",
+      "links": [
+        {
+          "text": "unofficial transcript (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/unofficial-transcript/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Follow the instructions available in the (PDF file) Research Practicum Application Form. (opens in new window)",
+      "links": [
+        {
+          "text": "(PDF file) Research Practicum Application Form. (opens in new window)",
+          "url": "https://www.torontomu.ca/content/dam/science/Images/PDF/Research_Practicum_Application_Form_April_2023.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Requests for transfer credits using post-secondary Computer Science courses taken ten or more years ago will normally be denied."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "CPS 650 , ELE 900 , GEO 609 , MTH 511 and MTH 599 are not available for credit.",
+      "links": [
+        {
+          "text": "CPS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+        },
+        {
+          "text": "ELE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+        },
+        {
+          "text": "GEO 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/609/"
+        },
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I OR CPS 106 Introduction to Multimedia Computation",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        },
+        {
+          "text": "CPS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 213 Computer Organization I",
+      "links": [
+        {
+          "text": "CPS 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 110 Discrete Mathematics I",
+      "links": [
+        {
+          "text": "MTH 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 110 Physics",
+      "links": [
+        {
+          "text": "PCS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 310 Computer Organization II",
+      "links": [
+        {
+          "text": "CPS 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 412 Social Issues, Ethics and Professionalism",
+      "links": [
+        {
+          "text": "CPS 412",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/412/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 207 Calculus and Computational Methods I",
+      "links": [
+        {
+          "text": "MTH 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/207/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 300 Communication in the Computer Industry",
+      "links": [
+        {
+          "text": "CMN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 393 Introduction to UNIX, C and C++",
+      "links": [
+        {
+          "text": "CPS 393",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 108 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE*: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 406 Introduction to Software Engineering",
+      "links": [
+        {
+          "text": "CPS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 420 Discrete Structures",
+      "links": [
+        {
+          "text": "CPS 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 506 Comparative Programming Languages",
+      "links": [
+        {
+          "text": "CPS 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 590 Operating Systems I",
+      "links": [
+        {
+          "text": "CPS 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 380 Probability and Statistics",
+      "links": [
+        {
+          "text": "MTH 380",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/380/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        },
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        },
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        },
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 510 Database Systems I",
+      "links": [
+        {
+          "text": "CPS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 633 Computer Security",
+      "links": [
+        {
+          "text": "CPS 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 721 Artificial Intelligence I",
+      "links": [
+        {
+          "text": "CPS 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/721/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "An optional Concentration may be selected from Table I (Computer Science Group) starting in 5th Semester.",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 616 Algorithms",
+      "links": [
+        {
+          "text": "CPS 616",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/616/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 706 Computer Networks I",
+      "links": [
+        {
+          "text": "CPS 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES : One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 .",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        },
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        },
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        },
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Course selection may not include CPS 513 or any CPS courses between CPS 100 and CPS 499."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the regular curriculum, Computer Science Co-operative Program students must complete WKT 103 , WKT 203 , WKT 303 , WKT 403 , and WKT 503 before graduation. The department may waive the requirement for WKT 503 . WKT (Work Term) courses are offered in the Fall, Winter and Spring/Summer semesters, and are graded on a pass/fail basis.",
+      "links": [
+        {
+          "text": "WKT 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/103/"
+        },
+        {
+          "text": "WKT 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/203/"
+        },
+        {
+          "text": "WKT 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/303/"
+        },
+        {
+          "text": "WKT 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/403/"
+        },
+        {
+          "text": "WKT 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+        },
+        {
+          "text": "WKT 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The following table shows the sequence of academic and work terms:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 103 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 203 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 303 - Work term III",
+      "links": [
+        {
+          "text": "WKT 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/303/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 403 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/403/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 503 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "The following shows the alternative sequence of academic and work terms."
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 103 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 203 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 303 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/303/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 403 - Work term IV",
+      "links": [
+        {
+          "text": "WKT 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/403/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 503 - Work term V",
+      "links": [
+        {
+          "text": "WKT 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Each work term is assessed by the School's Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete 4 co-op WKT’s in order to graduate from their program of study with a Co-op designation. Once the requirements are satisfied being able to do another work term is at the discretion of the Career & Co-op Centre.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre.",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time Program",
+      "links": [
+        {
+          "text": "Part-Time Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I OR CPS 106 Introduction to Multimedia Computation",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        },
+        {
+          "text": "CPS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 213 Computer Organization I",
+      "links": [
+        {
+          "text": "CPS 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 110 Discrete Mathematics I",
+      "links": [
+        {
+          "text": "MTH 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 110 Physics",
+      "links": [
+        {
+          "text": "PCS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 310 Computer Organization II",
+      "links": [
+        {
+          "text": "CPS 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 412 Social Issues, Ethics and Professionalism",
+      "links": [
+        {
+          "text": "CPS 412",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/412/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 207 Calculus and Computational Methods I",
+      "links": [
+        {
+          "text": "MTH 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/207/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 300 Communication in the Computer Industry",
+      "links": [
+        {
+          "text": "CMN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 393 Introduction to UNIX, C and C++",
+      "links": [
+        {
+          "text": "CPS 393",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 108 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 406 Introduction to Software Engineering",
+      "links": [
+        {
+          "text": "CPS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 420 Discrete Structures",
+      "links": [
+        {
+          "text": "CPS 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 506 Comparative Programming Languages",
+      "links": [
+        {
+          "text": "CPS 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 590 Operating Systems I",
+      "links": [
+        {
+          "text": "CPS 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 380 Probability and Statistics",
+      "links": [
+        {
+          "text": "MTH 380",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/380/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 .",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        },
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        },
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        },
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 510 Database Systems I",
+      "links": [
+        {
+          "text": "CPS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 633 Computer Security",
+      "links": [
+        {
+          "text": "CPS 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 721 Artificial Intelligence I",
+      "links": [
+        {
+          "text": "CPS 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/721/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "An optional Concentration may be selected from Table I (Computer Science Group) starting in 5th Semester.",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 616 Algorithms",
+      "links": [
+        {
+          "text": "CPS 616",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/616/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 706 Computer Networks I",
+      "links": [
+        {
+          "text": "CPS 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 .",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        },
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        },
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        },
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective *",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 .",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        },
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        },
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        },
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations",
+      "links": [
+        {
+          "text": "Concentrations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or professional electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Software Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "You may focus your Table I (Computer Science Group) electives on software engineering by including this specific set of courses into your degree."
+    },
+    {
+      "kind": "text",
+      "text": "Choose six (6) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 610 Database Systems II",
+      "links": [
+        {
+          "text": "CPS 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 613 Human-Computer Interaction",
+      "links": [
+        {
+          "text": "CPS 613",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/613/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 707 Software Verification and Validation",
+      "links": [
+        {
+          "text": "CPS 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 714 Software Project Management",
+      "links": [
+        {
+          "text": "CPS 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/714/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 731 Software Engineering I",
+      "links": [
+        {
+          "text": "CPS 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 831 Software Engineering II",
+      "links": [
+        {
+          "text": "CPS 831",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/831/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 845 Extreme Programming and Agile Processes",
+      "links": [
+        {
+          "text": "CPS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 847 Software Tools for Startups",
+      "links": [
+        {
+          "text": "CPS 847",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/847/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 853 Creating Big Data Systems",
+      "links": [
+        {
+          "text": "CPS 853",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/853/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 865 Model-Driven Software Engineering",
+      "links": [
+        {
+          "text": "CPS 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/865/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Successful completion will mean that 'Concentration in Software Engineering' will appear on your transcript. This Concentration is not a CEAB accredited engineering degree program leading to the designation Professional Engineer (P.Eng.)."
+    },
+    {
+      "kind": "text",
+      "text": "Students will have to declare their intention to pursue the Concentration at the end of winter semester in Year 2. The program, at its discretion, may limit access to the Concentration based on space availability in the Concentration courses or to students achieving a minimum CGPA."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see department website (opens in new window) for updated information.",
+      "links": [
+        {
+          "text": "department website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/cs/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Computer Science"
+}

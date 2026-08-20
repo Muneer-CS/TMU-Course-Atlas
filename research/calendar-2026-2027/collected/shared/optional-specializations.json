@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "c4ca3d0ff91623803ca0ba195ec8658c7fb4fbe1aa466d14b86f2e11542c3b18",
+  "source_bytes": 48623,
+  "title": "Optional Specializations",
+  "headings": [
+    "Optional Specializations"
+  ],
+  "course_codes_referenced": [],
+  "official_links": [
+    {
+      "text": "Clear Academic Standing",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/academic-information/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Specializations"
+    },
+    {
+      "kind": "text",
+      "text": "Toronto Metropolitan University ’s Optional Specializations provide an opportunity for students to enrich and augment their studies by focusing on a particular area of interest."
+    },
+    {
+      "kind": "text",
+      "text": "Specialization courses are completed in addition to the student’s regular program requirements, often in the Spring/Summer or via Distance Education. Optional Specializations are noted on the student’s Official Transcript upon graduation from their program."
+    },
+    {
+      "kind": "text",
+      "text": "Students must follow the Specialization’s published curriculum and also must maintain a Clear Academic Standing .",
+      "links": [
+        {
+          "text": "Clear Academic Standing",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/academic-information/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To pursue an Optional Specialization, students must officially register. Some of the courses have pre-requisites. Contact information, registration procedures, and deadlines are provided in the links below."
+    }
+  ],
+  "inventory_name": "Optional Specializations"
+}

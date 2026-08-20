@@ -1,0 +1,214 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/ebusiness_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "6b1909259c91fc29e3865f1b406f17e7f6ac1d6a2e2da8e2b20a48727da7e2e9",
+  "source_bytes": 53632,
+  "title": "Minor in eBusiness",
+  "headings": [
+    "Minor in eBusiness"
+  ],
+  "course_codes_referenced": [
+    "ENT 526",
+    "GMS 550",
+    "HTI 746",
+    "ITM 330",
+    "ITM 550",
+    "LAW 723",
+    "MKT 300",
+    "MKT 400",
+    "RMG 300",
+    "RMG 910"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ITM 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/550/"
+    },
+    {
+      "text": "RMG 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/910/"
+    },
+    {
+      "text": "RMG 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/300/"
+    },
+    {
+      "text": "ENT 526",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/526/"
+    },
+    {
+      "text": "GMS 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/550/"
+    },
+    {
+      "text": "HTI 746",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTI/746/"
+    },
+    {
+      "text": "ITM 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+    },
+    {
+      "text": "LAW 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+    },
+    {
+      "text": "MKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+    },
+    {
+      "text": "MKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in eBusiness"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in eBusiness prepares students to work in careers in the evolving Internet economy and the world of electronic commerce. It provides students, who have already developed a solid understanding of business principles and operations with in-depth knowledge of the specifics of setting up and operating a 'virtual' business, either stand alone or as part of an existing conventional organization."
+    },
+    {
+      "kind": "text",
+      "text": "The Minor is co-ordinated by the Ted Rogers School of Information Technology Management; however, courses in the Minor are delivered by Schools and departments across the Ted Rogers School of Management."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Ted Rogers School of Information Technology Management"
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (2):"
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 550 Advanced e-Business",
+      "links": [
+        {
+          "text": "ITM 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 910 Omni-Channel Retailing or RMG 300 Retail Information Systems",
+      "links": [
+        {
+          "text": "RMG 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/910/"
+        },
+        {
+          "text": "RMG 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 526 Entrepreneurial Behaviour and Strategy",
+      "links": [
+        {
+          "text": "ENT 526",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/526/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 550 Business-to-Business e-Commerce",
+      "links": [
+        {
+          "text": "GMS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTI 746 Digital Marketing for Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTI 746",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTI/746/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 330 Supply Chain Process Architecture",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "eBusiness"
+}

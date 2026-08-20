@@ -1,0 +1,1706 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "0e088c52461a1893ef38f4a164d1c86fcc03f9a3e5660a1fdeab5376ed4ccd21",
+  "source_bytes": 117270,
+  "title": "Sociology",
+  "headings": [
+    "Sociology",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "The Program",
+    "Curriculum Information",
+    "Careers",
+    "Transferability Guidelines",
+    "Sociology Co-operative Program Overview",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "FNF 520",
+    "PHL 214",
+    "SOC 105",
+    "SOC 107",
+    "SOC 300",
+    "SOC 411",
+    "SOC 420",
+    "SOC 427",
+    "SOC 470",
+    "SOC 473",
+    "SOC 475",
+    "SOC 481",
+    "SOC 482",
+    "SOC 483",
+    "SOC 490",
+    "SOC 491",
+    "SOC 492",
+    "SOC 493",
+    "SOC 494",
+    "SOC 525",
+    "SOC 608",
+    "SSH 104",
+    "SSH 105",
+    "SSH 205",
+    "SSH 301",
+    "WKT 150",
+    "WKT 250",
+    "WKT 350"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+    },
+    {
+      "text": "SOC 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+    },
+    {
+      "text": "SOC 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+    },
+    {
+      "text": "SSH 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/104/"
+    },
+    {
+      "text": "WKT 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+    },
+    {
+      "text": "WKT 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+    },
+    {
+      "text": "WKT 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "FNF 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/520/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "SSH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+    },
+    {
+      "text": "SSH 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+    },
+    {
+      "text": "Table I*",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_i/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "SOC 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/411/"
+    },
+    {
+      "text": "SOC 427",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/427/"
+    },
+    {
+      "text": "SOC 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/470/"
+    },
+    {
+      "text": "SOC 473",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/473/"
+    },
+    {
+      "text": "SSH 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+    },
+    {
+      "text": "SOC 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/300/"
+    },
+    {
+      "text": "SOC 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/420/"
+    },
+    {
+      "text": "SOC 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+    },
+    {
+      "text": "SOC 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+    },
+    {
+      "text": "SOC 475",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/475/"
+    },
+    {
+      "text": "SOC 481",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/481/"
+    },
+    {
+      "text": "SOC 482",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/482/"
+    },
+    {
+      "text": "SOC 483",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/483/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_ii/"
+    },
+    {
+      "text": "SOC 490",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/490/"
+    },
+    {
+      "text": "SOC 491",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/491/"
+    },
+    {
+      "text": "SOC 492",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/492/"
+    },
+    {
+      "text": "SOC 493",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/493/"
+    },
+    {
+      "text": "SOC 494",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/494/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sociology"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Arts",
+      "links": [
+        {
+          "text": "Faculty of Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Sociology",
+      "links": [
+        {
+          "text": "Department of Sociology",
+          "url": "https://www.torontomu.ca/content/ryerson/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Everything we do and say is shaped by the social world in which we live - our cultures, organizations, beliefs and values. In turn, we shape the world. Understanding our social structures and actions is an essential tool for those who wish to strengthen Canadian society or initiate progressive changes. We are constantly promised ideals contradicted by reality. Why does the media hype youthfulness while social institutions routinely ignore kids? In our so-called leisure society, why are people working harder than ever? Why do we rave about multiculturalism while minority populations suffer higher rates of unemployment, crime and poverty? Why does our culture celebrate happiness and love as the media bombards us with images of violence? If you want to understand our society, this is the program for you."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The Program"
+    },
+    {
+      "kind": "text",
+      "text": "This program helps students to become more analytical and better equipped to address a wide range of social issues. Graduates will better understand Canadian society and its place in the world by exploring the hidden working behind the familiar everyday world – from pop culture to the workplace and from the street to the boardroom. You will learn about structures of power, communication, influence and policy in communities and neighborhoods. Because our campus is in the heart of downtown Toronto, we can take our intellectual inquiries into the real world. The Program focuses on social change and cultural issues, practical research methods, and provides an opportunity for experiential learning and for a professionally-related minor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information"
+    },
+    {
+      "kind": "text",
+      "text": "Semesters One and Two: The first year of the Sociology program is shared with Arts and Contemporary Studies,Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, and Psychology. You'll also be introduced to a variety of points of view from other disciplines in the Faculty of Arts and will take courses to strengthen critical thinking and academic writing. Over the four years, students will learn Sociology through courses about large organizations, individuals' socialization, power and class, diversity, gender, and everyday Canadian life."
+    },
+    {
+      "kind": "text",
+      "text": "Semesters Three and Four: Second year students will be invited to focus on city life in Toronto as an environment to explore intellectually, and will be introduced to research and design and applied research methods as well as social theory. Students will also learn more about diversity – how and why we classify people by sex/gender, race/ethnicity, social class, disability and sexuality, why it makes a difference, and how the media portrays these differences."
+    },
+    {
+      "kind": "text",
+      "text": "Semesters Five through Eight: In the final two years, students develop a sharper focus on theoretical ideas that are useful to describe and analyze society and the research methods that social scientists use to test their ideas, including the use of statistics. In these senior years students will be able to explore a broad range of topics such as the global economy, work relationships, the entertainment industry, and the lives of children and youth. Students will also have the opportunity to put theories and research methods into practice by involvement in research projects seeking to discover something new about the world. Students have the opportunity to take professionally related courses such as human resources, communication, and marketing, and to earn a minor. In your fourth year, students will have the opportunity to consider their studies in relation to future goals and plans."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Careers"
+    },
+    {
+      "kind": "text",
+      "text": "Sociologists are people who try to make sense of the complexities of the social world in the past, present and future. A degree in Sociology prepares one to work in any field where people, communities, cultures or institutions are important. Upon graduation, students have practical research and analytical skills that are important in many types of employment. Many people with a background in Sociology work in government, business, the nonprofit sector, community development, public affairs, human resources, research, teaching, marketing, media research, consulting and the arts. Our Sociology program is also designed to prepare you for graduate studies. A degree in Sociology can act as a springboard into a professional program in such areas as education, business or law."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transferability Guidelines"
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted to the Bachelor of Arts programs in Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology or Sociology may transfer to any one of the other programs or to any one of the approved double major programs for the Fall term of their second year of studies. Applications are provided via Google Form and must be submitted by February 2nd. Transfer applications are considered on a competitive basis subject to program capacity, and therefore, program choice cannot be guaranteed."
+    },
+    {
+      "kind": "text",
+      "text": "In order to transfer to Sociology from Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, or Psychology, students must:"
+    },
+    {
+      "kind": "list_item",
+      "text": "have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and"
+    },
+    {
+      "kind": "list_item",
+      "text": "have successfully completed SOC 105 . It is strongly recommended that students complete both SOC 105 and SOC 107 in first year.",
+      "links": [
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sociology Co-operative Program Overview"
+    },
+    {
+      "kind": "text",
+      "text": "An optional co-operative education program is available which provides students with 12 months of work experience which will complement their classroom studies and support the development of essential employability skills required for the workforce, including communication, collaboration and problem-solving. Although the Career & Co-op Centre (opens in new window) cannot guarantee placements, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education. Students who have completed the first semester of the regular program must apply through the department for admission to the co-operative program before the end of the first year. Enrolment in the co-op program is limited. Admission will be based on a portfolio which includes the student's grade point average, a resume and a statement of intent. Students must complete SSH 104 prior to their first placement. The sequencing of academic and work terms is shown below:",
+      "links": [
+        {
+          "text": "Career & Co-op Centre (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop/"
+        },
+        {
+          "text": "SSH 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the co-op program. Once the requirements are satisfied, the possibility of doing another work term is at the discretion of the Career & Co-op Centre in consultation with the Faculty Advisor. In most cases the co-op program requires five years to complete the degree in Sociology. Students may have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All co-op placements must be approved by the Career & Co-op Centre (opens in new window) and the Faculty Advisor.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and four upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Sociology courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "FNF 520 and Sociology courses are not available for credit.",
+      "links": [
+        {
+          "text": "FNF 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/520/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 105 Introduction to Sociology",
+      "links": [
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 107 Sociology of the Everyday",
+      "links": [
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Four courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 411 Intro to Quantitative Data Analysis",
+      "links": [
+        {
+          "text": "SOC 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 427 Indigenous Perspectives on Canada",
+      "links": [
+        {
+          "text": "SOC 427",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/427/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 470 Toronto: The Changing City",
+      "links": [
+        {
+          "text": "SOC 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 473 Classical Sociological Theory",
+      "links": [
+        {
+          "text": "SOC 473",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/473/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 300 Sociology of Equity and Diversity",
+      "links": [
+        {
+          "text": "SOC 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 420 Social Class in Changing Times",
+      "links": [
+        {
+          "text": "SOC 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 525 Media and Images of Inequality",
+      "links": [
+        {
+          "text": "SOC 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE: One course from Table I or one Open Elective",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 475 Contemporary Sociological Theory",
+      "links": [
+        {
+          "text": "SOC 475",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/475/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 481 Survey Design and Analysis",
+      "links": [
+        {
+          "text": "SOC 481",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/481/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 482 Advanced Approaches to Media Analysis",
+      "links": [
+        {
+          "text": "SOC 482",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/482/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 483 Statistical Modelling",
+      "links": [
+        {
+          "text": "SOC 483",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/483/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 490 Capstone: Specializing Your Knowledge",
+      "links": [
+        {
+          "text": "SOC 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 491 Independent Sociological Analysis",
+      "links": [
+        {
+          "text": "SOC 491",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/491/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 492 Current Social Issue Focus",
+      "links": [
+        {
+          "text": "SOC 492",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/492/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 493 Creating Social Change",
+      "links": [
+        {
+          "text": "SOC 493",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/493/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 494 Career Integration",
+      "links": [
+        {
+          "text": "SOC 494",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/494/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 105 Introduction to Sociology",
+      "links": [
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 107 Sociology of the Everyday",
+      "links": [
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Four courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 427 Indigenous Perspectives on Canada",
+      "links": [
+        {
+          "text": "SOC 427",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/427/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 470 Toronto: The Changing City",
+      "links": [
+        {
+          "text": "SOC 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE: One course from Table I* or one Open Elective",
+      "links": [
+        {
+          "text": "Table I*",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Students in the Co-op Program should take SSH 104 (Table I) to fulfil this requirement.",
+      "links": [
+        {
+          "text": "SSH 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 411 Intro to Quantitative Data Analysis",
+      "links": [
+        {
+          "text": "SOC 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 473 Classical Sociological Theory",
+      "links": [
+        {
+          "text": "SOC 473",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/473/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 300 Sociology of Equity and Diversity",
+      "links": [
+        {
+          "text": "SOC 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 420 Social Class in Changing Times",
+      "links": [
+        {
+          "text": "SOC 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 525 Media and Images of Inequality",
+      "links": [
+        {
+          "text": "SOC 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 475 Contemporary Sociological Theory",
+      "links": [
+        {
+          "text": "SOC 475",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/475/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 481 Survey Design and Analysis",
+      "links": [
+        {
+          "text": "SOC 481",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/481/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 482 Advanced Approaches to Media Analysis",
+      "links": [
+        {
+          "text": "SOC 482",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/482/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 483 Advanced Statistical Modeling",
+      "links": [
+        {
+          "text": "SOC 483",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/483/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 490 Capstone: Specializing Your Knowledge",
+      "links": [
+        {
+          "text": "SOC 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 491 Independent Sociological Analysis",
+      "links": [
+        {
+          "text": "SOC 491",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/491/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 492 Current Social Issue Focus",
+      "links": [
+        {
+          "text": "SOC 492",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/492/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 493 Creating Social Change",
+      "links": [
+        {
+          "text": "SOC 493",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/493/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 494 Career Integration",
+      "links": [
+        {
+          "text": "SOC 494",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/494/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the co-op program. Once the requirements are satisfied, the possibility of doing another work term is at the discretion of the Career & Co-op Centre in consultation with the Faculty Advisor. In most cases the co-op program requires five years to complete the degree in Sociology. Students may have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All co-op placements must be approved by the Career & Co-op Centre (opens in new window) and the Faculty Advisor.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cathy Crowe Distinguished Visiting Practitioner Department of Politics & Public Administration Toronto Metropolitan University"
+    },
+    {
+      "kind": "text",
+      "text": "Margrit Eichler Professor Emerita Department of Social Justice Education Ontario Institute For Studies In Education/University of Toronto"
+    },
+    {
+      "kind": "text",
+      "text": "Michele Landsberg OC Journalist, Author, Public Speaker, Feminist, Social Activist"
+    },
+    {
+      "kind": "text",
+      "text": "Uzma Shakir Director, Equity, Diversity & Human Rights City Of Toronto"
+    },
+    {
+      "kind": "text",
+      "text": "Hassan Yussuff President Canadian Labour Congress Trade Union Confederation of the Americas"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Sociology"
+}

@@ -1,0 +1,803 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/communication_design_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "a3c5209d669297dfbd7e9e8551cc077393342c44adecaac8258eca84122ea49a",
+  "source_bytes": 64682,
+  "title": "Minor in Communication Design",
+  "headings": [
+    "Minor in Communication Design"
+  ],
+  "course_codes_referenced": [
+    "CMN 210",
+    "CMN 279",
+    "CMN 310",
+    "CMN 448",
+    "CMN 601",
+    "CRI 300",
+    "CRI 520",
+    "EID 100",
+    "FCD 121",
+    "FCD 240",
+    "FCD 362",
+    "FCD 551",
+    "FCD 558",
+    "FCD 815",
+    "FCD 825",
+    "FPN 330",
+    "FPN 535",
+    "FSN 203",
+    "FSN 503",
+    "GCM 130",
+    "GCM 230",
+    "GCM 738",
+    "IDF 250",
+    "IRL 100",
+    "IRL 500",
+    "JRN 103",
+    "JRN 106",
+    "MPC 101",
+    "MPC 103",
+    "MPI 602",
+    "NNS 101",
+    "NNS 102",
+    "RTA 102",
+    "RTA 108",
+    "RTA 938"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Professional Communication (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/"
+    },
+    {
+      "text": "Media Production",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+    },
+    {
+      "text": "Sport Media",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/"
+    },
+    {
+      "text": "Image Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+    },
+    {
+      "text": "FCD 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/121/"
+    },
+    {
+      "text": "MPC 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/101/"
+    },
+    {
+      "text": "CRI 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+    },
+    {
+      "text": "GCM 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/130/"
+    },
+    {
+      "text": "FCD 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/240/"
+    },
+    {
+      "text": "FSN 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/203/"
+    },
+    {
+      "text": "FSN 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/503/"
+    },
+    {
+      "text": "IDF 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDF/250/"
+    },
+    {
+      "text": "IRL 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+    },
+    {
+      "text": "IRL 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/500/"
+    },
+    {
+      "text": "MPC 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/103/"
+    },
+    {
+      "text": "RTA 938",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/938/"
+    },
+    {
+      "text": "CMN 279",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+    },
+    {
+      "text": "CMN 448",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/448/"
+    },
+    {
+      "text": "CMN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/601/"
+    },
+    {
+      "text": "EID 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+    },
+    {
+      "text": "FCD 551",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/551/"
+    },
+    {
+      "text": "JRN 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/103/"
+    },
+    {
+      "text": "JRN 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/106/"
+    },
+    {
+      "text": "MPI 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/602/"
+    },
+    {
+      "text": "NNS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/101/"
+    },
+    {
+      "text": "NNS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/102/"
+    },
+    {
+      "text": "RTA 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/102/"
+    },
+    {
+      "text": "RTA 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/108/"
+    },
+    {
+      "text": "CMN 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/210/"
+    },
+    {
+      "text": "CMN 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/310/"
+    },
+    {
+      "text": "CRI 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/520/"
+    },
+    {
+      "text": "FCD 362",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+    },
+    {
+      "text": "FPN 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/535/"
+    },
+    {
+      "text": "FCD 558",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/558/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "FCD 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/825/"
+    },
+    {
+      "text": "FPN 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/330/"
+    },
+    {
+      "text": "GCM 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/230/"
+    },
+    {
+      "text": "GCM 738",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/738/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/communication_design_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Communication Design"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Communication Design Minor takes an interdisciplinary approach to introduce students to the elements and principles of design to better understand the creative process and key technologies applied to the design of visual, video, print and online mediums. The Communication Design Minor combines hands-on learning with an understanding of historical, cultural and professional contexts."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: The Creative School"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This Minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interior Design"
+    },
+    {
+      "kind": "text",
+      "text": "A maximum of two courses from a student’s major area of study can be applied to the Minor."
+    },
+    {
+      "kind": "text",
+      "text": "Professional Communication (opens in new window) students may apply a maximum of two CMN courses to the Minor. Graphic Communications Management (opens in new window) students may apply a maximum of two GCM courses to the Minor. Media Production and Sport Media students may apply a maximum of two RTA courses to the Minor. Image Arts students may apply a maximum of two MPC, MPI or FPN courses to the Minor.",
+      "links": [
+        {
+          "text": "Professional Communication (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/"
+        },
+        {
+          "text": "Graphic Communications Management (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2021-2022/programs/fcad/gcm/"
+        },
+        {
+          "text": "Media Production",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        },
+        {
+          "text": "Sport Media",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/"
+        },
+        {
+          "text": "Image Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED COURSES:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 121 Design Literacy",
+      "links": [
+        {
+          "text": "FCD 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 101 Introduction to Compositional Design",
+      "links": [
+        {
+          "text": "MPC 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 300 Digital Design Studio OR GCM 130 Design and Layout",
+      "links": [
+        {
+          "text": "CRI 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+        },
+        {
+          "text": "GCM 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Elective Group 1: Theory and History"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 240 History of Art and Design: Global Survey",
+      "links": [
+        {
+          "text": "FCD 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 203 History of Design",
+      "links": [
+        {
+          "text": "FSN 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 503 Critical Issues in Design",
+      "links": [
+        {
+          "text": "FSN 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDF 250 Contemporary Art and Design",
+      "links": [
+        {
+          "text": "IDF 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDF/250/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IRL 100 Introduction to World Art I: Pictorial Art",
+      "links": [
+        {
+          "text": "IRL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IRL 500 Modern and Contemporary Art",
+      "links": [
+        {
+          "text": "IRL 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 103 Reframing Art History",
+      "links": [
+        {
+          "text": "MPC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 938 Digital Popular Cultures",
+      "links": [
+        {
+          "text": "RTA 938",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/938/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Elective Group 2: Communication"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 279 Introduction to Professional Communication",
+      "links": [
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 448 Introduction to Visual Communication",
+      "links": [
+        {
+          "text": "CMN 448",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/448/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 601 Visual Communications: A Critical Approach",
+      "links": [
+        {
+          "text": "CMN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EID 100 Digital Skills and Innovation",
+      "links": [
+        {
+          "text": "EID 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 551 Digital Media and Network Cultures",
+      "links": [
+        {
+          "text": "FCD 551",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/551/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "JRN 103 Introduction to Journalism",
+      "links": [
+        {
+          "text": "JRN 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "JRN 106 Visualizing Facts",
+      "links": [
+        {
+          "text": "JRN 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPI 602 Media Languages: Old and New Vocabularies",
+      "links": [
+        {
+          "text": "MPI 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 101 Introduction to News Studies",
+      "links": [
+        {
+          "text": "NNS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 102 Understanding Multimedia Journalism",
+      "links": [
+        {
+          "text": "NNS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 102 Creative Process for Media Production",
+      "links": [
+        {
+          "text": "RTA 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 108 Sport Media Design Message",
+      "links": [
+        {
+          "text": "RTA 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Elective Group 3: Design"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 210 Text, Image and Sound",
+      "links": [
+        {
+          "text": "CMN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 310 Communication with Colour",
+      "links": [
+        {
+          "text": "CMN 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 520 Design Management",
+      "links": [
+        {
+          "text": "CRI 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 362 Introduction to UX/UI Design OR FPN 535 User Experience Design",
+      "links": [
+        {
+          "text": "FCD 362",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+        },
+        {
+          "text": "FPN 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 558 Intro to Design Thinking",
+      "links": [
+        {
+          "text": "FCD 558",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/558/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse I",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 825 Design Solutions Supercourse II",
+      "links": [
+        {
+          "text": "FCD 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 330 Photography and Creativity",
+      "links": [
+        {
+          "text": "FPN 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 230 Typography",
+      "links": [
+        {
+          "text": "GCM 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 738 Photoshopped! The Art of Image Retouching",
+      "links": [
+        {
+          "text": "GCM 738",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/738/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 (opens in new window) , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Policy 2 (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Communication Design Minor (opens in new window)"
+}

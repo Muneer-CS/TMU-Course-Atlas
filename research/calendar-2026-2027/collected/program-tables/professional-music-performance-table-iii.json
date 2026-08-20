@@ -1,0 +1,500 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "3e68eac163e7eeece0cf1721760e32bbbf756a1b61ba65843d4ec616210de6aa",
+  "source_bytes": 57509,
+  "title": "Performance Elective Table III",
+  "headings": [
+    "Performance Elective Table III"
+  ],
+  "course_codes_referenced": [
+    "FCD 316",
+    "PFC 100",
+    "PFC 101",
+    "PFC 226",
+    "PFC 312",
+    "PFC 340",
+    "PFC 470",
+    "PFZ 100",
+    "PFZ 202",
+    "PFZ 240",
+    "PFZ 260",
+    "PFZ 261",
+    "PFZ 270",
+    "PFZ 343",
+    "PFZ 351",
+    "PFZ 352",
+    "PFZ 372",
+    "PFZ 441",
+    "PFZ 449",
+    "THA 340",
+    "THD 220",
+    "THD 320",
+    "THF 101",
+    "THF 102",
+    "THF 200",
+    "THF 201",
+    "THF 325",
+    "THF 405",
+    "THF 408",
+    "THM 200",
+    "THM 300",
+    "THM 503",
+    "THP 102",
+    "THP 202",
+    "THT 383",
+    "THT 893"
+  ],
+  "official_links": [
+    {
+      "text": "Professional Music",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+    },
+    {
+      "text": "FCD 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/316/"
+    },
+    {
+      "text": "PFC 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/470/"
+    },
+    {
+      "text": "PFZ 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/100/"
+    },
+    {
+      "text": "PFZ 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/240/"
+    },
+    {
+      "text": "PFZ 441",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/441/"
+    },
+    {
+      "text": "PFC 226",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/226/"
+    },
+    {
+      "text": "PFC 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/340/"
+    },
+    {
+      "text": "PFC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/100/"
+    },
+    {
+      "text": "PFC 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/101/"
+    },
+    {
+      "text": "PFC 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/312/"
+    },
+    {
+      "text": "PFZ 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/202/"
+    },
+    {
+      "text": "PFZ 270",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/270/"
+    },
+    {
+      "text": "PFZ 372",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/372/"
+    },
+    {
+      "text": "PFZ 260",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/260/"
+    },
+    {
+      "text": "PFZ 343",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/343/"
+    },
+    {
+      "text": "PFZ 449",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/449/"
+    },
+    {
+      "text": "PFZ 261",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/261/"
+    },
+    {
+      "text": "PFZ 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/351/"
+    },
+    {
+      "text": "PFZ 352",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/352/"
+    },
+    {
+      "text": "THA 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THA/340/"
+    },
+    {
+      "text": "THD 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THD/220/"
+    },
+    {
+      "text": "THD 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THD/320/"
+    },
+    {
+      "text": "THF 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/325/"
+    },
+    {
+      "text": "THF 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/405/"
+    },
+    {
+      "text": "THF 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/408/"
+    },
+    {
+      "text": "THM 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/503/"
+    },
+    {
+      "text": "THT 383",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/383/"
+    },
+    {
+      "text": "THT 893",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/893/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Performance Elective Table III"
+    },
+    {
+      "kind": "text",
+      "text": "Professional Music",
+      "links": [
+        {
+          "text": "Professional Music",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) courses from the Performance Elective Table III are required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 316 The Global Stage",
+      "links": [
+        {
+          "text": "FCD 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 470 Black Creative Practices",
+      "links": [
+        {
+          "text": "PFC 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 100 Performance Foundations I",
+      "links": [
+        {
+          "text": "PFZ 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 240 Intro to Sound Design",
+      "links": [
+        {
+          "text": "PFZ 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 441 Recording as Practice",
+      "links": [
+        {
+          "text": "PFZ 441",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/441/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 226 Directing for the Stage",
+      "links": [
+        {
+          "text": "PFC 226",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/226/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 340 Acting a Song",
+      "links": [
+        {
+          "text": "PFC 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 100 Global Performance History I",
+      "links": [
+        {
+          "text": "PFC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 101 Global Performance History II",
+      "links": [
+        {
+          "text": "PFC 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 312 Leadership through Arts-Based Practice",
+      "links": [
+        {
+          "text": "PFC 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 202 Technological Practice",
+      "links": [
+        {
+          "text": "PFZ 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 270 Creative Producing",
+      "links": [
+        {
+          "text": "PFZ 270",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/270/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 372 Tour and Company Management",
+      "links": [
+        {
+          "text": "PFZ 372",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/372/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 260 Intro to Stage Management",
+      "links": [
+        {
+          "text": "PFZ 260",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/260/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 343 Sound Design and Technique II",
+      "links": [
+        {
+          "text": "PFZ 343",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/343/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 449 Special Topics: Sound",
+      "links": [
+        {
+          "text": "PFZ 449",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/449/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 261 Theatre Safety and Occupational Health",
+      "links": [
+        {
+          "text": "PFZ 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/261/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 351 Creative Technology in Performance",
+      "links": [
+        {
+          "text": "PFZ 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 352 Show Systems Engineering",
+      "links": [
+        {
+          "text": "PFZ 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/352/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THA 340 Improvisation",
+      "links": [
+        {
+          "text": "THA 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THA/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THD 220 Latin American Dance Forms",
+      "links": [
+        {
+          "text": "THD 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THD/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THD 320 Western Dance Styles",
+      "links": [
+        {
+          "text": "THD 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THD/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 101 Elements of Production I"
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 102 Elements of Production II"
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 200 Timelines of Performance History I"
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 201 Timelines of Performance History II\\"
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 325 Musical Theatre",
+      "links": [
+        {
+          "text": "THF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 405 Human Development in the Arts",
+      "links": [
+        {
+          "text": "THF 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 408 Applications of Music in Performance",
+      "links": [
+        {
+          "text": "THF 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 200 Production Communication I"
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 300 Production Communication II"
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 503 Tour and Company Management",
+      "links": [
+        {
+          "text": "THM 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 102 Production Technique II"
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 202 Production Technique IV"
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 383 Sound Design",
+      "links": [
+        {
+          "text": "THT 383",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/383/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 893 Sound Special Topics",
+      "links": [
+        {
+          "text": "THT 893",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/893/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Professional Music - Performance Table III"
+}

@@ -1,0 +1,220 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/core_table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d53a76785081670186ecd29dbdb8ad40ba99d35a1d006e6b4b949c3be95ba22a",
+  "source_bytes": 50248,
+  "title": "Fashion Core Elective Table I",
+  "headings": [
+    "Fashion Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "FDL 140",
+    "FDL 150",
+    "FFC 100",
+    "FFC 303",
+    "FFD 113",
+    "FFS 102",
+    "FFS 110",
+    "FFS 120",
+    "FMF 130",
+    "FSN 101",
+    "FSN 124",
+    "FSN 525"
+  ],
+  "official_links": [
+    {
+      "text": "Fashion",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+    },
+    {
+      "text": "FDL 140",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---design-leadership/FDL/140/"
+    },
+    {
+      "text": "FDL 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---design-leadership/FDL/150/"
+    },
+    {
+      "text": "FFC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FFC/100/"
+    },
+    {
+      "text": "FFC 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FFC/303/"
+    },
+    {
+      "text": "FFD 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FFD/113/"
+    },
+    {
+      "text": "FFS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/102/"
+    },
+    {
+      "text": "FFS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/110/"
+    },
+    {
+      "text": "FFS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/120/"
+    },
+    {
+      "text": "FMF 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---material-and-fabrication/FMF/130/"
+    },
+    {
+      "text": "FSN 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/101/"
+    },
+    {
+      "text": "FSN 124",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/124/"
+    },
+    {
+      "text": "FSN 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/525/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Fashion Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Fashion",
+      "links": [
+        {
+          "text": "Fashion",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students must complete five (5) of the courses below:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FDL 140 Managing Fashion Enterprises",
+      "links": [
+        {
+          "text": "FDL 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---design-leadership/FDL/140/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FDL 150 Fashion Project Management",
+      "links": [
+        {
+          "text": "FDL 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---design-leadership/FDL/150/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFC 100 Image Making and Media",
+      "links": [
+        {
+          "text": "FFC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FFC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFC 303 Communication Design I",
+      "links": [
+        {
+          "text": "FFC 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FFC/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFD 113 Fashion Design I",
+      "links": [
+        {
+          "text": "FFD 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FFD/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 102 Dress, The Body and Identity",
+      "links": [
+        {
+          "text": "FFS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 110 Art and Historical Change",
+      "links": [
+        {
+          "text": "FFS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 120 Fashion and Race",
+      "links": [
+        {
+          "text": "FFS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FMF 130 Material Sensibilities",
+      "links": [
+        {
+          "text": "FMF 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---material-and-fabrication/FMF/130/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 101 Discovering Textiles",
+      "links": [
+        {
+          "text": "FSN 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 124 Illustration: Fundamentals Figure Drawing",
+      "links": [
+        {
+          "text": "FSN 124",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/124/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 525 Indigenous Fashion",
+      "links": [
+        {
+          "text": "FSN 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/525/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Fashion - Table I (opens in new window)"
+}

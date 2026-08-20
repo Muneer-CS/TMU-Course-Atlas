@@ -1,0 +1,5635 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "96b155bf6eeab9294cae36d344f61ee6a6936b4db8b33dae810bb8ba7fc27ce4",
+  "source_bytes": 254772,
+  "title": "Business Management - Human Resources Management Major",
+  "headings": [
+    "Business Management - Human Resources Management Major",
+    "Program Overview",
+    "Optional Co-operative Program Overview",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-Op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Full-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Third Year Direct Entry Co-op Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Part-Time, First-Year Entry Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Concentrations",
+    "Concentration in Organizational Behaviour",
+    "Concentration in Industrial Relations",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "BUS 221",
+    "BUS 800",
+    "ECN 104",
+    "ECN 204",
+    "ECN 605",
+    "ENT 101",
+    "FIN 300",
+    "FIN 401",
+    "GMS 200",
+    "GMS 401",
+    "ITM 102",
+    "LAW 122",
+    "LAW 529",
+    "LAW 606",
+    "MHR 405",
+    "MHR 520",
+    "MHR 522",
+    "MHR 523",
+    "MHR 600",
+    "MHR 623",
+    "MHR 640",
+    "MHR 650",
+    "MHR 670",
+    "MHR 671",
+    "MHR 700",
+    "MHR 711",
+    "MHR 721",
+    "MHR 733",
+    "MHR 741",
+    "MHR 749",
+    "MHR 841",
+    "MHR 849",
+    "MHR 850",
+    "MHR 901",
+    "MKT 100",
+    "PPA 319",
+    "QMS 110",
+    "QMS 210",
+    "SOC 472",
+    "WKT 100",
+    "WKT 120",
+    "WKT 200",
+    "WKT 220",
+    "WKT 300",
+    "WKT 320",
+    "WKT 400",
+    "WKT 420"
+  ],
+  "official_links": [
+    {
+      "text": "Business Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "GMS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "MHR 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "BUS 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "MHR 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+    },
+    {
+      "text": "MHR 741",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "ECN 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+    },
+    {
+      "text": "LAW 529",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+    },
+    {
+      "text": "MHR 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+    },
+    {
+      "text": "MHR 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+    },
+    {
+      "text": "MHR 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+    },
+    {
+      "text": "MHR 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+    },
+    {
+      "text": "MHR 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+    },
+    {
+      "text": "MHR 670",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+    },
+    {
+      "text": "MHR 671",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+    },
+    {
+      "text": "MHR 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+    },
+    {
+      "text": "MHR 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+    },
+    {
+      "text": "MHR 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+    },
+    {
+      "text": "MHR 733",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+    },
+    {
+      "text": "MHR 749",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+    },
+    {
+      "text": "MHR 841",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+    },
+    {
+      "text": "MHR 849",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+    },
+    {
+      "text": "MHR 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+    },
+    {
+      "text": "PPA 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+    },
+    {
+      "text": "SOC 472",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "BUS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+    },
+    {
+      "text": "MHR 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+    },
+    {
+      "text": "LAW 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+    },
+    {
+      "text": "WKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+    },
+    {
+      "text": "WKT 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/120/"
+    },
+    {
+      "text": "WKT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+    },
+    {
+      "text": "WKT 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/220/"
+    },
+    {
+      "text": "WKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+    },
+    {
+      "text": "WKT 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/320/"
+    },
+    {
+      "text": "WKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+    },
+    {
+      "text": "WKT 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/420/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Management - Human Resources Management Major"
+    },
+    {
+      "kind": "text",
+      "text": "Business Management",
+      "links": [
+        {
+          "text": "Business Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview",
+      "links": [
+        {
+          "text": "Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Learn to manage a diverse workforce, recruit employees strategically, retain good personnel and train and develop your employees while fostering a fair, diverse, and ethical work environment."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Optional Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section(s). The School offers an optional co-op program which provides graduates with up to 16 months of work experience integrated into their academic program. The co-op option extends the program by one year. The School cannot guarantee work term jobs, but the Business Career Hub and the School will prospect for employers and make every effort to locate suitable positions, as well as be available to advise students on their search for program related jobs. The co-op program enables students to earn prevailing wages for the level of responsibility and contribution of the jobs they perform and thus finance at least part of their university education."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 520 Industrial Relations Foundations",
+      "links": [
+        {
+          "text": "MHR 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 901 Strategic Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES¶: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: Four courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives ¶ Offered in Fall term only.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option upon completion of their fourth semester of the program. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.0. Subject to competition, grades above 3.0 may be required"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communication skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 520 Industrial Relations Foundations",
+      "links": [
+        {
+          "text": "MHR 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester (Offered in Fall Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (Offered in Fall Only)"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 901 Strategic Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES¶: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: Four courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives ¶ Offered in Fall term only.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 100 or WKT 120 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        },
+        {
+          "text": "WKT 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 200 or WKT 220 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        },
+        {
+          "text": "WKT 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/220/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 300 or WKT 320 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        },
+        {
+          "text": "WKT 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/320/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 400 or WKT 420 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        },
+        {
+          "text": "WKT 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/420/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Full-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 520 Industrial Relations Foundations",
+      "links": [
+        {
+          "text": "MHR 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 901 Strategic Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES¶: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: Four courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives ¶ Offered in Fall term only.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third Year Direct Entry Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Third Year Direct Entry Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option by September 30. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.0. Subject to competition, grades above 3.0 may be required"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communication skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 520 Industrial Relations Foundations",
+      "links": [
+        {
+          "text": "MHR 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester (Offered in Fall Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (Offered in Fall Only)"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 901 Strategic Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES¶: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: Four courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "¶ Offered in Fall term only."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 100 or WKT 120 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        },
+        {
+          "text": "WKT 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 200 or WKT 220 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        },
+        {
+          "text": "WKT 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/220/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 300 or WKT 320 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        },
+        {
+          "text": "WKT 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/320/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 400 or WKT 420 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        },
+        {
+          "text": "WKT 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/420/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 520 Industrial Relations Foundations",
+      "links": [
+        {
+          "text": "MHR 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 901 Strategic Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES¶: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: Four courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives ¶ Offered in Fall term only.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 520 Industrial Relations Foundations",
+      "links": [
+        {
+          "text": "MHR 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/520/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 901 Strategic Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES¶: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: Four courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 623 Recruitment and Selection",
+      "links": [
+        {
+          "text": "MHR 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 670 Special Topics in Org Behav and HR Mgmt",
+      "links": [
+        {
+          "text": "MHR 670",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/670/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 671 Human Resources Information Systems",
+      "links": [
+        {
+          "text": "MHR 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 733 Training and Development",
+      "links": [
+        {
+          "text": "MHR 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 749 Compensation Management",
+      "links": [
+        {
+          "text": "MHR 749",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/749/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 849 Human Resources Planning",
+      "links": [
+        {
+          "text": "MHR 849",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/849/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "See also Optional Concentrations below."
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "¶ Offered in Fall term only."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations",
+      "links": [
+        {
+          "text": "Concentrations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or professional electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor."
+    },
+    {
+      "kind": "text",
+      "text": "Human Resources Management Majors (regular and co-operative programs) may select one of the following optional 6-course Concentrations from their Core Elective table. Students may complete only one Concentration."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Organizational Behaviour"
+    },
+    {
+      "kind": "text",
+      "text": "Students must complete six (6) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 600 Diversity and Inclusion in the Workplace",
+      "links": [
+        {
+          "text": "MHR 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 640 Leadership",
+      "links": [
+        {
+          "text": "MHR 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 650 Management of Change",
+      "links": [
+        {
+          "text": "MHR 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 841 Organization Theory and Design",
+      "links": [
+        {
+          "text": "MHR 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 850 Coaching, Facilitation and Internal Consulting",
+      "links": [
+        {
+          "text": "MHR 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/850/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Industrial Relations"
+    },
+    {
+      "kind": "text",
+      "text": "Students must complete six (6) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 605 Labour Economics",
+      "links": [
+        {
+          "text": "ECN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 711 Occupational Health and Safety",
+      "links": [
+        {
+          "text": "MHR 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 472 At Work in a Changing World",
+      "links": [
+        {
+          "text": "SOC 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/472/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Business Management - Human Resources Management Major"
+}

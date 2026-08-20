@@ -1,0 +1,4091 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "1880c4ae4fa440f2d9af549b402c8fff5194afd220b9f180610ea6fed306acdb",
+  "source_bytes": 167824,
+  "title": "Table A - Lower Level Liberal Studies",
+  "headings": [
+    "Table A - Lower Level Liberal Studies",
+    "IMPORTANT NOTE:",
+    "Table A - Lower Level Restrictions",
+    "Programs in the Faculty of Arts",
+    "Arts and Contemporary Studies",
+    "Criminology",
+    "Criminology and History Double Major",
+    "Criminology and Politics and Governance Double Major",
+    "Criminology and Sociology Double Major",
+    "English",
+    "English and History Double Major",
+    "English and Philosophy Double Major",
+    "Environmental and Urban Sustainability",
+    "Geographic Analysis",
+    "History",
+    "History and Philosophy Double Major",
+    "History and Politics and Governance Double Major",
+    "History and Sociology Double Major",
+    "Economics and Finance",
+    "Language and Intercultural Relations",
+    "Philosophy",
+    "Politics and Governance",
+    "Politics and Governance and Sociology Double Major",
+    "Psychology",
+    "Public Administration and Governance",
+    "Sociology",
+    "Programs in The Creative School",
+    "Graphic Communications Management",
+    "Image Arts",
+    "Media Production",
+    "New Media",
+    "Performance: Acting/Dance/Production",
+    "Professional Communication",
+    "Professional Music",
+    "Sport Media",
+    "Programs in the Faculty of Community Services",
+    "Child and Youth Care",
+    "Disability Studies",
+    "Early Childhood Studies",
+    "Nursing - Collaborative Program",
+    "Nutrition and Food",
+    "Occupational Health and Safety",
+    "Public Health",
+    "Social Work",
+    "Urban and Regional Planning",
+    "Programs in the Faculty of Engineering and Architectural Science",
+    "Architectural Science",
+    "Engineering (All)",
+    "Programs in the Faculty of Science",
+    "Biology",
+    "Biomedical Sciences",
+    "Chemistry",
+    "Computer Science",
+    "Contemporary Science",
+    "Financial Mathematics",
+    "Mathematics and Its Applications",
+    "Medical Physics",
+    "Programs in the Ted Rogers School of Management",
+    "Accounting and Finance",
+    "Business Management",
+    "Business Technology Management",
+    "Hospitality and Tourism Management",
+    "Retail Management",
+    "LNG Courses - Maximum is 2",
+    "Department of Languages, Literatures, and Cultures",
+    "LNG: Language and Writing Courses"
+  ],
+  "course_codes_referenced": [
+    "AER 150",
+    "ANT 100",
+    "ARB 101",
+    "ARB 201",
+    "ASC 120",
+    "ASC 121",
+    "ASL 101",
+    "ASL 201",
+    "BLG 181",
+    "BMS 150",
+    "BPM 406",
+    "BPM 441",
+    "BPM 474",
+    "BPM 484",
+    "CHN 101",
+    "CHN 201",
+    "CHY 182",
+    "CHY 183",
+    "CMN 230",
+    "CMN 231",
+    "CRB 100",
+    "CRI 111",
+    "CRM 101",
+    "DST 300",
+    "ECN 104",
+    "ECN 110",
+    "ECN 204",
+    "ECN 210",
+    "ECN 340",
+    "ECN 440",
+    "ENG 101",
+    "ENG 104",
+    "ENG 112",
+    "ENG 201",
+    "ENG 203",
+    "ENG 212",
+    "EUS 180",
+    "FNU 100",
+    "FNU 101",
+    "FRE 101",
+    "FRE 201",
+    "GEO 106",
+    "GEO 108",
+    "GEO 110",
+    "GEO 206",
+    "GEO 208",
+    "GEO 210",
+    "GEO 312",
+    "GEO 322",
+    "GRK 100",
+    "HAU 100",
+    "HST 110",
+    "HST 111",
+    "HST 112",
+    "HST 118",
+    "HST 119",
+    "HST 130",
+    "HST 207",
+    "HST 210",
+    "HST 211",
+    "HST 219",
+    "HST 222",
+    "HST 307",
+    "HST 325",
+    "HST 375",
+    "HST 407",
+    "HST 430",
+    "HST 488",
+    "HTF 210",
+    "IRL 100",
+    "IRL 200",
+    "LAT 100",
+    "LAT 200",
+    "LIR 205",
+    "LNG 111",
+    "LNG 112",
+    "LNG 113",
+    "LNG 121",
+    "MEC 110",
+    "MHK 101",
+    "MHK 201",
+    "MUS 101",
+    "MUS 105",
+    "MUS 106",
+    "MUS 201",
+    "MUS 220",
+    "NMA 120",
+    "NPF 188",
+    "PCS 111",
+    "PCS 181",
+    "PCS 182",
+    "PHL 101",
+    "PHL 110",
+    "PHL 187",
+    "PHL 201",
+    "PHL 202",
+    "PHL 210",
+    "PHL 214",
+    "PHL 306",
+    "PHL 333",
+    "PHL 365",
+    "PHL 366",
+    "PHL 406",
+    "POH 105",
+    "POL 106",
+    "POL 128",
+    "POL 129",
+    "POL 203",
+    "POL 208",
+    "PSY 105",
+    "PSY 304",
+    "PSY 308",
+    "REL 100",
+    "REL 101",
+    "REL 200",
+    "REL 205",
+    "REL 210",
+    "REL 215",
+    "REL 220",
+    "REL 225",
+    "RMG 210",
+    "RTA 180",
+    "SEM 101",
+    "SOC 103",
+    "SOC 108",
+    "SOC 202",
+    "SOC 203",
+    "SOC 221",
+    "SOC 305",
+    "SPN 101",
+    "SPN 201",
+    "THL 100",
+    "UWC 200"
+  ],
+  "official_links": [
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "AER 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+    },
+    {
+      "text": "ANT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+    },
+    {
+      "text": "ARB 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/101/"
+    },
+    {
+      "text": "ARB 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/201/"
+    },
+    {
+      "text": "ASC 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+    },
+    {
+      "text": "ASC 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/121/"
+    },
+    {
+      "text": "ASL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/101/"
+    },
+    {
+      "text": "ASL 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/201/"
+    },
+    {
+      "text": "BLG 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "CHN 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/CHN/101/"
+    },
+    {
+      "text": "CHN 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/CHN/201/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "CHY 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+    },
+    {
+      "text": "CMN 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+    },
+    {
+      "text": "CMN 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/231/"
+    },
+    {
+      "text": "CRB 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/100/"
+    },
+    {
+      "text": "CRI 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/111/"
+    },
+    {
+      "text": "CRM 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/101/"
+    },
+    {
+      "text": "DST 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/300/"
+    },
+    {
+      "text": "ECN 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+    },
+    {
+      "text": "ECN 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+    },
+    {
+      "text": "ECN 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/340/"
+    },
+    {
+      "text": "ECN 440",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/440/"
+    },
+    {
+      "text": "ENG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+    },
+    {
+      "text": "ENG 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+    },
+    {
+      "text": "ENG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+    },
+    {
+      "text": "ENG 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+    },
+    {
+      "text": "ENG 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+    },
+    {
+      "text": "ENG 212",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+    },
+    {
+      "text": "EUS 180",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/180/"
+    },
+    {
+      "text": "FNU 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNU/100/"
+    },
+    {
+      "text": "FNU 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNU/101/"
+    },
+    {
+      "text": "FRE 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/101/"
+    },
+    {
+      "text": "FRE 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/201/"
+    },
+    {
+      "text": "GEO 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/106/"
+    },
+    {
+      "text": "GEO 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/108/"
+    },
+    {
+      "text": "GEO 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+    },
+    {
+      "text": "GEO 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/206/"
+    },
+    {
+      "text": "GEO 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/208/"
+    },
+    {
+      "text": "GEO 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/210/"
+    },
+    {
+      "text": "GEO 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/312/"
+    },
+    {
+      "text": "GEO 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/322/"
+    },
+    {
+      "text": "GRK 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/greek/GRK/100/"
+    },
+    {
+      "text": "HAU 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+    },
+    {
+      "text": "HST 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/110/"
+    },
+    {
+      "text": "HST 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/111/"
+    },
+    {
+      "text": "HST 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/112/"
+    },
+    {
+      "text": "HST 118",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/118/"
+    },
+    {
+      "text": "HST 119",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/119/"
+    },
+    {
+      "text": "HST 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/130/"
+    },
+    {
+      "text": "HST 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/207/"
+    },
+    {
+      "text": "HST 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/210/"
+    },
+    {
+      "text": "HST 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/211/"
+    },
+    {
+      "text": "HST 219",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/219/"
+    },
+    {
+      "text": "HST 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/222/"
+    },
+    {
+      "text": "HST 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/307/"
+    },
+    {
+      "text": "HST 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/325/"
+    },
+    {
+      "text": "HST 375",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+    },
+    {
+      "text": "HST 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/407/"
+    },
+    {
+      "text": "HST 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/430/"
+    },
+    {
+      "text": "HST 488",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/488/"
+    },
+    {
+      "text": "HTF 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/210/"
+    },
+    {
+      "text": "IRL 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+    },
+    {
+      "text": "IRL 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/200/"
+    },
+    {
+      "text": "LAT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/latin/LAT/100/"
+    },
+    {
+      "text": "LAT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/latin/LAT/200/"
+    },
+    {
+      "text": "LIR 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/205/"
+    },
+    {
+      "text": "LNG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+    },
+    {
+      "text": "LNG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+    },
+    {
+      "text": "LNG 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+    },
+    {
+      "text": "LNG 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+    },
+    {
+      "text": "MEC 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+    },
+    {
+      "text": "MHK 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+    },
+    {
+      "text": "MHK 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+    },
+    {
+      "text": "MUS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/101/"
+    },
+    {
+      "text": "MUS 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/105/"
+    },
+    {
+      "text": "MUS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/106/"
+    },
+    {
+      "text": "MUS 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/201/"
+    },
+    {
+      "text": "MUS 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/220/"
+    },
+    {
+      "text": "NPF 188",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/188/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "PCS 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+    },
+    {
+      "text": "PCS 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+    },
+    {
+      "text": "PHL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/101/"
+    },
+    {
+      "text": "PHL 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/110/"
+    },
+    {
+      "text": "PHL 187",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/187/"
+    },
+    {
+      "text": "PHL 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/201/"
+    },
+    {
+      "text": "PHL 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/202/"
+    },
+    {
+      "text": "PHL 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/210/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "PHL 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+    },
+    {
+      "text": "PHL 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/333/"
+    },
+    {
+      "text": "PHL 365",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/365/"
+    },
+    {
+      "text": "PHL 366",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/366/"
+    },
+    {
+      "text": "PHL 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+    },
+    {
+      "text": "POH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/105/"
+    },
+    {
+      "text": "POL 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/106/"
+    },
+    {
+      "text": "POL 128",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/128/"
+    },
+    {
+      "text": "POL 129",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/129/"
+    },
+    {
+      "text": "POL 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/203/"
+    },
+    {
+      "text": "POL 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/208/"
+    },
+    {
+      "text": "PSY 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/105/"
+    },
+    {
+      "text": "PSY 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/304/"
+    },
+    {
+      "text": "PSY 308",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/308/"
+    },
+    {
+      "text": "REL 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/100/"
+    },
+    {
+      "text": "REL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/101/"
+    },
+    {
+      "text": "REL 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/200/"
+    },
+    {
+      "text": "REL 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/205/"
+    },
+    {
+      "text": "REL 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/210/"
+    },
+    {
+      "text": "REL 215",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/215/"
+    },
+    {
+      "text": "REL 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/220/"
+    },
+    {
+      "text": "REL 225",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/225/"
+    },
+    {
+      "text": "RMG 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/210/"
+    },
+    {
+      "text": "NMA 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+    },
+    {
+      "text": "RTA 180",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/180/"
+    },
+    {
+      "text": "BPM 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/406/"
+    },
+    {
+      "text": "BPM 441",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/441/"
+    },
+    {
+      "text": "BPM 474",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/474/"
+    },
+    {
+      "text": "BPM 484",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/484/"
+    },
+    {
+      "text": "SEM 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/101/"
+    },
+    {
+      "text": "SOC 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/103/"
+    },
+    {
+      "text": "SOC 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/108/"
+    },
+    {
+      "text": "SOC 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/202/"
+    },
+    {
+      "text": "SOC 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/203/"
+    },
+    {
+      "text": "SOC 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+    },
+    {
+      "text": "SOC 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/305/"
+    },
+    {
+      "text": "SPN 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/101/"
+    },
+    {
+      "text": "SPN 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/201/"
+    },
+    {
+      "text": "THL 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THL/100/"
+    },
+    {
+      "text": "UWC 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/urban-water-centre/UWC/200/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Table A - Lower Level Liberal Studies"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "IMPORTANT NOTE:"
+    },
+    {
+      "kind": "text",
+      "text": "Certain courses cannot be taken for liberal studies credit in some programs. Please see Table A - Lower Level Restrictions for more information. The Table A-Lower Level Restrictions list that appears under your program/major are courses that cannot be used to fulfill Liberal Studies requirements.",
+      "links": [
+        {
+          "text": "Table A - Lower Level Restrictions",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Not all courses will be offered every semester. Also, courses may be cancelled due to low enrolment. Consult the liberal studies Course Offerings webpage (opens in new window) for the most up-to-date course offering information.",
+      "links": [
+        {
+          "text": "Course Offerings webpage (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All liberal studies courses are identified as lower-level (LL) or upper-level (UL) in the course description."
+    },
+    {
+      "kind": "text",
+      "text": "Course"
+    },
+    {
+      "kind": "text",
+      "text": "Title"
+    },
+    {
+      "kind": "text",
+      "text": "AER 150",
+      "links": [
+        {
+          "text": "AER 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Aerospace History"
+    },
+    {
+      "kind": "text",
+      "text": "ANT 100",
+      "links": [
+        {
+          "text": "ANT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Anthropology"
+    },
+    {
+      "kind": "text",
+      "text": "ARB 101",
+      "links": [
+        {
+          "text": "ARB 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Arabic I"
+    },
+    {
+      "kind": "text",
+      "text": "ARB 201",
+      "links": [
+        {
+          "text": "ARB 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Arabic II"
+    },
+    {
+      "kind": "text",
+      "text": "ASC 120",
+      "links": [
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Architecture"
+    },
+    {
+      "kind": "text",
+      "text": "ASC 121",
+      "links": [
+        {
+          "text": "ASC 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sustainable Architecture"
+    },
+    {
+      "kind": "text",
+      "text": "ASL 101",
+      "links": [
+        {
+          "text": "ASL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory American Sign Language I"
+    },
+    {
+      "kind": "text",
+      "text": "ASL 201",
+      "links": [
+        {
+          "text": "ASL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory American Sign Language II"
+    },
+    {
+      "kind": "text",
+      "text": "BLG 181",
+      "links": [
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Biology of a Living City"
+    },
+    {
+      "kind": "text",
+      "text": "BMS 150",
+      "links": [
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to the Human Genome"
+    },
+    {
+      "kind": "text",
+      "text": "CHN 101",
+      "links": [
+        {
+          "text": "CHN 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/CHN/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Chinese I"
+    },
+    {
+      "kind": "text",
+      "text": "CHN 201",
+      "links": [
+        {
+          "text": "CHN 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/CHN/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Chinese II"
+    },
+    {
+      "kind": "text",
+      "text": "CHY 182",
+      "links": [
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Chemistry Applications to Living Systems"
+    },
+    {
+      "kind": "text",
+      "text": "CHY 183",
+      "links": [
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Forensic Sciences"
+    },
+    {
+      "kind": "text",
+      "text": "CMN 230",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Trans Studies and Communication"
+    },
+    {
+      "kind": "text",
+      "text": "CMN 231",
+      "links": [
+        {
+          "text": "CMN 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/231/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Communicating with Comics"
+    },
+    {
+      "kind": "text",
+      "text": "CRB 100",
+      "links": [
+        {
+          "text": "CRB 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to the Caribbean"
+    },
+    {
+      "kind": "text",
+      "text": "CRI 111",
+      "links": [
+        {
+          "text": "CRI 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Indigenous Cultures of Creativity"
+    },
+    {
+      "kind": "text",
+      "text": "CRM 101",
+      "links": [
+        {
+          "text": "CRM 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Understanding Crime in Canadian Society"
+    },
+    {
+      "kind": "text",
+      "text": "DST 300",
+      "links": [
+        {
+          "text": "DST 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Whose Lives Matter?"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 110",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Economy and Society"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 210",
+      "links": [
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Understanding Economics"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 340",
+      "links": [
+        {
+          "text": "ECN 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/340/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Economics of Human Behaviour"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 440",
+      "links": [
+        {
+          "text": "ECN 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/440/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economic Issues in Financial Markets"
+    },
+    {
+      "kind": "text",
+      "text": "ENG 101",
+      "links": [
+        {
+          "text": "ENG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Laughter and Tears: Comedy and Tragedy"
+    },
+    {
+      "kind": "text",
+      "text": "ENG 104",
+      "links": [
+        {
+          "text": "ENG 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Short Story"
+    },
+    {
+      "kind": "text",
+      "text": "ENG 112",
+      "links": [
+        {
+          "text": "ENG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Zap, Pow, Bang: Pop Lit"
+    },
+    {
+      "kind": "text",
+      "text": "ENG 201",
+      "links": [
+        {
+          "text": "ENG 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Myth and Literature"
+    },
+    {
+      "kind": "text",
+      "text": "ENG 203",
+      "links": [
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Literature of Indigenous Peoples"
+    },
+    {
+      "kind": "text",
+      "text": "ENG 212",
+      "links": [
+        {
+          "text": "ENG 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cultures in Crisis"
+    },
+    {
+      "kind": "text",
+      "text": "EUS 180",
+      "links": [
+        {
+          "text": "EUS 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Global Water Issues"
+    },
+    {
+      "kind": "text",
+      "text": "FNU 100",
+      "links": [
+        {
+          "text": "FNU 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNU/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Canadian Cuisine: Historical Roots"
+    },
+    {
+      "kind": "text",
+      "text": "FNU 101",
+      "links": [
+        {
+          "text": "FNU 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNU/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Food Practices and Policy"
+    },
+    {
+      "kind": "text",
+      "text": "FRE 101",
+      "links": [
+        {
+          "text": "FRE 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory French I"
+    },
+    {
+      "kind": "text",
+      "text": "FRE 201",
+      "links": [
+        {
+          "text": "FRE 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory French II"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 106",
+      "links": [
+        {
+          "text": "GEO 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/106/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Geographies of Everyday Life"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 108",
+      "links": [
+        {
+          "text": "GEO 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Geography of the Global Village"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 110",
+      "links": [
+        {
+          "text": "GEO 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Physical Environment"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 206",
+      "links": [
+        {
+          "text": "GEO 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/206/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Regions, Nations and the Global Community"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 208",
+      "links": [
+        {
+          "text": "GEO 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/208/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Geography of the Global Economy"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 210",
+      "links": [
+        {
+          "text": "GEO 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Geography of Hazards"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 312",
+      "links": [
+        {
+          "text": "GEO 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/312/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Viva Las Vegas!"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 322",
+      "links": [
+        {
+          "text": "GEO 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/322/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Critical Geography of South Asia"
+    },
+    {
+      "kind": "text",
+      "text": "GRK 100",
+      "links": [
+        {
+          "text": "GRK 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/greek/GRK/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Attic Greek"
+    },
+    {
+      "kind": "text",
+      "text": "HAU 100",
+      "links": [
+        {
+          "text": "HAU 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Haudenosaunee Cultural Perspective"
+    },
+    {
+      "kind": "text",
+      "text": "HST 110",
+      "links": [
+        {
+          "text": "HST 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "U.S. History: Colonial Era to 1877"
+    },
+    {
+      "kind": "text",
+      "text": "HST 111",
+      "links": [
+        {
+          "text": "HST 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "World Turned Upside Down: Europe 1350-1789"
+    },
+    {
+      "kind": "text",
+      "text": "HST 112",
+      "links": [
+        {
+          "text": "HST 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/112/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "East Meets West: Asia in the World"
+    },
+    {
+      "kind": "text",
+      "text": "HST 118",
+      "links": [
+        {
+          "text": "HST 118",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/118/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The City in History"
+    },
+    {
+      "kind": "text",
+      "text": "HST 119",
+      "links": [
+        {
+          "text": "HST 119",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/119/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Rise of Empires: History Through Film"
+    },
+    {
+      "kind": "text",
+      "text": "HST 130",
+      "links": [
+        {
+          "text": "HST 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The History of Death"
+    },
+    {
+      "kind": "text",
+      "text": "HST 207",
+      "links": [
+        {
+          "text": "HST 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/207/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Ancient Greece and Rome"
+    },
+    {
+      "kind": "text",
+      "text": "HST 210",
+      "links": [
+        {
+          "text": "HST 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "U.S. History: 1877 to the Present"
+    },
+    {
+      "kind": "text",
+      "text": "HST 211",
+      "links": [
+        {
+          "text": "HST 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/211/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Century of Revolution: Europe 1789-1914"
+    },
+    {
+      "kind": "text",
+      "text": "HST 219",
+      "links": [
+        {
+          "text": "HST 219",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/219/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Decolonization: History Through Film"
+    },
+    {
+      "kind": "text",
+      "text": "HST 222",
+      "links": [
+        {
+          "text": "HST 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/222/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The History of The Caribbean"
+    },
+    {
+      "kind": "text",
+      "text": "HST 307",
+      "links": [
+        {
+          "text": "HST 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/307/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Canada to 1885: Creating a Nation"
+    },
+    {
+      "kind": "text",
+      "text": "HST 325",
+      "links": [
+        {
+          "text": "HST 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/325/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "History of Science and Technology I"
+    },
+    {
+      "kind": "text",
+      "text": "HST 375",
+      "links": [
+        {
+          "text": "HST 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/375/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LGBTQ2S+ Histories"
+    },
+    {
+      "kind": "text",
+      "text": "HST 407",
+      "links": [
+        {
+          "text": "HST 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Canada Since 1885: Defining a Nation"
+    },
+    {
+      "kind": "text",
+      "text": "HST 430",
+      "links": [
+        {
+          "text": "HST 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/430/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Food History"
+    },
+    {
+      "kind": "text",
+      "text": "HST 488",
+      "links": [
+        {
+          "text": "HST 488",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/488/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Britain since 1815"
+    },
+    {
+      "kind": "text",
+      "text": "HTF 210",
+      "links": [
+        {
+          "text": "HTF 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTF/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Restaurant Culture and Innovation"
+    },
+    {
+      "kind": "text",
+      "text": "IRL 100",
+      "links": [
+        {
+          "text": "IRL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Intro to World Art I: Pictorial Arts"
+    },
+    {
+      "kind": "text",
+      "text": "IRL 200",
+      "links": [
+        {
+          "text": "IRL 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to World Textile History"
+    },
+    {
+      "kind": "text",
+      "text": "LAT 100",
+      "links": [
+        {
+          "text": "LAT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/latin/LAT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Latin"
+    },
+    {
+      "kind": "text",
+      "text": "LAT 200",
+      "links": [
+        {
+          "text": "LAT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/latin/LAT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Latin and the Roman World"
+    },
+    {
+      "kind": "text",
+      "text": "LIR 205",
+      "links": [
+        {
+          "text": "LIR 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Greek and Latin Roots Across Disciplines"
+    },
+    {
+      "kind": "text",
+      "text": "LNG 111",
+      "links": [
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Language and Identity"
+    },
+    {
+      "kind": "text",
+      "text": "LNG 112",
+      "links": [
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spoken and Written Language"
+    },
+    {
+      "kind": "text",
+      "text": "LNG 113",
+      "links": [
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Language and Public Life"
+    },
+    {
+      "kind": "text",
+      "text": "LNG 121",
+      "links": [
+        {
+          "text": "LNG 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Language and Society"
+    },
+    {
+      "kind": "text",
+      "text": "MEC 110",
+      "links": [
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Energy and the Environment"
+    },
+    {
+      "kind": "text",
+      "text": "MHK 101",
+      "links": [
+        {
+          "text": "MHK 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Kanyen’kéha I"
+    },
+    {
+      "kind": "text",
+      "text": "MHK 201",
+      "links": [
+        {
+          "text": "MHK 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Kanyen’kéha II"
+    },
+    {
+      "kind": "text",
+      "text": "MUS 101",
+      "links": [
+        {
+          "text": "MUS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Intro to World and Early European Music"
+    },
+    {
+      "kind": "text",
+      "text": "MUS 105",
+      "links": [
+        {
+          "text": "MUS 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Voices Without Borders: Global Chorus"
+    },
+    {
+      "kind": "text",
+      "text": "MUS 106",
+      "links": [
+        {
+          "text": "MUS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Architecture of Music"
+    },
+    {
+      "kind": "text",
+      "text": "MUS 201",
+      "links": [
+        {
+          "text": "MUS 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Classical Music"
+    },
+    {
+      "kind": "text",
+      "text": "MUS 220",
+      "links": [
+        {
+          "text": "MUS 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/220/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Global Popular Music"
+    },
+    {
+      "kind": "text",
+      "text": "NPF 188",
+      "links": [
+        {
+          "text": "NPF 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/188/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "From Page to Screen"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Physics in the News"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 181",
+      "links": [
+        {
+          "text": "PCS 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Astronomy"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 182",
+      "links": [
+        {
+          "text": "PCS 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Life in the Milky Way Galaxy"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 101",
+      "links": [
+        {
+          "text": "PHL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plato and the Roots of Western Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 110",
+      "links": [
+        {
+          "text": "PHL 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Philosophy of Religion I"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 187",
+      "links": [
+        {
+          "text": "PHL 187",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/187/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Classical Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 201",
+      "links": [
+        {
+          "text": "PHL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Problems in Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 202",
+      "links": [
+        {
+          "text": "PHL 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/202/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Philosophy of Technology"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 210",
+      "links": [
+        {
+          "text": "PHL 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Indian Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 214",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Critical Thinking"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 306",
+      "links": [
+        {
+          "text": "PHL 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Freedom, Equality, Limits of Authority"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 333",
+      "links": [
+        {
+          "text": "PHL 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/333/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Philosophy of Human Nature"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 365",
+      "links": [
+        {
+          "text": "PHL 365",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/365/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Philosophy of Beauty"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 366",
+      "links": [
+        {
+          "text": "PHL 366",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/366/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Existentialism and Art and Culture"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 406",
+      "links": [
+        {
+          "text": "PHL 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Issues of Life, Death and Poverty"
+    },
+    {
+      "kind": "text",
+      "text": "POH 105",
+      "links": [
+        {
+          "text": "POH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ounce of Prevention: Public Health Past"
+    },
+    {
+      "kind": "text",
+      "text": "POL 106",
+      "links": [
+        {
+          "text": "POL 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/106/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Politics of Human Needs"
+    },
+    {
+      "kind": "text",
+      "text": "POL 128",
+      "links": [
+        {
+          "text": "POL 128",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/128/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Politics and Film"
+    },
+    {
+      "kind": "text",
+      "text": "POL 129",
+      "links": [
+        {
+          "text": "POL 129",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/129/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Politics of Migration in Canada"
+    },
+    {
+      "kind": "text",
+      "text": "POL 203",
+      "links": [
+        {
+          "text": "POL 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Politics of the Environment"
+    },
+    {
+      "kind": "text",
+      "text": "POL 208",
+      "links": [
+        {
+          "text": "POL 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/208/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Global Politics"
+    },
+    {
+      "kind": "text",
+      "text": "PSY 105",
+      "links": [
+        {
+          "text": "PSY 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Foundations of Psychology"
+    },
+    {
+      "kind": "text",
+      "text": "PSY 304",
+      "links": [
+        {
+          "text": "PSY 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/304/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Psychology of Gender"
+    },
+    {
+      "kind": "text",
+      "text": "PSY 308",
+      "links": [
+        {
+          "text": "PSY 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/308/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Psychology of Thinking"
+    },
+    {
+      "kind": "text",
+      "text": "REL 100",
+      "links": [
+        {
+          "text": "REL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Religious Studies"
+    },
+    {
+      "kind": "text",
+      "text": "REL 101",
+      "links": [
+        {
+          "text": "REL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to World Religions"
+    },
+    {
+      "kind": "text",
+      "text": "REL 200",
+      "links": [
+        {
+          "text": "REL 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Hinduism and Buddhism"
+    },
+    {
+      "kind": "text",
+      "text": "REL 205",
+      "links": [
+        {
+          "text": "REL 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Sikhism"
+    },
+    {
+      "kind": "text",
+      "text": "REL 210",
+      "links": [
+        {
+          "text": "REL 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Chinese Religions"
+    },
+    {
+      "kind": "text",
+      "text": "REL 215",
+      "links": [
+        {
+          "text": "REL 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/215/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Judaism"
+    },
+    {
+      "kind": "text",
+      "text": "REL 220",
+      "links": [
+        {
+          "text": "REL 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/220/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Christianity"
+    },
+    {
+      "kind": "text",
+      "text": "REL 225",
+      "links": [
+        {
+          "text": "REL 225",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/225/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introduction to Islam"
+    },
+    {
+      "kind": "text",
+      "text": "RMG 210",
+      "links": [
+        {
+          "text": "RMG 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Shopping and Society"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Video Games and Culture"
+    },
+    {
+      "kind": "text",
+      "text": "RTA 180",
+      "links": [
+        {
+          "text": "RTA 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Music and Film"
+    },
+    {
+      "kind": "text",
+      "text": "BPM 406",
+      "links": [
+        {
+          "text": "BPM 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/406/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Chinese Instrumental Music"
+    },
+    {
+      "kind": "text",
+      "text": "BPM 441",
+      "links": [
+        {
+          "text": "BPM 441",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/441/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Music and Film of India"
+    },
+    {
+      "kind": "text",
+      "text": "BPM 474",
+      "links": [
+        {
+          "text": "BPM 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/474/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Christian Music: Songs of Hope"
+    },
+    {
+      "kind": "text",
+      "text": "BPM 484",
+      "links": [
+        {
+          "text": "BPM 484",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/484/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Music of the African Diaspora"
+    },
+    {
+      "kind": "text",
+      "text": "SEM 101",
+      "links": [
+        {
+          "text": "SEM 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sign, Sense and Meaning"
+    },
+    {
+      "kind": "text",
+      "text": "SOC 103",
+      "links": [
+        {
+          "text": "SOC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "How Society Works"
+    },
+    {
+      "kind": "text",
+      "text": "SOC 108",
+      "links": [
+        {
+          "text": "SOC 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Indigenous Peoples and Decolonization"
+    },
+    {
+      "kind": "text",
+      "text": "SOC 202",
+      "links": [
+        {
+          "text": "SOC 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/202/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Popular Culture"
+    },
+    {
+      "kind": "text",
+      "text": "SOC 203",
+      "links": [
+        {
+          "text": "SOC 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Social Class and Inequality"
+    },
+    {
+      "kind": "text",
+      "text": "SOC 221",
+      "links": [
+        {
+          "text": "SOC 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/221/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Hip Hop Lens of Society"
+    },
+    {
+      "kind": "text",
+      "text": "SOC 305",
+      "links": [
+        {
+          "text": "SOC 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/305/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sociology of Deviance"
+    },
+    {
+      "kind": "text",
+      "text": "SPN 101",
+      "links": [
+        {
+          "text": "SPN 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Spanish I"
+    },
+    {
+      "kind": "text",
+      "text": "SPN 201",
+      "links": [
+        {
+          "text": "SPN 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Introductory Spanish II"
+    },
+    {
+      "kind": "text",
+      "text": "THL 100",
+      "links": [
+        {
+          "text": "THL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THL/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Theatre and the Canadian Identity"
+    },
+    {
+      "kind": "text",
+      "text": "UWC 200",
+      "links": [
+        {
+          "text": "UWC 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/urban-water-centre/UWC/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Life of Freshwater"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students may not choose courses that appear on the restriction list under their program or major. These courses cannot be used to fulfil Liberal Studies requirements."
+    },
+    {
+      "kind": "list_item",
+      "text": "Some subjects have a limitation (i.e. a maximum number that may be chosen)."
+    },
+    {
+      "kind": "list_item",
+      "text": "Restrictions may change from year to year depending on curricular changes"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Programs in the Faculty of Arts",
+      "links": [
+        {
+          "text": "Programs in the Faculty of Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Arts and Contemporary Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted Fall 2025 and before: PHL 214 is not available for credit. Students may take only two courses in French if students complete a French course from Required Group 1. Students may take only two courses in Spanish if students complete a Spanish course from Required Group 1. Anthropology Studies Option: Anthropology and History courses are not available for credit. English Option: English courses are not available for credit. French Option: French courses are not available for credit. History Option: History courses are not available for credit. Philosophy Option: Philosophy courses are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted Fall 2026 and after: PHL 214 is not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Criminology"
+    },
+    {
+      "kind": "text",
+      "text": "Criminology courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Criminology and History Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and History courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Criminology and Politics and Governance Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and Politics courses and PHL 214 are not available for credit",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Criminology and Sociology Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and Sociology courses and PHL 214 are not available for credit",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "English"
+    },
+    {
+      "kind": "text",
+      "text": "English courses, CMN 230 and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "English and History Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "English and History courses, CMN 230 and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "English and Philosophy Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "English and Philosophy courses and CMN 230 are not available for credit.",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Environmental and Urban Sustainability"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 110 , PHL 214 , POL 203 and EUS courses are not available for credit. Students may take only one Geography course for credit.",
+      "links": [
+        {
+          "text": "GEO 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        },
+        {
+          "text": "POL 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/203/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Geographic Analysis"
+    },
+    {
+      "kind": "text",
+      "text": "Geography courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "kind": "text",
+      "text": "History courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "History and Philosophy Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "History and Philosophy courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "History and Politics and Governance Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "History and Politics courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "History and Sociology Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "History and Sociology courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Economics and Finance"
+    },
+    {
+      "kind": "text",
+      "text": "Economics (ECN) courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Language and Intercultural Relations"
+    },
+    {
+      "kind": "text",
+      "text": "ANT 100 and PHL 214 are not available for credit. Students in the French Stream : French courses (FRE, FRS) are not available for credit. Students in the Spanish Stream : Spanish courses (SPN, SPS) are not available for credit.",
+      "links": [
+        {
+          "text": "ANT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "Philosophy courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Politics and Governance"
+    },
+    {
+      "kind": "text",
+      "text": "Politics courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Politics and Governance and Sociology Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Politics and Sociology courses and PHL 214 are not available credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Psychology"
+    },
+    {
+      "kind": "text",
+      "text": "Psychology courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Public Administration and Governance"
+    },
+    {
+      "kind": "text",
+      "text": "Politics courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sociology"
+    },
+    {
+      "kind": "text",
+      "text": "Sociology courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Programs in The Creative School",
+      "links": [
+        {
+          "text": "Programs in The Creative School",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Graphic Communications Management"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 214 is not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Image Arts"
+    },
+    {
+      "kind": "text",
+      "text": "IRL 100 and NPF 188 are not available for credit.",
+      "links": [
+        {
+          "text": "IRL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+        },
+        {
+          "text": "NPF 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/188/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Media Production"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120 is not available for credit.",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "New Media"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120 is not available for credit.",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Performance: Acting/Dance/Production"
+    },
+    {
+      "kind": "text",
+      "text": "THL 100 is not available for credit.",
+      "links": [
+        {
+          "text": "THL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THL/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted Fall 2024 and before: Performance: Acting/Dance Majors: MUS 105 , BPM 406 , BPM 474 , and BPM 484 are not available for credit.",
+      "links": [
+        {
+          "text": "MUS 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/105/"
+        },
+        {
+          "text": "BPM 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/406/"
+        },
+        {
+          "text": "BPM 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/474/"
+        },
+        {
+          "text": "BPM 484",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/484/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted Fall 2025 and after: Performance: Acting and Performance: Dance Majors: MUS 105 , BPM 406 , BPM 474 , and BPM 484 are not available for credit.",
+      "links": [
+        {
+          "text": "MUS 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/105/"
+        },
+        {
+          "text": "BPM 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/406/"
+        },
+        {
+          "text": "BPM 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/474/"
+        },
+        {
+          "text": "BPM 484",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/484/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Professional Communication"
+    },
+    {
+      "kind": "text",
+      "text": "CMN courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Professional Music"
+    },
+    {
+      "kind": "text",
+      "text": "BPM, MUS, NMA and RTA courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sport Media"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120 is not available for credit.",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Programs in the Faculty of Community Services",
+      "links": [
+        {
+          "text": "Programs in the Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Child and Youth Care"
+    },
+    {
+      "kind": "text",
+      "text": "PSY courses and SOC 103 are not available for credit. Students may take only two Sociology courses for credit.",
+      "links": [
+        {
+          "text": "SOC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Disability Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Disability Studies courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Early Childhood Studies"
+    },
+    {
+      "kind": "text",
+      "text": "PSY 105 and SOC 103 are not available for credit. Students may take only two courses each of Psychology and Sociology.",
+      "links": [
+        {
+          "text": "PSY 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/105/"
+        },
+        {
+          "text": "SOC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nursing - Collaborative Program"
+    },
+    {
+      "kind": "text",
+      "text": "Students may only take two Psychology (PSY) courses for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nutrition and Food"
+    },
+    {
+      "kind": "text",
+      "text": "FNU courses and CHY 182 are not available for credit.",
+      "links": [
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Occupational Health and Safety"
+    },
+    {
+      "kind": "text",
+      "text": "CHY 182 is not available for credit .",
+      "links": [
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "POH 105 is not available for credit.",
+      "links": [
+        {
+          "text": "POH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Public Health"
+    },
+    {
+      "kind": "text",
+      "text": "CHY 182 is not available for credit . POH 105 is not available for credit.",
+      "links": [
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "POH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Social Work"
+    },
+    {
+      "kind": "text",
+      "text": "Politics, Psychology and Sociology courses are not available for credit. ECN 110 and ECN 210 are not available for credit to students who choose ECN 104 and ECN 204 as a 2nd Yr Professionally-Related course.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        },
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        },
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Urban and Regional Planning"
+    },
+    {
+      "kind": "text",
+      "text": "Urban and Regional Planning (4-Yr) ECN 110 is not available for credit. Students may take only two courses each of Economics, Politics and Sociology for credit. SOC 103 is not available for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "SOC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Urban and Regional Planning (Degree Completion Program) ECN 110 is not available for credit. Students may take only one Economics course for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Programs in the Faculty of Engineering and Architectural Science",
+      "links": [
+        {
+          "text": "Programs in the Faculty of Engineering and Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Architectural Science"
+    },
+    {
+      "kind": "text",
+      "text": "MEC 110 , BMS 150 , IRL 100 , ASC 120 and ASC 121 are not available for credit.",
+      "links": [
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "IRL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+        },
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        },
+        {
+          "text": "ASC 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In Semester 1, students are required to enrol in one of the following liberal studies courses: ENG 101 , ENG 104 , ENG 112 , ENG 201 , ENG 203 or ENG 212 . Students may take only one additional English course for credit.",
+      "links": [
+        {
+          "text": "ENG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+        },
+        {
+          "text": "ENG 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+        },
+        {
+          "text": "ENG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+        },
+        {
+          "text": "ENG 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+        },
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        },
+        {
+          "text": "ENG 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Engineering (All)"
+    },
+    {
+      "kind": "text",
+      "text": "Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, Mechatronics, and Undeclared Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "AER 150 , ASC 120 , BLG 181 , BMS 150 , CHY 182 , CHY 183 , MEC 110 , PCS 111 , PCS 181 , PCS 182 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "AER 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+        },
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        },
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        },
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "PCS 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+        },
+        {
+          "text": "PCS 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Programs in the Faculty of Science",
+      "links": [
+        {
+          "text": "Programs in the Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biology"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biomedical Sciences"
+    },
+    {
+      "kind": "text",
+      "text": "PSY 105 , PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PSY 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/105/"
+        },
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Chemistry"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Computer Science"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Contemporary Science"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Financial Mathematics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mathematics and Its Applications"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics (ECN) courses are not available to Mathematics and Its Applications - Economics Option students."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Programs in the Ted Rogers School of Management",
+      "links": [
+        {
+          "text": "Programs in the Ted Rogers School of Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Accounting and Finance"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 110 and ECN 210 are not available for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Business Management"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 110 and ECN 210 are not available for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics and Management Science Majors: Economics (ECN) courses are not available for credit."
+    },
+    {
+      "kind": "text",
+      "text": "Law and Business Majors: PHL 214 is not available for credit. Students may take only two Philosophy courses for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Business Technology Management"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 110 , ECN 210 , and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Hospitality and Tourism Management"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 110 and ECN 210 and HTF courses are not available for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Retail Management"
+    },
+    {
+      "kind": "text",
+      "text": "RMG 210 and Economics (ECN) courses are not available for credit.",
+      "links": [
+        {
+          "text": "RMG 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/210/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "LNG Courses - Maximum is 2",
+      "links": [
+        {
+          "text": "LNG Courses - Maximum is 2",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Online ESL/EAL Placement Test is required before enrolling in any LNG course. A maximum of two (2) of LNG 111 , LNG 112 , and LNG 113 can be used toward the obtainment of a degree.",
+      "links": [
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        },
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        },
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Department of Languages, Literatures, and Cultures"
+    },
+    {
+      "kind": "text",
+      "text": "ARB, CHN, FRE, and SPN courses normally require a placement assessment."
+    },
+    {
+      "kind": "text",
+      "text": "Contact the Department of Languages, Literatures, and Cultures for details about the process or visit the department's website at https://www.torontomu.ca/llc (opens in new window) .",
+      "links": [
+        {
+          "text": "https://www.torontomu.ca/llc (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/llc/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Upper Level liberal studies ARB, CHN, FRE and SPN courses can be directed, instead, to fulfill Lower Level liberal studies Requirements."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "LNG: Language and Writing Courses"
+    },
+    {
+      "kind": "text",
+      "text": "There are three Lower Level liberal studies courses designed for students whose first language is not English:"
+    },
+    {
+      "kind": "list_item",
+      "text": "LNG 111 Language and Identity",
+      "links": [
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LNG 112 Spoken and Written Language",
+      "links": [
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LNG 113 Language and Public Life",
+      "links": [
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "These courses require a placement test, which can be found on the Languages, Literatures and Cultures page (opens in new window) .",
+      "links": [
+        {
+          "text": "Languages, Literatures and Cultures page (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/llc/courses/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LNG 111 , LNG 112 and LNG 113 are available to students who have been assessed as likely to benefit from intensive language and writing courses. Students for whom English is a second language and who are enrolled in programs that accept ESL courses for credit may take all three ESL courses, LNG 111 , LNG 112 , and LNG 113 . However, a maximum of two credits only may be used toward their degree requirements.",
+      "links": [
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        },
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        },
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        },
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        },
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        },
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "There is one Lower Level liberal studies course designed for undergraduate students wishing to improve their writing skills: LNG 121 Language and Society. No Placement test is required for this course.",
+      "links": [
+        {
+          "text": "LNG 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Lower Level Liberal Studies Table A"
+}

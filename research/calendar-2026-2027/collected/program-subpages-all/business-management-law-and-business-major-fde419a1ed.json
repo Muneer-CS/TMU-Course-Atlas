@@ -1,0 +1,5026 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "e157aaaf3d246bafbffae137199375f73a861d0f871da148564e70a19249bcc1",
+  "source_bytes": 237226,
+  "title": "Business Management - Law and Business Major",
+  "headings": [
+    "Business Management - Law and Business Major",
+    "Program Overview",
+    "Optional Co-operative Program Overview",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-Op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Full-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Third Year Direct-Entry Co-op",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Part-Time, First-Year Entry Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "BUS 221",
+    "BUS 223",
+    "BUS 800",
+    "CRM 200",
+    "ECN 104",
+    "ECN 204",
+    "ECN 321",
+    "ENT 101",
+    "FIN 300",
+    "FIN 401",
+    "GMS 200",
+    "GMS 401",
+    "ITM 102",
+    "LAW 122",
+    "LAW 204",
+    "LAW 321",
+    "LAW 326",
+    "LAW 401",
+    "LAW 402",
+    "LAW 525",
+    "LAW 529",
+    "LAW 533",
+    "LAW 534",
+    "LAW 535",
+    "LAW 568",
+    "LAW 573",
+    "LAW 580",
+    "LAW 601",
+    "LAW 602",
+    "LAW 603",
+    "LAW 604",
+    "LAW 605",
+    "LAW 606",
+    "LAW 607",
+    "LAW 703",
+    "LAW 722",
+    "LAW 723",
+    "LAW 724",
+    "LAW 725",
+    "MHR 523",
+    "MKT 100",
+    "PHL 612",
+    "QMS 110",
+    "QMS 210",
+    "WKT 100",
+    "WKT 131",
+    "WKT 200",
+    "WKT 231",
+    "WKT 300",
+    "WKT 331",
+    "WKT 400",
+    "WKT 431"
+  ],
+  "official_links": [
+    {
+      "text": "Business Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "BUS 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "GMS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "BUS 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "LAW 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "LAW 534",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+    },
+    {
+      "text": "LAW 573",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+    },
+    {
+      "text": "LAW 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+    },
+    {
+      "text": "CRM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+    },
+    {
+      "text": "LAW 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+    },
+    {
+      "text": "LAW 326",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+    },
+    {
+      "text": "LAW 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+    },
+    {
+      "text": "LAW 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+    },
+    {
+      "text": "LAW 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+    },
+    {
+      "text": "LAW 529",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+    },
+    {
+      "text": "LAW 568",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+    },
+    {
+      "text": "LAW 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+    },
+    {
+      "text": "LAW 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+    },
+    {
+      "text": "LAW 68A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+    },
+    {
+      "text": "PHL 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+    },
+    {
+      "text": "BUS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+    },
+    {
+      "text": "LAW 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+    },
+    {
+      "text": "ECN 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+    },
+    {
+      "text": "LAW 533",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+    },
+    {
+      "text": "LAW 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+    },
+    {
+      "text": "LAW 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+    },
+    {
+      "text": "LAW 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+    },
+    {
+      "text": "LAW 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+    },
+    {
+      "text": "LAW 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+    },
+    {
+      "text": "LAW 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+    },
+    {
+      "text": "LAW 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+    },
+    {
+      "text": "LAW 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+    },
+    {
+      "text": "LAW 724",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+    },
+    {
+      "text": "LAW 725",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+    },
+    {
+      "text": "WKT 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/131/"
+    },
+    {
+      "text": "WKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+    },
+    {
+      "text": "WKT 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/231/"
+    },
+    {
+      "text": "WKT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+    },
+    {
+      "text": "WKT 331",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/331/"
+    },
+    {
+      "text": "WKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+    },
+    {
+      "text": "WKT 431",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/431/"
+    },
+    {
+      "text": "WKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Management - Law and Business Major"
+    },
+    {
+      "kind": "text",
+      "text": "Business Management",
+      "links": [
+        {
+          "text": "Business Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview",
+      "links": [
+        {
+          "text": "Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Law and Business major offers you the strongest integration of law and business among all Bachelor of Commerce programs in Canada. Gain a solid understanding of the many key legal issues in the corporate world, including contract negotiations, human resources, policy development and property transactions."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Optional Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section(s). The School offers an optional co-op program which provides graduates with up to 16 months of work experience integrated into their academic program. The co-op option extends the program by one year. The School cannot guarantee work term jobs, but the Business Career Hub and the School will prospect for employers and make every effort to locate suitable positions, as well as be available to advise students on their search for program related jobs. The co-op program enables students to earn prevailing wages for the level of responsibility and contribution of the jobs they perform and thus finance at least part of their university education."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 † Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 † Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 204 Legal Analysis in a Business Context",
+      "links": [
+        {
+          "text": "LAW 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† For most Business Management Students, ITM 102 and LAW 122 are timetabled in either in the 3rd or 4th semester. Law and Business students take LAW 122 in 3rd semester or request permission to enrol in the Major on an individual basis if they take it in 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 534 Government Regulation of Business",
+      "links": [
+        {
+          "text": "LAW 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 722 Law and Canadian Business",
+      "links": [
+        {
+          "text": "LAW 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Four courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * LAW 68AB Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives * LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option after the fourth semester of the program. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.00 (or higher). Subject to competition, grades above the minimum may be required."
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communications skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 † Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 † Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 204 Legal Analysis in a Business Context",
+      "links": [
+        {
+          "text": "LAW 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† For most Business Management Students, ITM 102 and LAW 122 are timetabled in either in the 3rd or 4th semester. Law and Business students take LAW 122 in 3rd semester or request permission to enrol in the Major on an individual basis if they take it in 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 534 Government Regulation of Business",
+      "links": [
+        {
+          "text": "LAW 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * LAW 68AB Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00. * It is strongly recommended that this course be taken in the student's final year.",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 722 Law and Canadian Business",
+      "links": [
+        {
+          "text": "LAW 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 131 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/131/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 231 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/231/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 331 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/331/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 431 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 431",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/431/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Full-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 204 Legal Analysis in a Business Context",
+      "links": [
+        {
+          "text": "LAW 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 534 Government Regulation of Business",
+      "links": [
+        {
+          "text": "LAW 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 722 Law and Canadian Business",
+      "links": [
+        {
+          "text": "LAW 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Four courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third Year Direct-Entry Co-op",
+      "links": [
+        {
+          "text": "Full-Time, Third Year Direct-Entry Co-op",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option by October 1. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.00 (or higher). Subject to competition, grades above the minimum may be required."
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communications skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 204 Legal Analysis in a Business Context",
+      "links": [
+        {
+          "text": "LAW 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 534 Government Regulation of Business",
+      "links": [
+        {
+          "text": "LAW 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (offered in Fall only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00. * It is strongly recommended that this course be taken in the student's final year.",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester (offered in Winter only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 722 Law and Canadian Business",
+      "links": [
+        {
+          "text": "LAW 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 131 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/131/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 231 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/231/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 331 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/331/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 431 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 431",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/431/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 † Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 † Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 204 Legal Analysis in a Business Context",
+      "links": [
+        {
+          "text": "LAW 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† For most Business Management Students, ITM 102 and LAW 122 are timetabled in either in the 3rd or 4th semester. Law and Business students take LAW 122 † in 3rd semester or request permission to enrol in the Major on an individual basis if they take it in 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 534 Government Regulation of Business",
+      "links": [
+        {
+          "text": "LAW 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 722 Law and Canadian Business",
+      "links": [
+        {
+          "text": "LAW 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Four courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives * LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 204 Legal Analysis in a Business Context",
+      "links": [
+        {
+          "text": "LAW 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/204/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 534 Government Regulation of Business",
+      "links": [
+        {
+          "text": "LAW 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 573 Understanding the Ethical-Legal Nexus",
+      "links": [
+        {
+          "text": "LAW 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/573/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 321 The Law of Hospitality and Tourism",
+      "links": [
+        {
+          "text": "LAW 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 401 Information Access and Privacy Protection",
+      "links": [
+        {
+          "text": "LAW 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 402 Health Information Access and Privacy",
+      "links": [
+        {
+          "text": "LAW 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 601 Intellectual Property Law",
+      "links": [
+        {
+          "text": "LAW 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 602 White Collar Crime",
+      "links": [
+        {
+          "text": "LAW 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 722 Law and Canadian Business",
+      "links": [
+        {
+          "text": "LAW 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/722/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Four courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 321 Introduction to Law and Economics",
+      "links": [
+        {
+          "text": "ECN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 533 Corporate Social Responsibility and the Law",
+      "links": [
+        {
+          "text": "LAW 533",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/533/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 580 Corporations and Human Rights Law",
+      "links": [
+        {
+          "text": "LAW 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 604 Legal Foundations of Corporate Governance",
+      "links": [
+        {
+          "text": "LAW 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 605 Securities Law",
+      "links": [
+        {
+          "text": "LAW 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 606 Advanced Issues in Labour and Employment Law",
+      "links": [
+        {
+          "text": "LAW 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 607 Selected Topics in Law and Policy",
+      "links": [
+        {
+          "text": "LAW 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 68A/B * Law and Business Clinic",
+      "links": [
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 723 Issues in Information Technology Law",
+      "links": [
+        {
+          "text": "LAW 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 724 Legal Aspects of International Business",
+      "links": [
+        {
+          "text": "LAW 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 725 Visiting Professor Law Seminar",
+      "links": [
+        {
+          "text": "LAW 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives * LAW 68A/B is a two-term course, has a GPA weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68AB/"
+        },
+        {
+          "text": "LAW 68A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/68A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Business Management - Law and Business Major"
+}

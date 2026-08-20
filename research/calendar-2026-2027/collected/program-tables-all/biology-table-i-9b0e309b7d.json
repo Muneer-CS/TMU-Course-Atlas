@@ -1,0 +1,852 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "cede7169e33ab250719cdd9ca195a2abeae751548a1194a6e3f8340791708535",
+  "source_bytes": 62093,
+  "title": "Biology Core Elective Table I",
+  "headings": [
+    "Biology Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "BCH 461",
+    "BCH 463",
+    "BCH 501",
+    "BCH 550",
+    "BCH 560",
+    "BCH 580",
+    "BLG 251",
+    "BLG 307",
+    "BLG 312",
+    "BLG 340",
+    "BLG 351",
+    "BLG 401",
+    "BLG 402",
+    "BLG 408",
+    "BLG 409",
+    "BLG 411",
+    "BLG 481",
+    "BLG 508",
+    "BLG 578",
+    "BLG 586",
+    "BLG 605",
+    "BLG 610",
+    "BLG 630",
+    "BLG 667",
+    "BLG 678",
+    "BLG 702",
+    "BLG 720",
+    "BLG 721",
+    "BLG 777",
+    "BLG 785",
+    "BLG 788",
+    "BLG 800",
+    "BLG 802",
+    "BLG 803",
+    "BLG 804",
+    "BLG 805",
+    "BLG 856",
+    "BLG 888",
+    "BMS 451",
+    "BMS 500",
+    "BMS 600",
+    "BMS 605",
+    "BMS 607",
+    "BMS 750",
+    "BMS 770",
+    "BMS 850",
+    "BMS 857",
+    "BMS 858",
+    "BMS 860",
+    "BMS 865",
+    "BMS 870",
+    "SCI 888"
+  ],
+  "official_links": [
+    {
+      "text": "Biology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+    },
+    {
+      "text": "BCH 461",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/461/"
+    },
+    {
+      "text": "BCH 463",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/463/"
+    },
+    {
+      "text": "BCH 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/501/"
+    },
+    {
+      "text": "BCH 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/550/"
+    },
+    {
+      "text": "BCH 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/560/"
+    },
+    {
+      "text": "BCH 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/580/"
+    },
+    {
+      "text": "BLG 251",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/251/"
+    },
+    {
+      "text": "BLG 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+    },
+    {
+      "text": "BLG 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/312/"
+    },
+    {
+      "text": "BLG 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/340/"
+    },
+    {
+      "text": "BLG 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/351/"
+    },
+    {
+      "text": "BLG 40A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/40A/"
+    },
+    {
+      "text": "BLG 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/401/"
+    },
+    {
+      "text": "BLG 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/402/"
+    },
+    {
+      "text": "BLG 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/408/"
+    },
+    {
+      "text": "BLG 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/409/"
+    },
+    {
+      "text": "BLG 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/411/"
+    },
+    {
+      "text": "BLG 481",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/481/"
+    },
+    {
+      "text": "BLG 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/508/"
+    },
+    {
+      "text": "BLG 578",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/578/"
+    },
+    {
+      "text": "BLG 586",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/586/"
+    },
+    {
+      "text": "BLG 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/605/"
+    },
+    {
+      "text": "BLG 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/610/"
+    },
+    {
+      "text": "BLG 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/630/"
+    },
+    {
+      "text": "BLG 667",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/667/"
+    },
+    {
+      "text": "BLG 678",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/678/"
+    },
+    {
+      "text": "BLG 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/702/"
+    },
+    {
+      "text": "BLG 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/720/"
+    },
+    {
+      "text": "BLG 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/721/"
+    },
+    {
+      "text": "BLG 777",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/777/"
+    },
+    {
+      "text": "BLG 785",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/785/"
+    },
+    {
+      "text": "BLG 788",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/788/"
+    },
+    {
+      "text": "BLG 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/800/"
+    },
+    {
+      "text": "BLG 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/802/"
+    },
+    {
+      "text": "BLG 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/803/"
+    },
+    {
+      "text": "BLG 804",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/804/"
+    },
+    {
+      "text": "BLG 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/805/"
+    },
+    {
+      "text": "BLG 856",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/856/"
+    },
+    {
+      "text": "BLG 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/888/"
+    },
+    {
+      "text": "BMS 451",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/451/"
+    },
+    {
+      "text": "BMS 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/500/"
+    },
+    {
+      "text": "BMS 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/600/"
+    },
+    {
+      "text": "BMS 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/605/"
+    },
+    {
+      "text": "BMS 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/607/"
+    },
+    {
+      "text": "BMS 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/750/"
+    },
+    {
+      "text": "BMS 770",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/770/"
+    },
+    {
+      "text": "BMS 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/850/"
+    },
+    {
+      "text": "BMS 857",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/857/"
+    },
+    {
+      "text": "BMS 858",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/858/"
+    },
+    {
+      "text": "BMS 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/860/"
+    },
+    {
+      "text": "BMS 865",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/865/"
+    },
+    {
+      "text": "BMS 870",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/870/"
+    },
+    {
+      "text": "SCI 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/888/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Biology Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Biology",
+      "links": [
+        {
+          "text": "Biology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2025 and before: A total of four (4) courses from Table I are required."
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2026 and after : A total of seven (7) courses from Table I are required."
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 461 Biochemistry of Disease",
+      "links": [
+        {
+          "text": "BCH 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/461/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 463 † Advanced Biochemistry II",
+      "links": [
+        {
+          "text": "BCH 463",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/463/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 501 Protein Biochem and Proteomics",
+      "links": [
+        {
+          "text": "BCH 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 550 Glycobiology",
+      "links": [
+        {
+          "text": "BCH 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 560 Protein Structure and Function",
+      "links": [
+        {
+          "text": "BCH 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 580 Cell Signalling",
+      "links": [
+        {
+          "text": "BCH 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 251 Microbiology II",
+      "links": [
+        {
+          "text": "BLG 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/251/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 307 Molecular Biology",
+      "links": [
+        {
+          "text": "BLG 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 312 Invertebrate Zoology",
+      "links": [
+        {
+          "text": "BLG 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 340 Environmental Biology",
+      "links": [
+        {
+          "text": "BLG 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 351 Applied Microbiology",
+      "links": [
+        {
+          "text": "BLG 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 40A/B ° Project-Thesis",
+      "links": [
+        {
+          "text": "BLG 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 401 Ecotoxicology",
+      "links": [
+        {
+          "text": "BLG 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 402 Limnology",
+      "links": [
+        {
+          "text": "BLG 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 408 Viruses",
+      "links": [
+        {
+          "text": "BLG 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 409 Biometry",
+      "links": [
+        {
+          "text": "BLG 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 411 Cell Biology II",
+      "links": [
+        {
+          "text": "BLG 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 481 Biology and Chemistry Project Laboratory",
+      "links": [
+        {
+          "text": "BLG 481",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/481/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 508 Conservation Biology",
+      "links": [
+        {
+          "text": "BLG 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 578 Pharmacology",
+      "links": [
+        {
+          "text": "BLG 578",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/578/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 586 Molecular Diagnostics",
+      "links": [
+        {
+          "text": "BLG 586",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/586/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 605 Government and Policy",
+      "links": [
+        {
+          "text": "BLG 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 610 Data Science for Biology",
+      "links": [
+        {
+          "text": "BLG 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 630 Population Biology",
+      "links": [
+        {
+          "text": "BLG 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 667 Disease Ecology",
+      "links": [
+        {
+          "text": "BLG 667",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/667/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 678 Current Topics in Biology",
+      "links": [
+        {
+          "text": "BLG 678",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/678/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 702 Genomics and its Applications",
+      "links": [
+        {
+          "text": "BLG 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 720 ** Urban Field Biology - Water Ecosystems",
+      "links": [
+        {
+          "text": "BLG 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 721 ** Inter-University Field Course",
+      "links": [
+        {
+          "text": "BLG 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 777 ** Organismal Biodiversity Laboratory",
+      "links": [
+        {
+          "text": "BLG 777",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/777/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 785 Developmental Biology",
+      "links": [
+        {
+          "text": "BLG 785",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/785/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 788 Current Topics in Biotechnology",
+      "links": [
+        {
+          "text": "BLG 788",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/788/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 800 Genomics and Proteomics",
+      "links": [
+        {
+          "text": "BLG 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 802 Plant Diversity",
+      "links": [
+        {
+          "text": "BLG 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 803 Ecosystem Processes",
+      "links": [
+        {
+          "text": "BLG 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 804 Water Quality and Environmental Management",
+      "links": [
+        {
+          "text": "BLG 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 805 Behavioural Ecology",
+      "links": [
+        {
+          "text": "BLG 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 856 Immunology",
+      "links": [
+        {
+          "text": "BLG 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/856/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 888 * Molecular Biology Laboratory",
+      "links": [
+        {
+          "text": "BLG 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/888/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 451 Medical Microbiology",
+      "links": [
+        {
+          "text": "BMS 451",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/451/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 500 Human Genetics",
+      "links": [
+        {
+          "text": "BMS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 600 Human Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BMS 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 605 Advanced Physiology",
+      "links": [
+        {
+          "text": "BMS 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 607 Molecular Genetics and Epigenetics",
+      "links": [
+        {
+          "text": "BMS 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 600 Human Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BMS 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 750 Systems Biology",
+      "links": [
+        {
+          "text": "BMS 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 770 Medical Epidemiology",
+      "links": [
+        {
+          "text": "BMS 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 850 Cancer Biology",
+      "links": [
+        {
+          "text": "BMS 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 857 Advanced Immunology",
+      "links": [
+        {
+          "text": "BMS 857",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/857/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 858 Host-pathogen Interactions",
+      "links": [
+        {
+          "text": "BMS 858",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/858/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 860 Stem Cell Biology",
+      "links": [
+        {
+          "text": "BMS 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/860/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 865 Model Organisms",
+      "links": [
+        {
+          "text": "BMS 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/865/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BMS 870 Neurobiology",
+      "links": [
+        {
+          "text": "BMS 870",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/870/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 888 Evidence Based Innovation",
+      "links": [
+        {
+          "text": "SCI 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/888/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "†Available as a Table I core elective only to students admitted Fall 2026 and after. *If not chosen as a Required Group 1 course in 6th Semester. **For students admitted Fall 2026 and after: If not chosen as a Required Group 1 course in 6th Semester."
+    }
+  ],
+  "inventory_name": "Biology - Table I"
+}

@@ -1,0 +1,1928 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "1252e87d7cfb3a7920ceaa00ab568ea9a0b4df83e42b72f8780128451e8a23e6",
+  "source_bytes": 127129,
+  "title": "Social Work",
+  "headings": [
+    "Social Work",
+    "Admission Information - Full-Time Programs",
+    "Full-Time Four-Year Program",
+    "Full-Time, Second-Year Entry Advanced Standing Program",
+    "Application Procedures",
+    "Admission Information - Part-Time Program",
+    "Part-Time, Third-Year Entry Advanced Standing Program",
+    "Application Procedures",
+    "Program Overview/Curriculum Information",
+    "Field Practicum",
+    "Course Identification - Part-time Program",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Second-Year Entry Advanced Standing Program",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, Third-Year Entry Advanced Standing Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Academic Standing Variation",
+    "Graduation Requirement Variation",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CMN 100",
+    "ECN 104",
+    "ECN 110",
+    "ECN 204",
+    "ECN 210",
+    "FCS 101",
+    "FCS 200",
+    "POL 101",
+    "POL 102",
+    "POL 511",
+    "PSY 102",
+    "SOC 111",
+    "SOC 112",
+    "SWP 132",
+    "SWP 201",
+    "SWP 301",
+    "SWP 302",
+    "SWP 331",
+    "SWP 335",
+    "SWP 341",
+    "SWP 402",
+    "SWP 435",
+    "SWP 538",
+    "SWP 638"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Community Services",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+    },
+    {
+      "text": "SWP 331",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/331/"
+    },
+    {
+      "text": "SWP 36A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "ECN 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+    },
+    {
+      "text": "ECN 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "POL 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/511/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "POL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/101/"
+    },
+    {
+      "text": "POL 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/102/"
+    },
+    {
+      "text": "PSY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+    },
+    {
+      "text": "FCS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+    },
+    {
+      "text": "SOC 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/111/"
+    },
+    {
+      "text": "SOC 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/112/"
+    },
+    {
+      "text": "SWP 132",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/132/"
+    },
+    {
+      "text": "CMN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+    },
+    {
+      "text": "FCS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+    },
+    {
+      "text": "SWP 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/201/"
+    },
+    {
+      "text": "SWP 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/302/"
+    },
+    {
+      "text": "SWP 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/335/"
+    },
+    {
+      "text": "SWP 341",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/341/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "SWP 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/301/"
+    },
+    {
+      "text": "SWP 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/402/"
+    },
+    {
+      "text": "SWP 538",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/538/"
+    },
+    {
+      "text": "SWP 638",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/638/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+    },
+    {
+      "text": "SWP 50A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/50A/"
+    },
+    {
+      "text": "SWP 51A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/51A/"
+    },
+    {
+      "text": "SWP 31A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/31A/"
+    },
+    {
+      "text": "SWP 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/435/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Social Work"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Social Work (BSW)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "School of Social Work",
+      "links": [
+        {
+          "text": "School of Social Work",
+          "url": "https://www.torontomu.ca/content/ryerson/social-work/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, second-year entry Advanced Standing program. Part-time, third-year entry Advanced Standing program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time Programs",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time Programs",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Full-Time Four-Year Program"
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Toronto Met's School of Social Work strives to ensure equity, diversity and inclusion in the student body and aims to respond to community needs. The admission committee provides opportunity for special consideration for those applicants who wish to have their application reviewed in this light. Applicants may provide details regarding experiences that should be viewed within the lens of equity, diversity and inclusion. Applicants can include this information on the Supplementary Form and/or on a Special Consideration Form available on the Undergraduate Admissions website."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Full-Time, Second-Year Entry Advanced Standing Program"
+    },
+    {
+      "kind": "text",
+      "text": "Admission to the Advanced Standing Admission – Second Year Entry option is available in the Fall term only, and is available only on a full-time study basis. The number of students admitted is limited by space availability."
+    },
+    {
+      "kind": "text",
+      "text": "Consideration for admission to Advanced Standing (in second year) will be given to students who have the following qualifications:"
+    },
+    {
+      "kind": "text",
+      "text": "A Social Service Worker or Human Service(s) Counsellor Diploma (or any diploma from a public Canadian college that is eligible for registration with the Ontario College of Social Workers and Social Service Workers see Summary of the Criteria for Registration (external link, opens in new window) ), with a cumulative grade point average of 3.0 ('B') or higher, and less than two (2) years accumulated, paid, full-time equivalent, relevant work experience in the social services field.",
+      "links": [
+        {
+          "text": "Summary of the Criteria for Registration (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Successful applicants are required to complete two (2) additional courses from first year as part of their degree requirements, as follows: One (1) lower level liberal studies course, and SWP 331 Social Work Theories of Practice.",
+      "links": [
+        {
+          "text": "SWP 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Successful applicants will receive transfer credit for SWP 36A/B Field Practicum at the time of admission.",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Given the strong competition applicants will normally be required to present academic averages significantly higher than the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Holders of college diplomas with two years or more accumulated paid, full-time equivalent, relevant work experience in the social services field, must apply to the Advanced Standing Admission – Third Year Entry Option, which is offered on a part-time basis. Please see the Admission Information - Part-Time Program section for details."
+    },
+    {
+      "kind": "list_item",
+      "text": "Toronto Met's School of Social Work strives to ensure equity, diversity and inclusion in the student body and aims to respond to community needs. The admission committee provides opportunity for special consideration for those applicants who wish to have their application reviewed in this light. Applicants may provide details regarding experiences that should be viewed within the lens of equity, diversity and inclusion. Applicants can include this information on the Supplementary Form and/or on a Special Consideration Form available on the Undergraduate Admissions website."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Application Procedures"
+    },
+    {
+      "kind": "text",
+      "text": "In order to receive equal consideration for the Advanced Standing Admission – Second Year Entry option, applications with complete documentation must be received by Undergraduate Admissions no later than February 1st. Applications received after this date will be considered subject to space availability."
+    },
+    {
+      "kind": "text",
+      "text": "Applicants must arrange the submission of the following to Undergraduate Admissions. Visit Submission of Documents for access to the Document Upload page and instructions:",
+      "links": [
+        {
+          "text": "Submission of Documents",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/apply/document-submission/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Post-secondary transcripts including promotions/graduation status."
+    },
+    {
+      "kind": "list_item",
+      "text": "A summary of paid, full-time equivalent, relevant work experience in the social services field, in order to confirm that eligibility criteria have been met (less than two years accumulated paid, full-time equivalent, relevant work experience in the social services field). This summary must be included in the Activities/Employment section of the online application form (OUAC or TMU Applications) or the Non-Academic History section of the Supplementary Form."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Part-Time Program",
+      "links": [
+        {
+          "text": "Admission Information - Part-Time Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Part-Time, Third-Year Entry Advanced Standing Program"
+    },
+    {
+      "kind": "text",
+      "text": "Admission to the Advanced Standing Admission - Third Year Entry option is in the Fall term only, and is only available on a part-time study basis. The number of students admitted is limited by space availability."
+    },
+    {
+      "kind": "text",
+      "text": "Consideration for admission to Advanced Standing (in third year) will be given to students who have the following qualifications; (A) and (C) or (B) and (C):"
+    },
+    {
+      "kind": "text",
+      "text": "(A) A baccalaureate degree in the humanities or social sciences from a Canadian university (or equivalent), with at least (2) years accumulated, paid, full-time equivalent, relevant work experience in the social services field."
+    },
+    {
+      "kind": "text",
+      "text": "or"
+    },
+    {
+      "kind": "text",
+      "text": "(B) An eligible college diploma as indicated below, with a cumulative grade point average of 3.0 ('B') or higher, plus at least two (2) years accumulated, paid, full-time equivalent, relevant work experience in the social services field:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Assaulted Women/Children’s Counsellor/Advocate"
+    },
+    {
+      "kind": "list_item",
+      "text": "Child and Youth Care / Child and Youth Worker"
+    },
+    {
+      "kind": "list_item",
+      "text": "Community & Justice Services"
+    },
+    {
+      "kind": "list_item",
+      "text": "Addiction & Mental Health Worker Program"
+    },
+    {
+      "kind": "list_item",
+      "text": "Native Child & Family Services Program"
+    },
+    {
+      "kind": "list_item",
+      "text": "Human Service(s) Counsellor"
+    },
+    {
+      "kind": "list_item",
+      "text": "Community Worker"
+    },
+    {
+      "kind": "list_item",
+      "text": "Social Work Diploma"
+    },
+    {
+      "kind": "list_item",
+      "text": "Social Service Worker"
+    },
+    {
+      "kind": "list_item",
+      "text": "Community Worker Outreach & Development"
+    },
+    {
+      "kind": "text",
+      "text": "and"
+    },
+    {
+      "kind": "text",
+      "text": "(C) Completion of a prerequisite course, CVSW15A/B Foundations of Social Work II with at least a 'B' level grade."
+    },
+    {
+      "kind": "text",
+      "text": "Employment prerequisites must be completed before taking CVSW15A/B. Admission to CVSW15A/B is limited by space availability. Applicants will be pre-selected to take this course by Undergraduate Admissions in conjunction with the School of Social Work. Applicants will be selected based on post-secondary academic performance and employment in the social services field."
+    },
+    {
+      "kind": "text",
+      "text": "Please note: Applicants who hold a diploma from a public Ontario College (or the equivalent) or a baccalaureate degree from an accredited Canadian university (or equivalent) that is not listed above, and who have at least (2) years accumulated, paid, full-time equivalent, relevant work experience in the social services field, may be considered on an individual basis."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Successful college diploma applicants are required to complete four (4) courses, in addition to the third and fourth year curriculum, as part of their degree requirements, as follows: Three (3) liberal studies courses, one (1) lower level and two (2) upper level, and SWP 331 Social Work Theories of Practice.",
+      "links": [
+        {
+          "text": "SWP 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Successful college diploma applicants will receive transfer credit for SWP 36A/B Field Practicum at the time of admission.",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CVSW15A/B course is only offered one time per year, running May - June."
+    },
+    {
+      "kind": "list_item",
+      "text": "Given the strong competition applicants will normally be required to present academic averages significantly higher than the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Baccalaureate degree holders approved to this program are not eligible to receive further transfer or challenge credits."
+    },
+    {
+      "kind": "list_item",
+      "text": "College diploma applicants with less than two (2) years accumulated, paid, full-time equivalent, relevant work experience in the social services field will not be considered and should apply to the full-time Advanced Standing - Second Year Entry option."
+    },
+    {
+      "kind": "list_item",
+      "text": "Baccalaureate applicants with less than two (2) years accumulated, paid, full-time equivalent, relevant work experience in the social services field will not be considered and should apply to the full-time four-year program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Toronto Met's School of Social Work strives to ensure equity, diversity and inclusion in the student body and aims to respond to community needs. The admission committee provides opportunity for special consideration for those applicants who wish to have their application reviewed in this light. Applicants may provide details regarding experiences that should be viewed within the lens of equity, diversity and inclusion. Applicants can include this information on the Supplementary Form and/or on a Special Consideration Form available on the Undergraduate Admissions website."
+    },
+    {
+      "kind": "list_item",
+      "text": "The part-time program takes a minimum of three (3) years to complete."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Application Procedures"
+    },
+    {
+      "kind": "text",
+      "text": "In order to receive equal consideration for the Advanced Standing Admission - Third Year Entry option, applications with complete documentation must be received by Undergraduate Admissions no later than February 1st. Applications received after this date will be considered subject to space availability."
+    },
+    {
+      "kind": "text",
+      "text": "Applicants must arrange for the submission of the following to Undergraduate Admissions. Visit Submission of Documents for access to the Document Upload page and instructions:",
+      "links": [
+        {
+          "text": "Submission of Documents",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/apply/document-submission/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Post-secondary transcripts including promotions/graduation status."
+    },
+    {
+      "kind": "list_item",
+      "text": "A resume of employment in the social services field."
+    },
+    {
+      "kind": "list_item",
+      "text": "Two letters of reference (either two professional references or one professional and one academic reference)."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants must also submit a letter(s) confirming the terms and conditions of their employment in the social services field, for a minimum of two years."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants must submit a personal statement. This statement should indicate why the applicant is choosing Social Work. Why Toronto Met? Why now?"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Toronto Met School of Social Work has been offering social work education since 1964 and a baccalaureate degree program since 1973."
+    },
+    {
+      "kind": "text",
+      "text": "The program offers a combination of academic studies in social work, professionally-related courses, liberal studies and field practicum experiences."
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum focuses on anti-oppression, empowerment and structural perspectives on social work practice with individuals, families, groups and communities."
+    },
+    {
+      "kind": "text",
+      "text": "Students and graduates are eligible for membership in the Ontario Association of Social Workers and the Ontario College of Social Workers and Social Service Workers."
+    },
+    {
+      "kind": "text",
+      "text": "Upon admission to the program, students are advised that their conduct is governed by the Canadian Association of Social Workers Code of Ethics (external link, opens in new window) . Violation of the Code may lead to suspension from the program on grounds of professional unsuitability.",
+      "links": [
+        {
+          "text": "Canadian Association of Social Workers Code of Ethics (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/en/Code-of-Ethics"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Graduates of the program are eligible to apply for advanced standing in graduate programs in social work."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Field Practicum"
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted into the first year of the full-time BSW program are required to complete a practicum in both the third and fourth years of the program."
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted with Advanced Standing into the part-time program holding a Social Service Worker Diploma or a Human Service Counselor Diploma or equivalent from a public Ontario College will receive transfer credits for the third year field practicum courses based on their prior experiences, but are required to complete a field practicum in the fourth year of the program."
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted with Advanced Standing into the part-time program holding a Bachelor Degree are required to complete a field practicum in both the third and fourth year of the program."
+    },
+    {
+      "kind": "text",
+      "text": "These experiences are designed to enable students to integrate theoretical knowledge and practice skills under the field instruction of a qualified practitioner in the community. Settings and field instructors are selected by the School in accordance with the curriculum and the standards set out by the Canadian Association for Social Work Education (external link, opens in new window) . Practica are available in a wide range of fields of practice including: child welfare, mental health, active treatment hospitals, rehabilitation, community centres, nursing homes, multi-cultural services, social planning settings and many more. Availability of a given setting may vary from year to year. The practicum is unpaid and students are responsible for related costs such as travel to and from the practicum setting, a criminal record check, required vaccinations, or health examination. A valid driver’s license will enhance the student’s ability to secure a practicum.",
+      "links": [
+        {
+          "text": "Canadian Association for Social Work Education (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Identification - Part-time Program"
+    },
+    {
+      "kind": "text",
+      "text": "Part-time courses are administered by either the program department or The G. Raymond Chang School of Continuing Education. The mode of delivery is not reflected in this calendar. These courses are identified in your course selection enrolment package with a 'C' prefix. These identifiers are for internal use only and do not affect the equivalency."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and four upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Advanced Standing Admission - Two-year Program Students must take two semesters of upper level liberal studies courses to graduate. If an upper level liberal studies course requires a prerequisite, students MUST apply for a transfer credit for that prerequisite. This will only serve as proof of prerequisite and will not apply toward the degree.",
+      "links": [
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Politics, Psychology and Sociology courses are not available for credit. ECN 110 and ECN 210 are not available for credit to students who choose ECN 104 and ECN 204 as a 2nd Yr Professionally-Related course.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        },
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        },
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Social Work courses are not available for credit."
+    },
+    {
+      "kind": "text",
+      "text": "POL 511 is not available for credit.",
+      "links": [
+        {
+          "text": "POL 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/511/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 101 Canadian Political Institutions",
+      "links": [
+        {
+          "text": "POL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 102 Political Processes in Canada",
+      "links": [
+        {
+          "text": "POL 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 102 Introduction to Psychology I",
+      "links": [
+        {
+          "text": "PSY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 101 Social Justice and Mental Health",
+      "links": [
+        {
+          "text": "FCS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 111 The Social World I",
+      "links": [
+        {
+          "text": "SOC 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 112 The Social World II",
+      "links": [
+        {
+          "text": "SOC 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/112/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 132 Critical Social Work Foundations",
+      "links": [
+        {
+          "text": "SWP 132",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/132/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 331 Social Work Theories of Practice",
+      "links": [
+        {
+          "text": "SWP 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/331/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Professional Health Communication",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 200 Indigenous Relations in Practice",
+      "links": [
+        {
+          "text": "FCS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 201 Preparing for Social Work Practice",
+      "links": [
+        {
+          "text": "SWP 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 302 Social Policy: Welfare and Programs",
+      "links": [
+        {
+          "text": "SWP 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 335 Power, Resistance and Change",
+      "links": [
+        {
+          "text": "SWP 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 341 Transformative Social Work Practice",
+      "links": [
+        {
+          "text": "SWP 341",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/341/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives (opens in new window) .",
+      "links": [
+        {
+          "text": "Open Electives (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 36A/B * Field Practicum",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 301 Decolonizing and Anti-Oppression Practice",
+      "links": [
+        {
+          "text": "SWP 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 402 Social Policy and Social Inclusion",
+      "links": [
+        {
+          "text": "SWP 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 538 Social Work Research: Part I",
+      "links": [
+        {
+          "text": "SWP 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 638 Social Work Research: Part II",
+      "links": [
+        {
+          "text": "SWP 638",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/638/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 50A/B Advanced Social Work Practice Seminar",
+      "links": [
+        {
+          "text": "SWP 50A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/50A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 51A/B * Field Practicum",
+      "links": [
+        {
+          "text": "SWP 51A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/51A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Second-Year Entry Advanced Standing Program",
+      "links": [
+        {
+          "text": "Full-Time, Second-Year Entry Advanced Standing Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Advanced Standing Admission – Second Year Entry students are required to take additional courses from first year as part of their degree requirements. See Admission Information above and Offer of Admission for details."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Professional Health Communication",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 200 Indigenous Relations in Practice",
+      "links": [
+        {
+          "text": "FCS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 201 Preparing for Social Work Practice",
+      "links": [
+        {
+          "text": "SWP 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 302 Social Policy: Welfare and Programs",
+      "links": [
+        {
+          "text": "SWP 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 335 Power, Resistance and Change",
+      "links": [
+        {
+          "text": "SWP 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 341 Transformative Social Work Practices",
+      "links": [
+        {
+          "text": "SWP 341",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/341/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 36A/B * Field Practicum",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 301 Decolonizing and Anti-Oppression Practice",
+      "links": [
+        {
+          "text": "SWP 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 402 Social Policy and Social Inclusion",
+      "links": [
+        {
+          "text": "SWP 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 538 Social Work Research: Part I",
+      "links": [
+        {
+          "text": "SWP 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 638 Social Work Research: Part II",
+      "links": [
+        {
+          "text": "SWP 638",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/638/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis. Successful applicants will receive transfer credit for SWP 36A/B at the time of admission.",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 50A/B Advanced Social Work Practice Seminar",
+      "links": [
+        {
+          "text": "SWP 50A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/50A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 51A/B * Field Practicum",
+      "links": [
+        {
+          "text": "SWP 51A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/51A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Third-Year Entry Advanced Standing Program",
+      "links": [
+        {
+          "text": "Part-Time, Third-Year Entry Advanced Standing Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 36A/B * Field Practicum",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 301 Decolonizing and Anti-Oppression Practice",
+      "links": [
+        {
+          "text": "SWP 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 402 Social Policy and Social Inclusion",
+      "links": [
+        {
+          "text": "SWP 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 538 Social Work Research: Part I",
+      "links": [
+        {
+          "text": "SWP 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 638 Social Work Research: Part II",
+      "links": [
+        {
+          "text": "SWP 638",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/638/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 50A/B Advanced Social Work Practice Seminar",
+      "links": [
+        {
+          "text": "SWP 50A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/50A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 51A/B * Field Practicum",
+      "links": [
+        {
+          "text": "SWP 51A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/51A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation",
+      "links": [
+        {
+          "text": "Academic Standing Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the general criteria used to determine Academic Standing, students in this program must also meet the following conditions:"
+    },
+    {
+      "kind": "list_item",
+      "text": "A failure in SWP 36A/B or SWP 51A/B leads to PROBATIONARY Standing.",
+      "links": [
+        {
+          "text": "SWP 36A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/36A/"
+        },
+        {
+          "text": "SWP 51A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/51A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "A second consecutive failure in any of these courses leads to a REQUIRED TO WITHDRAW Standing from the program."
+    },
+    {
+      "kind": "text",
+      "text": "The Director of the School of Social Work may remove a student from field placement and/or suspend them from the program when there is reason to conclude that the student:"
+    },
+    {
+      "kind": "list_item",
+      "text": "has behaved/performed in a manner which endangers students, clients, agency staff, faculty, or staff; or"
+    },
+    {
+      "kind": "list_item",
+      "text": "has harassed/abused a student, client, agency staff, faculty, staff or others; or"
+    },
+    {
+      "kind": "list_item",
+      "text": "has been convicted of, or has been charged with, a criminal offence involving violent or abusive behaviour; or"
+    },
+    {
+      "kind": "list_item",
+      "text": "is in violation of the Core Social Work Values and Principles of the Canadian Association of Social Workers Code of Ethics (2005)."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Graduation Requirement Variation",
+      "links": [
+        {
+          "text": "Graduation Requirement Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to fulfilling the general academic requirements for graduation, students in this program must also meet the following conditions:"
+    },
+    {
+      "kind": "text",
+      "text": "Students in the Social Work program are required to have attained a cumulative grade point average of 2.00 ('C') (or a Transfer Credit) in their Required Social Work courses, which include*:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Professional Health Communication",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 31A/B Social Work Practice Seminar",
+      "links": [
+        {
+          "text": "SWP 31A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/31A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 50A/B Advanced Social Work Practice Seminar",
+      "links": [
+        {
+          "text": "SWP 50A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/50A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 132 Critical Social Work Foundations",
+      "links": [
+        {
+          "text": "SWP 132",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/132/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 201 Preparing for Social Work Practice",
+      "links": [
+        {
+          "text": "SWP 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 301 Decolonizing and Anti-Oppression Practice",
+      "links": [
+        {
+          "text": "SWP 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 302 Social Policy: Welfare and Programs",
+      "links": [
+        {
+          "text": "SWP 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 331 Social Work Theories of Practice",
+      "links": [
+        {
+          "text": "SWP 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 335 Power, Resistance and Change",
+      "links": [
+        {
+          "text": "SWP 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 341 Transformative Social Work Practices",
+      "links": [
+        {
+          "text": "SWP 341",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/341/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 402 Social Policy and Social Inclusion",
+      "links": [
+        {
+          "text": "SWP 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 435 Aboriginal Approaches to Social Work",
+      "links": [
+        {
+          "text": "SWP 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/435/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 538 Social Work Research: Part I",
+      "links": [
+        {
+          "text": "SWP 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 638 Social Work Research: Part II",
+      "links": [
+        {
+          "text": "SWP 638",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/638/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Course requirements vary with admission cohort."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Karen Arthurton MSW & BSW Alumni/CUPE Representative Instructor Toronto Met School of Social Work"
+    },
+    {
+      "kind": "text",
+      "text": "Komal Bhasin Director Research Strategy and Policy at CAMH"
+    },
+    {
+      "kind": "text",
+      "text": "Trish Cohen Alumna School of Social Work"
+    },
+    {
+      "kind": "text",
+      "text": "Cecilia Marshall Social Worker Geriatric Psychiatry Services Toronto Rehab Institute"
+    },
+    {
+      "kind": "text",
+      "text": "Cheryl McPherson Psychotherapist New Directions Therapeutics and Consulting"
+    },
+    {
+      "kind": "text",
+      "text": "Mansoora Qazi Registered Social Worker MSW Alumni Representative Toronto Met School of Social Work"
+    },
+    {
+      "kind": "text",
+      "text": "Janie E. Ryan Director Foster Care and Adoption Services Children’s Aid Society of Toronto"
+    },
+    {
+      "kind": "text",
+      "text": "Steve Skyers Manager, Business Planning Unit Ministry of Community & Social Services"
+    },
+    {
+      "kind": "text",
+      "text": "Christina Van Sickle Professional Practice Chief, Social Work Baycrest"
+    },
+    {
+      "kind": "text",
+      "text": "Lindsay Williams MSW Alumni Representative Toronto Met School of Social Work"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Social Work"
+}

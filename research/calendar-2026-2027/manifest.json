@@ -1,0 +1,33 @@
+{
+  "calendar_year": "2026-2027",
+  "status": "collection_complete",
+  "collected_on": "2026-08-20",
+  "authority": "Toronto Metropolitan University Undergraduate Calendar",
+  "official_as_of": "2026-02-27",
+  "sources": {
+    "calendar": "https://www.torontomu.ca/calendar/2026-2027/",
+    "programs": "https://www.torontomu.ca/calendar/2026-2027/programs/",
+    "courses": "https://www.torontomu.ca/calendar/2026-2027/courses/",
+    "minors": "https://www.torontomu.ca/calendar/2026-2027/minors/",
+    "concentrations": "https://www.torontomu.ca/calendar/2026-2027/concentrations/",
+    "optional_specializations": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/",
+    "liberal_studies": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/",
+    "open_electives": "https://www.torontomu.ca/calendar/2026-2027/open-electives/",
+    "addenda_errata": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+  },
+  "inventory_counts": {
+    "program_entries": 72,
+    "minors": 69,
+    "programs_with_concentrations": 14,
+    "optional_specializations": 4,
+    "program_subpages": 130,
+    "course_catalog_records": 3971,
+    "program_minor_assessments": 4968,
+    "separate_plan_minor_assessments": 552
+  },
+  "scope_notes": [
+    "Program entries include double majors, direct or advanced-entry programs, and first-year undeclared plans where TMU lists them separately.",
+    "Minor compatibility is program-specific and must not be inferred only from course overlap.",
+    "Course availability and timetable fit are outside the Undergraduate Calendar curriculum guarantee."
+  ]
+}

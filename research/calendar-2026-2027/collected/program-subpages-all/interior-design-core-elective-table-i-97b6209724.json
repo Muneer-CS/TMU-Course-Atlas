@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/interior/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "cbb19e85e65ff265b957e8cf31fe9f49f3f211d542e4d94f34523eed526d2ed6",
+  "source_bytes": 54188,
+  "title": "Interior Design Core Elective Table I",
+  "headings": [
+    "Interior Design Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "CSE 400",
+    "FCD 815",
+    "IDE 301",
+    "IDE 304",
+    "IDE 307",
+    "IDE 309",
+    "IDE 313",
+    "IDE 314",
+    "IDE 400",
+    "IDE 401",
+    "IDE 402",
+    "IDE 403",
+    "IDE 404",
+    "IDE 405",
+    "IDE 406",
+    "IDE 407",
+    "IDE 408",
+    "IDE 409",
+    "IDE 410",
+    "IDE 411",
+    "IDE 412",
+    "IDE 413",
+    "IDE 414",
+    "IDE 415",
+    "IDE 450",
+    "IDE 500",
+    "IDE 501"
+  ],
+  "official_links": [
+    {
+      "text": "Interior Design",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/interior/"
+    },
+    {
+      "text": "CSE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "IDE 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/301/"
+    },
+    {
+      "text": "IDE 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/304/"
+    },
+    {
+      "text": "IDE 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/307/"
+    },
+    {
+      "text": "IDE 309",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/309/"
+    },
+    {
+      "text": "IDE 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/313/"
+    },
+    {
+      "text": "IDE 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/314/"
+    },
+    {
+      "text": "IDE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/400/"
+    },
+    {
+      "text": "IDE 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/401/"
+    },
+    {
+      "text": "IDE 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/402/"
+    },
+    {
+      "text": "IDE 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/403/"
+    },
+    {
+      "text": "IDE 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/404/"
+    },
+    {
+      "text": "IDE 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/405/"
+    },
+    {
+      "text": "IDE 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/406/"
+    },
+    {
+      "text": "IDE 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/407/"
+    },
+    {
+      "text": "IDE 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/408/"
+    },
+    {
+      "text": "IDE 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/409/"
+    },
+    {
+      "text": "IDE 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/410/"
+    },
+    {
+      "text": "IDE 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/411/"
+    },
+    {
+      "text": "IDE 412",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/412/"
+    },
+    {
+      "text": "IDE 413",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/413/"
+    },
+    {
+      "text": "IDE 414",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/414/"
+    },
+    {
+      "text": "IDE 415",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/415/"
+    },
+    {
+      "text": "IDE 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/450/"
+    },
+    {
+      "text": "IDE 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/500/"
+    },
+    {
+      "text": "IDE 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/501/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Interior Design Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Interior Design",
+      "links": [
+        {
+          "text": "Interior Design",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/interior/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 400 Special Projects Placement",
+      "links": [
+        {
+          "text": "CSE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 301 Furniture Design",
+      "links": [
+        {
+          "text": "IDE 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 304 Set Design",
+      "links": [
+        {
+          "text": "IDE 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 307 Colour and its Application",
+      "links": [
+        {
+          "text": "IDE 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 309 Sustainable Design",
+      "links": [
+        {
+          "text": "IDE 309",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/309/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 313 Textiles",
+      "links": [
+        {
+          "text": "IDE 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 314 Digital Fabrication",
+      "links": [
+        {
+          "text": "IDE 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 400 Africa and Beyond: The Decolonization of Design Culture",
+      "links": [
+        {
+          "text": "IDE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 401 Exhibition Design",
+      "links": [
+        {
+          "text": "IDE 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 402 Design in the Metaverse",
+      "links": [
+        {
+          "text": "IDE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 403 Material Innovations",
+      "links": [
+        {
+          "text": "IDE 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 404 Emerging Representational Techniques",
+      "links": [
+        {
+          "text": "IDE 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 405 Anti-Racist and Postcolonial Design",
+      "links": [
+        {
+          "text": "IDE 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 406 Design Activism",
+      "links": [
+        {
+          "text": "IDE 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 407 Indigenous Design Practices",
+      "links": [
+        {
+          "text": "IDE 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/407/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 408 Design and Othered Bodies",
+      "links": [
+        {
+          "text": "IDE 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 409 Haunted Houses",
+      "links": [
+        {
+          "text": "IDE 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 410 The Domestic Interior",
+      "links": [
+        {
+          "text": "IDE 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 411 Emerging Topics in Interior Design",
+      "links": [
+        {
+          "text": "IDE 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 412 Urban Interiors",
+      "links": [
+        {
+          "text": "IDE 412",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/412/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 413 Theorizing Interior Surfaces",
+      "links": [
+        {
+          "text": "IDE 413",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/413/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 414 Co-curricular Project",
+      "links": [
+        {
+          "text": "IDE 414",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/414/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 415 Year End Show",
+      "links": [
+        {
+          "text": "IDE 415",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/415/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 450 The Queer Interior",
+      "links": [
+        {
+          "text": "IDE 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 500 Selected Topics in Interior Design",
+      "links": [
+        {
+          "text": "IDE 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 501 Selected Topics in Interior Design",
+      "links": [
+        {
+          "text": "IDE 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/501/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Interior Design Core Elective Table I"
+}

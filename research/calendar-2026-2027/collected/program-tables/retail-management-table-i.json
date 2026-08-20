@@ -1,0 +1,381 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "ee86888e9b2c72e7c8191aef8eac7131a6b8bfc6e9d041fc29e0831352d3aa18",
+  "source_bytes": 53230,
+  "title": "Retail Management Core Elective Table I",
+  "headings": [
+    "Retail Management Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "GEO 302",
+    "RMG 800",
+    "RMG 801",
+    "RMG 806",
+    "RMG 817",
+    "RMG 821",
+    "RMG 902",
+    "RMG 905",
+    "RMG 906",
+    "RMG 907",
+    "RMG 909",
+    "RMG 910",
+    "RMG 911",
+    "RMG 912",
+    "RMG 913",
+    "RMG 914",
+    "RMG 916",
+    "RMG 917",
+    "RMG 918",
+    "RMG 919",
+    "RMG 920",
+    "RMG 922",
+    "RMG 925"
+  ],
+  "official_links": [
+    {
+      "text": "Retail Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+    },
+    {
+      "text": "GEO 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/302/"
+    },
+    {
+      "text": "RMG 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/800/"
+    },
+    {
+      "text": "RMG 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/801/"
+    },
+    {
+      "text": "RMG 806",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/806/"
+    },
+    {
+      "text": "RMG 817",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/817/"
+    },
+    {
+      "text": "RMG 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/821/"
+    },
+    {
+      "text": "RMG 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/902/"
+    },
+    {
+      "text": "RMG 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/905/"
+    },
+    {
+      "text": "RMG 906",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/906/"
+    },
+    {
+      "text": "RMG 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/907/"
+    },
+    {
+      "text": "RMG 909",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/909/"
+    },
+    {
+      "text": "RMG 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/910/"
+    },
+    {
+      "text": "RMG 911",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/911/"
+    },
+    {
+      "text": "RMG 912",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/912/"
+    },
+    {
+      "text": "RMG 913",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/913/"
+    },
+    {
+      "text": "RMG 914",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/914/"
+    },
+    {
+      "text": "RMG 916",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/916/"
+    },
+    {
+      "text": "RMG 917",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/917/"
+    },
+    {
+      "text": "RMG 918",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/918/"
+    },
+    {
+      "text": "RMG 919",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/919/"
+    },
+    {
+      "text": "RMG 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/920/"
+    },
+    {
+      "text": "RMG 922",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/922/"
+    },
+    {
+      "text": "RMG 925",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/925/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Retail Management Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Retail Management",
+      "links": [
+        {
+          "text": "Retail Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 302 Retail Location",
+      "links": [
+        {
+          "text": "GEO 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 800 Special Topics in Retailing",
+      "links": [
+        {
+          "text": "RMG 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 801 Retail Career Strategies",
+      "links": [
+        {
+          "text": "RMG 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 806 Retailer Perspectives on Category Management",
+      "links": [
+        {
+          "text": "RMG 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 817 Digital Advertising in Retailing",
+      "links": [
+        {
+          "text": "RMG 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 821 Research and Analytics in Social Media",
+      "links": [
+        {
+          "text": "RMG 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/821/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 902 Franchising",
+      "links": [
+        {
+          "text": "RMG 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 905 Design, Commerce and Culture",
+      "links": [
+        {
+          "text": "RMG 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 906 International Retail Markets",
+      "links": [
+        {
+          "text": "RMG 906",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/906/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 907 Relationship Marketing",
+      "links": [
+        {
+          "text": "RMG 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 909 Merchandise Buying and Planning II",
+      "links": [
+        {
+          "text": "RMG 909",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/909/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 910 Omni-Channel Retailing",
+      "links": [
+        {
+          "text": "RMG 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 911 Retail Sales Management",
+      "links": [
+        {
+          "text": "RMG 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 912 Sustainability and Social Change",
+      "links": [
+        {
+          "text": "RMG 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/912/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 913 Retail Private Label",
+      "links": [
+        {
+          "text": "RMG 913",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/913/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 914 Sector Studies",
+      "links": [
+        {
+          "text": "RMG 914",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/914/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 916 Managing B2B Channels",
+      "links": [
+        {
+          "text": "RMG 916",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/916/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 917 Experiential Learning - Travel Study",
+      "links": [
+        {
+          "text": "RMG 917",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/917/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 918 Retail IT - Case Study of Best Practices",
+      "links": [
+        {
+          "text": "RMG 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/918/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 919 Retail Data Analytics",
+      "links": [
+        {
+          "text": "RMG 919",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/919/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 920 Running a Retail Business",
+      "links": [
+        {
+          "text": "RMG 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 922 Social Media Marketing",
+      "links": [
+        {
+          "text": "RMG 922",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/922/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 925 Leading in Retail Service Organizations",
+      "links": [
+        {
+          "text": "RMG 925",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/925/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Retail Management - Table I"
+}

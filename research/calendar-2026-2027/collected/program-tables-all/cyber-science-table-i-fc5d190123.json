@@ -1,0 +1,231 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d00e5814b77d26c01648d5f5ef51e93811378943a5a00bf349a405222a31f051",
+  "source_bytes": 50439,
+  "title": "Cyber Science Core Elective Table I",
+  "headings": [
+    "Cyber Science Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "CPS 305",
+    "CPS 510",
+    "CYS 711",
+    "CYS 713",
+    "CYS 715",
+    "CYS 716",
+    "CYS 717",
+    "CYS 718",
+    "CYS 731",
+    "CYS 741",
+    "CYS 790",
+    "CYS 800",
+    "ITM 711"
+  ],
+  "official_links": [
+    {
+      "text": "Cyber Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+    },
+    {
+      "text": "CPS 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+    },
+    {
+      "text": "CPS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+    },
+    {
+      "text": "CYS 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/711/"
+    },
+    {
+      "text": "CYS 713",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/713/"
+    },
+    {
+      "text": "CYS 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/715/"
+    },
+    {
+      "text": "CYS 716",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/716/"
+    },
+    {
+      "text": "CYS 717",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/717/"
+    },
+    {
+      "text": "CYS 718",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/718/"
+    },
+    {
+      "text": "CYS 731",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/731/"
+    },
+    {
+      "text": "CYS 741",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/741/"
+    },
+    {
+      "text": "CYS 790",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/790/"
+    },
+    {
+      "text": "CYS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/800/"
+    },
+    {
+      "text": "ITM 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Cyber Science Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Cyber Science",
+      "links": [
+        {
+          "text": "Cyber Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 510 Database Systems I",
+      "links": [
+        {
+          "text": "CPS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 711 Incident Response",
+      "links": [
+        {
+          "text": "CYS 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 713 System Vulnerability and Auditing",
+      "links": [
+        {
+          "text": "CYS 713",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/713/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 715 Database Security and Auditing",
+      "links": [
+        {
+          "text": "CYS 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 716 Software Security Engineering",
+      "links": [
+        {
+          "text": "CYS 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/716/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 717 Internet of Things (IoT) Security",
+      "links": [
+        {
+          "text": "CYS 717",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/717/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 718 Cybersecurity Analytics",
+      "links": [
+        {
+          "text": "CYS 718",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/718/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 731 Malware Analysis",
+      "links": [
+        {
+          "text": "CYS 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 741 Digital Forensics",
+      "links": [
+        {
+          "text": "CYS 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 790 Operating Systems Hardening",
+      "links": [
+        {
+          "text": "CYS 790",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/790/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 800 Cyber Clinic",
+      "links": [
+        {
+          "text": "CYS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 711 Cloud Computing",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Cyber Science - Table I"
+}

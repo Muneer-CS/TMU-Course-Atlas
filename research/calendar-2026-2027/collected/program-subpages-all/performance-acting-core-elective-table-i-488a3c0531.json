@@ -1,0 +1,184 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/acting_core_elective_table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "5c5f9976ee78a9fd37a81d01d8ab2fb662e18486a023c8babebf025e378c4394",
+  "source_bytes": 49697,
+  "title": "Performance: Acting Core Elective Table I",
+  "headings": [
+    "Performance: Acting Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "PFC 216",
+    "PFC 226",
+    "PFC 236",
+    "PFC 246",
+    "PFC 256",
+    "PFC 324",
+    "PFC 334",
+    "PFC 340",
+    "PFC 402",
+    "PFC 417"
+  ],
+  "official_links": [
+    {
+      "text": "PFC 216",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/216/"
+    },
+    {
+      "text": "PFC 226",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/226/"
+    },
+    {
+      "text": "PFC 236",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/236/"
+    },
+    {
+      "text": "PFC 246",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/246/"
+    },
+    {
+      "text": "PFC 256",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/256/"
+    },
+    {
+      "text": "PFC 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/402/"
+    },
+    {
+      "text": "PFC 417",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/417/"
+    },
+    {
+      "text": "PFC 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/340/"
+    },
+    {
+      "text": "PFC 324",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/324/"
+    },
+    {
+      "text": "PFC 334",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/334/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Performance: Acting Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2025 and after: Students must complete 3 core electives in order to graduate."
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two (2) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 216 Playwriting",
+      "links": [
+        {
+          "text": "PFC 216",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/216/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 226 Directing for the Stage",
+      "links": [
+        {
+          "text": "PFC 226",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/226/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 236 Intimacy for the Stage and Screen",
+      "links": [
+        {
+          "text": "PFC 236",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/236/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 246 Fight for Performers",
+      "links": [
+        {
+          "text": "PFC 246",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/246/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 256 Improvisation for Filmmaking",
+      "links": [
+        {
+          "text": "PFC 256",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/256/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 402 Script Analysis",
+      "links": [
+        {
+          "text": "PFC 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/402/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students must take one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 417 Advanced Playwriting",
+      "links": [
+        {
+          "text": "PFC 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/417/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 340 Acting a Song",
+      "links": [
+        {
+          "text": "PFC 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 324 Special Topics: Acting",
+      "links": [
+        {
+          "text": "PFC 324",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/324/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 334 Audio Production for Streaming",
+      "links": [
+        {
+          "text": "PFC 334",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/334/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Performance: Acting Core Elective Table I"
+}

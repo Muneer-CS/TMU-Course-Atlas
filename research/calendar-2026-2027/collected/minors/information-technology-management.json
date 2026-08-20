@@ -1,0 +1,963 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/itm_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "cea4fe9220b15d2e1fce6c2c9918c505913b4226a9515df58c1054503e7a1ac1",
+  "source_bytes": 75821,
+  "title": "Minor in Information Technology Management",
+  "headings": [
+    "Minor in Information Technology Management"
+  ],
+  "course_codes_referenced": [
+    "CPS 714",
+    "GMS 450",
+    "ITM 100",
+    "ITM 102",
+    "ITM 200",
+    "ITM 207",
+    "ITM 301",
+    "ITM 305",
+    "ITM 330",
+    "ITM 410",
+    "ITM 415",
+    "ITM 430",
+    "ITM 445",
+    "ITM 450",
+    "ITM 500",
+    "ITM 501",
+    "ITM 610",
+    "ITM 618",
+    "ITM 620",
+    "ITM 703",
+    "ITM 706",
+    "ITM 707",
+    "ITM 711",
+    "ITM 735",
+    "ITM 740",
+    "ITM 745",
+    "ITM 750",
+    "ITM 751",
+    "ITM 752",
+    "ITM 760",
+    "ITM 775",
+    "ITM 780",
+    "ITM 795",
+    "ITM 820",
+    "ITM 825",
+    "ITM 830",
+    "ITM 835"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Business Technology Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_tech/"
+    },
+    {
+      "text": "ITM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/100/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "ITM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/200/"
+    },
+    {
+      "text": "ITM 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/207/"
+    },
+    {
+      "text": "ITM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/301/"
+    },
+    {
+      "text": "ITM 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/305/"
+    },
+    {
+      "text": "ITM 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+    },
+    {
+      "text": "ITM 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+    },
+    {
+      "text": "ITM 415",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/415/"
+    },
+    {
+      "text": "ITM 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/430/"
+    },
+    {
+      "text": "ITM 445",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/445/"
+    },
+    {
+      "text": "ITM 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/450/"
+    },
+    {
+      "text": "ITM 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/500/"
+    },
+    {
+      "text": "ITM 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/501/"
+    },
+    {
+      "text": "ITM 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/610/"
+    },
+    {
+      "text": "ITM 618",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/618/"
+    },
+    {
+      "text": "ITM 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/620/"
+    },
+    {
+      "text": "ITM 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/706/"
+    },
+    {
+      "text": "ITM 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/707/"
+    },
+    {
+      "text": "ITM 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+    },
+    {
+      "text": "ITM 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+    },
+    {
+      "text": "ITM 740",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/740/"
+    },
+    {
+      "text": "ITM 745",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/745/"
+    },
+    {
+      "text": "ITM 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/750/"
+    },
+    {
+      "text": "GMS 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/450/"
+    },
+    {
+      "text": "CPS 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/714/"
+    },
+    {
+      "text": "ITM 751",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/751/"
+    },
+    {
+      "text": "ITM 752",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/752/"
+    },
+    {
+      "text": "ITM 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/760/"
+    },
+    {
+      "text": "ITM 775",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/775/"
+    },
+    {
+      "text": "ITM 780",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/780/"
+    },
+    {
+      "text": "ITM 795",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/795/"
+    },
+    {
+      "text": "ITM 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/820/"
+    },
+    {
+      "text": "ITM 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+    },
+    {
+      "text": "ITM 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/830/"
+    },
+    {
+      "text": "ITM 835",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/835/"
+    },
+    {
+      "text": "ITM 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/703/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Information Technology Management"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor provides business students with opportunities for building some depth in their understanding of the role of information systems in business as well as the principles of developing information systems to meet business requirements. This Minor includes core ITM courses in information systems concepts, e-business concepts, business process analysis and design, and project management applications."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Ted Rogers School of Information Technology Management"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Technology Management - all options",
+      "links": [
+        {
+          "text": "Business Technology Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_tech/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 100 Foundations of Information Systems",
+      "links": [
+        {
+          "text": "ITM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 200 Fundamentals of Programming",
+      "links": [
+        {
+          "text": "ITM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 207 Fundamentals of Information Technology",
+      "links": [
+        {
+          "text": "ITM 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/207/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 301 IT Infrastructure",
+      "links": [
+        {
+          "text": "ITM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 305 Systems Analysis and Design",
+      "links": [
+        {
+          "text": "ITM 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 330 Supply Chain Process Architecture",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 410 Business Process Design",
+      "links": [
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 415 Business Process of Management",
+      "links": [
+        {
+          "text": "ITM 415",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/415/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 430 System Design and Implementation",
+      "links": [
+        {
+          "text": "ITM 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 445 Multimedia in Business",
+      "links": [
+        {
+          "text": "ITM 445",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/445/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 450 Foundations of DevOps",
+      "links": [
+        {
+          "text": "ITM 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 500 Data and Information Management",
+      "links": [
+        {
+          "text": "ITM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 501 Prescriptive Analytics and Simulation",
+      "links": [
+        {
+          "text": "ITM 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 610 Database Design, Implemtn. and Administr.",
+      "links": [
+        {
+          "text": "ITM 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 618 Business Intelligence and Analytics",
+      "links": [
+        {
+          "text": "ITM 618",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/618/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 620 Privacy in the Digital Age",
+      "links": [
+        {
+          "text": "ITM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 706 Enterprise Architecture",
+      "links": [
+        {
+          "text": "ITM 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 707 Strategy, Management and Acquisition",
+      "links": [
+        {
+          "text": "ITM 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 711 Cloud Computing",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 735 ICT and Diversity Management",
+      "links": [
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 740 Artificial Intelligence in Business",
+      "links": [
+        {
+          "text": "ITM 740",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/740/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 745 Generative AI in Business",
+      "links": [
+        {
+          "text": "ITM 745",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/745/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 750 IS Project Management or GMS 450 Project Management or CPS 714 Software Project Management",
+      "links": [
+        {
+          "text": "ITM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/750/"
+        },
+        {
+          "text": "GMS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/450/"
+        },
+        {
+          "text": "CPS 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/714/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 751 Natural Language Processing for Business",
+      "links": [
+        {
+          "text": "ITM 751",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/751/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 752 Data Visualization",
+      "links": [
+        {
+          "text": "ITM 752",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/752/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 760 Big Data Analytics",
+      "links": [
+        {
+          "text": "ITM 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 775 ICT and Sustainability",
+      "links": [
+        {
+          "text": "ITM 775",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/775/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 780 Web Design and Management",
+      "links": [
+        {
+          "text": "ITM 780",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/780/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 795 Social Media Analytics",
+      "links": [
+        {
+          "text": "ITM 795",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/795/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 820 Network Security",
+      "links": [
+        {
+          "text": "ITM 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 825 Enterprise Information Security",
+      "links": [
+        {
+          "text": "ITM 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 830 Blockchain in the Enterprise",
+      "links": [
+        {
+          "text": "ITM 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 835 Cyber Risk and Threat Management",
+      "links": [
+        {
+          "text": "ITM 835",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/835/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Elective courses have been grouped into topic “focuses” to provide guidance in choosing a specialized IT field. The completion of a specific “focus” is not a requirement for graduation with the minor. Some courses may have prerequisites. The completion of a specific “focus” will not appear on the official transcript."
+    },
+    {
+      "kind": "text",
+      "text": "Focus 1: Cybersecurity"
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 207 Fundamentals of Information Technology",
+      "links": [
+        {
+          "text": "ITM 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/207/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 301 IT Infrastructure",
+      "links": [
+        {
+          "text": "ITM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 620 Privacy in the Digital Age",
+      "links": [
+        {
+          "text": "ITM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 711 Cloud Computing",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 820 Network Security",
+      "links": [
+        {
+          "text": "ITM 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 825 Enterprise Information Security",
+      "links": [
+        {
+          "text": "ITM 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 830 Blockchain in the Enterprise",
+      "links": [
+        {
+          "text": "ITM 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 835 Cyber Risk and Threat Management",
+      "links": [
+        {
+          "text": "ITM 835",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/835/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Focus 2: Artificial Intelligence and Analytics"
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 200 Fundamentals of Programming",
+      "links": [
+        {
+          "text": "ITM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 207 Fundamentals of Information Technology",
+      "links": [
+        {
+          "text": "ITM 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/207/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 500 Data and Information Management",
+      "links": [
+        {
+          "text": "ITM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 618 Business Intelligence and Analytics",
+      "links": [
+        {
+          "text": "ITM 618",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/618/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 703 Current Issues in Information Systems Management",
+      "links": [
+        {
+          "text": "ITM 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 740 Artificial Intelligence in Business",
+      "links": [
+        {
+          "text": "ITM 740",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/740/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 745 Generative AI in Business",
+      "links": [
+        {
+          "text": "ITM 745",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/745/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 751 Natural Language Processing for Business",
+      "links": [
+        {
+          "text": "ITM 751",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/751/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 752 Data Visualization",
+      "links": [
+        {
+          "text": "ITM 752",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/752/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 760 Big Data Analytics",
+      "links": [
+        {
+          "text": "ITM 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 795 Social Media Analytics",
+      "links": [
+        {
+          "text": "ITM 795",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/795/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Focus 3: Digital Transformation"
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 207 Fundamentals of Information Technology",
+      "links": [
+        {
+          "text": "ITM 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/207/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 301 IT Infrastructure",
+      "links": [
+        {
+          "text": "ITM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 305 Systems Analysis and Design",
+      "links": [
+        {
+          "text": "ITM 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 410 Business Process Design",
+      "links": [
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 430 System Design and Implementation",
+      "links": [
+        {
+          "text": "ITM 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 445 Multimedia in Business",
+      "links": [
+        {
+          "text": "ITM 445",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/445/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 500 Data and Information Management",
+      "links": [
+        {
+          "text": "ITM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 706 Enterprise Architecture",
+      "links": [
+        {
+          "text": "ITM 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 707 Strategy, Management and Acquisition",
+      "links": [
+        {
+          "text": "ITM 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 711 Cloud Computing",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 735 ICT and Diversity Management",
+      "links": [
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 750 IS Project Management",
+      "links": [
+        {
+          "text": "ITM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 775 ICT and Sustainability",
+      "links": [
+        {
+          "text": "ITM 775",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/775/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 780 Web Design and Management",
+      "links": [
+        {
+          "text": "ITM 780",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/780/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Information Technology Management"
+}

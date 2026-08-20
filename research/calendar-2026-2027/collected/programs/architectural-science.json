@@ -1,0 +1,1959 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "17d3915cd5e858817e6f4653df9e779a656eea90b8f36b7f5e0dce730fe74fbb",
+  "source_bytes": 124381,
+  "title": "Architectural Science",
+  "headings": [
+    "Architectural Science",
+    "Admission Information",
+    "Laptop Computer Recommendations",
+    "Program Overview/Curriculum Information",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section.",
+    "Architectural Science Students - Transfer Credit",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Co-operative Work Terms",
+    "Concentrations",
+    "Architecture Concentration",
+    "Building Science Concentration",
+    "Project Management Concentration",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ARC 721",
+    "ARC 821",
+    "ARC 920",
+    "ASC 101",
+    "ASC 102",
+    "ASC 103",
+    "ASC 120",
+    "ASC 121",
+    "ASC 200",
+    "ASC 201",
+    "ASC 202",
+    "ASC 203",
+    "ASC 205",
+    "ASC 206",
+    "ASC 301",
+    "ASC 302",
+    "ASC 303",
+    "ASC 304",
+    "ASC 306",
+    "ASC 401",
+    "ASC 402",
+    "ASC 403",
+    "ASC 406",
+    "ASC 520",
+    "ASC 521",
+    "ASC 522",
+    "ASC 523",
+    "ASC 605",
+    "ASC 620",
+    "ASC 621",
+    "ASC 622",
+    "ASC 623",
+    "BMS 150",
+    "BSC 720",
+    "BSC 721",
+    "BSC 722",
+    "BSC 820",
+    "BSC 821",
+    "BSC 822",
+    "CHY 583",
+    "CPS 650",
+    "CVL 407",
+    "ENG 101",
+    "ENG 104",
+    "ENG 112",
+    "ENG 201",
+    "ENG 203",
+    "ENG 212",
+    "IRL 100",
+    "IRL 500",
+    "MEC 110",
+    "PMT 720",
+    "PMT 721",
+    "PMT 722",
+    "PMT 820",
+    "PMT 821",
+    "PMT 822",
+    "WKT 106",
+    "WKT 206",
+    "WKT 306",
+    "WKT 406"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Engineering and Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "MEC 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "IRL 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+    },
+    {
+      "text": "ASC 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+    },
+    {
+      "text": "ASC 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/121/"
+    },
+    {
+      "text": "ENG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+    },
+    {
+      "text": "ENG 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+    },
+    {
+      "text": "ENG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+    },
+    {
+      "text": "ENG 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+    },
+    {
+      "text": "ENG 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+    },
+    {
+      "text": "ENG 212",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+    },
+    {
+      "text": "CHY 583",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+    },
+    {
+      "text": "CPS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+    },
+    {
+      "text": "IRL 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/500/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ASC 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/101/"
+    },
+    {
+      "text": "ASC 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/102/"
+    },
+    {
+      "text": "ASC 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/103/"
+    },
+    {
+      "text": "ASC 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/200/"
+    },
+    {
+      "text": "ASC 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/201/"
+    },
+    {
+      "text": "ASC 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/202/"
+    },
+    {
+      "text": "ASC 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/203/"
+    },
+    {
+      "text": "ASC 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+    },
+    {
+      "text": "ASC 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/206/"
+    },
+    {
+      "text": "ASC 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/301/"
+    },
+    {
+      "text": "ASC 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/302/"
+    },
+    {
+      "text": "ASC 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/303/"
+    },
+    {
+      "text": "ASC 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/304/"
+    },
+    {
+      "text": "ASC 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/306/"
+    },
+    {
+      "text": "ASC 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/401/"
+    },
+    {
+      "text": "ASC 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/402/"
+    },
+    {
+      "text": "ASC 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/403/"
+    },
+    {
+      "text": "ASC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/406/"
+    },
+    {
+      "text": "CVL 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/407/"
+    },
+    {
+      "text": "ASC 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/520/"
+    },
+    {
+      "text": "ASC 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/522/"
+    },
+    {
+      "text": "ASC 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/523/"
+    },
+    {
+      "text": "ASC 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/621/"
+    },
+    {
+      "text": "ASC 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/521/"
+    },
+    {
+      "text": "ASC 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+    },
+    {
+      "text": "ASC 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/620/"
+    },
+    {
+      "text": "ASC 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/622/"
+    },
+    {
+      "text": "ASC 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/623/"
+    },
+    {
+      "text": "Core Studio Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_II/"
+    },
+    {
+      "text": "Core Elective Table III (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_iii/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "WKT 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/106/"
+    },
+    {
+      "text": "WKT 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/206/"
+    },
+    {
+      "text": "WKT 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/306/"
+    },
+    {
+      "text": "WKT 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/406/"
+    },
+    {
+      "text": "ARC 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/920/"
+    },
+    {
+      "text": "ARC 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/721/"
+    },
+    {
+      "text": "ARC 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/821/"
+    },
+    {
+      "text": "BSC 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/720/"
+    },
+    {
+      "text": "BSC 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/820/"
+    },
+    {
+      "text": "BSC 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/721/"
+    },
+    {
+      "text": "BSC 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/722/"
+    },
+    {
+      "text": "BSC 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/821/"
+    },
+    {
+      "text": "BSC 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/822/"
+    },
+    {
+      "text": "PMT 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/720/"
+    },
+    {
+      "text": "PMT 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/820/"
+    },
+    {
+      "text": "PMT 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/721/"
+    },
+    {
+      "text": "PMT 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/722/"
+    },
+    {
+      "text": "PMT 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/821/"
+    },
+    {
+      "text": "PMT 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/822/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Architectural Science"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Engineering and Architectural Science",
+      "links": [
+        {
+          "text": "Faculty of Engineering and Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Architectural Science (Honours) (BArchSc (Hons))"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Architectural Science",
+      "links": [
+        {
+          "text": "Department of Architectural Science",
+          "url": "https://www.torontomu.ca/content/ryerson/architectural-science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Physics (SPH4U) and Mathematics (one of Advanced Functions (MHF4U) or Calculus and Vectors (MCV4U))."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants will be required to submit a collection of their own creative work for consideration and assessment. A digital submission process will be used to submit this portfolio. Further information regarding the above will be communicated by Undergraduate Admissions as part of the admissions process. Visit the Architectural Science program page for further details about the non-academic requirements.",
+      "links": [
+        {
+          "text": "Architectural Science program page",
+          "url": "https://www.torontomu.ca/content/ryerson/programs/undergraduate/architectural-science/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "A non-academic assessment fee of $50 CAD (non-refundable and subject to change) is required."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Laptop Computer Recommendations"
+    },
+    {
+      "kind": "text",
+      "text": "The architectural profession and construction industry extensively use computer technology for design visualization, performance simulation, construction documentation and management. Many courses in the Department of Architectural Science include instruction and assignments relying on software delivery methods. The department recommends students have access to a personal computer while enrolled in the program. Please visit the IT Resources tab of the Forms & Resources (opens in new window) page on the department’s website. Current recommended specifications for computers are available in the \"Laptop Recommendations\" section.",
+      "links": [
+        {
+          "text": "Forms & Resources (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/architectural-science/forms-resources/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "In the final two semesters, students can complete a general program with selection of courses and studios from across the curriculum, or choose one of three Concentrations – Architecture, Building Science or Project Management – and undertake intensive work in their chosen concentration. In addition, the program requires a number of courses in liberal studies, as well as a range of professional electives, offered by the Department and other Departments at the University. Enrolment in any Concentration is optional and to be discussed with the department."
+    },
+    {
+      "kind": "text",
+      "text": "The Department offers a competitive co-operative program which provides top-performing students who have completed their third year in the architectural science program, with 12 to 16 months of work experience that enhances their acumen in the architecture, engineering, and construction (AEC) industry. Although neither the Department nor the Co-operative Education Office can guarantee a placement, they provide major assistance in locating suitable positions and counselling of students in their search for suitable jobs. This co-operative program enables students to earn competitive wages to offset the costs of a university education. Students will work directly with architects, engineers and other skilled professionals from the AEC industry, gaining experience in several different settings."
+    },
+    {
+      "kind": "text",
+      "text": "The architectural science program promotes an integrated approach to architectural science, through studio and lecture courses. Students have the opportunity to apply theory learned in the lecture courses to studio projects which engage with real-life problems in design, construction, management, and the environment."
+    },
+    {
+      "kind": "text",
+      "text": "The Architecture Concentration offers a focus on in depth exploration of architectural design principles in society today. Through lectures, seminars, and hands-on studio projects, students learn program planning, design, presentation techniques, research, planning and the role of architecture today."
+    },
+    {
+      "kind": "text",
+      "text": "The Building Science Concentration offers a more detailed technical base of studies including the selection and design of building construction assemblies, the evaluation of their suitability and performance, and the development of construction and technical drawings."
+    },
+    {
+      "kind": "text",
+      "text": "The Project Management Concentration examines the managerial and economic aspects of construction projects, including the planning, organization, management, supervision and control of the process."
+    },
+    {
+      "kind": "text",
+      "text": "Graduates of this program will find career opportunities in:"
+    },
+    {
+      "kind": "list_item",
+      "text": "the design, documentation, and management of projects in architectural, engineering, environmental management, and planning firms"
+    },
+    {
+      "kind": "list_item",
+      "text": "the production, marketing, sales, research, development, testing, and evaluation of building products or systems in material fabrication, product manufacturing, and construction firms"
+    },
+    {
+      "kind": "list_item",
+      "text": "office and field supervision in trade and general construction organizations"
+    },
+    {
+      "kind": "list_item",
+      "text": "development and management of real estate/planning/conservation feasibility studies; environmental and management strategy planning"
+    },
+    {
+      "kind": "list_item",
+      "text": "local, regional, provincial, federal, and international government agencies"
+    },
+    {
+      "kind": "list_item",
+      "text": "post graduate education and research"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Architectural Science Students - Transfer Credit"
+    },
+    {
+      "kind": "text",
+      "text": "Architectural Science applicants cannot expect to receive any transfer credits in architectural science discipline or architectural science related discipline courses if their post-secondary education was not completed at a program accredited by the Canadian Architectural Certification Board (external link, opens in new window) .",
+      "links": [
+        {
+          "text": "Canadian Architectural Certification Board (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/en/accredited-programs/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "MEC 110 , BMS 150 , IRL 100 , ASC 120 and ASC 121 are not available for credit.",
+      "links": [
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "IRL 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/100/"
+        },
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        },
+        {
+          "text": "ASC 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In Semester 1, students are required to enrol in one of the following liberal studies courses: ENG 101 , ENG 104 , ENG 112 , ENG 201 , ENG 203 or ENG 212 . Students may take only one additional English course for credit.",
+      "links": [
+        {
+          "text": "ENG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+        },
+        {
+          "text": "ENG 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+        },
+        {
+          "text": "ENG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+        },
+        {
+          "text": "ENG 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+        },
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        },
+        {
+          "text": "ENG 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "CHY 583 , CPS 650 and IRL 500 are not available for credit.",
+      "links": [
+        {
+          "text": "CHY 583",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+        },
+        {
+          "text": "CPS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+        },
+        {
+          "text": "IRL 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/500/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 101 * Communications Studio",
+      "links": [
+        {
+          "text": "ASC 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 102 The Built World",
+      "links": [
+        {
+          "text": "ASC 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 103 The Built Context",
+      "links": [
+        {
+          "text": "ASC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 200 Sustainable Practices",
+      "links": [
+        {
+          "text": "ASC 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 101 Laughter and Tears: Comedy and Tragedy",
+      "links": [
+        {
+          "text": "ENG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 104 The Short Story",
+      "links": [
+        {
+          "text": "ENG 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 112 Zap, Pow, Bang: Pop Lit",
+      "links": [
+        {
+          "text": "ENG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 201 Myth and Literature",
+      "links": [
+        {
+          "text": "ENG 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 203 The Literature of Indigenous Peoples",
+      "links": [
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 212 Cultures in Crisis",
+      "links": [
+        {
+          "text": "ENG 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ASC 101 has a GPA Weight of 3.00.",
+      "links": [
+        {
+          "text": "ASC 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 201 * Design Studio I",
+      "links": [
+        {
+          "text": "ASC 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 202 The Building Project",
+      "links": [
+        {
+          "text": "ASC 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 203 Structures I",
+      "links": [
+        {
+          "text": "ASC 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 205 † Collaborative Exercise I",
+      "links": [
+        {
+          "text": "ASC 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 206 Ideas, Tech and Precedents I",
+      "links": [
+        {
+          "text": "ASC 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/206/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ASC 201 has a GPA Weight of 3.00. † ASC 205 is graded on a pass/fail basis. ASC 205 can be taken in either 2nd Semester or 4th Semester.",
+      "links": [
+        {
+          "text": "ASC 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/201/"
+        },
+        {
+          "text": "ASC 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+        },
+        {
+          "text": "ASC 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 301 * Design Studio II",
+      "links": [
+        {
+          "text": "ASC 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 302 Envelope Systems",
+      "links": [
+        {
+          "text": "ASC 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 303 Structures II",
+      "links": [
+        {
+          "text": "ASC 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 304 The Construction Project",
+      "links": [
+        {
+          "text": "ASC 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 306 Ideas, Tech and Precedents II",
+      "links": [
+        {
+          "text": "ASC 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/306/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ASC 301 has a GPA Weight of 3.00.",
+      "links": [
+        {
+          "text": "ASC 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 205 † Collaborative Exercise I",
+      "links": [
+        {
+          "text": "ASC 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 401 * Design Studio III",
+      "links": [
+        {
+          "text": "ASC 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 402 Bodily Comfort Systems",
+      "links": [
+        {
+          "text": "ASC 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 403 Site Development and Planning",
+      "links": [
+        {
+          "text": "ASC 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 406 Ideas, Tech and Precedents III",
+      "links": [
+        {
+          "text": "ASC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CVL 407 Structures III",
+      "links": [
+        {
+          "text": "CVL 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ASC 401 has a GPA Weight of 3.00. † ASC 205 is graded on a pass/fail basis. ASC 205 can be taken in either 2nd Semester or 4th Semester.",
+      "links": [
+        {
+          "text": "ASC 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/401/"
+        },
+        {
+          "text": "ASC 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+        },
+        {
+          "text": "ASC 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/205/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 520 * Integration Studio I",
+      "links": [
+        {
+          "text": "ASC 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 522 Project Economics",
+      "links": [
+        {
+          "text": "ASC 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 523 Theories of Urbanism",
+      "links": [
+        {
+          "text": "ASC 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 621 Tectonics and Materiality",
+      "links": [
+        {
+          "text": "ASC 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/621/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ASC 520 has a GPA Weight of 3.00.",
+      "links": [
+        {
+          "text": "ASC 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 521 Light/Sound in Architecture",
+      "links": [
+        {
+          "text": "ASC 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 605 † Collaborative Exercise III",
+      "links": [
+        {
+          "text": "ASC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 620 * Integration Studio II",
+      "links": [
+        {
+          "text": "ASC 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 622 Documentation and Construction Contract",
+      "links": [
+        {
+          "text": "ASC 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/622/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 623 Principles of Detailing",
+      "links": [
+        {
+          "text": "ASC 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/623/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ASC 620 has a GPA Weight of 3.00. † ASC 605 is graded on a pass/fail basis. ASC 605 can be taken in either 6th Semester or 8th Semester.",
+      "links": [
+        {
+          "text": "ASC 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/620/"
+        },
+        {
+          "text": "ASC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+        },
+        {
+          "text": "ASC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The first three years of the program provide students with a common foundation. Students must select one of the following options for their final year."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "text",
+      "text": "STUDIO COURSE: One course from Core Studio Table II",
+      "links": [
+        {
+          "text": "Core Studio Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_II/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Core Elective Table III",
+      "links": [
+        {
+          "text": "Core Elective Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One* Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Courses from the Core Elective Table III are acceptable to meet this requirement."
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 605 † Collaborative Exercise II",
+      "links": [
+        {
+          "text": "ASC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "STUDIO COURSE: One course from Core Studio Table II",
+      "links": [
+        {
+          "text": "Core Studio Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_II/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Core Elective Table III",
+      "links": [
+        {
+          "text": "Core Elective Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One* Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Courses from the Core Elective Table III are acceptable to meet this requirement"
+    },
+    {
+      "kind": "text",
+      "text": "† ASC 605 is graded on a pass/fail basis. ASC 605 can be taken in either 6th Semester or 8th Semester.",
+      "links": [
+        {
+          "text": "ASC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+        },
+        {
+          "text": "ASC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Work Terms"
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the regular Architectural Science curriculum, students can choose to pursue the Architectural Science Co-operative Program. The following table shows the sequence of academic and work terms for this program. Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of three work terms."
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 106 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/106/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 206 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/206/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 306 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/306/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 406 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/406/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations",
+      "links": [
+        {
+          "text": "Concentrations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or professional electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor. Students may choose to complete one of the following three optional Concentrations which are comprised of courses from the Core Studio Table II and the Core Elective Table III. Concentrations must be formally declared and must be completed before graduation to be noted on the academic transcript"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Architecture Concentration"
+    },
+    {
+      "kind": "text",
+      "text": "The following six (6) courses are required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two (2) ASC courses from Core Elective Table III (opens in new window)",
+      "links": [
+        {
+          "text": "Core Elective Table III (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARC 920 Advanced Architecture Studio (This course must be successfully completed twice, each time with a different topic)",
+      "links": [
+        {
+          "text": "ARC 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARC 721 Theorizing Technology in Architecture",
+      "links": [
+        {
+          "text": "ARC 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARC 821 The Architect in Society",
+      "links": [
+        {
+          "text": "ARC 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/821/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Building Science Concentration"
+    },
+    {
+      "kind": "text",
+      "text": "The following six (6) courses are required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 720 Building Performance Assessment Studio",
+      "links": [
+        {
+          "text": "BSC 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 820 Building Science Detail Design Studio",
+      "links": [
+        {
+          "text": "BSC 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 721 Existing Building Forensics",
+      "links": [
+        {
+          "text": "BSC 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 722 Sustainable Environmental Control Systems",
+      "links": [
+        {
+          "text": "BSC 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/722/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 821 Sustainable Detail Design",
+      "links": [
+        {
+          "text": "BSC 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/821/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 822 Advanced Envelopes/Components",
+      "links": [
+        {
+          "text": "BSC 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/822/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Project Management Concentration"
+    },
+    {
+      "kind": "text",
+      "text": "The following six (6) courses are required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 720 Project Management Studio in Development",
+      "links": [
+        {
+          "text": "PMT 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 820 Project Management Studio in Procurement",
+      "links": [
+        {
+          "text": "PMT 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 721 Economics for Project Management",
+      "links": [
+        {
+          "text": "PMT 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 722 Information Systems",
+      "links": [
+        {
+          "text": "PMT 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/722/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 821 Construction Practices and Management",
+      "links": [
+        {
+          "text": "PMT 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/821/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 822 Procurement and Construction Management",
+      "links": [
+        {
+          "text": "PMT 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/822/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "David Campbell Associate Arup"
+    },
+    {
+      "kind": "text",
+      "text": "Paul Dowsett Principal Architect Sustainable TO"
+    },
+    {
+      "kind": "text",
+      "text": "Mehdi Ghiyaei Associate DSAI"
+    },
+    {
+      "kind": "text",
+      "text": "Steve Kemp Principal RDH Building Science"
+    },
+    {
+      "kind": "text",
+      "text": "Jamie Lee Associate Principal WZMH Susan Lewin Principal CU&P Architects Amal Madanat Vice President, Design Amica Senior Lifestyles Veronica Madonna Assistant Professor RAIC Centre for Architecture, Athabasca University"
+    },
+    {
+      "kind": "text",
+      "text": "David McKibbon Senior Vice President, Project Management, Cadillac Fairview"
+    },
+    {
+      "kind": "text",
+      "text": "Gayle Meeks Associate, Technical Director Perkins&Will"
+    },
+    {
+      "kind": "text",
+      "text": "David Moses Principal Moses Structural Engineers John Potter Senior Advisor, Design Excellence Program Metrolinx Michelle Xuareb Director of Innovation Quadrangle"
+    },
+    {
+      "kind": "text",
+      "text": "Further information is available on the departmental PAC webpage (opens in new window) .",
+      "links": [
+        {
+          "text": "PAC webpage (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/architectural-science/people/program-advisory-council/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Architectural Science"
+}

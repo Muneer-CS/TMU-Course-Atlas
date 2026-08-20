@@ -1,0 +1,646 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "acd3260ad8dc0c101feb33ee6dcbea54d28b6bd3fb3892a4830b269761f4e656",
+  "source_bytes": 58860,
+  "title": "Professional Communication Core Elective Table I",
+  "headings": [
+    "Professional Communication Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "CMN 100",
+    "CMN 225",
+    "CMN 230",
+    "CMN 231",
+    "CMN 240",
+    "CMN 255",
+    "CMN 269",
+    "CMN 288",
+    "CMN 304",
+    "CMN 305",
+    "CMN 306",
+    "CMN 310",
+    "CMN 313",
+    "CMN 316",
+    "CMN 317",
+    "CMN 321",
+    "CMN 340",
+    "CMN 376",
+    "CMN 380",
+    "CMN 406",
+    "CMN 408",
+    "CMN 411",
+    "CMN 413",
+    "CMN 414",
+    "CMN 425",
+    "CMN 443",
+    "CMN 447",
+    "CMN 450",
+    "CMN 453",
+    "CMN 460",
+    "CMN 462",
+    "CMN 472",
+    "CMN 600",
+    "CSE 310",
+    "CSE 400",
+    "CSE 410",
+    "FCD 810",
+    "FCD 817",
+    "FCD 827",
+    "FCD 918"
+  ],
+  "official_links": [
+    {
+      "text": "Professional Communication",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/"
+    },
+    {
+      "text": "CMN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+    },
+    {
+      "text": "CMN 225",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/225/"
+    },
+    {
+      "text": "CMN 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+    },
+    {
+      "text": "CMN 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/231/"
+    },
+    {
+      "text": "CMN 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/240/"
+    },
+    {
+      "text": "CMN 255",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/255/"
+    },
+    {
+      "text": "CMN 269",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/269/"
+    },
+    {
+      "text": "CMN 288",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/288/"
+    },
+    {
+      "text": "CMN 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/304/"
+    },
+    {
+      "text": "CMN 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/305/"
+    },
+    {
+      "text": "CMN 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/306/"
+    },
+    {
+      "text": "CMN 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/310/"
+    },
+    {
+      "text": "CMN 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/313/"
+    },
+    {
+      "text": "CMN 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/316/"
+    },
+    {
+      "text": "CMN 317",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/317/"
+    },
+    {
+      "text": "CMN 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/321/"
+    },
+    {
+      "text": "CMN 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/340/"
+    },
+    {
+      "text": "CMN 376",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/376/"
+    },
+    {
+      "text": "CMN 380",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/380/"
+    },
+    {
+      "text": "CMN 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/406/"
+    },
+    {
+      "text": "CMN 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/408/"
+    },
+    {
+      "text": "CMN 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/411/"
+    },
+    {
+      "text": "CMN 413",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/413/"
+    },
+    {
+      "text": "CMN 414",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/414/"
+    },
+    {
+      "text": "CMN 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/425/"
+    },
+    {
+      "text": "CMN 443",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/443/"
+    },
+    {
+      "text": "CMN 447",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/447/"
+    },
+    {
+      "text": "CMN 453",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/453/"
+    },
+    {
+      "text": "CMN 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/450/"
+    },
+    {
+      "text": "CMN 460",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/460/"
+    },
+    {
+      "text": "CMN 462",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/462/"
+    },
+    {
+      "text": "CMN 472",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/472/"
+    },
+    {
+      "text": "CMN 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+    },
+    {
+      "text": "CSE 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+    },
+    {
+      "text": "CSE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+    },
+    {
+      "text": "CSE 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+    },
+    {
+      "text": "FCD 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/810/"
+    },
+    {
+      "text": "FCD 817",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/817/"
+    },
+    {
+      "text": "FCD 827",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/827/"
+    },
+    {
+      "text": "FCD 918",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/918/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Professional Communication Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Professional Communication",
+      "links": [
+        {
+          "text": "Professional Communication",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Professional Health Communication",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 225 Communication in Place",
+      "links": [
+        {
+          "text": "CMN 225",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/225/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 230 Trans Studies and Communication",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 231 Communicating with Comics",
+      "links": [
+        {
+          "text": "CMN 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 240 † Co-op Preparation in The Creative School",
+      "links": [
+        {
+          "text": "CMN 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 255 Fashion and Communication",
+      "links": [
+        {
+          "text": "CMN 255",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/255/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 269 Countercultural Communication",
+      "links": [
+        {
+          "text": "CMN 269",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/269/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 288 * Communication and Social Media",
+      "links": [
+        {
+          "text": "CMN 288",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/288/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 304 Career Advancement Communication",
+      "links": [
+        {
+          "text": "CMN 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 305 Strategic Public Relations in ProCom",
+      "links": [
+        {
+          "text": "CMN 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 306 Risk and Crisis Communication",
+      "links": [
+        {
+          "text": "CMN 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 310 Communication with Colour",
+      "links": [
+        {
+          "text": "CMN 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 313 Organizational Report Writing",
+      "links": [
+        {
+          "text": "CMN 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 316 * Questioning Data",
+      "links": [
+        {
+          "text": "CMN 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 317 Information, Technology, and Control",
+      "links": [
+        {
+          "text": "CMN 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 321 Knowledge Translation",
+      "links": [
+        {
+          "text": "CMN 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 340 Climate Change Communication",
+      "links": [
+        {
+          "text": "CMN 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 376 ProCom Internship",
+      "links": [
+        {
+          "text": "CMN 376",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/376/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 380 Spectacle and the City",
+      "links": [
+        {
+          "text": "CMN 380",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/380/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 406 ** Storytelling in an Indigenous Context",
+      "links": [
+        {
+          "text": "CMN 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 408 Proposal and Grant Writing",
+      "links": [
+        {
+          "text": "CMN 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 411 Special Topics in ProCom",
+      "links": [
+        {
+          "text": "CMN 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 413 Corporate Communications",
+      "links": [
+        {
+          "text": "CMN 413",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/413/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 414 Interpersonal Communication",
+      "links": [
+        {
+          "text": "CMN 414",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/414/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 425 Directed Studies in ProCom",
+      "links": [
+        {
+          "text": "CMN 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/425/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 443 ** Contemporary Intercultural Communication",
+      "links": [
+        {
+          "text": "CMN 443",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/443/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 447 Communication and Law",
+      "links": [
+        {
+          "text": "CMN 447",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/447/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 453 Communication and Social Change",
+      "links": [
+        {
+          "text": "CMN 453",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/453/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 450 Participatory Media and Communication",
+      "links": [
+        {
+          "text": "CMN 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 460 Food, Communication and Culture",
+      "links": [
+        {
+          "text": "CMN 460",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/460/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 462 Critical Health Communication",
+      "links": [
+        {
+          "text": "CMN 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/462/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 472 ** Political Communication and Race",
+      "links": [
+        {
+          "text": "CMN 472",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/472/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 310 ** International Context",
+      "links": [
+        {
+          "text": "CSE 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 400 Special Projects Placement",
+      "links": [
+        {
+          "text": "CSE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 410 Creative Capstone Enrichment",
+      "links": [
+        {
+          "text": "CSE 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 810 Immersion in Communication and Design",
+      "links": [
+        {
+          "text": "FCD 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 817 Live Events Supercourse I",
+      "links": [
+        {
+          "text": "FCD 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 827 Live Events Supercourse II",
+      "links": [
+        {
+          "text": "FCD 827",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/827/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 918 Media Ethics",
+      "links": [
+        {
+          "text": "FCD 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/918/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Available as a core elective only to students admitted Fall 2025 and before. **If not taken as a Required Group 1 or Required Group 2 course in Semester 5 or Semester 6. †Available only to students in the Full-Time, Five-Year Co-op Program. Co-op students should take CMN 240 as a core elective in the 3rd Semester.",
+      "links": [
+        {
+          "text": "CMN 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/240/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Professional Communication Core Elective Table I"
+}

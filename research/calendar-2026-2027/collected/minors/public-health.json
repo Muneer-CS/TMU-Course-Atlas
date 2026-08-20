@@ -1,0 +1,545 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/public_health_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "b81bb4ee4cd6d4f196f236664d4553f7271372081bf334ecd619125064ec2ad7",
+  "source_bytes": 56500,
+  "title": "Minor in Public Health",
+  "headings": [
+    "Minor in Public Health"
+  ],
+  "course_codes_referenced": [
+    "ENH 121",
+    "ENH 122",
+    "ENH 325",
+    "ENH 333",
+    "ENH 505",
+    "ENH 524",
+    "ENH 721",
+    "ENH 825",
+    "POH 201",
+    "POH 400",
+    "POH 407",
+    "POH 410",
+    "POH 420",
+    "POH 430",
+    "POH 440",
+    "POH 705",
+    "PUB 301",
+    "PUB 409",
+    "PUB 501",
+    "PUB 508",
+    "PUB 607"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Occupational Health and Safety - all options",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+    },
+    {
+      "text": "Public Health - all options",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/publichealth/"
+    },
+    {
+      "text": "ENH 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+    },
+    {
+      "text": "POH 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/201/"
+    },
+    {
+      "text": "ENH 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+    },
+    {
+      "text": "ENH 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/325/"
+    },
+    {
+      "text": "ENH 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/333/"
+    },
+    {
+      "text": "ENH 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/505/"
+    },
+    {
+      "text": "ENH 524",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/524/"
+    },
+    {
+      "text": "ENH 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/721/"
+    },
+    {
+      "text": "ENH 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+    },
+    {
+      "text": "POH 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/400/"
+    },
+    {
+      "text": "POH 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/407/"
+    },
+    {
+      "text": "POH 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/410/"
+    },
+    {
+      "text": "POH 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/420/"
+    },
+    {
+      "text": "POH 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/430/"
+    },
+    {
+      "text": "POH 440",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/440/"
+    },
+    {
+      "text": "POH 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+    },
+    {
+      "text": "PUB 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/301/"
+    },
+    {
+      "text": "PUB 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/409/"
+    },
+    {
+      "text": "PUB 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/501/"
+    },
+    {
+      "text": "PUB 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/508/"
+    },
+    {
+      "text": "PUB 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/607/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/public_health_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Public Health"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Public Health will equip students from a variety of academic backgrounds and disciplines with foundational knowledge about public health, including demonstrating knowledge of public health science and concepts, particularly health equity, determinants of health and epidemiology. The course electives will allow students to gain more in-depth and specialized knowledge in specific and focused areas of public health, such as law, pollution, health education and promotion, infection control, public health emergency management, risk assessment, and infectious disease prevention and control."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Occupational and Public Health"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Occupational Health and Safety - all options",
+      "links": [
+        {
+          "text": "Occupational Health and Safety - all options",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Public Health - all options",
+      "links": [
+        {
+          "text": "Public Health - all options",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/publichealth/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (2):"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 201 Determinants of Health",
+      "links": [
+        {
+          "text": "POH 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 121 Environmental Health Law",
+      "links": [
+        {
+          "text": "ENH 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 325 Housing and Built Environments",
+      "links": [
+        {
+          "text": "ENH 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 333 Food Hygiene",
+      "links": [
+        {
+          "text": "ENH 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 505 Infection Control",
+      "links": [
+        {
+          "text": "ENH 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 524 Pollution and Waste Management",
+      "links": [
+        {
+          "text": "ENH 524",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/524/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 721 Public Health Law",
+      "links": [
+        {
+          "text": "ENH 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 400 Global Health",
+      "links": [
+        {
+          "text": "POH 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 407 Environment and Emergencies",
+      "links": [
+        {
+          "text": "POH 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/407/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 410 Climate Change and Health",
+      "links": [
+        {
+          "text": "POH 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 420 Addictions and Mental Health",
+      "links": [
+        {
+          "text": "POH 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 430 Rural, Remote, and Equity Health",
+      "links": [
+        {
+          "text": "POH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 440 Chronic Disease and Injury Prevention",
+      "links": [
+        {
+          "text": "POH 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 705 Health Promotion and Education",
+      "links": [
+        {
+          "text": "POH 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 301 Agents of Communicable Disease",
+      "links": [
+        {
+          "text": "PUB 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 409 Water Quality I",
+      "links": [
+        {
+          "text": "PUB 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 501 Communicable Disease Control",
+      "links": [
+        {
+          "text": "PUB 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 508 Food Safety",
+      "links": [
+        {
+          "text": "PUB 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 607 Air Quality",
+      "links": [
+        {
+          "text": "PUB 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/607/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Public Health"
+}

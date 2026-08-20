@@ -1,0 +1,1595 @@
+{
+  "calendar_year": "2026-2027",
+  "generated_at": "2026-08-20T12:15:40.297Z",
+  "counts": {
+    "semester_ready": 35,
+    "published_period_only": 37,
+    "manual_variant_review": 0
+  },
+  "programs": [
+    {
+      "id": "accounting-and-finance",
+      "name": "Accounting and Finance",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "ECN 505",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "ECN 607",
+          "classification": "restriction_reference_missing_from_catalog"
+        }
+      ]
+    },
+    {
+      "id": "aerospace-engineering",
+      "name": "Aerospace Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "architectural-science",
+      "name": "Architectural Science",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": []
+    },
+    {
+      "id": "arts-and-contemporary-studies",
+      "name": "Arts and Contemporary Studies",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "FRE 508",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "FRE 509",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "FRE 516",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "FRE 703",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "FRE 803",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "FRE 804",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "FRE 902",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "GEO 326",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "GEO 372",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 238",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 248",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 279",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "HIS 338",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 377",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "HIS 379",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 594",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 683",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HIS 783",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HST 425",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HST 651",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "HST 657",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "biomedical-engineering",
+      "name": "Biomedical Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-sciences",
+      "name": "Biomedical Sciences",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biomedical_sci/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "business-management",
+      "name": "Business Management",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ECN 505",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "ECN 607",
+          "classification": "restriction_reference_missing_from_catalog"
+        }
+      ]
+    },
+    {
+      "id": "business-technology-management",
+      "name": "Business Technology Management",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_tech/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "chemical-engineering-co-operative-program",
+      "name": "Chemical Engineering Co-operative Program",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": []
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "child-and-youth-care",
+      "name": "Child and Youth Care",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "POL 210",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "civil-engineering",
+      "name": "Civil Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/civil/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "computer-engineering",
+      "name": "Computer Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "ELE 724",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "CPS 100",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "CPS 499",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "CPS 513",
+          "classification": "restriction_reference_missing_from_catalog"
+        }
+      ]
+    },
+    {
+      "id": "creative-industries",
+      "name": "Creative Industries",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "NPF 504",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 506",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 548",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 553",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 557",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 560",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 606",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NPF 607",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 101",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 200",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 201",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 403",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "criminology-and-history-double-major",
+      "name": "Criminology and History Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 499",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "criminology-and-politics-and-governance-double-major",
+      "name": "Criminology and Politics and Governance Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "criminology-and-sociology-double-major",
+      "name": "Criminology and Sociology Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_sociology/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "criminology",
+      "name": "Criminology",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "cyber-science",
+      "name": "Cyber Science",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "CPS 100",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "CPS 499",
+          "classification": "restriction_reference_missing_from_catalog"
+        }
+      ]
+    },
+    {
+      "id": "disability-studies",
+      "name": "Disability Studies",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": []
+    },
+    {
+      "id": "early-childhood-studies",
+      "name": "Early Childhood Studies",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/early_child/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "CLD 415",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "CLD 419",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "CLD 420",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "economics-and-finance",
+      "name": "Economics and Finance",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/economics/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "electrical-engineering",
+      "name": "Electrical Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/electrical/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "english-and-history-double-major",
+      "name": "English and History Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 499",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "english-and-philosophy-double-major",
+      "name": "English and Philosophy Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "environmental-and-urban-sustainability",
+      "name": "Environmental and Urban Sustainability",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": []
+    },
+    {
+      "id": "financial-mathematics",
+      "name": "Financial Mathematics",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/financial_math/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "geographic-analysis",
+      "name": "Geographic Analysis",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "graphic-communications-management",
+      "name": "Graphic Communications Management",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "FCD 580",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "health-administration",
+      "name": "Health Administration",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "history-and-philosophy-double-major",
+      "name": "History and Philosophy Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 499",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "history-and-politics-and-governance-double-major",
+      "name": "History and Politics and Governance Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 499",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "history-and-sociology-double-major",
+      "name": "History and Sociology Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 499",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HST 499",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "HST 500",
+          "classification": "historical_or_equivalent_reference"
+        }
+      ]
+    },
+    {
+      "id": "hospitality-and-tourism-management",
+      "name": "Hospitality and Tourism Management",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "image-arts",
+      "name": "Image Arts",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "FCD 580",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "FPN 519",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "FPN 700",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "industrial-engineering",
+      "name": "Industrial Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/industrial/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "interior-design",
+      "name": "Interior Design",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/interior/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "journalism",
+      "name": "Journalism",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/journalism/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "language-and-intercultural-relations",
+      "name": "Language and Intercultural Relations",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "mathematics-and-its-applications",
+      "name": "Mathematics and Its Applications",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "mechanical-engineering",
+      "name": "Mechanical Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/mechanical/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "mechatronics-engineering",
+      "name": "Mechatronics Engineering",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/mechatronics-engineering/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "WKT 238",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "media-production",
+      "name": "Media Production",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "NMA 968",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 903",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "RTA 940",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "medical-physics",
+      "name": "Medical Physics",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "midwifery",
+      "name": "Midwifery",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "MWF 109",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "MWF 120",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "MWF 220",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "MWF 250",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "MWF 350",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "new-media",
+      "name": "New Media",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "FCD 580",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NMA 929",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "NMA 968",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 107",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 111",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 120",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 201",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 220",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 221",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 222",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 223",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 320",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 321",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 322",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 323",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 501",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 520",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 521",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 807",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 814",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 818",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 820",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 821",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 822",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 824",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 825",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 828",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 830",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 832",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 835",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 838",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 842",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 856",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 867",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 886",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 891",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 925",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 928",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 929",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 933",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 934",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 936",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 939",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 946",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 948",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 953",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 954",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 958",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 962",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 965",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 968",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "RTA 997",
+          "classification": "historical_or_equivalent_reference"
+        }
+      ]
+    },
+    {
+      "id": "nursing-advanced-entry-program",
+      "name": "Nursing - Advanced Entry Program",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_advancedentry/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": []
+    },
+    {
+      "id": "nursing-collaborative-program",
+      "name": "Nursing - Collaborative Program",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "nursing-post-diploma-degree-completion",
+      "name": "Nursing - Post-Diploma Degree Completion",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_post-diploma/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "NCL 700",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "NCL 800",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "nutrition-and-food",
+      "name": "Nutrition and Food",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": []
+    },
+    {
+      "id": "occupational-health-and-safety",
+      "name": "Occupational Health and Safety",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "performance-acting-dance-design-and-production",
+      "name": "Performance: Acting/Dance/Design and Production",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "FRE 703",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "FRE 803",
+          "classification": "restriction_reference_missing_from_catalog"
+        },
+        {
+          "code": "THA 100",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THA 101",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THA 200",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THA 201",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THD 100",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THD 101",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THD 200",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THD 201",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 316",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THP 101",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THP 102",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THP 201",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THP 202",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "politics-and-governance-and-sociology-double-major",
+      "name": "Politics and Governance and Sociology Double Major",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "politics-and-governance",
+      "name": "Politics and Governance",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "POG 400",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "professional-communication",
+      "name": "Professional Communication",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "professional-music",
+      "name": "Professional Music",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": [
+        {
+          "code": "CRI 400",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "MUS 303",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "RTA 893",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "RTA 903",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "RTA 906",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "RTA 913",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 101",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 102",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 200",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THF 201",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THM 200",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THM 300",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THP 102",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "THP 202",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "public-administration-and-governance",
+      "name": "Public Administration and Governance",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": [
+        {
+          "code": "POG 300",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "POG 319",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "POG 400",
+          "classification": "range_boundary_or_level_example"
+        },
+        {
+          "code": "POG 413",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "POL 122",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "POL 302",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "POL 332",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "POL 440",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 322",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 422",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 521",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 522",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 524",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 525",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 533",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 600",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 601",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 602",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 603",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 604",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 623",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 624",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 629",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 633",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 650",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 700",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 701",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 702",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 703",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 704",
+          "classification": "published_reference_missing_from_course_catalog"
+        },
+        {
+          "code": "PPA 705",
+          "classification": "published_reference_missing_from_course_catalog"
+        }
+      ]
+    },
+    {
+      "id": "public-health",
+      "name": "Public Health",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/publichealth/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "retail-management",
+      "name": "Retail Management",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "social-work",
+      "name": "Social Work",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/",
+      "publication_status": "published_period_only",
+      "review_flags": [
+        "official_source_does_not_split_every_period_by_semester",
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "sport-media",
+      "name": "Sport Media",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    },
+    {
+      "id": "undeclared-arts-first-year-studies-only",
+      "name": "Undeclared Arts (First Year Studies Only)",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "HIS 100",
+          "classification": "historical_or_equivalent_reference"
+        },
+        {
+          "code": "HIS 399",
+          "classification": "historical_or_equivalent_reference"
+        }
+      ]
+    },
+    {
+      "id": "undeclared-engineering-first-year-studies-only",
+      "name": "Undeclared Engineering (First Year Studies Only)",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/undeclared_eng/",
+      "publication_status": "semester_ready",
+      "review_flags": [],
+      "unresolved_references": [
+        {
+          "code": "ENG 377",
+          "classification": "range_boundary_or_level_example"
+        }
+      ]
+    },
+    {
+      "id": "urban-and-regional-planning",
+      "name": "Urban and Regional Planning",
+      "source": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/",
+      "publication_status": "semester_ready",
+      "review_flags": [
+        "curriculum_variants_separated"
+      ],
+      "unresolved_references": []
+    }
+  ]
+}

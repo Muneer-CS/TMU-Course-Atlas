@@ -1,0 +1,246 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/indigenous_thought_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "78f7296b88351474e0bf25734ee8cdd35b28747bb5b9069e429d5e5790dddd67",
+  "source_bytes": 53642,
+  "title": "Minor in Indigenous Thought",
+  "headings": [
+    "Minor in Indigenous Thought"
+  ],
+  "course_codes_referenced": [
+    "ENG 203",
+    "ENG 650",
+    "GEO 311",
+    "GEO 711",
+    "HAU 100",
+    "HAU 400",
+    "MHK 101",
+    "MHK 201",
+    "PHL 535",
+    "PHL 565",
+    "SOC 553",
+    "SOC 580"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "PHL 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/535/"
+    },
+    {
+      "text": "ENG 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+    },
+    {
+      "text": "ENG 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/650/"
+    },
+    {
+      "text": "GEO 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+    },
+    {
+      "text": "GEO 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+    },
+    {
+      "text": "HAU 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+    },
+    {
+      "text": "HAU 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/400/"
+    },
+    {
+      "text": "MHK 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+    },
+    {
+      "text": "MHK 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+    },
+    {
+      "text": "PHL 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/565/"
+    },
+    {
+      "text": "SOC 553",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/553/"
+    },
+    {
+      "text": "SOC 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/580/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Indigenous Thought"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Indigenous Thought provides students with the opportunity to learn about Indigenous thought on Turtle Island through a variety of Faculty of Arts-based courses focusing on Indigenous philosophies, literatures, political systems, land-based practices, cultural practices, and languages."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 535 Introduction to Indigenous Philosophy",
+      "links": [
+        {
+          "text": "PHL 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/535/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 203 The Literature of Indigenous Peoples",
+      "links": [
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 650 Indigenous World Views",
+      "links": [
+        {
+          "text": "ENG 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 311 Indigenous Geographies",
+      "links": [
+        {
+          "text": "GEO 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 711 An Indigenous Guide to the Apocalypse",
+      "links": [
+        {
+          "text": "GEO 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HAU 100 Haudenosaunee Cultural Perspective",
+      "links": [
+        {
+          "text": "HAU 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HAU 400 Haudenosaunee Leaders and Writers",
+      "links": [
+        {
+          "text": "HAU 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK 101 Introductory Kanyen’kéha I",
+      "links": [
+        {
+          "text": "MHK 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK 201 Introductory Kanyen’kéha II",
+      "links": [
+        {
+          "text": "MHK 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 565 Topics in Indigenous Philosophy",
+      "links": [
+        {
+          "text": "PHL 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 553 Indigenist Thought",
+      "links": [
+        {
+          "text": "SOC 553",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/553/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 580 Indigenous Feminisms",
+      "links": [
+        {
+          "text": "SOC 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/580/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Indigenous Thought"
+}

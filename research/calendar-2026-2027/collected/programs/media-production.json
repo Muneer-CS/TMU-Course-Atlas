@@ -1,0 +1,3599 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "c6a1fd1df27ea9e814fc2baeb22abb2dec550cb3426d40c6e6ba11a656257b94",
+  "source_bytes": 161003,
+  "title": "Media Production",
+  "headings": [
+    "Media Production",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Creative Practice Hours",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Concentrations (for students admitted Fall 2025 and before)",
+    "Concentration in Critical Media Theory",
+    "Concentration in Digital Media",
+    "Concentration in Media Business",
+    "Concentration in Radio & Sound",
+    "Concentration in Screenwriting",
+    "Concentration in Social Media",
+    "Concentration in Television & Video",
+    "Concentration in Video Game Design",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BPM 905",
+    "BPM 927",
+    "BPM 937",
+    "CSE 100",
+    "CSE 200",
+    "FCD 222",
+    "FCD 962",
+    "NMA 120",
+    "NMA 220",
+    "NMA 221",
+    "NMA 222",
+    "NMA 223",
+    "NMA 320",
+    "NMA 321",
+    "NMA 323",
+    "NMA 521",
+    "NMA 820",
+    "NMA 828",
+    "NMA 832",
+    "NMA 838",
+    "NMA 842",
+    "NMA 925",
+    "NMA 928",
+    "NMA 933",
+    "NMA 934",
+    "NMA 936",
+    "NMA 939",
+    "NMA 946",
+    "NMA 948",
+    "NMA 953",
+    "NMA 954",
+    "NMA 958",
+    "NMA 962",
+    "NMA 965",
+    "NMA 968",
+    "NMA 997",
+    "RTA 101",
+    "RTA 102",
+    "RTA 103",
+    "RTA 104",
+    "RTA 210",
+    "RTA 211",
+    "RTA 212",
+    "RTA 213",
+    "RTA 243",
+    "RTA 250",
+    "RTA 310",
+    "RTA 311",
+    "RTA 312",
+    "RTA 313",
+    "RTA 314",
+    "RTA 315",
+    "RTA 316",
+    "RTA 317",
+    "RTA 330",
+    "RTA 340",
+    "RTA 431",
+    "RTA 503",
+    "RTA 701",
+    "RTA 702",
+    "RTA 703",
+    "RTA 704",
+    "RTA 705",
+    "RTA 711",
+    "RTA 802",
+    "RTA 803",
+    "RTA 808",
+    "RTA 837",
+    "RTA 840",
+    "RTA 847",
+    "RTA 848",
+    "RTA 854",
+    "RTA 858",
+    "RTA 864",
+    "RTA 865",
+    "RTA 888",
+    "RTA 902",
+    "RTA 903",
+    "RTA 907",
+    "RTA 908",
+    "RTA 909",
+    "RTA 910",
+    "RTA 911",
+    "RTA 912",
+    "RTA 915",
+    "RTA 918",
+    "RTA 921",
+    "RTA 923",
+    "RTA 930",
+    "RTA 938",
+    "RTA 940",
+    "RTA 941",
+    "RTA 943",
+    "RTA 944",
+    "RTA 945",
+    "RTA 950",
+    "RTA 956",
+    "RTA 957",
+    "RTA 960",
+    "RTA 963",
+    "RTA 969",
+    "RTA 970",
+    "RTA 971",
+    "RTA 972",
+    "RTA 973",
+    "RTA 974",
+    "RTA 975",
+    "RTA 978",
+    "RTA 979",
+    "RTA 985",
+    "RTA 988",
+    "RTA 996",
+    "RTA 999"
+  ],
+  "official_links": [
+    {
+      "text": "The Creative School",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+    },
+    {
+      "text": "RTA 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/711/"
+    },
+    {
+      "text": "RTA 431",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/431/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "NMA 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "RTA-NMA Course Code Conversion Chart",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/"
+    },
+    {
+      "text": "Core Elective Table I (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+    },
+    {
+      "text": "RTA 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+    },
+    {
+      "text": "RTA 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/316/"
+    },
+    {
+      "text": "RTA 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+    },
+    {
+      "text": "RTA 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+    },
+    {
+      "text": "RTA 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+    },
+    {
+      "text": "RTA 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/340/"
+    },
+    {
+      "text": "NMA 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+    },
+    {
+      "text": "NMA 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+    },
+    {
+      "text": "NMA 925",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/925/"
+    },
+    {
+      "text": "NMA 928",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+    },
+    {
+      "text": "NMA 934",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+    },
+    {
+      "text": "NMA 958",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/958/"
+    },
+    {
+      "text": "NMA 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+    },
+    {
+      "text": "NMA 965",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/965/"
+    },
+    {
+      "text": "RTA 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/312/"
+    },
+    {
+      "text": "RTA 317",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/317/"
+    },
+    {
+      "text": "RTA 963",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/963/"
+    },
+    {
+      "text": "RTA 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/310/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "RTA 912",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/912/"
+    },
+    {
+      "text": "RTA 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/503/"
+    },
+    {
+      "text": "RTA 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/701/"
+    },
+    {
+      "text": "RTA 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/702/"
+    },
+    {
+      "text": "RTA 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/703/"
+    },
+    {
+      "text": "RTA 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/704/"
+    },
+    {
+      "text": "RTA 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/705/"
+    },
+    {
+      "text": "RTA 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/888/"
+    },
+    {
+      "text": "RTA 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/101/"
+    },
+    {
+      "text": "RTA 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/102/"
+    },
+    {
+      "text": "RTA 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/103/"
+    },
+    {
+      "text": "RTA 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/104/"
+    },
+    {
+      "text": "RTA 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/211/"
+    },
+    {
+      "text": "RTA 212",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/212/"
+    },
+    {
+      "text": "RTA 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/213/"
+    },
+    {
+      "text": "RTA 243",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/243/"
+    },
+    {
+      "text": "RTA 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/250/"
+    },
+    {
+      "text": "CSE 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+    },
+    {
+      "text": "BPM 927",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/927/"
+    },
+    {
+      "text": "RTA 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/210/"
+    },
+    {
+      "text": "RTA 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/808/"
+    },
+    {
+      "text": "RTA 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/908/"
+    },
+    {
+      "text": "RTA 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/923/"
+    },
+    {
+      "text": "RTA 941",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/941/"
+    },
+    {
+      "text": "RTA 943",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/943/"
+    },
+    {
+      "text": "RTA 944",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/944/"
+    },
+    {
+      "text": "RTA 945",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/945/"
+    },
+    {
+      "text": "RTA 956",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/956/"
+    },
+    {
+      "text": "RTA 988",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/988/"
+    },
+    {
+      "text": "CSE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+    },
+    {
+      "text": "NMA 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+    },
+    {
+      "text": "NMA 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+    },
+    {
+      "text": "NMA 939",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/939/"
+    },
+    {
+      "text": "NMA 946",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/946/"
+    },
+    {
+      "text": "RTA 938",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/938/"
+    },
+    {
+      "text": "NMA 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/221/"
+    },
+    {
+      "text": "NMA 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+    },
+    {
+      "text": "FCD 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+    },
+    {
+      "text": "NMA 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+    },
+    {
+      "text": "NMA 832",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/832/"
+    },
+    {
+      "text": "NMA 838",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/838/"
+    },
+    {
+      "text": "NMA 842",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/842/"
+    },
+    {
+      "text": "NMA 933",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/933/"
+    },
+    {
+      "text": "NMA 948",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/948/"
+    },
+    {
+      "text": "NMA 953",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/953/"
+    },
+    {
+      "text": "NMA 954",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/954/"
+    },
+    {
+      "text": "FCD 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+    },
+    {
+      "text": "RTA 847",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/847/"
+    },
+    {
+      "text": "RTA 975",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/975/"
+    },
+    {
+      "text": "BPM 937",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/937/"
+    },
+    {
+      "text": "NMA 936",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/936/"
+    },
+    {
+      "text": "RTA 909",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/909/"
+    },
+    {
+      "text": "RTA 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/915/"
+    },
+    {
+      "text": "RTA 918",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/918/"
+    },
+    {
+      "text": "RTA 950",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/950/"
+    },
+    {
+      "text": "RTA 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/999/"
+    },
+    {
+      "text": "BPM 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/905/"
+    },
+    {
+      "text": "RTA 837",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/837/"
+    },
+    {
+      "text": "RTA 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/854/"
+    },
+    {
+      "text": "RTA 858",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/858/"
+    },
+    {
+      "text": "RTA 864",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/864/"
+    },
+    {
+      "text": "RTA 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/907/"
+    },
+    {
+      "text": "RTA 921",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/921/"
+    },
+    {
+      "text": "RTA 971",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/971/"
+    },
+    {
+      "text": "RTA 972",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/972/"
+    },
+    {
+      "text": "RTA 974",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/974/"
+    },
+    {
+      "text": "RTA 985",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/985/"
+    },
+    {
+      "text": "RTA 996",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/996/"
+    },
+    {
+      "text": "NMA 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/521/"
+    },
+    {
+      "text": "RTA 848",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/848/"
+    },
+    {
+      "text": "RTA 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/902/"
+    },
+    {
+      "text": "RTA 930",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/930/"
+    },
+    {
+      "text": "RTA 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/330/"
+    },
+    {
+      "text": "RTA 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/802/"
+    },
+    {
+      "text": "RTA 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/803/"
+    },
+    {
+      "text": "RTA 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/910/"
+    },
+    {
+      "text": "RTA 911",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/911/"
+    },
+    {
+      "text": "RTA 957",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/957/"
+    },
+    {
+      "text": "RTA 960",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/960/"
+    },
+    {
+      "text": "RTA 969",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/969/"
+    },
+    {
+      "text": "RTA 970",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/970/"
+    },
+    {
+      "text": "RTA 973",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/973/"
+    },
+    {
+      "text": "RTA 978",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/978/"
+    },
+    {
+      "text": "RTA 979",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/979/"
+    },
+    {
+      "text": "NMA 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+    },
+    {
+      "text": "NMA 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/828/"
+    },
+    {
+      "text": "NMA 997",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+    },
+    {
+      "text": "RTA 840",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/840/"
+    },
+    {
+      "text": "RTA 865",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/865/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Media Production"
+    },
+    {
+      "kind": "text",
+      "text": "The Creative School",
+      "links": [
+        {
+          "text": "The Creative School",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (BA)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "RTA School of Media",
+      "links": [
+        {
+          "text": "RTA School of Media",
+          "url": "https://www.torontomu.ca/content/ryerson/rta/undergraduate/media-production/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English (ENG4U)/Anglais (EAE4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in ENG4U/EAE4U."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Media Communications in Canada is a rapidly changing environment which requires motivated individuals who possess discipline, flexibility and creativity. The information age is open to those with analytical and conceptual skills and the flair to recognize and act on new opportunities."
+    },
+    {
+      "kind": "text",
+      "text": "An appropriate academic background for this program would include the foundational skills developed in the traditional secondary/post-secondary courses which stress research, strong writing skills and demonstrated application of critical thinking to achieve superior academic results. Performance, arts and media courses may be chosen to develop and indicate career interest, but successful Media Production students come from a wide range of disciplines."
+    },
+    {
+      "kind": "text",
+      "text": "The Media Production program centres on content creation/storytelling, media production, critical theory, the law and business of media in radio, television, music and new media industries. For students admitted Fall 2025 and before, the BA in Media Production will offer eight Concentrations: Radio & Sound, Television & Video, Digital Media, Media Business, Screenwriting, Social Media, Critical Media Theory and Video Game Design. Students admitted Fall 2026 and after will not have the option to complete a Concentration."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Creative Practice Hours"
+    },
+    {
+      "kind": "text",
+      "text": "To graduate from any of the RTA School of Media Undergraduate Programs, each student must complete a minimum of 60 hours of Creative Practice unpaid volunteer work in a qualifying RTA institution or project. This can be done at any time over the four years of the program. This will be considered one requirement of successful completion of RTA 711 or RTA 431 .",
+      "links": [
+        {
+          "text": "RTA 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/711/"
+        },
+        {
+          "text": "RTA 431",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/431/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120 is not available for credit.",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Some course codes in this program have changed. See RTA-NMA Course Code Conversion Chart for further information.",
+      "links": [
+        {
+          "text": "RTA-NMA Course Code Conversion Chart",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins and last offered 2026-2027 to students admitted Fall 2025 and before. An optional Concentration may be selected from Core Elective Table I starting in 4th Semester.",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 315 Business of Creative Media",
+      "links": [
+        {
+          "text": "RTA 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 316 Concepts in Narrative",
+      "links": [
+        {
+          "text": "RTA 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/316/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Choose Option 1 or Option 2 :"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: One of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 311 * Intermediate Audio Production",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 313 * Production: Intermediate Multi-camera",
+      "links": [
+        {
+          "text": "RTA 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 314 * Production: Intermediate Single-Camera",
+      "links": [
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 340 * Intermediate Virtual Production",
+      "links": [
+        {
+          "text": "RTA 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/340/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RTA 311 , RTA 313 , RTA 314 and RTA 340 have a GPA Weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        },
+        {
+          "text": "RTA 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+        },
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        },
+        {
+          "text": "RTA 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/340/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Or"
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 320 Interactive Storytelling",
+      "links": [
+        {
+          "text": "NMA 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 321 Intro to Tangible Media",
+      "links": [
+        {
+          "text": "NMA 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 925 Making Objects",
+      "links": [
+        {
+          "text": "NMA 925",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/925/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 928 Introduction to Game Design",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 934 Virtual Identities and Communities",
+      "links": [
+        {
+          "text": "NMA 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 958 Networked Art",
+      "links": [
+        {
+          "text": "NMA 958",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/958/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 962 Designing Interactions",
+      "links": [
+        {
+          "text": "NMA 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 965 Advanced New Media Topics",
+      "links": [
+        {
+          "text": "NMA 965",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/965/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 968 Emerging New Media Practices"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 312 Motion Graphics",
+      "links": [
+        {
+          "text": "RTA 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 317 Escape Rooms and Immersive Experiences",
+      "links": [
+        {
+          "text": "RTA 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 963 Web Design",
+      "links": [
+        {
+          "text": "RTA 963",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/963/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 310 Media Aesthetics and Culture",
+      "links": [
+        {
+          "text": "RTA 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 912 Media Audiences",
+      "links": [
+        {
+          "text": "RTA 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/912/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 503 Project Development - Media Production",
+      "links": [
+        {
+          "text": "RTA 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Choose one of the following four options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Thesis Production Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 701 * Thesis: Production Project",
+      "links": [
+        {
+          "text": "RTA 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/701/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Major Research Paper"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 702 Thesis: Major Research Paper",
+      "links": [
+        {
+          "text": "RTA 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Media Writing Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 703 Thesis: Media Writing Project I",
+      "links": [
+        {
+          "text": "RTA 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 4:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from Core Elective Table I.",
+      "links": [
+        {
+          "text": "Core Elective Table I.",
+          "url": "https://www.torontomu.ca/calendar/2021-2022/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RTA 701 has a GPA Weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "RTA 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/701/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 711 Master Class",
+      "links": [
+        {
+          "text": "RTA 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/711/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Choose one of the following four options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Thesis Production Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from Core Elective Table I",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Major Research Paper"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 704 Major Research Paper II",
+      "links": [
+        {
+          "text": "RTA 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Media Writing Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 705 Thesis: Media Writing Project II",
+      "links": [
+        {
+          "text": "RTA 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 4:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from the Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: One option from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from Core Elective Table I",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 888 Media Production Internship",
+      "links": [
+        {
+          "text": "RTA 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/888/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2026-2027 for students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 101 Introduction to Media Theory and Practice",
+      "links": [
+        {
+          "text": "RTA 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 102 Creative Process for Media Production",
+      "links": [
+        {
+          "text": "RTA 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 103 Intro to Digital Media",
+      "links": [
+        {
+          "text": "RTA 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 104 Introductory Audio Production",
+      "links": [
+        {
+          "text": "RTA 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 211 Production Theory",
+      "links": [
+        {
+          "text": "RTA 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/211/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 212 Media Writing",
+      "links": [
+        {
+          "text": "RTA 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/212/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 213 Production: Introduction to Multi-Camera",
+      "links": [
+        {
+          "text": "RTA 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 243 Production: Introduction to Single Camera",
+      "links": [
+        {
+          "text": "RTA 243",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/243/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 250 Media Literacy and Information",
+      "links": [
+        {
+          "text": "RTA 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/250/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2027-2028 for students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 315 Business of Creative Media",
+      "links": [
+        {
+          "text": "RTA 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 100 Wicked Problems and Creative Intervention",
+      "links": [
+        {
+          "text": "CSE 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Choose Option 1 or Option 2 :"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: One of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 311 * Intermediate Audio Production",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 313 * Production: Intermediate Multi-camera",
+      "links": [
+        {
+          "text": "RTA 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 314 * Production: Intermediate Single-Camera",
+      "links": [
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 340 * Intermediate Virtual Production",
+      "links": [
+        {
+          "text": "RTA 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/340/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RTA 311 , RTA 313 , RTA 314 and RTA 340 have a GPA Weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        },
+        {
+          "text": "RTA 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+        },
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        },
+        {
+          "text": "RTA 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/340/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Or"
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 927 Business of Music 1",
+      "links": [
+        {
+          "text": "BPM 927",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/927/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 210 Media History",
+      "links": [
+        {
+          "text": "RTA 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 317 Escape Rooms and Immersive Experiences",
+      "links": [
+        {
+          "text": "RTA 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 808 First Draft",
+      "links": [
+        {
+          "text": "RTA 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 908 Business of Producing I",
+      "links": [
+        {
+          "text": "RTA 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 923 Video Game Narrative",
+      "links": [
+        {
+          "text": "RTA 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 941 Dramatic Writing",
+      "links": [
+        {
+          "text": "RTA 941",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/941/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 943 Comedy Writing",
+      "links": [
+        {
+          "text": "RTA 943",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/943/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 944 Writing for Animation",
+      "links": [
+        {
+          "text": "RTA 944",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/944/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 945 Writing for Factual and Reality",
+      "links": [
+        {
+          "text": "RTA 945",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/945/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 956 Children’s Programming",
+      "links": [
+        {
+          "text": "RTA 956",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/956/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 988 International Media Storytelling",
+      "links": [
+        {
+          "text": "RTA 988",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/988/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 200 Creative Strategic Foresight",
+      "links": [
+        {
+          "text": "CSE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 912 Media Audiences",
+      "links": [
+        {
+          "text": "RTA 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/912/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 503 Project Development - Media Production",
+      "links": [
+        {
+          "text": "RTA 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Choose one of the following four options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Thesis Production Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 701 * Thesis: Production Project",
+      "links": [
+        {
+          "text": "RTA 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/701/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Major Research Paper"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 702 Thesis: Major Research Paper",
+      "links": [
+        {
+          "text": "RTA 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Media Writing Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 703 Thesis: Media Writing Project I",
+      "links": [
+        {
+          "text": "RTA 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 4:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from Core Elective Table I.",
+      "links": [
+        {
+          "text": "Core Elective Table I.",
+          "url": "https://www.torontomu.ca/calendar/2021-2022/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RTA 701 has a GPA Weight of 2.00 and a course count of 2.00.",
+      "links": [
+        {
+          "text": "RTA 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/701/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 711 Master Class",
+      "links": [
+        {
+          "text": "RTA 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/711/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Choose one of the following four options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Thesis Production Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from Core Elective Table I",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Major Research Paper"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 704 Major Research Paper II",
+      "links": [
+        {
+          "text": "RTA 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Media Writing Project"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 705 Thesis: Media Writing Project II",
+      "links": [
+        {
+          "text": "RTA 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 4:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from the Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: One option from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Two courses from Core Elective Table I",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 888 Media Production Internship",
+      "links": [
+        {
+          "text": "RTA 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/888/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Plus one course from Core Elective Table I",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Concentrations (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or core electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor."
+    },
+    {
+      "kind": "text",
+      "text": "The following optional Concentrations may be selected from within Core Elective Table I (opens in new window) . Concentrations are optional, but must be formally declared and completed before graduation to be noted on the academic transcript.",
+      "links": [
+        {
+          "text": "Core Elective Table I (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Critical Media Theory"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete six (6) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 220 New Media Art History",
+      "links": [
+        {
+          "text": "NMA 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 323 Contemporary Issues in New Media Art",
+      "links": [
+        {
+          "text": "NMA 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 939 Indigenous Media",
+      "links": [
+        {
+          "text": "NMA 939",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/939/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 946 Issues in New Media Theory/History",
+      "links": [
+        {
+          "text": "NMA 946",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/946/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 903* News and Current Affairs Theory"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 938 Digital Popular Cultures",
+      "links": [
+        {
+          "text": "RTA 938",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/938/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 940* Canadian Televisual Studies"
+    },
+    {
+      "kind": "text",
+      "text": "*RTA 903 and RTA 940 are not intended to be offered in 2026-2027. Students pursuing the Concentration in Critical Media Theory who have not taken RTA 903 and/or RTA 940 will not be able to complete the concentration in 2026-2027."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Digital Media"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete six (6) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 221 Experiential Media/Interdisciplinary Practice",
+      "links": [
+        {
+          "text": "NMA 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 222 Intro to Computational Arts or FCD 222 Coding for Creatives",
+      "links": [
+        {
+          "text": "NMA 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+        },
+        {
+          "text": "FCD 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 223 Designing Material Experiences",
+      "links": [
+        {
+          "text": "NMA 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 320 Interactive Storytelling",
+      "links": [
+        {
+          "text": "NMA 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 321 Intro to Tangible Media",
+      "links": [
+        {
+          "text": "NMA 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 832 Cybernetics and Body Centric Technologies",
+      "links": [
+        {
+          "text": "NMA 832",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/832/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 838 Generative Processes",
+      "links": [
+        {
+          "text": "NMA 838",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/838/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 842 Data as Material",
+      "links": [
+        {
+          "text": "NMA 842",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/842/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 925 Making Objects",
+      "links": [
+        {
+          "text": "NMA 925",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/925/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 928 Introduction to Game Design",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 933 Hacking, DIY and Open Source Studio",
+      "links": [
+        {
+          "text": "NMA 933",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/933/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 934 Virtual Identities and Communities",
+      "links": [
+        {
+          "text": "NMA 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 948 Interactive Spaces",
+      "links": [
+        {
+          "text": "NMA 948",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/948/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 953 Mixed and Extended Realities",
+      "links": [
+        {
+          "text": "NMA 953",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/953/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 954 Empathy Machines",
+      "links": [
+        {
+          "text": "NMA 954",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/954/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 958 Networked Art",
+      "links": [
+        {
+          "text": "NMA 958",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/958/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 962 Interaction Design or FCD 962 Designing Interactions",
+      "links": [
+        {
+          "text": "NMA 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+        },
+        {
+          "text": "FCD 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 965 Advanced New Media Topics",
+      "links": [
+        {
+          "text": "NMA 965",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/965/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 317 Escape Rooms and Immersive Experiences",
+      "links": [
+        {
+          "text": "RTA 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 847 Artificial Intelligence - Music and Audio",
+      "links": [
+        {
+          "text": "RTA 847",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/847/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 963 Web Design",
+      "links": [
+        {
+          "text": "RTA 963",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/963/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 975 Video Compositing and Visual Effects",
+      "links": [
+        {
+          "text": "RTA 975",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/975/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Media Business"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete six (6) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 927 Business of Music I",
+      "links": [
+        {
+          "text": "BPM 927",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/927/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 937 Business of Music II",
+      "links": [
+        {
+          "text": "BPM 937",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/937/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 936 The Business of Art",
+      "links": [
+        {
+          "text": "NMA 936",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/936/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 908 Business of Producing I",
+      "links": [
+        {
+          "text": "RTA 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 909 Business of Producing II",
+      "links": [
+        {
+          "text": "RTA 909",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/909/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 915 Legal Issues in Media",
+      "links": [
+        {
+          "text": "RTA 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 918 Ethics in Media",
+      "links": [
+        {
+          "text": "RTA 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/918/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 950 Selected Topics in Media",
+      "links": [
+        {
+          "text": "RTA 950",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/950/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 999 RTA in LA",
+      "links": [
+        {
+          "text": "RTA 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/999/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Radio & Sound"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete RTA 311 *, plus four (4) of the following:",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BPM 905 History and Culture of Popular Music",
+      "links": [
+        {
+          "text": "BPM 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-music/BPM/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 837 Live Audio Production",
+      "links": [
+        {
+          "text": "RTA 837",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/837/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 847 Artificial Intelligence - Music and Audio",
+      "links": [
+        {
+          "text": "RTA 847",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/847/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 854 Live Radio Broadcasting",
+      "links": [
+        {
+          "text": "RTA 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 858 Music Production",
+      "links": [
+        {
+          "text": "RTA 858",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/858/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 864 Immersive and Interactive Audio",
+      "links": [
+        {
+          "text": "RTA 864",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/864/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 907 Sound Media",
+      "links": [
+        {
+          "text": "RTA 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 921 Audio Technical Theory",
+      "links": [
+        {
+          "text": "RTA 921",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/921/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 971 Audio Post Production and Sound Design",
+      "links": [
+        {
+          "text": "RTA 971",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/971/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 972 Sound Synthesis",
+      "links": [
+        {
+          "text": "RTA 972",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/972/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 974 Radio Broadcasting",
+      "links": [
+        {
+          "text": "RTA 974",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/974/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 985 Advanced Audio: Sound for Video",
+      "links": [
+        {
+          "text": "RTA 985",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/985/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 996 The Art of Podcasting",
+      "links": [
+        {
+          "text": "RTA 996",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/996/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: * RTA 311 has a GPA Weight of 2.00 and a course count of 2.00",
+      "links": [
+        {
+          "text": "RTA 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/311/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Screenwriting"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete six (6) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 320 Interactive Storytelling",
+      "links": [
+        {
+          "text": "NMA 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 923 Videogame Narrative",
+      "links": [
+        {
+          "text": "RTA 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 941 Dramatic Writing",
+      "links": [
+        {
+          "text": "RTA 941",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/941/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 943 Comedy Writing",
+      "links": [
+        {
+          "text": "RTA 943",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/943/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 944 Writing for Animation",
+      "links": [
+        {
+          "text": "RTA 944",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/944/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 945 Writing for Factual and Reality Programs",
+      "links": [
+        {
+          "text": "RTA 945",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/945/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 703 Thesis: Media Writing Project I",
+      "links": [
+        {
+          "text": "RTA 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 705 Thesis: Media Writing Project II",
+      "links": [
+        {
+          "text": "RTA 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 808 First Draft",
+      "links": [
+        {
+          "text": "RTA 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 999 RTA in LA",
+      "links": [
+        {
+          "text": "RTA 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/999/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Social Media"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete six (6) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 521 Media for Social Change",
+      "links": [
+        {
+          "text": "NMA 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 933 Hacking, DIY and Open Source Studio",
+      "links": [
+        {
+          "text": "NMA 933",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/933/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 934 Virtual Identities and Communities",
+      "links": [
+        {
+          "text": "NMA 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 848 Esports and Online Streaming Production",
+      "links": [
+        {
+          "text": "RTA 848",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/848/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 902 Social Media",
+      "links": [
+        {
+          "text": "RTA 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 930 † Social Practices in Hybrid Media Spaces",
+      "links": [
+        {
+          "text": "RTA 930",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/930/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† RTA 930 is not intended to be offered in 2026-2027. Students pursuing the Concentration in Social Media who have not taken RTA 930 will not be able to complete the concentration in 2026-2027.",
+      "links": [
+        {
+          "text": "RTA 930",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/930/"
+        },
+        {
+          "text": "RTA 930",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/930/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Television & Video"
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete either RTA 313 or RTA 314 *, plus four (4) of the following:",
+      "links": [
+        {
+          "text": "RTA 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+        },
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 330 *† Advanced Live Sport Production",
+      "links": [
+        {
+          "text": "RTA 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 802 * Advanced Live Multi-Camera",
+      "links": [
+        {
+          "text": "RTA 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 803 * Production: Advanced Single Camera",
+      "links": [
+        {
+          "text": "RTA 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 908 Business of Producing I",
+      "links": [
+        {
+          "text": "RTA 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 909 Business of Producing II",
+      "links": [
+        {
+          "text": "RTA 909",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/909/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 910 Production Management",
+      "links": [
+        {
+          "text": "RTA 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 911 Directing and Performance",
+      "links": [
+        {
+          "text": "RTA 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 956 Children's Programming",
+      "links": [
+        {
+          "text": "RTA 956",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/956/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 957 Documentary Production",
+      "links": [
+        {
+          "text": "RTA 957",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/957/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 960 International Media Co-production",
+      "links": [
+        {
+          "text": "RTA 960",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/960/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 969 Technical Producing (Visual Media)",
+      "links": [
+        {
+          "text": "RTA 969",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/969/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 970 Lighting, Grip and Effects Specialty",
+      "links": [
+        {
+          "text": "RTA 970",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/970/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 973 Independent Production",
+      "links": [
+        {
+          "text": "RTA 973",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/973/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 975 Video Compositing and Special Effects",
+      "links": [
+        {
+          "text": "RTA 975",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/975/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 978 Editing Specialty",
+      "links": [
+        {
+          "text": "RTA 978",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/978/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 979 Colour Grading and Finishing",
+      "links": [
+        {
+          "text": "RTA 979",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/979/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RTA 313 , RTA 314 , RTA 330 , RTA 802 , and RTA 803 have a GPA weight of 2.00 and a course count of 2.00. †Available only to students admitted Fall 2024 and before.",
+      "links": [
+        {
+          "text": "RTA 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/313/"
+        },
+        {
+          "text": "RTA 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/314/"
+        },
+        {
+          "text": "RTA 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/330/"
+        },
+        {
+          "text": "RTA 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/802/"
+        },
+        {
+          "text": "RTA 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/803/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Video Game Design"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take 6 of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 222 Coding for Creatives OR NMA 222 Computational Arts",
+      "links": [
+        {
+          "text": "FCD 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+        },
+        {
+          "text": "NMA 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 962 Designing Interaction OR NMA 962 Interaction Design",
+      "links": [
+        {
+          "text": "FCD 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+        },
+        {
+          "text": "NMA 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 320 Interactive Storytelling",
+      "links": [
+        {
+          "text": "NMA 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 820 Game Prototyping and Testing",
+      "links": [
+        {
+          "text": "NMA 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 828 Special Topics in Game Design",
+      "links": [
+        {
+          "text": "NMA 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 928 Intro to Game Design",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 934 Virtual Identities & Communities",
+      "links": [
+        {
+          "text": "NMA 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 953 Mobility & Mixed Reality",
+      "links": [
+        {
+          "text": "NMA 953",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/953/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 997 Mechanics of Play",
+      "links": [
+        {
+          "text": "NMA 997",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 840 Esports",
+      "links": [
+        {
+          "text": "RTA 840",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/840/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 864 Immersive and Interactive Audio",
+      "links": [
+        {
+          "text": "RTA 864",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/864/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 865 Exploring Virtual Environments",
+      "links": [
+        {
+          "text": "RTA 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/865/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 923 Videogame Narrative",
+      "links": [
+        {
+          "text": "RTA 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/923/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Jason French AVP Project Management, Exhibitions & Galleries Royal Ontario Museum Cindy Poremba Associate Professor and Co-Director of the game:play Lab OCAD University David Rokeby Assistant Professor, Teaching Stream, Director of the BMO Lab University of Toronto Tristan Sauer New Media Artist and Curator Program Alumni"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Media Production"
+}

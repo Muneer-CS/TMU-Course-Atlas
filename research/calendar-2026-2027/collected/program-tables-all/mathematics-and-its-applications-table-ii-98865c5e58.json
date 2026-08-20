@@ -1,0 +1,695 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "85c185175bf25c253ebb43aff274bdef872af71bb6fd444567056dec403d9417",
+  "source_bytes": 59214,
+  "title": "Mathematics Core Elective Table II",
+  "headings": [
+    "Mathematics Core Elective Table II",
+    "Computer Science Option"
+  ],
+  "course_codes_referenced": [
+    "CPS 213",
+    "CPS 310",
+    "CPS 406",
+    "CPS 501",
+    "CPS 506",
+    "CPS 510",
+    "CPS 511",
+    "CPS 530",
+    "CPS 590",
+    "CPS 606",
+    "CPS 607",
+    "CPS 610",
+    "CPS 613",
+    "CPS 615",
+    "CPS 616",
+    "CPS 621",
+    "CPS 630",
+    "CPS 633",
+    "CPS 706",
+    "CPS 707",
+    "CPS 710",
+    "CPS 713",
+    "CPS 714",
+    "CPS 716",
+    "CPS 721",
+    "CPS 730",
+    "CPS 731",
+    "CPS 752",
+    "CPS 801",
+    "CPS 811",
+    "CPS 813",
+    "CPS 815",
+    "CPS 822",
+    "CPS 831",
+    "CPS 832",
+    "CPS 840",
+    "CPS 841",
+    "CPS 842",
+    "CPS 843",
+    "CPS 844",
+    "CPS 845",
+    "CPS 853",
+    "CPS 888"
+  ],
+  "official_links": [
+    {
+      "text": "Mathematics and Its Applications",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+    },
+    {
+      "text": "CPS 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+    },
+    {
+      "text": "CPS 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/310/"
+    },
+    {
+      "text": "CPS 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/406/"
+    },
+    {
+      "text": "CPS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+    },
+    {
+      "text": "CPS 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/506/"
+    },
+    {
+      "text": "CPS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+    },
+    {
+      "text": "CPS 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/511/"
+    },
+    {
+      "text": "CPS 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/530/"
+    },
+    {
+      "text": "CPS 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/590/"
+    },
+    {
+      "text": "CPS 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/606/"
+    },
+    {
+      "text": "CPS 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/607/"
+    },
+    {
+      "text": "CPS 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/610/"
+    },
+    {
+      "text": "CPS 613",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/613/"
+    },
+    {
+      "text": "CPS 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/615/"
+    },
+    {
+      "text": "CPS 616",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/616/"
+    },
+    {
+      "text": "CPS 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/621/"
+    },
+    {
+      "text": "CPS 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/630/"
+    },
+    {
+      "text": "CPS 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+    },
+    {
+      "text": "CPS 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+    },
+    {
+      "text": "CPS 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/707/"
+    },
+    {
+      "text": "CPS 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/710/"
+    },
+    {
+      "text": "CPS 713",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/713/"
+    },
+    {
+      "text": "CPS 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/714/"
+    },
+    {
+      "text": "CPS 716",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/716/"
+    },
+    {
+      "text": "CPS 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/721/"
+    },
+    {
+      "text": "CPS 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/730/"
+    },
+    {
+      "text": "CPS 731",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/731/"
+    },
+    {
+      "text": "CPS 752",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/752/"
+    },
+    {
+      "text": "CPS 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/801/"
+    },
+    {
+      "text": "CPS 811",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/811/"
+    },
+    {
+      "text": "CPS 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/813/"
+    },
+    {
+      "text": "CPS 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/815/"
+    },
+    {
+      "text": "CPS 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/822/"
+    },
+    {
+      "text": "CPS 831",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/831/"
+    },
+    {
+      "text": "CPS 832",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/832/"
+    },
+    {
+      "text": "CPS 840",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/840/"
+    },
+    {
+      "text": "CPS 841",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/841/"
+    },
+    {
+      "text": "CPS 842",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/842/"
+    },
+    {
+      "text": "CPS 843",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/843/"
+    },
+    {
+      "text": "CPS 844",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/844/"
+    },
+    {
+      "text": "CPS 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/845/"
+    },
+    {
+      "text": "CPS 853",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/853/"
+    },
+    {
+      "text": "CPS 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/888/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Mathematics Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Mathematics and Its Applications",
+      "links": [
+        {
+          "text": "Mathematics and Its Applications",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Computer Science Option"
+    },
+    {
+      "kind": "text",
+      "text": "A total of five single-term courses is required, as noted below."
+    },
+    {
+      "kind": "text",
+      "text": "A minimum of two courses marked with an asterisk * must be taken."
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 213 Computer Organization I",
+      "links": [
+        {
+          "text": "CPS 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 310 Computer Organization II",
+      "links": [
+        {
+          "text": "CPS 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 406 Introduction to Software Engineering",
+      "links": [
+        {
+          "text": "CPS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 501 Bioinformatics",
+      "links": [
+        {
+          "text": "CPS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 506 Comparative Programming Languages",
+      "links": [
+        {
+          "text": "CPS 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 510 Database Systems I",
+      "links": [
+        {
+          "text": "CPS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 511 Computer Graphics",
+      "links": [
+        {
+          "text": "CPS 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 530 Web Systems Development",
+      "links": [
+        {
+          "text": "CPS 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 590 Operating Systems I",
+      "links": [
+        {
+          "text": "CPS 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 606 Advanced Computer Organization",
+      "links": [
+        {
+          "text": "CPS 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 607 Autonomous Mobile Robotics",
+      "links": [
+        {
+          "text": "CPS 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 610 * Database Systems II",
+      "links": [
+        {
+          "text": "CPS 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 613 Human-Computer Interaction",
+      "links": [
+        {
+          "text": "CPS 613",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/613/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 615 Theory of Computation",
+      "links": [
+        {
+          "text": "CPS 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 616 Algorithms",
+      "links": [
+        {
+          "text": "CPS 616",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/616/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 621 Introduction to Multimedia Systems",
+      "links": [
+        {
+          "text": "CPS 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 630 * Web Applications",
+      "links": [
+        {
+          "text": "CPS 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 633 Computer Security",
+      "links": [
+        {
+          "text": "CPS 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 706 * Computer Networks I",
+      "links": [
+        {
+          "text": "CPS 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 707 * Software Verification and Validation",
+      "links": [
+        {
+          "text": "CPS 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 710 * Compilers and Interpreters",
+      "links": [
+        {
+          "text": "CPS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 713 Applied Cryptography",
+      "links": [
+        {
+          "text": "CPS 713",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/713/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 714 * Software Project Management",
+      "links": [
+        {
+          "text": "CPS 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/714/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 716 * Computer Networks II",
+      "links": [
+        {
+          "text": "CPS 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/716/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 721 Artificial Intelligence I",
+      "links": [
+        {
+          "text": "CPS 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 730 * Web Technology and Performance Measurement",
+      "links": [
+        {
+          "text": "CPS 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 731 * Software Engineering I",
+      "links": [
+        {
+          "text": "CPS 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 752 * Parallel Computer Systems",
+      "links": [
+        {
+          "text": "CPS 752",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/752/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 801 * Operating Systems II",
+      "links": [
+        {
+          "text": "CPS 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 811 * Distributed Systems and Networks",
+      "links": [
+        {
+          "text": "CPS 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/811/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 813 * Human Robot Interaction",
+      "links": [
+        {
+          "text": "CPS 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/813/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 815 * Topics in Algorithms",
+      "links": [
+        {
+          "text": "CPS 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 822 * Artificial Intelligence II",
+      "links": [
+        {
+          "text": "CPS 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/822/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 831 * Software Engineering II",
+      "links": [
+        {
+          "text": "CPS 831",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/831/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 832 * Mainframe Systems",
+      "links": [
+        {
+          "text": "CPS 832",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/832/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 840 * Selected Topics in Computer Science",
+      "links": [
+        {
+          "text": "CPS 840",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/840/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 841 * Advanced Topics in Computer Science",
+      "links": [
+        {
+          "text": "CPS 841",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/841/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 842 Information Retrieval and Web Search",
+      "links": [
+        {
+          "text": "CPS 842",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/842/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 843 Introduction to Computer Vision",
+      "links": [
+        {
+          "text": "CPS 843",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/843/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 844 Data Mining",
+      "links": [
+        {
+          "text": "CPS 844",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/844/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 845 * Extreme Programming and Agile Processes",
+      "links": [
+        {
+          "text": "CPS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 853 Creating Big Data Systems",
+      "links": [
+        {
+          "text": "CPS 853",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/853/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 888 Software Engineering",
+      "links": [
+        {
+          "text": "CPS 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/888/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Mathematics and Its Applications - Table II"
+}

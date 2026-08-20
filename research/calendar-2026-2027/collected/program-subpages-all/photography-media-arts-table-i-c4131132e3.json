@@ -1,0 +1,898 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/photomedia_table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "3d6241497d4451a521e11181dfdf62e1f438947f7a8b3c300cbf1a0a27602dfd",
+  "source_bytes": 60165,
+  "title": "Photography Media Arts Table I",
+  "headings": [
+    "Photography Media Arts Table I",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CRI 500",
+    "FCD 362",
+    "FCD 540",
+    "FCD 810",
+    "FCD 815",
+    "FCD 816",
+    "FPN 340",
+    "FPN 501",
+    "FPN 506",
+    "FPN 512",
+    "FPN 513",
+    "FPN 531",
+    "FPN 532",
+    "FPN 534",
+    "FPN 535",
+    "FPN 536",
+    "FPN 537",
+    "FPN 538",
+    "FPN 539",
+    "FPN 541",
+    "FPN 542",
+    "FPN 543",
+    "FPN 544",
+    "FPN 545",
+    "FPN 546",
+    "FPN 547",
+    "FPN 600",
+    "FPN 601",
+    "FPN 632",
+    "FPN 633",
+    "FPN 634",
+    "FPN 700",
+    "FPN 710",
+    "FPN 720",
+    "FPN 735",
+    "FPN 835",
+    "MPI 503",
+    "MPI 603",
+    "MPS 507",
+    "MPS 607",
+    "NPF 555",
+    "NPF 568",
+    "ZON 100",
+    "ZON 200"
+  ],
+  "official_links": [
+    {
+      "text": "Image Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_ii/"
+    },
+    {
+      "text": "FPN 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/340/"
+    },
+    {
+      "text": "FPN 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/506/"
+    },
+    {
+      "text": "FPN 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/512/"
+    },
+    {
+      "text": "FPN 539",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/539/"
+    },
+    {
+      "text": "FPN 543",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/543/"
+    },
+    {
+      "text": "FPN 544",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/544/"
+    },
+    {
+      "text": "FPN 546",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/546/"
+    },
+    {
+      "text": "FPN 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/633/"
+    },
+    {
+      "text": "MPS 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPS/507/"
+    },
+    {
+      "text": "MPS 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPS/607/"
+    },
+    {
+      "text": "NPF 555",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/555/"
+    },
+    {
+      "text": "NPF 568",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/568/"
+    },
+    {
+      "text": "CRI 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+    },
+    {
+      "text": "FCD 362",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "FPN 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/501/"
+    },
+    {
+      "text": "FPN 532",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/532/"
+    },
+    {
+      "text": "FPN 534",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/534/"
+    },
+    {
+      "text": "FPN 536",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/536/"
+    },
+    {
+      "text": "FPN 538",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/538/"
+    },
+    {
+      "text": "FPN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/601/"
+    },
+    {
+      "text": "FPN 632",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/632/"
+    },
+    {
+      "text": "FPN 634",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/634/"
+    },
+    {
+      "text": "FCD 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/540/"
+    },
+    {
+      "text": "MPI 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/503/"
+    },
+    {
+      "text": "MPI 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/603/"
+    },
+    {
+      "text": "FPN 513",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/513/"
+    },
+    {
+      "text": "FPN 531",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/531/"
+    },
+    {
+      "text": "FPN 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/535/"
+    },
+    {
+      "text": "FPN 537",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/537/"
+    },
+    {
+      "text": "FPN 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/541/"
+    },
+    {
+      "text": "FPN 542",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/542/"
+    },
+    {
+      "text": "FPN 545",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/545/"
+    },
+    {
+      "text": "FPN 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/600/"
+    },
+    {
+      "text": "FPN 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/720/"
+    },
+    {
+      "text": "FCD 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/810/"
+    },
+    {
+      "text": "FCD 816",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/816/"
+    },
+    {
+      "text": "FPN 547",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/547/"
+    },
+    {
+      "text": "FPN 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/710/"
+    },
+    {
+      "text": "FPN 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/735/"
+    },
+    {
+      "text": "FPN 835",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/835/"
+    },
+    {
+      "text": "ZON 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+    },
+    {
+      "text": "ZON 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/200/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/photomedia_table_i/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Photography Media Arts Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Image Arts",
+      "links": [
+        {
+          "text": "Image Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For Photography Media Arts students admitted Fall 2025 and after: Students must complete a total of two single-term courses (or equivalent) from Table I and two single-term courses (or equivalent) from Table II . This table is grouped into areas of focus for the benefit of students who want to build skills and knowledge in specific areas. Students can choose courses from any area of focus and are not required to complete a minimum number of courses in any area.",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Contemporary Art and Documentary Focus:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 340 Analogue Photography: Film and Darkroom",
+      "links": [
+        {
+          "text": "FPN 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 506 New Approaches in Documentary Photography",
+      "links": [
+        {
+          "text": "FPN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 512 Microcinema",
+      "links": [
+        {
+          "text": "FPN 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/512/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 539 The Human Figure",
+      "links": [
+        {
+          "text": "FPN 539",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/539/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 543 Historical Processes Workshops",
+      "links": [
+        {
+          "text": "FPN 543",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/543/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 544 Experimental Film Processes",
+      "links": [
+        {
+          "text": "FPN 544",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/544/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 546 Curation and Exhibition",
+      "links": [
+        {
+          "text": "FPN 546",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/546/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 633 Topics in Contemporary Art",
+      "links": [
+        {
+          "text": "FPN 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPS 507 The Photographic Book",
+      "links": [
+        {
+          "text": "MPS 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPS/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPS 607 The Expanded Image",
+      "links": [
+        {
+          "text": "MPS 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPS/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 555 Experimental Media",
+      "links": [
+        {
+          "text": "NPF 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 568 Analog as Meaning",
+      "links": [
+        {
+          "text": "NPF 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/568/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Commercial and Design Focus:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 500 Project Management",
+      "links": [
+        {
+          "text": "CRI 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 362 Designing for Web and Cross Media",
+      "links": [
+        {
+          "text": "FCD 362",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Supercourse",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 501 Scenography I: Art Direction",
+      "links": [
+        {
+          "text": "FPN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 532 Studio Lighting: Portrait and Fashion",
+      "links": [
+        {
+          "text": "FPN 532",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/532/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 534 Graphic Design",
+      "links": [
+        {
+          "text": "FPN 534",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/534/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 536 Media Business Practices",
+      "links": [
+        {
+          "text": "FPN 536",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/536/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 538 Visual Storytelling for the Web",
+      "links": [
+        {
+          "text": "FPN 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 601 Scenography II - Production Design",
+      "links": [
+        {
+          "text": "FPN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 632 Studio Lighting: Still Life and Product",
+      "links": [
+        {
+          "text": "FPN 632",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/632/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 634 Graphic Design: Brand Identity",
+      "links": [
+        {
+          "text": "FPN 634",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/634/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 540 Marketing for Creative Industries",
+      "links": [
+        {
+          "text": "FCD 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/540/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Creative Technologies Focus:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MPI 503 Creative Technologies: Screen Based",
+      "links": [
+        {
+          "text": "MPI 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPI 603 Creative Technologies: 3D and Spatial",
+      "links": [
+        {
+          "text": "MPI 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 513 Creative Coding",
+      "links": [
+        {
+          "text": "FPN 513",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/513/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 531 Cinematography and Lighting Design I",
+      "links": [
+        {
+          "text": "FPN 531",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/531/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 535 User Experience Design",
+      "links": [
+        {
+          "text": "FPN 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 537 Immersive Imaging",
+      "links": [
+        {
+          "text": "FPN 537",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/537/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 538 Visual Storytelling for the Web",
+      "links": [
+        {
+          "text": "FPN 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 541 Animation Practices",
+      "links": [
+        {
+          "text": "FPN 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 542 Design for Mobile Devices",
+      "links": [
+        {
+          "text": "FPN 542",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/542/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 545 Hybrid Media Workshop",
+      "links": [
+        {
+          "text": "FPN 545",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/545/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 600 Visual Effects for Film I",
+      "links": [
+        {
+          "text": "FPN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 700 Visual Effects for Film II"
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 720 Virtual Cameras: Intro to 3D Production",
+      "links": [
+        {
+          "text": "FPN 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/720/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Co-op and Collaborative Focus:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 810 Immersion in Communication and Design (Co-op)",
+      "links": [
+        {
+          "text": "FCD 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse I",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 816 Global Campus Studio Supercourse I",
+      "links": [
+        {
+          "text": "FCD 816",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/816/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 547 Co-operative Internship",
+      "links": [
+        {
+          "text": "FPN 547",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/547/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 710 IMA International",
+      "links": [
+        {
+          "text": "FPN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 735 Directed Field Study I",
+      "links": [
+        {
+          "text": "FPN 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/735/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 835 Directed Field Study II",
+      "links": [
+        {
+          "text": "FPN 835",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/835/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ZON 100 Zone Learning Project I",
+      "links": [
+        {
+          "text": "ZON 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ZON 200 Zone Learning Project II",
+      "links": [
+        {
+          "text": "ZON 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/200/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Photography Media Arts Table I"
+}

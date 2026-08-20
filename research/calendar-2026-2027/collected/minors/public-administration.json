@@ -1,0 +1,662 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/public_admin_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "404eff5096472170848c072ed6d59e5d44e22abe4c33ea746283cbbbc97a76d9",
+  "source_bytes": 61485,
+  "title": "Minor in Public Administration",
+  "headings": [
+    "Minor in Public Administration"
+  ],
+  "course_codes_referenced": [
+    "INP 915",
+    "POG 214",
+    "POG 310",
+    "POG 315",
+    "POG 410",
+    "POG 416",
+    "POG 440",
+    "POL 101",
+    "POL 102",
+    "POL 123",
+    "PPA 101",
+    "PPA 102",
+    "PPA 120",
+    "PPA 121",
+    "PPA 122",
+    "PPA 124",
+    "PPA 125",
+    "PPA 211",
+    "PPA 301",
+    "PPA 303",
+    "PPA 319",
+    "PPA 335",
+    "PPA 401",
+    "PPA 402",
+    "PPA 403",
+    "PPA 411",
+    "PPA 425",
+    "PPA 501"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Politics and Governance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/"
+    },
+    {
+      "text": "Public Administration and Governance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/"
+    },
+    {
+      "text": "Criminology and Politics and Governance Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/"
+    },
+    {
+      "text": "History and Politics and Governance Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/"
+    },
+    {
+      "text": "Politics and Governance and Sociology Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/"
+    },
+    {
+      "text": "PPA 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/101/"
+    },
+    {
+      "text": "PPA 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/102/"
+    },
+    {
+      "text": "POL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/101/"
+    },
+    {
+      "text": "POL 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/102/"
+    },
+    {
+      "text": "PPA 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/120/"
+    },
+    {
+      "text": "PPA 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/121/"
+    },
+    {
+      "text": "POG 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/310/"
+    },
+    {
+      "text": "PPA 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/122/"
+    },
+    {
+      "text": "POL 123",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/123/"
+    },
+    {
+      "text": "POG 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/410/"
+    },
+    {
+      "text": "PPA 124",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/124/"
+    },
+    {
+      "text": "POG 440",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/440/"
+    },
+    {
+      "text": "PPA 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/125/"
+    },
+    {
+      "text": "POG 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/315/"
+    },
+    {
+      "text": "PPA 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+    },
+    {
+      "text": "PPA 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/425/"
+    },
+    {
+      "text": "POG 416",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/416/"
+    },
+    {
+      "text": "PPA 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/211/"
+    },
+    {
+      "text": "POG 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/214/"
+    },
+    {
+      "text": "PPA 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/301/"
+    },
+    {
+      "text": "PPA 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/303/"
+    },
+    {
+      "text": "INP 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nonprofit/INP/915/"
+    },
+    {
+      "text": "PPA 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/335/"
+    },
+    {
+      "text": "PPA 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/401/"
+    },
+    {
+      "text": "PPA 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/402/"
+    },
+    {
+      "text": "PPA 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/403/"
+    },
+    {
+      "text": "PPA 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/411/"
+    },
+    {
+      "text": "PPA 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/501/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/public_admin_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Public Administration"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Public Administration is comprised of three types of courses. There are courses focused on government as a political actor which provide the students with insights into the nature of modern politics. There are policy courses which emphasize the various terrains on which government and organized interests interact. Finally, there are courses in administration. The Minor in Public Administration provides the student with a comprehensive overview of Canadian public administration and policy."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Politics and Public Administration"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Politics and Governance",
+      "links": [
+        {
+          "text": "Politics and Governance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Public Administration and Governance",
+      "links": [
+        {
+          "text": "Public Administration and Governance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Criminology and Politics and Governance Double Major",
+      "links": [
+        {
+          "text": "Criminology and Politics and Governance Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Politics and Governance Double Major",
+      "links": [
+        {
+          "text": "History and Politics and Governance Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Politics and Governance and Sociology Double Major",
+      "links": [
+        {
+          "text": "Politics and Governance and Sociology Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (2):"
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 101 Cdn Public Administration I: Institutions",
+      "links": [
+        {
+          "text": "PPA 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 102 Cdn Public Administration II: Processes",
+      "links": [
+        {
+          "text": "PPA 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/102/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 101 Canadian Political Institutions",
+      "links": [
+        {
+          "text": "POL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 102 Political Processes in Canada",
+      "links": [
+        {
+          "text": "POL 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 120 Canadian Politics and Government",
+      "links": [
+        {
+          "text": "PPA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 121 Ontario Politics and Government or POG 310 Provincial Politics",
+      "links": [
+        {
+          "text": "PPA 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/121/"
+        },
+        {
+          "text": "POG 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 122 Local Politics and Government or POL 123 Urban Government in Canada or POG 410 Canadian Urban Politics",
+      "links": [
+        {
+          "text": "PPA 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/122/"
+        },
+        {
+          "text": "POL 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/123/"
+        },
+        {
+          "text": "POG 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 124 Indigenous Politics and Governance or POG 440 Indigenous Governance/Justice",
+      "links": [
+        {
+          "text": "PPA 124",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/124/"
+        },
+        {
+          "text": "POG 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 125 Rights, Equity and the State or POG 315 Equity and Human Rights in Canada",
+      "links": [
+        {
+          "text": "PPA 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/125/"
+        },
+        {
+          "text": "POG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 319 Politics of Work and Labour",
+      "links": [
+        {
+          "text": "PPA 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 425 Intergovernmental Relations or POG 416 The Politics of Canadian Federalism",
+      "links": [
+        {
+          "text": "PPA 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/425/"
+        },
+        {
+          "text": "POG 416",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/416/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 211 Public Policy or POG 214 Intro to Public Policy",
+      "links": [
+        {
+          "text": "PPA 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/211/"
+        },
+        {
+          "text": "POG 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/214/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 301 Administrative Law",
+      "links": [
+        {
+          "text": "PPA 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 303 Public Budget Policy/Politics or INP 915 Financial Management",
+      "links": [
+        {
+          "text": "PPA 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/303/"
+        },
+        {
+          "text": "INP 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nonprofit/INP/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 335 Theories of Bureaucracy",
+      "links": [
+        {
+          "text": "PPA 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 401 Collaborative Governance",
+      "links": [
+        {
+          "text": "PPA 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 402 Program Planning and Evaluation",
+      "links": [
+        {
+          "text": "PPA 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 403 e-Government",
+      "links": [
+        {
+          "text": "PPA 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 411 Advanced Public Policy",
+      "links": [
+        {
+          "text": "PPA 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 501 Public Sector Leadership",
+      "links": [
+        {
+          "text": "PPA 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Public Administration"
+}

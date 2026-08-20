@@ -1,0 +1,621 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/disability_core_elective_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8523b62517da15d21e70dfb92a11e56cf670f85a55fe085f275dd82c372f5a56",
+  "source_bytes": 58395,
+  "title": "Disability Studies Core Elective Table I",
+  "headings": [
+    "Disability Studies Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "ASL 101",
+    "ASL 201",
+    "CLD 435",
+    "CLD 445",
+    "DST 503",
+    "DST 509",
+    "DST 603",
+    "DST 604",
+    "DST 613",
+    "DST 614",
+    "DST 620",
+    "DST 630",
+    "DST 640",
+    "DST 725",
+    "DST 991",
+    "FCS 101",
+    "FCS 120",
+    "FCS 200",
+    "FCS 400",
+    "FNF 100",
+    "FNF 400",
+    "INT 900",
+    "INT 901",
+    "INT 905",
+    "INT 906",
+    "INT 907",
+    "INT 908",
+    "INT 910",
+    "INT 911",
+    "INT 912",
+    "INT 913",
+    "INT 914",
+    "INT 915",
+    "INT 916",
+    "INT 920",
+    "INT 921",
+    "INT 922",
+    "INT 923",
+    "SWP 903"
+  ],
+  "official_links": [
+    {
+      "text": "Disability Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+    },
+    {
+      "text": "ASL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/101/"
+    },
+    {
+      "text": "ASL 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/201/"
+    },
+    {
+      "text": "CLD 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/435/"
+    },
+    {
+      "text": "CLD 445",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/445/"
+    },
+    {
+      "text": "DST 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/503/"
+    },
+    {
+      "text": "DST 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/509/"
+    },
+    {
+      "text": "DST 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/603/"
+    },
+    {
+      "text": "DST 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/604/"
+    },
+    {
+      "text": "DST 613",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/613/"
+    },
+    {
+      "text": "DST 614",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/614/"
+    },
+    {
+      "text": "DST 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/620/"
+    },
+    {
+      "text": "DST 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/630/"
+    },
+    {
+      "text": "DST 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/640/"
+    },
+    {
+      "text": "DST 725",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/725/"
+    },
+    {
+      "text": "DST 991",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/991/"
+    },
+    {
+      "text": "FCS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+    },
+    {
+      "text": "FCS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/120/"
+    },
+    {
+      "text": "FCS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+    },
+    {
+      "text": "FCS 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/400/"
+    },
+    {
+      "text": "FNF 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/100/"
+    },
+    {
+      "text": "FNF 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+    },
+    {
+      "text": "INT 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/900/"
+    },
+    {
+      "text": "INT 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/901/"
+    },
+    {
+      "text": "INT 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+    },
+    {
+      "text": "INT 906",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/906/"
+    },
+    {
+      "text": "INT 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+    },
+    {
+      "text": "INT 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+    },
+    {
+      "text": "INT 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+    },
+    {
+      "text": "INT 911",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+    },
+    {
+      "text": "INT 912",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+    },
+    {
+      "text": "INT 913",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/913/"
+    },
+    {
+      "text": "INT 914",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/914/"
+    },
+    {
+      "text": "INT 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/915/"
+    },
+    {
+      "text": "INT 916",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/916/"
+    },
+    {
+      "text": "INT 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/920/"
+    },
+    {
+      "text": "INT 921",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/921/"
+    },
+    {
+      "text": "INT 922",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/922/"
+    },
+    {
+      "text": "INT 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/923/"
+    },
+    {
+      "text": "SWP 903",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/903/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Disability Studies Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Disability Studies",
+      "links": [
+        {
+          "text": "Disability Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASL 101 Introductory American Sign Language I",
+      "links": [
+        {
+          "text": "ASL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASL 201 Introductory American Sign Language II",
+      "links": [
+        {
+          "text": "ASL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/ASL/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 435 Theory and Practice of Family Support",
+      "links": [
+        {
+          "text": "CLD 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/435/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 445 Inclusion and Consultation",
+      "links": [
+        {
+          "text": "CLD 445",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/445/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 503 Current Topics in Disability I",
+      "links": [
+        {
+          "text": "DST 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 509 Disability Arts and Culture",
+      "links": [
+        {
+          "text": "DST 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 603 Law and Disability",
+      "links": [
+        {
+          "text": "DST 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 604 Current Topics in Disability II",
+      "links": [
+        {
+          "text": "DST 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 613 Strategies for Community Building",
+      "links": [
+        {
+          "text": "DST 613",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/613/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 614 Community, Access and Technology",
+      "links": [
+        {
+          "text": "DST 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 620 Disability Studies in Education",
+      "links": [
+        {
+          "text": "DST 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 630 Mad Studies: Contemporary Perspectives",
+      "links": [
+        {
+          "text": "DST 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 640 Madness and Childhood",
+      "links": [
+        {
+          "text": "DST 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 725 The Politics and Practice of Interventions",
+      "links": [
+        {
+          "text": "DST 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 991 Independent Research Thesis",
+      "links": [
+        {
+          "text": "DST 991",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/991/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 101 Social Justice and Mental Health",
+      "links": [
+        {
+          "text": "FCS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 120 Equity in the Future of Health Care",
+      "links": [
+        {
+          "text": "FCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 200 Indigenous Relations in Practice",
+      "links": [
+        {
+          "text": "FCS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 400 Indigenous Sovereignty in Practice",
+      "links": [
+        {
+          "text": "FCS 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 100 Families and Health",
+      "links": [
+        {
+          "text": "FNF 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 900 Program Planning and Evaluation Strategies",
+      "links": [
+        {
+          "text": "INT 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 901 Gerontology: Critical Issues and Future Trends",
+      "links": [
+        {
+          "text": "INT 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 905 Conflict Resolution in Community Services",
+      "links": [
+        {
+          "text": "INT 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 906 Sexuality: Power and Pleasure",
+      "links": [
+        {
+          "text": "INT 906",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/906/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 907 Team Work for Community Services",
+      "links": [
+        {
+          "text": "INT 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 908 Homelessness in Canadian Society",
+      "links": [
+        {
+          "text": "INT 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 910 Indigenous Peoples, Pol and Reconciliation",
+      "links": [
+        {
+          "text": "INT 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 911 International Community Development",
+      "links": [
+        {
+          "text": "INT 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 912 Community Development: International Field Experience",
+      "links": [
+        {
+          "text": "INT 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 913 Issues of Migration",
+      "links": [
+        {
+          "text": "INT 913",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/913/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 914 Settlement Experiences",
+      "links": [
+        {
+          "text": "INT 914",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/914/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 915 Responses to Migration",
+      "links": [
+        {
+          "text": "INT 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 916 Introduction to Fundraising",
+      "links": [
+        {
+          "text": "INT 916",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/916/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 920 Community Collaborations",
+      "links": [
+        {
+          "text": "INT 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 921 Writing Bodies Differently",
+      "links": [
+        {
+          "text": "INT 921",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/921/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 922 Introduction to Indigenous Worldviews",
+      "links": [
+        {
+          "text": "INT 922",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/922/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 923 Canada's Story: An Indigenous Perspective",
+      "links": [
+        {
+          "text": "INT 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 903 Crisis Intervention",
+      "links": [
+        {
+          "text": "SWP 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/903/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Disability Studies - Table I"
+}

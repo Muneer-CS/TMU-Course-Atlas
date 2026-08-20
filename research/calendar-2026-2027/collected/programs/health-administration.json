@@ -1,0 +1,901 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "cb482fc452a215d8251a727e9834d369ed2805de360027ce0ee8758ddd1e117f",
+  "source_bytes": 82379,
+  "title": "Health Administration",
+  "headings": [
+    "Health Administration",
+    "Health Administration",
+    "Admission Information",
+    "Stream A:",
+    "Stream B:",
+    "Admission Procedures",
+    "Program Overview/Curriculum Information",
+    "Curriculum Information",
+    "Course Offerings",
+    "Course Identification",
+    "Transfer Credits",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Part-Time, Degree Completion Program",
+    "Level 1",
+    "Level 2",
+    "Program Advisory Council",
+    "Ted Rogers School of Management Dean's Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "HIM 301",
+    "HIM 305",
+    "HIM 404",
+    "HIM 408",
+    "HSM 301",
+    "HSM 305",
+    "HSM 330",
+    "HSM 407",
+    "HSM 408",
+    "HSM 417",
+    "HSM 418",
+    "HSM 419",
+    "HSM 437",
+    "LAW 326",
+    "PHL 302",
+    "PHL 509"
+  ],
+  "official_links": [
+    {
+      "text": "Ted Rogers School of Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PHL 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "HIM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/301/"
+    },
+    {
+      "text": "HIM 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/305/"
+    },
+    {
+      "text": "HIM 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/408/"
+    },
+    {
+      "text": "HSM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+    },
+    {
+      "text": "HSM 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/305/"
+    },
+    {
+      "text": "HSM 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/330/"
+    },
+    {
+      "text": "LAW 326",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "HIM 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/404/"
+    },
+    {
+      "text": "HSM 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/407/"
+    },
+    {
+      "text": "HSM 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/408/"
+    },
+    {
+      "text": "HSM 417",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/417/"
+    },
+    {
+      "text": "HSM 418",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/418/"
+    },
+    {
+      "text": "HSM 419",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/419/"
+    },
+    {
+      "text": "HSM 437",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/437/"
+    },
+    {
+      "text": "PHL 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Health Administration"
+    },
+    {
+      "kind": "text",
+      "text": "Ted Rogers School of Management",
+      "links": [
+        {
+          "text": "Ted Rogers School of Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This part-time program allows students to take courses at their own pace. Students can complete as few as one to two courses per semester, or they can complete three courses or more per semester (making it full-time, OSAP eligible)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Health Administration"
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Health Administration (BHA)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "School of Health Services Management",
+      "links": [
+        {
+          "text": "School of Health Services Management",
+          "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/health-services-management/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Part-time, degree-completion program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Candidates for admission to the Bachelor of Health Administration (BHA) degree-completion program must meet the minimum requirements outlined below. The program is intended for two separate, distinct applicant streams. The university welcomes and encourages applications from both of these groups as outlined below."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Stream A:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Graduation from a two-year Diploma program (e.g. health information management, practical nursing, nutrition, food services management, dental hygiene and office administration - health services) or three-year Advanced Diploma program in applied health sciences (e.g. nursing, medical laboratory technology, chiropody, radiology) from a public Ontario College (or the equivalent), with a grade average of 'B' or higher. The diploma must include at least two introductory, university-level humanities courses or equivalent."
+    },
+    {
+      "kind": "list_item",
+      "text": "At least two years of cumulative, current professional experience in the health services field."
+    },
+    {
+      "kind": "text",
+      "text": "Applicants who cannot demonstrate at least two liberal studies courses (either lower or upper level) during their previous academic studies, will be required to take additional courses before graduation."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Stream B:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of at least two years of study in a health-related undergraduate degree program with acceptable academic standing, or completion of a degree in another field, from an accredited university."
+    },
+    {
+      "kind": "list_item",
+      "text": "At least two years of cumulative, current professional experience in the health services field."
+    },
+    {
+      "kind": "text",
+      "text": "Applicants who have completed a university degree are eligible for transfer credit up to 50% of the BHA program."
+    },
+    {
+      "kind": "text",
+      "text": "Please note: Potential applicants with other post-secondary academic backgrounds and professional experience in the healthcare field will be considered on an individual basis."
+    },
+    {
+      "kind": "text",
+      "text": "The BHA is certified by the Association of University Programs in Health Administration (AUPHA) and is approved by the Canadian Health Information Management Association (CHIMA) as a degree completion program for HIM professionals who are already certified."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Admission Procedures"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants are required to submit the following to Undergraduate Admissions in addition to their online application. The submission of the TMU Supplementary Form is optional, but encouraged by the Admissions Committee."
+    },
+    {
+      "kind": "text",
+      "text": "Visit Submission of Documents for instructions:",
+      "links": [
+        {
+          "text": "Submission of Documents",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/apply/document-submission/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Academic transcripts including promotion/graduation status of all post-secondary studies (including studies in an applied health science program). High school transcripts are not required."
+    },
+    {
+      "kind": "list_item",
+      "text": "A detailed and separate resume of previous work experience, academic experience (including continuing education), and professional activities."
+    },
+    {
+      "kind": "list_item",
+      "text": "Documentation of professional registration/certification, where applicable."
+    },
+    {
+      "kind": "text",
+      "text": "Each applicant will be reviewed by a department admissions committee to ensure academic and practice suitability for the program."
+    },
+    {
+      "kind": "text",
+      "text": "Students who wish to enrol in any Faculty of Arts course that has a prerequisite must first obtain permission from the appropriate teaching department. Students are required to provide the teaching department with a course outline and proof of completion of the appropriate prerequisite."
+    },
+    {
+      "kind": "text",
+      "text": "Students are admitted three times a year, in the fall, winter, and spring/summer semesters."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Health Administration part-time degree program is designed to allow health practitioners to upgrade their education to the level of an undergraduate degree in theory and management of health services."
+    },
+    {
+      "kind": "text",
+      "text": "A key goal of the program is to develop the management and leadership capabilities of health practitioners who currently hold or in the future may hold entry level, or middle management responsibilities in health facilities or in the community."
+    },
+    {
+      "kind": "text",
+      "text": "Management skills and knowledge are developed within the context of a broad understanding of the needs and rights of clients and their communities, and the social, economic, political, and ethical factors influencing rapid change in the health system."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information"
+    },
+    {
+      "kind": "text",
+      "text": "The design of the curriculum incorporates four goals: educating health practitioners to assume entry-level or middle management responsibilities; contributing to the evolution of a multidisciplinary, holistic health community; building a broader understanding of the diverse non-medical factors which shape the health system; and providing a basis for advanced studies. The program objectives identify three distinct areas of skills and knowledge consistent with these goals which relate to the needs of clients, the health services organization, and the system as a whole."
+    },
+    {
+      "kind": "text",
+      "text": "Program requirements include courses in the required, open elective, and liberal studies categories. Required courses examine the health system and management roles in health service organizations as the basis for specialized courses in management, health law, finance, program planning and evaluation, research methods and human resources. Open elective courses include courses in accounting, communications, ethics, policy, psychology, economics, occupational health and marketing. Liberal studies courses are chosen from a wide range of humanities and social science subjects. A Practicum designed to facilitate the integration of management theory and practice in a work setting, constitutes the 'capstone' of the program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Offerings"
+    },
+    {
+      "kind": "text",
+      "text": "Courses may be offered in one of three formats: evening, web-based or modular. Selected open elective and liberal studies courses also run in the evening. A limited number of spaces may also be available in the day sections of open electives and liberal studies courses. Part-time students may be accommodated in day sections if space is available. Selected Required, open elective, and liberal studies courses may also be offered each semester."
+    },
+    {
+      "kind": "text",
+      "text": "Once accepted into the program students receive assistance to develop a program plan."
+    },
+    {
+      "kind": "text",
+      "text": "Students may take up to a maximum of eight years to complete the program requirements."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Identification"
+    },
+    {
+      "kind": "text",
+      "text": "Part-time courses are administered by either the program department or The G. Raymond Chang School of Continuing Education. The mode of delivery is not reflected in this calendar. Continuing education courses are identified in your course selection registration package with a 'C' prefix. These identifiers are for internal use only and do not affect the equivalency."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Courses completed at an accredited university or a Public Ontario College that are not used as a basis of admission may also be eligible for transfer credit. These courses must be reviewed by the appropriate departmental chair before credit can be assigned. We strongly recommend that you commence the collection of officially certified transcripts, course descriptions, and teaching outlines as soon as possible. Please note that students who receive transfer credits(s) must complete studies that normally include at least one-half of the curriculum. No more than 50 percent of a program's requirements may consist of advanced standing/credits (transfer credits, challenge credits, credits granted on a Letter of Permission ).",
+      "links": [
+        {
+          "text": "Letter of Permission",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must complete three upper-level liberal studies courses to graduate. If an upper level liberal studies course requires a prerequisite, students MUST apply for a transfer credit for that prerequisite. This will only serve as proof of prerequisite and will not apply toward the degree."
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Students may take only two Economics (ECN) courses for credit."
+    },
+    {
+      "kind": "text",
+      "text": "PHL 509 is not available for credit.",
+      "links": [
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Degree Completion Program",
+      "links": [
+        {
+          "text": "Part-Time, Degree Completion Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Level 1"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 301 Healthcare Information Analysis",
+      "links": [
+        {
+          "text": "HIM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 305 Introduction to Health Informatics",
+      "links": [
+        {
+          "text": "HIM 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 408 Statistics for Health Services Managers",
+      "links": [
+        {
+          "text": "HIM 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 301 The Healthcare Systems",
+      "links": [
+        {
+          "text": "HSM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 305 The Management Cycle",
+      "links": [
+        {
+          "text": "HSM 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 330 Managerial Epidemiology for Healthcare",
+      "links": [
+        {
+          "text": "HSM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Level 2"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 404 Introduction to Health Economics",
+      "links": [
+        {
+          "text": "HIM 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 407 Healthcare Financial Management",
+      "links": [
+        {
+          "text": "HSM 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/407/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 408 Program Planning and Evaluation",
+      "links": [
+        {
+          "text": "HSM 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 417 Research Methodology",
+      "links": [
+        {
+          "text": "HSM 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/417/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 418 Practicum Seminar",
+      "links": [
+        {
+          "text": "HSM 418",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/418/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 419 * Practicum",
+      "links": [
+        {
+          "text": "HSM 419",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/419/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 437 Human Resources Management in Healthcare",
+      "links": [
+        {
+          "text": "HSM 437",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/437/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 302 Ethics and Health Care",
+      "links": [
+        {
+          "text": "PHL 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies . OPEN ELECTIVE: One Open Elective * This course is graded on a pass/fail basis.",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Kim Baker Former Chief Executive Officer Central Local Health Integration Network (LHIN)"
+    },
+    {
+      "kind": "text",
+      "text": "Catherine Chow Hutson Senior Director, Corporate Development Yee Hong Centre for Geriatric Care"
+    },
+    {
+      "kind": "text",
+      "text": "Akeela Jamal Senior Engagement Manager 3M Health Information Systems"
+    },
+    {
+      "kind": "text",
+      "text": "Melanie Kohn Director, Hospitals Branch, Health System Accountability and Performance Division Ministry of Health and Long-term Care"
+    },
+    {
+      "kind": "text",
+      "text": "Paul Williams Professor, Institute of Health Policy, Management and Evaluation University of Toronto"
+    },
+    {
+      "kind": "text",
+      "text": "Please see department website (opens in new window) for updated information.",
+      "links": [
+        {
+          "text": "department website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/about/leadership/advisory-councils/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ted Rogers School of Management Dean's Council"
+    },
+    {
+      "kind": "text",
+      "text": "Vinny Bhathal, CPA, CMA Managing Partner, Chief Controller & Treasurer, Sprott Inc. and Chief Financial Officer Sprott Asset Management LP. Michael Brooks CEO RealPac Darlene Dasent Executive Vice President & Chief Financial Officer University Health Network (UHN) Rania Llewellyn Former President and CEO Laurentian Bank of Canada Rita Loncar Co-Founder and CEO TALO Associates"
+    },
+    {
+      "kind": "text",
+      "text": "Kristina Milbourn Managing Counsel Litigation Rogers Communications Christopher West Director, Business and Service Management Branch The Central Agencies I&IT Cluster"
+    },
+    {
+      "kind": "text",
+      "text": "For updates see: https://www.torontomu.ca/tedrogersschool/about/leadership/deans-council",
+      "links": [
+        {
+          "text": "https://www.torontomu.ca/tedrogersschool/about/leadership/deans-council",
+          "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/about/leadership/deans-council"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Health Administration"
+}

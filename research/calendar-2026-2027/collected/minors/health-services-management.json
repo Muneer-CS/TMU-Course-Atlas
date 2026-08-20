@@ -1,0 +1,386 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/health_services_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "cf8a8a891c4bd369ca5fb2985c279606e9c23bb3da16df2bba0d1115534c3178",
+  "source_bytes": 57383,
+  "title": "Minor in Health Services Management",
+  "headings": [
+    "Minor in Health Services Management"
+  ],
+  "course_codes_referenced": [
+    "HIM 301",
+    "HIM 303",
+    "HIM 305",
+    "HIM 306",
+    "HIM 307",
+    "HIM 404",
+    "HSM 301",
+    "HSM 307",
+    "HSM 308",
+    "HSM 309",
+    "HSM 310",
+    "HSM 330",
+    "HSM 407",
+    "HSM 437",
+    "HTH 503",
+    "ITM 750",
+    "LAW 326",
+    "MHR 523",
+    "PHL 302",
+    "PHL 509"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Health Administration",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+    },
+    {
+      "text": "Business Management - Health Services Management Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/health_services_management_major/"
+    },
+    {
+      "text": "HSM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+    },
+    {
+      "text": "LAW 326",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+    },
+    {
+      "text": "HIM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/301/"
+    },
+    {
+      "text": "HIM 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/303/"
+    },
+    {
+      "text": "HIM 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/305/"
+    },
+    {
+      "text": "HIM 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/306/"
+    },
+    {
+      "text": "HIM 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/307/"
+    },
+    {
+      "text": "HIM 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/404/"
+    },
+    {
+      "text": "HSM 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/307/"
+    },
+    {
+      "text": "HSM 308",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/308/"
+    },
+    {
+      "text": "HSM 309",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/309/"
+    },
+    {
+      "text": "HSM 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/310/"
+    },
+    {
+      "text": "HSM 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/330/"
+    },
+    {
+      "text": "HSM 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/407/"
+    },
+    {
+      "text": "HSM 437",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/437/"
+    },
+    {
+      "text": "ITM 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/750/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "HTH 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/503/"
+    },
+    {
+      "text": "PHL 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+    },
+    {
+      "text": "PHL 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Health Services Management"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Health Services Management will provide students from a variety of academic backgrounds an awareness of how management skills are cultivated within the healthcare industry in Canada. Students will also learn about the Canadian legal system as it applies to health services delivery. Elective topics will cover healthcare-specific information policies, Long Term Care service delivery, project management, health economics, bioethics, and leadership in healthcare."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Health Services Management"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Health Administration",
+      "links": [
+        {
+          "text": "Health Administration",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/health_services/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management - Health Services Management Major",
+      "links": [
+        {
+          "text": "Business Management - Health Services Management Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/health_services_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) Required courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 301 The Healthcare Systems",
+      "links": [
+        {
+          "text": "HSM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 326 Law for Health Managers",
+      "links": [
+        {
+          "text": "LAW 326",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/326/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 301 Healthcare Information Analysis",
+      "links": [
+        {
+          "text": "HIM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 303 Introduction to Health Coding Classification",
+      "links": [
+        {
+          "text": "HIM 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 305 Introduction to Health Infomatics",
+      "links": [
+        {
+          "text": "HIM 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 306 Healthcare Interoperability",
+      "links": [
+        {
+          "text": "HIM 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 307 Human-Computer Interfaces in Healthcare",
+      "links": [
+        {
+          "text": "HIM 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIM 404 Introduction to Health Economics",
+      "links": [
+        {
+          "text": "HIM 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 307 Principles of Long Term Care Service Del.",
+      "links": [
+        {
+          "text": "HSM 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 308 Project Management - Long Term Care",
+      "links": [
+        {
+          "text": "HSM 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/308/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 309 Trends in Long Term Care Service Delivery",
+      "links": [
+        {
+          "text": "HSM 309",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/309/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 310 Institutional Structure",
+      "links": [
+        {
+          "text": "HSM 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 330 Managerial Epidemiology for Healthcare",
+      "links": [
+        {
+          "text": "HSM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 407 Healthcare Financial Management",
+      "links": [
+        {
+          "text": "HSM 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/407/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 437 Human Resources Management in Healthcare",
+      "links": [
+        {
+          "text": "HSM 437",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/437/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 750 IS Project Management",
+      "links": [
+        {
+          "text": "ITM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management or HTH 503 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        },
+        {
+          "text": "HTH 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 302 Ethics and Health Care or PHL 509 Bioethics",
+      "links": [
+        {
+          "text": "PHL 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+        },
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Health Services Management"
+}

@@ -1,0 +1,607 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/family_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "32d77a6dcc9a548688b6643a42b7560e1b8710e2f012462a1e97ecf0a73c3d23",
+  "source_bytes": 61985,
+  "title": "Minor in Family Supports and Community Practice",
+  "headings": [
+    "Minor in Family Supports and Community Practice"
+  ],
+  "course_codes_referenced": [
+    "CLD 332",
+    "CLD 435",
+    "CLD 447",
+    "CLD 448",
+    "CLD 449",
+    "CYC 705",
+    "CYC 800",
+    "DST 501",
+    "FNF 400",
+    "FNP 400",
+    "FNY 403",
+    "INT 900",
+    "INT 901",
+    "INT 902",
+    "INT 904",
+    "INT 905",
+    "INT 906",
+    "INT 907",
+    "INT 908",
+    "INT 910",
+    "INT 911",
+    "INT 912",
+    "POL 106",
+    "POL 501",
+    "POL 511",
+    "SOC 108",
+    "SOC 203",
+    "SOC 501",
+    "SOC 502",
+    "SOC 507",
+    "SOC 603",
+    "SOC 605",
+    "SOC 606",
+    "SOC 701",
+    "SOC 703",
+    "SWP 435",
+    "SWP 923"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CLD 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/435/"
+    },
+    {
+      "text": "CLD 332",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/332/"
+    },
+    {
+      "text": "CLD 447",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/447/"
+    },
+    {
+      "text": "CLD 448",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/448/"
+    },
+    {
+      "text": "CLD 449",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/449/"
+    },
+    {
+      "text": "CYC 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/800/"
+    },
+    {
+      "text": "FNP 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/400/"
+    },
+    {
+      "text": "DST 99A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/99A/"
+    },
+    {
+      "text": "FNY 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/403/"
+    },
+    {
+      "text": "INT 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/900/"
+    },
+    {
+      "text": "INT 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/901/"
+    },
+    {
+      "text": "INT 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+    },
+    {
+      "text": "DST 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+    },
+    {
+      "text": "INT 904",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+    },
+    {
+      "text": "INT 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+    },
+    {
+      "text": "INT 906",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/906/"
+    },
+    {
+      "text": "FNF 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+    },
+    {
+      "text": "INT 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+    },
+    {
+      "text": "INT 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+    },
+    {
+      "text": "INT 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+    },
+    {
+      "text": "INT 911",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+    },
+    {
+      "text": "INT 912",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+    },
+    {
+      "text": "POL 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/106/"
+    },
+    {
+      "text": "POL 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+    },
+    {
+      "text": "POL 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/511/"
+    },
+    {
+      "text": "SOC 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/108/"
+    },
+    {
+      "text": "SOC 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/203/"
+    },
+    {
+      "text": "SOC 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/501/"
+    },
+    {
+      "text": "SOC 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+    },
+    {
+      "text": "SWP 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/923/"
+    },
+    {
+      "text": "SOC 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/507/"
+    },
+    {
+      "text": "SOC 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+    },
+    {
+      "text": "SOC 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+    },
+    {
+      "text": "SOC 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+    },
+    {
+      "text": "SOC 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/701/"
+    },
+    {
+      "text": "SOC 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+    },
+    {
+      "text": "SWP 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/435/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Family Supports and Community Practice"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Family Supports and Community Practice is designed to focus on the theme of the Family in Community Context and the methods of Interdisciplinary Practice."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Early Childhood Studies and the School of Nutrition"
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required course (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 435 Theory and Practice of Family Support",
+      "links": [
+        {
+          "text": "CLD 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/435/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) of the following*:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 332 Families in Canadian Context II",
+      "links": [
+        {
+          "text": "CLD 332",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/332/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 447 Equity Issues in Ontario ECE",
+      "links": [
+        {
+          "text": "CLD 447",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/447/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 448 Childhood in a Global Context",
+      "links": [
+        {
+          "text": "CLD 448",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/448/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 449 Research in ECE Lab Schools",
+      "links": [
+        {
+          "text": "CLD 449",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/449/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 800 Intensive In-Home Family Support",
+      "links": [
+        {
+          "text": "CYC 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNP 400 Interprofessional Placement or DST 99A/B ** Applied Community Project/Thesis",
+      "links": [
+        {
+          "text": "FNP 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/400/"
+        },
+        {
+          "text": "DST 99A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/99A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 403 Food Security Concepts and Principles",
+      "links": [
+        {
+          "text": "FNY 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 900 Program Planning and Evaluation Strategies or CYC 705 Special Topics: Program Evaluation",
+      "links": [
+        {
+          "text": "INT 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 901 Gerontology: Critical Issues and Future Trends",
+      "links": [
+        {
+          "text": "INT 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 902 Disability Issues or DST 501 Rethinking Disability",
+      "links": [
+        {
+          "text": "INT 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+        },
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 904 Health Promotion and Community Development",
+      "links": [
+        {
+          "text": "INT 904",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 905 Conflict Resolution in Community Services",
+      "links": [
+        {
+          "text": "INT 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 906 Sexuality: Power and Pleasure or FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "INT 906",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/906/"
+        },
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 907 Team Work for Community Services",
+      "links": [
+        {
+          "text": "INT 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 908 Homelessness in Canadian Society",
+      "links": [
+        {
+          "text": "INT 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 910 Indigenous Peoples, Pol and Reconciliation",
+      "links": [
+        {
+          "text": "INT 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 911 International Community Development",
+      "links": [
+        {
+          "text": "INT 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 912 Community Development: International Field Experience",
+      "links": [
+        {
+          "text": "INT 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 106 The Politics of Human Needs",
+      "links": [
+        {
+          "text": "POL 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 501 Women, Power and Politics",
+      "links": [
+        {
+          "text": "POL 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 511 Well-being and Opportunity in Canada",
+      "links": [
+        {
+          "text": "POL 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 108 Indigenous Peoples and Decolonization",
+      "links": [
+        {
+          "text": "SOC 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/108/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 203 Social Class and Inequality",
+      "links": [
+        {
+          "text": "SOC 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 501 Making a Living: Sociology of Work",
+      "links": [
+        {
+          "text": "SOC 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 502 Violence and the Family or SWP 923 Family Violence",
+      "links": [
+        {
+          "text": "SOC 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+        },
+        {
+          "text": "SWP 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 507 Race and Ethnicity in Canadian Society",
+      "links": [
+        {
+          "text": "SOC 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 603 Sociology of Gender",
+      "links": [
+        {
+          "text": "SOC 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 605 Families: Difference and Diversity",
+      "links": [
+        {
+          "text": "SOC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 606 Families and Care Work",
+      "links": [
+        {
+          "text": "SOC 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 701 Social Change: Canadian Perspectives",
+      "links": [
+        {
+          "text": "SOC 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 703 Women, Power and the Global South",
+      "links": [
+        {
+          "text": "SOC 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 435 Aboriginal Approaches to Social Work",
+      "links": [
+        {
+          "text": "SWP 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/435/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Early Childhood Studies students may take a maximum of two CLD-prefix courses from the elective list. ** DST 99A/B is a multi-term course that will be credited only as a single-term course toward the Minor.",
+      "links": [
+        {
+          "text": "DST 99A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/99A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Family Supports and Community Practice"
+}

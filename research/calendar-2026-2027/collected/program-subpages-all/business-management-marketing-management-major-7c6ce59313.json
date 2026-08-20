@@ -1,0 +1,3911 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "c8bac9524fcea9edd3bc705ea10788930dd91e5397b26db728d15679d85563b7",
+  "source_bytes": 197950,
+  "title": "Business Management - Marketing Management Major",
+  "headings": [
+    "Business Management - Marketing Management Major",
+    "Program Overview",
+    "Optional Co-operative Program Overview",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Full-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Third Year, Direct Entry Co-op Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Part-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, First-Year Entry Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "BUS 800",
+    "ECN 104",
+    "ECN 204",
+    "ENT 101",
+    "FIN 300",
+    "FIN 401",
+    "GMS 200",
+    "GMS 401",
+    "GMS 522",
+    "ITM 102",
+    "LAW 122",
+    "MHR 523",
+    "MKT 100",
+    "MKT 300",
+    "MKT 400",
+    "MKT 500",
+    "MKT 504",
+    "MKT 510",
+    "MKT 535",
+    "MKT 600",
+    "MKT 700",
+    "MKT 702",
+    "MKT 723",
+    "MKT 730",
+    "MKT 731",
+    "MKT 802",
+    "MKT 828",
+    "MKT 829",
+    "MKT 850",
+    "QMS 110",
+    "QMS 210",
+    "WKT 100",
+    "WKT 135",
+    "WKT 200",
+    "WKT 235",
+    "WKT 300",
+    "WKT 335",
+    "WKT 400",
+    "WKT 435"
+  ],
+  "official_links": [
+    {
+      "text": "Business Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "GMS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "MKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "MKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "MKT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+    },
+    {
+      "text": "MKT 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+    },
+    {
+      "text": "MKT 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "GMS 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+    },
+    {
+      "text": "MKT 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+    },
+    {
+      "text": "MKT 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+    },
+    {
+      "text": "MKT 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+    },
+    {
+      "text": "MKT 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+    },
+    {
+      "text": "MKT 731",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+    },
+    {
+      "text": "MKT 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+    },
+    {
+      "text": "MKT 829",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+    },
+    {
+      "text": "MKT 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+    },
+    {
+      "text": "BUS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+    },
+    {
+      "text": "MKT 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+    },
+    {
+      "text": "MKT 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+    },
+    {
+      "text": "MKT 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+    },
+    {
+      "text": "WKT 135",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/135/"
+    },
+    {
+      "text": "WKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+    },
+    {
+      "text": "WKT 235",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/235/"
+    },
+    {
+      "text": "WKT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+    },
+    {
+      "text": "WKT 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/335/"
+    },
+    {
+      "text": "WKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+    },
+    {
+      "text": "WKT 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/435/"
+    },
+    {
+      "text": "WKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Management - Marketing Management Major"
+    },
+    {
+      "kind": "text",
+      "text": "Business Management",
+      "links": [
+        {
+          "text": "Business Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview",
+      "links": [
+        {
+          "text": "Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This is an exciting time to work in the field of marketing with all of the innovative new ways to engage with consumers. Learn how to interpret and respond to customer needs better than the competition by analyzing consumer trends, competitive activity and other factors."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Optional Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section(s). The School offers an optional co-op program which provides graduates with up to 16 months of work experience integrated into their academic program. The co-op option extends the program by one year. The School cannot guarantee work term jobs, but the Business Career Hub and the School will prospect for employers and make every effort to locate suitable positions, as well as be available to advise students on their search for program related jobs. The co-op program enables students to earn prevailing wages for the level of responsibility and contribution of the jobs they perform and thus finance at least part of their university education."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Business Intelligence/Decision Modeling",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 702 † Advanced Marketing Management",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 802 † Advanced Market Planning",
+      "links": [
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† MKT 702 will be scheduled in 7th Semester. MKT 802 will be scheduled in 8th Semester.",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        },
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies CORE ELECTIVE : Two courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option after the fourth semester of the program. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.00 (or higher). Subject to competition, grades above the minimum may be required."
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communications skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 or LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Business Intelligence/Decision Modeling",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 702 † Advanced Marketing Management",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 802 † Advanced Market Planning",
+      "links": [
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† MKT 702 will be scheduled in 7th Semester. MKT 802 will be scheduled in 8th Semester.",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        },
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies CORE ELECTIVE: Two courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 135 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 135",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/135/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 235 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 235",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/235/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 335 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/335/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 435 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/435/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Full-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Business Intelligence/Decision Modeling",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 702 † Advanced Marketing Management",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 802 † Advanced Market Planning",
+      "links": [
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† MKT 702 will be scheduled in 7th Semester. MKT 802 will be scheduled in 8th Semester.",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        },
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies CORE ELECTIVE: Two courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third Year, Direct Entry Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Third Year, Direct Entry Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option by September 30. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.00 (or higher). Subject to competition, grades above the minimum may be required."
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communications skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/CV"
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Business Intelligence/Decision Modeling",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 702 † Advanced Marketing Management",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 802 † Advanced Market Planning",
+      "links": [
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† MKT 702 will be scheduled in 7th Semester. MKT 802 will be scheduled in 8th Semester.",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        },
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies CORE ELECTIVE: Two courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 135 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 135",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/135/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 235 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 235",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/235/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 335 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/335/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 435 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/435/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies CORE ELECTIVE: Two courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Business Intelligence/Decision Modeling",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 702 † Advanced Marketing Management",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 802 † Advanced Market Planning",
+      "links": [
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† MKT 702 will be scheduled in 7th Semester. MKT 802 will be scheduled in 8th Semester.",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        },
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 400 Understanding Consumers",
+      "links": [
+        {
+          "text": "MKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Students are required to complete 2 (two) courses from Table B - Upper Level Liberal Studies",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Business Intelligence/Decision Modeling",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 702 † Advanced Marketing Management",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 802 † Advanced Market Planning",
+      "links": [
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† MKT 702 will be scheduled in 7th Semester. MKT 802 will be scheduled in 8th Semester.",
+      "links": [
+        {
+          "text": "MKT 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/702/"
+        },
+        {
+          "text": "MKT 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Students are required to complete one (1) course from Table B - Upper Level Liberal Studies CORE ELECTIVE: Two courses from the following:",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 522 International Marketing",
+      "links": [
+        {
+          "text": "GMS 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 535 Integrated Marketing Communications",
+      "links": [
+        {
+          "text": "MKT 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 828 Sport Marketing Concepts and Strategy",
+      "links": [
+        {
+          "text": "MKT 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 829 International Sport Marketing",
+      "links": [
+        {
+          "text": "MKT 829",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/829/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 850 Applied Research Project",
+      "links": [
+        {
+          "text": "MKT 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/850/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Business Management - Marketing Management Major"
+}

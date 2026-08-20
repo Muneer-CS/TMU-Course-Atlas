@@ -1,0 +1,556 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/chemistry_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "3bfddd8136dc92d7dd6f5c72969d2a0bd5c16c73bbcc59b380b993ed88086739",
+  "source_bytes": 56975,
+  "title": "Minor in Chemistry",
+  "headings": [
+    "Minor in Chemistry"
+  ],
+  "course_codes_referenced": [
+    "CHY 102",
+    "CHY 103",
+    "CHY 113",
+    "CHY 142",
+    "CHY 213",
+    "CHY 223",
+    "CHY 242",
+    "CHY 330",
+    "CHY 339",
+    "CHY 344",
+    "CHY 381",
+    "CHY 382",
+    "CHY 399",
+    "CHY 434",
+    "CHY 435",
+    "CHY 436",
+    "CHY 437",
+    "CHY 445",
+    "CHY 449",
+    "CHY 501",
+    "CHY 600",
+    "CHY 706"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Chemistry",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/"
+    },
+    {
+      "text": "CHY 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+    },
+    {
+      "text": "CHY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+    },
+    {
+      "text": "CHY 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+    },
+    {
+      "text": "CHY 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+    },
+    {
+      "text": "CHY 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/213/"
+    },
+    {
+      "text": "CHY 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/223/"
+    },
+    {
+      "text": "CHY 242",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/242/"
+    },
+    {
+      "text": "CHY 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/330/"
+    },
+    {
+      "text": "CHY 339",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/339/"
+    },
+    {
+      "text": "CHY 344",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/344/"
+    },
+    {
+      "text": "CHY 381",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/381/"
+    },
+    {
+      "text": "CHY 382",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/382/"
+    },
+    {
+      "text": "CHY 399",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/399/"
+    },
+    {
+      "text": "CHY 434",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/434/"
+    },
+    {
+      "text": "CHY 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/435/"
+    },
+    {
+      "text": "CHY 436",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/436/"
+    },
+    {
+      "text": "CHY 437",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/437/"
+    },
+    {
+      "text": "CHY 445",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/445/"
+    },
+    {
+      "text": "CHY 449",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/449/"
+    },
+    {
+      "text": "CHY 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/501/"
+    },
+    {
+      "text": "CHY 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/600/"
+    },
+    {
+      "text": "CHY 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/706/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/chemistry_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Chemistry"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The objective of the Minor in Chemistry is to provide students with the opportunity to gain additional knowledge and skills in chemistry, and at the same time, provide additional options for students still wishing to have an emphasis in another field of science (e.g. Biology). This Minor is also intended to provide students with additional qualifications, thereby enhancing their options in science-related careers and graduate studies, particularly in fields such as biotechnology and the environmental sciences."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Chemistry and Biology"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Chemistry - all options",
+      "links": [
+        {
+          "text": "Chemistry",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (2):"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I OR",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 102 General Chemistry",
+      "links": [
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 113 General Chemistry II",
+      "links": [
+        {
+          "text": "CHY 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 142 Organic Chemistry I",
+      "links": [
+        {
+          "text": "CHY 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 213 Analytical Chemistry I",
+      "links": [
+        {
+          "text": "CHY 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 223 Analytical Chemistry II",
+      "links": [
+        {
+          "text": "CHY 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 242 Organic Chemistry II",
+      "links": [
+        {
+          "text": "CHY 242",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/242/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 330 Atomic and Molecular Spectroscopy",
+      "links": [
+        {
+          "text": "CHY 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 339 Characterization of Organic Compounds",
+      "links": [
+        {
+          "text": "CHY 339",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/339/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 344 Inorganic Chemistry",
+      "links": [
+        {
+          "text": "CHY 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/344/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 381 Physical Chemistry I",
+      "links": [
+        {
+          "text": "CHY 381",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/381/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 382 Physical Chemistry II",
+      "links": [
+        {
+          "text": "CHY 382",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/382/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 399 Property-Directed Integrated Laboratory",
+      "links": [
+        {
+          "text": "CHY 399",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/399/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 434 Analytical Chemistry of Complex Samples",
+      "links": [
+        {
+          "text": "CHY 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/434/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 435 Advanced Chemical Instrumentation",
+      "links": [
+        {
+          "text": "CHY 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/435/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 436 Pharmaceutical Chemistry",
+      "links": [
+        {
+          "text": "CHY 436",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/436/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 437 Organic Chemistry",
+      "links": [
+        {
+          "text": "CHY 437",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/437/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 445 Materials Chemistry",
+      "links": [
+        {
+          "text": "CHY 445",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/445/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 449 Inorganic Chemistry II",
+      "links": [
+        {
+          "text": "CHY 449",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/449/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 501 Polymer Chemistry",
+      "links": [
+        {
+          "text": "CHY 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 600 Organic Reaction Mechanisms",
+      "links": [
+        {
+          "text": "CHY 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 706 Computational and Quantum Chemistry",
+      "links": [
+        {
+          "text": "CHY 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/706/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Chemistry"
+}

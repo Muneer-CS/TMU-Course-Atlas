@@ -1,0 +1,354 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/geographic_analysis_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "1cab3b3aa3c5db910225b038ea14c384294b8e53d980144df832e82c8a6e75b4",
+  "source_bytes": 57466,
+  "title": "Minor in Geographic Analysis",
+  "headings": [
+    "Minor in Geographic Analysis"
+  ],
+  "course_codes_referenced": [
+    "GEO 110",
+    "GEO 131",
+    "GEO 151",
+    "GEO 231",
+    "GEO 281",
+    "GEO 301",
+    "GEO 302",
+    "GEO 351",
+    "GEO 419",
+    "GEO 527",
+    "GEO 530",
+    "GEO 551",
+    "GEO 581",
+    "GEO 627",
+    "GEO 681",
+    "GEO 691",
+    "GEO 719",
+    "PLG 300"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Geographic Analysis",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+    },
+    {
+      "text": "Geography",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/geography_minor/"
+    },
+    {
+      "text": "GEO 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+    },
+    {
+      "text": "PLG 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLG/300/"
+    },
+    {
+      "text": "GEO 581",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/581/"
+    },
+    {
+      "text": "GEO 719",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+    },
+    {
+      "text": "GEO 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+    },
+    {
+      "text": "GEO 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+    },
+    {
+      "text": "GEO 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+    },
+    {
+      "text": "GEO 281",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/281/"
+    },
+    {
+      "text": "GEO 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/301/"
+    },
+    {
+      "text": "GEO 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/302/"
+    },
+    {
+      "text": "GEO 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/351/"
+    },
+    {
+      "text": "GEO 419",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/419/"
+    },
+    {
+      "text": "GEO 527",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/527/"
+    },
+    {
+      "text": "GEO 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/530/"
+    },
+    {
+      "text": "GEO 551",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/551/"
+    },
+    {
+      "text": "GEO 627",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/627/"
+    },
+    {
+      "text": "GEO 681",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/681/"
+    },
+    {
+      "text": "GEO 691",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/691/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Geographic Analysis"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Geographic Analysis Minor provides interested students with a course of study that focuses on development of real-world solutions to issues surrounding urban growth, economic development, business/service location decisions, climate change, and environmental remediation. In addition to foundation courses in location principles and exploration of the earth and ecosystems, the curriculum includes such electives as Geographic Information Systems (GIS), Geographic Data and Mapping, Demography, and Geodemographics. The minor aims to enhance the professional careers of the students in other disciplines such as Business Management, Hospitality and Tourism Management, Urban and Regional Planning, Environmental and Urban Sustainability and other programs within the Faculty of Arts."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Geography and Environmental Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Geographic Analysis",
+      "links": [
+        {
+          "text": "Geographic Analysis",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students may only pursue one of Geography or Geographic Analysis minor, double minors in Geography and Geographic Analysis will not be granted.",
+      "links": [
+        {
+          "text": "Geography",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/geography_minor/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) required course:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location or PLG 300 Theories in Urban and Regional Planning",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        },
+        {
+          "text": "PLG 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLG/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 581 GIS, Geographic Data and Mapping",
+      "links": [
+        {
+          "text": "GEO 581",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/581/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 131 Energy, Earth and Ecosystems or GEO 110 The Physical Environment",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        },
+        {
+          "text": "GEO 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 281 How to Lie with Maps",
+      "links": [
+        {
+          "text": "GEO 281",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/281/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 301 Marketing Geography or GEO 302 Retail Location",
+      "links": [
+        {
+          "text": "GEO 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/301/"
+        },
+        {
+          "text": "GEO 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 351 Internal Structure of the City",
+      "links": [
+        {
+          "text": "GEO 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 419 Retailing, GIS and Geodemographics",
+      "links": [
+        {
+          "text": "GEO 419",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/419/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 527 Inequalities in Urban Neighbourhoods",
+      "links": [
+        {
+          "text": "GEO 527",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/527/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 530 Urban Economic Geography",
+      "links": [
+        {
+          "text": "GEO 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 551 Urbanization and Regional Development",
+      "links": [
+        {
+          "text": "GEO 551",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/551/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 627 Accessibility of Urban Social Services",
+      "links": [
+        {
+          "text": "GEO 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 681 GIS and Geographic Analysis",
+      "links": [
+        {
+          "text": "GEO 681",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/681/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 691 Canadian Immigration: Patterns and Place",
+      "links": [
+        {
+          "text": "GEO 691",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/691/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Geographic Analysis"
+}

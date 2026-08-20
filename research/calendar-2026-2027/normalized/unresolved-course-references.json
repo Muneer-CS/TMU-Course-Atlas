@@ -1,0 +1,2768 @@
+{
+  "calendar_year": "2026-2027",
+  "record_count": 182,
+  "records": [
+    {
+      "code": "CLD 415",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Early Childhood Studies Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/early_child/table_ii/",
+          "text": "CLD 415* Concept Development in Science"
+        }
+      ]
+    },
+    {
+      "code": "CLD 419",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Early Childhood Studies Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/early_child/table_ii/",
+          "text": "CLD 419* Children and Technology"
+        }
+      ]
+    },
+    {
+      "code": "CLD 420",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Early Childhood Studies Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/early_child/table_ii/",
+          "text": "CLD 420* Children and Nature"
+        }
+      ]
+    },
+    {
+      "code": "CPS 100",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735"
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "* Course selection may not include CPS 513 or any CPS courses between CPS 100 and CPS 499."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Cyber Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 ."
+        },
+        {
+          "page": "Cyber Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 ."
+        },
+        {
+          "page": "Open Electives",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/",
+          "text": "Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735"
+        },
+        {
+          "page": "Open Electives",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/",
+          "text": "Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 ."
+        }
+      ]
+    },
+    {
+      "code": "CPS 499",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735"
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "* Course selection may not include CPS 513 or any CPS courses between CPS 100 and CPS 499."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735 ."
+        },
+        {
+          "page": "Cyber Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 ."
+        },
+        {
+          "page": "Cyber Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/",
+          "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 ."
+        },
+        {
+          "page": "Open Electives",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/",
+          "text": "Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735"
+        },
+        {
+          "page": "Open Electives",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/",
+          "text": "Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 ."
+        }
+      ]
+    },
+    {
+      "code": "CPS 513",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Computer Science",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/",
+          "text": "* Course selection may not include CPS 513 or any CPS courses between CPS 100 and CPS 499."
+        }
+      ]
+    },
+    {
+      "code": "CRI 400",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/",
+          "text": "CRI 400 Entrepreneurship in Creative Industries"
+        }
+      ]
+    },
+    {
+      "code": "CYC 601",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Social Innovation",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/social_innovation_minor/",
+          "text": "CYC 601 Social Research Methods"
+        }
+      ]
+    },
+    {
+      "code": "CYC 705",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Family Supports and Community Practice",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/family_minor/",
+          "text": "INT 900 Program Planning and Evaluation Strategies or CYC 705 Special Topics: Program Evaluation"
+        }
+      ]
+    },
+    {
+      "code": "ECN 505",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Accounting and Finance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        },
+        {
+          "page": "Business Management",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        }
+      ]
+    },
+    {
+      "code": "ECN 607",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Accounting and Finance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        },
+        {
+          "page": "Business Management",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "ECN 505, ECN 607 and SOC 501 are not available for credit."
+        }
+      ]
+    },
+    {
+      "code": "EDZ 100",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Optional Specialization in Zone Learning",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/zone_learning/",
+          "text": "EDZ 100 Entrepreneurial ZONE Participant"
+        },
+        {
+          "page": "Optional Specialization in Zone Learning",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/zone_learning/",
+          "text": "Within the structure of the course there is scope for preparation, development and application activities for student teams working on innovative ideas with an entrepreneurial approach. The umbrella course (CEDZ 100) also allows participation of all Faculties and cross-fertilization and partnerships amongst them."
+        }
+      ]
+    },
+    {
+      "code": "ELE 724",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Computer Engineering Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_i/",
+          "text": "ELE 724 CMOS Mixed-Mode Circuits and Systems"
+        }
+      ]
+    },
+    {
+      "code": "ENG 377",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Aerospace Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/aerospace/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Biomedical Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Civil Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/civil/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Computer Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Electrical Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/electrical/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Industrial Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/industrial/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Mechanical Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/mechanical/",
+          "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261."
+        },
+        {
+          "page": "Mechatronics Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/mechatronics-engineering/",
+          "text": "A PASS in CEN 199 : Writing Skills is required to enrol in all third-year engineering courses. Students with a grade of INP in CEN 199 will not be allowed to enrol in any third-year engineering course. Detailed information is available from the First-Year Engineering Office, Room ENG 377 Telephone: 416-979-5000 ext. 554261."
+        },
+        {
+          "page": "Undeclared Engineering (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/undeclared_eng/",
+          "text": "Detailed information is available from the First-Year Engineering Office. Room ENG 377 Telephone: 416-979-5000 ext. 554261."
+        }
+      ]
+    },
+    {
+      "code": "ENG 408",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Global Narratives",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/global_narratives_minor/",
+          "text": "ENG 408 World Literatures"
+        }
+      ]
+    },
+    {
+      "code": "ENG 603",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Addenda and Errata",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/",
+          "text": "The Minor in Economics has been corrected to remove ENG 603 from the list of elective courses."
+        }
+      ]
+    },
+    {
+      "code": "FCD 204",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "News Studies",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/news_studies_minor/",
+          "text": "FCD 204 Data Visualization"
+        }
+      ]
+    },
+    {
+      "code": "FCD 580",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Image Arts Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_i/",
+          "text": "FCD 580 Project in Creative Technology"
+        },
+        {
+          "page": "New Media Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/",
+          "text": "FCD 580 Project in Creative Technology"
+        },
+        {
+          "page": "The Creative School Core Elective Table",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/core_elective_table/",
+          "text": "FCD 580 Project in Creative Technology"
+        }
+      ]
+    },
+    {
+      "code": "FCD 842",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "News Studies",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/news_studies_minor/",
+          "text": "FCD 842 Building a Media Brand"
+        }
+      ]
+    },
+    {
+      "code": "FPN 519",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Image Arts Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_i/",
+          "text": "FPN 519 Soundscapes and Sonic Environments"
+        }
+      ]
+    },
+    {
+      "code": "FPN 700",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Image Arts Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_i/",
+          "text": "FPN 700 Visual Effects for Film II"
+        },
+        {
+          "page": "Photography Media Arts Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/photomedia_table_i/",
+          "text": "FPN 700 Visual Effects for Film II"
+        }
+      ]
+    },
+    {
+      "code": "FRE 508",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 508 Intro to 20th C French Literature I"
+        }
+      ]
+    },
+    {
+      "code": "FRE 509",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 509 Franco-Canadian Literature I"
+        }
+      ]
+    },
+    {
+      "code": "FRE 516",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 516 Politics and Play in French Poetry"
+        }
+      ]
+    },
+    {
+      "code": "FRE 703",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "Students admitted Fall 2024 and before: Performance: Acting/Dance Majors : Students may not take FRE 703 and FRE 803 for credit. Performance Production Majors: Students may take a maximum of two MUS courses for credit."
+        },
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "Students admitted Fall 2025 and after: Performance: Acting and Performance: Dance Majors: Students may not take FRE 703 and FRE 803 for credit. Performance: Design and Production Majors: Students may take a maximum of two MUS courses for credit."
+        },
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 703 French Theatre: Classicism to Romanticism"
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "Students admitted Fall 2024 and before: Performance: Acting/Dance Majors : Students may not take FRE 703 and FRE 803 for credit. Performance Production Majors: Students may take a maximum of two MUS courses for credit."
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "Students admitted Fall 2025 and after: Performance: Acting and Performance: Dance Majors: Students may not take FRE 703 and FRE 803 for credit. Performance: Design and Production Majors: Students may take a maximum of two MUS courses for credit."
+        }
+      ]
+    },
+    {
+      "code": "FRE 803",
+      "classification": "restriction_reference_missing_from_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "Students admitted Fall 2024 and before: Performance: Acting/Dance Majors : Students may not take FRE 703 and FRE 803 for credit. Performance Production Majors: Students may take a maximum of two MUS courses for credit."
+        },
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "Students admitted Fall 2025 and after: Performance: Acting and Performance: Dance Majors: Students may not take FRE 703 and FRE 803 for credit. Performance: Design and Production Majors: Students may take a maximum of two MUS courses for credit."
+        },
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 803 French Theatre: 20th C and Contemporary"
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "Students admitted Fall 2024 and before: Performance: Acting/Dance Majors : Students may not take FRE 703 and FRE 803 for credit. Performance Production Majors: Students may take a maximum of two MUS courses for credit."
+        },
+        {
+          "page": "Upper Level Liberal Studies Table B",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/",
+          "text": "Students admitted Fall 2025 and after: Performance: Acting and Performance: Dance Majors: Students may not take FRE 703 and FRE 803 for credit. Performance: Design and Production Majors: Students may take a maximum of two MUS courses for credit."
+        }
+      ]
+    },
+    {
+      "code": "FRE 804",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 804 Intro to Franco-Canadian Culture II"
+        }
+      ]
+    },
+    {
+      "code": "FRE 902",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "FRE 902 Gender and Decadence 1850-1920"
+        }
+      ]
+    },
+    {
+      "code": "FRS 606",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Middle East and North Africa (MENA) Studies",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/mena_studies_minor/",
+          "text": "FRS 606 Franco Literature: Middle East, North Africa (taught in English)"
+        }
+      ]
+    },
+    {
+      "code": "GEO 326",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "GEO 326 The Geography of Early Hominins"
+        }
+      ]
+    },
+    {
+      "code": "GEO 372",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "GEO 372 Global Shift in the 21st Century"
+        }
+      ]
+    },
+    {
+      "code": "HIS 100",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "Criminology and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+          "text": "have successfully completed CRM 100 and HIS 101 . It is strongly recommended that students also complete CRM 102 and one HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "English and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+          "text": "have successfully completed ENG 110 and HIS 101 . It is strongly recommended that students also complete ENG 208 and one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "History and Philosophy Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+          "text": "have successfully completed HIS 101 and PHL 102 . It is strongly recommended that students also complete one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 and one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 or PHL 406 in first year."
+        },
+        {
+          "page": "History and Politics and Governance Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+          "text": "In order to transfer to History and Politics & Governance from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Politics and Governance, Language and Intercultural Relations, Philosophy, Psychology, or Sociology, students must: 1. have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and 2. have successfully completed POG 100 or POG 110 and HIS 101 . It is strongly recommended that students also complete one additional POG course from Table I and one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year. 3. HST courses may be substituted for HIS courses with departmental approval."
+        },
+        {
+          "page": "History and Sociology Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+          "text": "In order to transfer to the History and Sociology Double Major from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology, or Sociology, students must: 1. have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and 2. have successfully completed HIS 101 and SOC 105 . It is strongly recommended that students also complete SOC 107 and one HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "have successfully completed HIS 101 . It is strongly recommended that students also complete one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 or HIS 490 in first year."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed CRM 100 and HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). HST courses may be substituted for HIS courses with departmental approval. Students are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed ENG 110 and one HIS course numbered between HIS 100 and HIS 399 (or one of HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that, in first year, students complete both ENG 110 and ENG 208 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). (HST courses may be substituted for HIS courses with departmental approval.)"
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed one HIS course from among the courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). in first year. (HST courses may be substituted for HIS courses with department approval.)"
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed one HIS course (completion of two is recommended) numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 , or HIS 490 , as well as PHL 102 . HST courses may be substituted for HIS courses with departmental approval. It is strongly recommended that in first year, students also complete one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 , or PHL 406 ."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed one HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ) as well as POG 100 or POG 110 . It is strongly recommended that students complete, in first year, It is strongly recommended that, in first year, students complete two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ) as well as POG 100 and POG 110 . HST courses may be substituted for HIS courses with departmental approval."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed SOC 105 and one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . It is strongly recommended that students complete, in first year, both SOC 105 and SOC 107 , and two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . HST courses may be substituted for HIS courses with departmental approval."
+        },
+        {
+          "page": "History Required Group 2 - Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/table_i/",
+          "text": "HIS courses numbered between HIS 100 and HIS 399 or HIS 461 , HIS 462 , HIS 475 , and HIS 490 are not available as a choice in Table I."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed CRM 100 or CRM 102 and HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 )."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "have successfully completed ENG 110 and HIS 101 . It is strongly recommended that students also complete ENG 208 and one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "have successfully completed HIS 101 . It is strongly recommended that students also complete one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 or HIS 490 in first year."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed one HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 or HIS 490 as well as one of PHL 101 , PHL 201 , PHL 333 , or PHL 366 . It is strongly recommended that students complete, in first year, two HIS courses numbered between HIS 100 and HIS 399 or HIS 461 , HIS 462 and HIS 490 as well as two of PHL 101 , PHL 201 , PHL 333 , and PHL 366 ."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 , as well as POG 100 or POG 110 . It is strongly recommended that, in first year, students complete two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 , as well as POG 100 and POG 110 ."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed SOC 105 and one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . It is strongly recommended that students complete, in first year, both SOC 105 and SOC 107 , and two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 ."
+        }
+      ]
+    },
+    {
+      "code": "HIS 238",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 238 Canada to 1885: Creating a Nation"
+        }
+      ]
+    },
+    {
+      "code": "HIS 248",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 248 American History to 1877"
+        }
+      ]
+    },
+    {
+      "code": "HIS 279",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 279 Europe, 1715-1870"
+        }
+      ]
+    },
+    {
+      "code": "HIS 338",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 338 Canada since 1885: Defining a Nation"
+        }
+      ]
+    },
+    {
+      "code": "HIS 377",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 377 Europe, 1350-1715"
+        }
+      ]
+    },
+    {
+      "code": "HIS 379",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 379 Europe, 1870-Present"
+        }
+      ]
+    },
+    {
+      "code": "HIS 399",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "Criminology and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+          "text": "have successfully completed CRM 100 and HIS 101 . It is strongly recommended that students also complete CRM 102 and one HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "English and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+          "text": "have successfully completed ENG 110 and HIS 101 . It is strongly recommended that students also complete ENG 208 and one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "History and Philosophy Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+          "text": "have successfully completed HIS 101 and PHL 102 . It is strongly recommended that students also complete one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 and one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 or PHL 406 in first year."
+        },
+        {
+          "page": "History and Politics and Governance Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+          "text": "In order to transfer to History and Politics & Governance from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Politics and Governance, Language and Intercultural Relations, Philosophy, Psychology, or Sociology, students must: 1. have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and 2. have successfully completed POG 100 or POG 110 and HIS 101 . It is strongly recommended that students also complete one additional POG course from Table I and one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year. 3. HST courses may be substituted for HIS courses with departmental approval."
+        },
+        {
+          "page": "History and Sociology Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+          "text": "In order to transfer to the History and Sociology Double Major from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology, or Sociology, students must: 1. have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and 2. have successfully completed HIS 101 and SOC 105 . It is strongly recommended that students also complete SOC 107 and one HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "have successfully completed HIS 101 . It is strongly recommended that students also complete one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 or HIS 490 in first year."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed CRM 100 and HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). HST courses may be substituted for HIS courses with departmental approval. Students are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed ENG 110 and one HIS course numbered between HIS 100 and HIS 399 (or one of HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that, in first year, students complete both ENG 110 and ENG 208 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). (HST courses may be substituted for HIS courses with departmental approval.)"
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed one HIS course from among the courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). in first year. (HST courses may be substituted for HIS courses with department approval.)"
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed one HIS course (completion of two is recommended) numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 , or HIS 490 , as well as PHL 102 . HST courses may be substituted for HIS courses with departmental approval. It is strongly recommended that in first year, students also complete one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 , or PHL 406 ."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed one HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ) as well as POG 100 or POG 110 . It is strongly recommended that students complete, in first year, It is strongly recommended that, in first year, students complete two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ) as well as POG 100 and POG 110 . HST courses may be substituted for HIS courses with departmental approval."
+        },
+        {
+          "page": "Undeclared Arts (First Year Studies Only)",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+          "text": "Students must have successfully completed SOC 105 and one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . It is strongly recommended that students complete, in first year, both SOC 105 and SOC 107 , and two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . HST courses may be substituted for HIS courses with departmental approval."
+        },
+        {
+          "page": "History Required Group 2 - Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/table_i/",
+          "text": "HIS courses numbered between HIS 100 and HIS 399 or HIS 461 , HIS 462 , HIS 475 , and HIS 490 are not available as a choice in Table I."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed CRM 100 or CRM 102 and HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 )."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "have successfully completed ENG 110 and HIS 101 . It is strongly recommended that students also complete ENG 208 and one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 and HIS 490 in first year."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "have successfully completed HIS 101 . It is strongly recommended that students also complete one additional HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 , HIS 475 or HIS 490 in first year."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed one HIS course numbered between HIS 100 and HIS 399 or one of HIS 461 , HIS 462 or HIS 490 as well as one of PHL 101 , PHL 201 , PHL 333 , or PHL 366 . It is strongly recommended that students complete, in first year, two HIS courses numbered between HIS 100 and HIS 399 or HIS 461 , HIS 462 and HIS 490 as well as two of PHL 101 , PHL 201 , PHL 333 , and PHL 366 ."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 , as well as POG 100 or POG 110 . It is strongly recommended that, in first year, students complete two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 , as well as POG 100 and POG 110 ."
+        },
+        {
+          "page": "Undeclared Arts Transferability Guidelines",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/",
+          "text": "must have successfully completed SOC 105 and one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . It is strongly recommended that students complete, in first year, both SOC 105 and SOC 107 , and two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 ."
+        }
+      ]
+    },
+    {
+      "code": "HIS 594",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 594 War to War: World Conflict, 1900-45"
+        }
+      ]
+    },
+    {
+      "code": "HIS 683",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 683 Victorian Britain"
+        }
+      ]
+    },
+    {
+      "code": "HIS 783",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HIS 783 20th-Century Britain"
+        }
+      ]
+    },
+    {
+      "code": "HST 100",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "Criminology and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "Criminology and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "English and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "English and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Philosophy Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Philosophy Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Politics and Governance Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Politics and Governance Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Sociology Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Sociology Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/history_minor/",
+          "text": "* Up to two HST courses (from HST 100 to HST 499) may be used in place of the two HIS courses in this group."
+        },
+        {
+          "page": "History Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/table_ii/",
+          "text": "A maximum of three from the following: liberal studies HST courses (numbered between HST 100-899) may be substituted."
+        }
+      ]
+    },
+    {
+      "code": "HST 425",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HST 425† History of Science and Technology II"
+        },
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HST 425 History of Science and Technology II"
+        }
+      ]
+    },
+    {
+      "code": "HST 499",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Criminology and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "Criminology and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "English and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "English and History Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Philosophy Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Philosophy Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Politics and Governance Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Politics and Governance Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Sociology Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History and Sociology Double Major",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/",
+          "text": "Any two HST courses numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/",
+          "text": "Any HST course numbered between HST 100 and HST 499*"
+        },
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/history_minor/",
+          "text": "* Up to two HST courses (from HST 100 to HST 499) may be used in place of the two HIS courses in this group."
+        }
+      ]
+    },
+    {
+      "code": "HST 500",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/history_minor/",
+          "text": "† Maximum of one HST courses (from HST 500 to HST 899) may be used in place of an HIS course in this group."
+        },
+        {
+          "page": "History Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/table_ii/",
+          "text": "A minimum of seven from the following: HST courses (numbered between HST 500-899) may be substituted."
+        }
+      ]
+    },
+    {
+      "code": "HST 651",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HST 651 Problems in 20th-Century Eastern Europe"
+        }
+      ]
+    },
+    {
+      "code": "HST 657",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HST 657 Culture/Politics of Difference in the U.S."
+        },
+        {
+          "page": "Arts and Contemporary Studies Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/",
+          "text": "HST 657 Culture/Politics of Difference in the U.S."
+        }
+      ]
+    },
+    {
+      "code": "HST 899",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "History",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/history_minor/",
+          "text": "† Maximum of one HST courses (from HST 500 to HST 899) may be used in place of an HIS course in this group."
+        }
+      ]
+    },
+    {
+      "code": "HTT 150",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Tourism",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/tourism_minor/",
+          "text": "HTT 100 Tourism Experiences Management or HTT 150 Tourism Demand, Supply and Distribution"
+        }
+      ]
+    },
+    {
+      "code": "MUS 303",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Music Elective Table IV",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/",
+          "text": "MUS 303 Global Guitar"
+        }
+      ]
+    },
+    {
+      "code": "MWF 109",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "A CGPA of 2.33 or higher, And ‘C-’ or above in Midwifery Required Courses: ● MWF 11A/B ● MWF 108 ● MWF 109 or MWF 115 ● MWF 113 ● MWF 114 ● MWF 201 ● MWF 315 ● BLG 10A/B or BLG 101 and BLG 111"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "‘C-’ or above in Midwifery Required Courses: ● MWF 11A/B ● MWF 108 ● MWF 109 or MWF 115 ● MWF 113 ● MWF 114 ● MWF 201 ● MWF 315 ● BLG 10A/B or BLG 101 and BLG 111 And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345"
+        }
+      ]
+    },
+    {
+      "code": "MWF 120",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "Students in the full-time and part-time programs must complete all first, second and third semester non-clinical courses before proceeding to the first clinical placement, MWF 120 or MWF 121 . Part-time students may complete the first, second and third semester non-clinical courses on a part-time basis. The sequence of courses and course load are arranged individually. Upon entering MWF 120 or MWF 121 , full-time participation will be necessary for all students for the duration of the program."
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "The maximum length of time to complete the program is seven years from the first admission to the Full-Time, Four-Year Program or the Part-Time, First-Year Entry Program or within five years of the first admission to the Full-Time, Post-Baccalaureate Program for Health Professionals. Please note the Full-Time, Four-Year Program or the Part-Time, First-Year Entry Program must be completed within 4 years of completing the first clinical placement, MWF 120 or MWF 121 ."
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "The Post-Baccalaureate Program for Health Professionals is offered on a full-time basis only. Post-Baccalaureate students must complete all first semester non-clinical courses before proceeding to the first clinical placement, MWF 120 or MWF 121 . Please note: The clinical placement term is completed in the subsequent term following the successful completion of the \"A\" portion of a multi-term course (as the final graded component in that course)."
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 350 or MWF 123 ● MWF 320 ● MWF 410 ● MWF 420"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 320 ● MWF 41A/B ● MWF 42A/B"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B"
+        }
+      ]
+    },
+    {
+      "code": "MWF 220",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 350 or MWF 123 ● MWF 320 ● MWF 410 ● MWF 420"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 320 ● MWF 41A/B ● MWF 42A/B"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B"
+        }
+      ]
+    },
+    {
+      "code": "MWF 250",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 350 or MWF 123 ● MWF 320 ● MWF 410 ● MWF 420"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 150 MWF 250 or MWF 251 and MWF 252 MWF 344 MWF 345"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 320 ● MWF 41A/B ● MWF 42A/B"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 150 MWF 250 or MWF 251 and MWF 252 MWF 344 MWF 345"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "‘C-’ or above in Midwifery Required Courses: ● MWF 11A/B ● MWF 108 ● MWF 109 or MWF 115 ● MWF 113 ● MWF 114 ● MWF 201 ● MWF 315 ● BLG 10A/B or BLG 101 and BLG 111 And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "‘C-’ or above in Midwifery required courses: ● MWF 114 ● MWF 155 ● MWF 201 ● MWF 315 And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 252 ● MWF 344 ● MWF 345"
+        }
+      ]
+    },
+    {
+      "code": "MWF 350",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 350 or MWF 123 ● MWF 320 ● MWF 410 ● MWF 420"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B"
+        },
+        {
+          "page": "Midwifery",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+          "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B"
+        }
+      ]
+    },
+    {
+      "code": "NCL 700",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Nursing - Post-Diploma Degree Completion",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_post-diploma/",
+          "text": "Students who are RNs can challenge NCL 800 - Nursing Practice II if they have a current/valid RN/NP 'Canadian Nurses Association Certification' or they have successfully completed the Clinical Fellowship Program with the RNAO within the past five years. Students must submit a Challenge Credit application form and fee and the appropriate documentation at the beginning of the term that they are completing NCL 700 . Visit the Daphne Cockwell School of Nursing, opens in new window for more information."
+        }
+      ]
+    },
+    {
+      "code": "NCL 800",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Nursing - Post-Diploma Degree Completion",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_post-diploma/",
+          "text": "Students who are RNs can challenge NCL 800 - Nursing Practice II if they have a current/valid RN/NP 'Canadian Nurses Association Certification' or they have successfully completed the Clinical Fellowship Program with the RNAO within the past five years. Students must submit a Challenge Credit application form and fee and the appropriate documentation at the beginning of the term that they are completing NCL 700 . Visit the Daphne Cockwell School of Nursing, opens in new window for more information."
+        }
+      ]
+    },
+    {
+      "code": "NMA 929",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "NMA 929"
+        }
+      ]
+    },
+    {
+      "code": "NMA 968",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "Media Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+          "text": "NMA 968 Emerging New Media Practices"
+        },
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "NMA 968"
+        }
+      ]
+    },
+    {
+      "code": "NPF 504",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 504 Technology, Culture and Communication"
+        }
+      ]
+    },
+    {
+      "code": "NPF 506",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 506 Art and Modernism"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 506 Art and Modernism"
+        }
+      ]
+    },
+    {
+      "code": "NPF 548",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 548 Modern Movements/Issues in Photography"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 548 Modern Movements/Issues in Photography"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 548 Modern Movements/Issues in Photography"
+        }
+      ]
+    },
+    {
+      "code": "NPF 553",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 553 Advanced Topics in Modern Art and Cinema"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 553 Advanced Topics in Modern Art and Cinema"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 553 Advanced Topics in Modern Art and Cinema"
+        }
+      ]
+    },
+    {
+      "code": "NPF 557",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 557 Topics in Film"
+        }
+      ]
+    },
+    {
+      "code": "NPF 560",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 560 Advanced Topics in Film"
+        }
+      ]
+    },
+    {
+      "code": "NPF 604",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Visual Studies",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/visual_minor/",
+          "text": "NPF 604 Screen Practices"
+        }
+      ]
+    },
+    {
+      "code": "NPF 606",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 606 Contemporary Art Theory"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 606 Contemporary Art Theory"
+        },
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 606 Contemporary Art Theory"
+        }
+      ]
+    },
+    {
+      "code": "NPF 607",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "NPF 607 Cultural Studies"
+        }
+      ]
+    },
+    {
+      "code": "PHL 334",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Ethics",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/ethics_minor/",
+          "text": "PHL 334 Ethics in Professional Life"
+        }
+      ]
+    },
+    {
+      "code": "PHL 444",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Ethics",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/ethics_minor/",
+          "text": "PHL 444 Ethics in Health Services Management"
+        }
+      ]
+    },
+    {
+      "code": "PHL 530",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Ethics",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/ethics_minor/",
+          "text": "PHL 530 Media Ethics"
+        }
+      ]
+    },
+    {
+      "code": "PHL 602",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Ethics",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/ethics_minor/",
+          "text": "PHL 602 Health Policy: Ethics and Justice"
+        }
+      ]
+    },
+    {
+      "code": "POG 300",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "REQUIRED GROUP 2: Three POG courses at the 300-level and/or 400-level (i.e., POG 300–399 and/or POG 400–499)."
+        }
+      ]
+    },
+    {
+      "code": "POG 319",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 319, PPA 533"
+        }
+      ]
+    },
+    {
+      "code": "POG 400",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "REQUIRED GROUP 2: Three POG courses at the 300-level and/or 400-level (i.e., POG 300–399 and/or POG 400–499)."
+        },
+        {
+          "page": "Politics and Governance Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/table_ii/",
+          "text": "Students must complete 14 courses from Table II. All Politics and Governance students: A minimum of 5 of these must be at the 400-level (i.e. POG 400-499)."
+        }
+      ]
+    },
+    {
+      "code": "POG 413",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 413, PPA 633"
+        }
+      ]
+    },
+    {
+      "code": "POL 122",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POL 122"
+        }
+      ]
+    },
+    {
+      "code": "POL 210",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Child and Youth Care Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/table_ii/",
+          "text": "POG 317 Education Politics and Policy (prereq of POL 210)"
+        }
+      ]
+    },
+    {
+      "code": "POL 302",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POL 332, POG 210 , POL 302"
+        }
+      ]
+    },
+    {
+      "code": "POL 332",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POL 332, POG 210 , POL 302"
+        }
+      ]
+    },
+    {
+      "code": "POL 440",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 440 , POL 440"
+        }
+      ]
+    },
+    {
+      "code": "PPA 322",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 322"
+        }
+      ]
+    },
+    {
+      "code": "PPA 422",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 422"
+        }
+      ]
+    },
+    {
+      "code": "PPA 521",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 315 , PPA 521"
+        }
+      ]
+    },
+    {
+      "code": "PPA 522",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 310 , PPA 522"
+        }
+      ]
+    },
+    {
+      "code": "PPA 524",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 230 , PPA 524"
+        }
+      ]
+    },
+    {
+      "code": "PPA 525",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 525"
+        }
+      ]
+    },
+    {
+      "code": "PPA 533",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 319, PPA 533"
+        }
+      ]
+    },
+    {
+      "code": "PPA 600",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 600"
+        }
+      ]
+    },
+    {
+      "code": "PPA 601",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 601"
+        }
+      ]
+    },
+    {
+      "code": "PPA 602",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 602"
+        }
+      ]
+    },
+    {
+      "code": "PPA 603",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 603"
+        }
+      ]
+    },
+    {
+      "code": "PPA 604",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 604"
+        }
+      ]
+    },
+    {
+      "code": "PPA 623",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 623"
+        }
+      ]
+    },
+    {
+      "code": "PPA 624",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 624"
+        }
+      ]
+    },
+    {
+      "code": "PPA 629",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 629"
+        }
+      ]
+    },
+    {
+      "code": "PPA 633",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "POG 413, PPA 633"
+        }
+      ]
+    },
+    {
+      "code": "PPA 650",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 650"
+        }
+      ]
+    },
+    {
+      "code": "PPA 700",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 700"
+        }
+      ]
+    },
+    {
+      "code": "PPA 701",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 701"
+        }
+      ]
+    },
+    {
+      "code": "PPA 702",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 702"
+        }
+      ]
+    },
+    {
+      "code": "PPA 703",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 703"
+        }
+      ]
+    },
+    {
+      "code": "PPA 704",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 704"
+        }
+      ]
+    },
+    {
+      "code": "PPA 705",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Public Administration and Governance",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/public_admin/",
+          "text": "PPA 705"
+        }
+      ]
+    },
+    {
+      "code": "RTA 107",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 107"
+        }
+      ]
+    },
+    {
+      "code": "RTA 111",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 111"
+        }
+      ]
+    },
+    {
+      "code": "RTA 120",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 120"
+        }
+      ]
+    },
+    {
+      "code": "RTA 201",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 201"
+        }
+      ]
+    },
+    {
+      "code": "RTA 220",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 220"
+        }
+      ]
+    },
+    {
+      "code": "RTA 221",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 221"
+        }
+      ]
+    },
+    {
+      "code": "RTA 222",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 222"
+        }
+      ]
+    },
+    {
+      "code": "RTA 223",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 223"
+        }
+      ]
+    },
+    {
+      "code": "RTA 320",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 320"
+        }
+      ]
+    },
+    {
+      "code": "RTA 321",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 321"
+        }
+      ]
+    },
+    {
+      "code": "RTA 322",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 322"
+        }
+      ]
+    },
+    {
+      "code": "RTA 323",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 323"
+        }
+      ]
+    },
+    {
+      "code": "RTA 501",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 501"
+        }
+      ]
+    },
+    {
+      "code": "RTA 520",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 520"
+        }
+      ]
+    },
+    {
+      "code": "RTA 521",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 521"
+        }
+      ]
+    },
+    {
+      "code": "RTA 807",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 807"
+        }
+      ]
+    },
+    {
+      "code": "RTA 814",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 814"
+        }
+      ]
+    },
+    {
+      "code": "RTA 818",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 818"
+        }
+      ]
+    },
+    {
+      "code": "RTA 820",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 820"
+        }
+      ]
+    },
+    {
+      "code": "RTA 821",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 821"
+        }
+      ]
+    },
+    {
+      "code": "RTA 822",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 822"
+        }
+      ]
+    },
+    {
+      "code": "RTA 824",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 824"
+        }
+      ]
+    },
+    {
+      "code": "RTA 825",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 825"
+        }
+      ]
+    },
+    {
+      "code": "RTA 828",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 828"
+        }
+      ]
+    },
+    {
+      "code": "RTA 830",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 830"
+        }
+      ]
+    },
+    {
+      "code": "RTA 832",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 832"
+        }
+      ]
+    },
+    {
+      "code": "RTA 835",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 835"
+        }
+      ]
+    },
+    {
+      "code": "RTA 838",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 838"
+        }
+      ]
+    },
+    {
+      "code": "RTA 842",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 842"
+        }
+      ]
+    },
+    {
+      "code": "RTA 856",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 856"
+        }
+      ]
+    },
+    {
+      "code": "RTA 867",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 867"
+        }
+      ]
+    },
+    {
+      "code": "RTA 886",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 886"
+        }
+      ]
+    },
+    {
+      "code": "RTA 891",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 891"
+        }
+      ]
+    },
+    {
+      "code": "RTA 893",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Media Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/",
+          "text": "RTA 893 Social Justice Media: Innovators, Creators"
+        }
+      ]
+    },
+    {
+      "code": "RTA 903",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Media Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+          "text": "RTA 903* News and Current Affairs Theory"
+        },
+        {
+          "page": "Media Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+          "text": "*RTA 903 and RTA 940 are not intended to be offered in 2026-2027. Students pursuing the Concentration in Critical Media Theory who have not taken RTA 903 and/or RTA 940 will not be able to complete the concentration in 2026-2027."
+        },
+        {
+          "page": "Media Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/",
+          "text": "RTA 903 News and Current Affairs Theory"
+        },
+        {
+          "page": "Media Production Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/",
+          "text": "RTA 903* News and Current Affairs Theory"
+        },
+        {
+          "page": "Media Production Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/",
+          "text": "*RTA 903 and RTA 940 are not intended to be offered in 2026-2027. Students pursuing the Concentration in Critical Media Theory who have not taken RTA 903 and/or RTA 940 will not be able to complete the concentration in 2026-2027."
+        }
+      ]
+    },
+    {
+      "code": "RTA 905",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "Addenda and Errata",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/",
+          "text": "The course description of BPM 905 has been revised to indicate that the course was formerly RTA 905."
+        }
+      ]
+    },
+    {
+      "code": "RTA 906",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Media Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/",
+          "text": "RTA 906 Marketing for Media Professionals"
+        }
+      ]
+    },
+    {
+      "code": "RTA 913",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Business Core Elective Table V",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_v/",
+          "text": "RTA 913 Media Entrepreneurship"
+        }
+      ]
+    },
+    {
+      "code": "RTA 925",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 925"
+        }
+      ]
+    },
+    {
+      "code": "RTA 928",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 928"
+        }
+      ]
+    },
+    {
+      "code": "RTA 929",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 929"
+        }
+      ]
+    },
+    {
+      "code": "RTA 933",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 933"
+        }
+      ]
+    },
+    {
+      "code": "RTA 934",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 934"
+        }
+      ]
+    },
+    {
+      "code": "RTA 936",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 936"
+        }
+      ]
+    },
+    {
+      "code": "RTA 939",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 939"
+        }
+      ]
+    },
+    {
+      "code": "RTA 940",
+      "classification": "range_boundary_or_level_example",
+      "occurrences": [
+        {
+          "page": "Media Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+          "text": "RTA 940* Canadian Televisual Studies"
+        },
+        {
+          "page": "Media Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/",
+          "text": "*RTA 903 and RTA 940 are not intended to be offered in 2026-2027. Students pursuing the Concentration in Critical Media Theory who have not taken RTA 903 and/or RTA 940 will not be able to complete the concentration in 2026-2027."
+        },
+        {
+          "page": "Media Production Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/",
+          "text": "RTA 940* Canadian Televisual Studies"
+        },
+        {
+          "page": "Media Production Core Elective Table I",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/",
+          "text": "*RTA 903 and RTA 940 are not intended to be offered in 2026-2027. Students pursuing the Concentration in Critical Media Theory who have not taken RTA 903 and/or RTA 940 will not be able to complete the concentration in 2026-2027."
+        }
+      ]
+    },
+    {
+      "code": "RTA 946",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 946"
+        }
+      ]
+    },
+    {
+      "code": "RTA 948",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 948"
+        }
+      ]
+    },
+    {
+      "code": "RTA 953",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 953"
+        }
+      ]
+    },
+    {
+      "code": "RTA 954",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 954"
+        }
+      ]
+    },
+    {
+      "code": "RTA 958",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 958"
+        }
+      ]
+    },
+    {
+      "code": "RTA 962",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 962"
+        }
+      ]
+    },
+    {
+      "code": "RTA 965",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 965"
+        }
+      ]
+    },
+    {
+      "code": "RTA 968",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 968"
+        }
+      ]
+    },
+    {
+      "code": "RTA 997",
+      "classification": "historical_or_equivalent_reference",
+      "occurrences": [
+        {
+          "page": "RTA-NMA Course Code Conversion Chart",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+          "text": "RTA 997"
+        }
+      ]
+    },
+    {
+      "code": "SOC 302",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Addenda and Errata",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/",
+          "text": "The Minor in Sociology has been corrected to remove SOC 302 from the list of elective courses."
+        }
+      ]
+    },
+    {
+      "code": "THA 100",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THA 100 Fundamentals of Tech I: Acting"
+        }
+      ]
+    },
+    {
+      "code": "THA 101",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THA 101 Fundamentals of Tech II: Acting"
+        }
+      ]
+    },
+    {
+      "code": "THA 200",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THA 200 Intermediary Tech I: Acting"
+        }
+      ]
+    },
+    {
+      "code": "THA 201",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THA 201 Intermediary Tech II: Acting"
+        }
+      ]
+    },
+    {
+      "code": "THD 100",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THD 100 Fundamentals of Tech I: Dance"
+        }
+      ]
+    },
+    {
+      "code": "THD 101",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THD 101 Fundamentals of Tech II: Dance"
+        }
+      ]
+    },
+    {
+      "code": "THD 200",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THD 200 Intermediary Tech I: Dance"
+        }
+      ]
+    },
+    {
+      "code": "THD 201",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THD 201 Intermediary Tech II: Dance"
+        }
+      ]
+    },
+    {
+      "code": "THF 101",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "THF 101 Elements of Production I"
+        },
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THF 101 Elements of Production I"
+        }
+      ]
+    },
+    {
+      "code": "THF 102",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THF 102 Elements of Production II"
+        }
+      ]
+    },
+    {
+      "code": "THF 200",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "THF 200 Timelines of Performance History I"
+        },
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THF 200 Timelines of Performance History I"
+        }
+      ]
+    },
+    {
+      "code": "THF 201",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "THF 201 Timelines of Performance History II"
+        },
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THF 201 Timelines of Performance History II\\"
+        }
+      ]
+    },
+    {
+      "code": "THF 316",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Professionally-Related Table II- Performance Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/production_table_ii/",
+          "text": "THF 316 The Global Stage"
+        }
+      ]
+    },
+    {
+      "code": "THF 403",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Creative Industries Core Elective Table II",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/",
+          "text": "THF 403 Landmarks in Canadian Theatre"
+        }
+      ]
+    },
+    {
+      "code": "THM 200",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THM 200 Production Communication I"
+        }
+      ]
+    },
+    {
+      "code": "THM 300",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THM 300 Production Communication II"
+        }
+      ]
+    },
+    {
+      "code": "THP 101",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THP 101 Production Technique I"
+        }
+      ]
+    },
+    {
+      "code": "THP 102",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THP 102 Production Technique II"
+        },
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THP 102 Production Technique II"
+        }
+      ]
+    },
+    {
+      "code": "THP 201",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THP 201 Production Technique III"
+        }
+      ]
+    },
+    {
+      "code": "THP 202",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Performance: Acting/Dance/Design and Production",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/",
+          "text": "THP 202 Production Technique IV"
+        },
+        {
+          "page": "Performance Elective Table III",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/",
+          "text": "THP 202 Production Technique IV"
+        }
+      ]
+    },
+    {
+      "code": "WKT 238",
+      "classification": "published_reference_missing_from_course_catalog",
+      "occurrences": [
+        {
+          "page": "Mechatronics Engineering",
+          "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/mechatronics-engineering/",
+          "text": "Work Term III or IV WKT 238 or WKT 428"
+        }
+      ]
+    }
+  ]
+}

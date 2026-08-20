@@ -1,0 +1,459 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/visual_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "2cf0b716fc4c878257c8ebc584380acc646336de3930cc8293639cec1afde14c",
+  "source_bytes": 55171,
+  "title": "Minor in Visual Studies",
+  "headings": [
+    "Minor in Visual Studies"
+  ],
+  "course_codes_referenced": [
+    "FCD 551",
+    "MPC 101",
+    "MPC 103",
+    "MPC 201",
+    "MPC 203",
+    "MPC 210",
+    "MPI 603",
+    "NPF 188",
+    "NPF 510",
+    "NPF 530",
+    "NPF 569",
+    "NPF 570",
+    "NPF 574",
+    "NPF 604",
+    "SEM 102"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Image Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+    },
+    {
+      "text": "New Media",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+    },
+    {
+      "text": "MPC 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/201/"
+    },
+    {
+      "text": "FCD 551",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/551/"
+    },
+    {
+      "text": "MPC 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/101/"
+    },
+    {
+      "text": "MPC 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/103/"
+    },
+    {
+      "text": "MPC 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/203/"
+    },
+    {
+      "text": "MPC 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/210/"
+    },
+    {
+      "text": "MPI 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/603/"
+    },
+    {
+      "text": "NPF 188",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/188/"
+    },
+    {
+      "text": "NPF 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/510/"
+    },
+    {
+      "text": "NPF 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/530/"
+    },
+    {
+      "text": "NPF 569",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/569/"
+    },
+    {
+      "text": "NPF 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/570/"
+    },
+    {
+      "text": "NPF 574",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/574/"
+    },
+    {
+      "text": "SEM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/102/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/visual_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Visual Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Visual Studies Minor is a lecture-based overview of the history and theories of this interdisciplinary field. Courses introduce students to the field by providing a solid foundation in visual culture, art history and contemporary theory. A broad range of current visual culture examples enhance learning and make the study relevant to everyday experiences. Students will explore the social, economic and cultural dimensions of the image-based world that surrounds us."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Image Arts"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Image Arts - all options",
+      "links": [
+        {
+          "text": "Image Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "New Media",
+      "links": [
+        {
+          "text": "New Media",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 201 Contemporary Art: Concepts and Theories",
+      "links": [
+        {
+          "text": "MPC 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 551 Digital Media and Networked Cultures",
+      "links": [
+        {
+          "text": "FCD 551",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/551/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 101 Intro to Compositional Design",
+      "links": [
+        {
+          "text": "MPC 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 103 Reframing Art History",
+      "links": [
+        {
+          "text": "MPC 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 203 Modern Art and Theory",
+      "links": [
+        {
+          "text": "MPC 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPC 210 Intro to Visual Culture",
+      "links": [
+        {
+          "text": "MPC 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPC/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MPI 603 Media Languages: Old and New Vocabularies",
+      "links": [
+        {
+          "text": "MPI 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/MPI/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 188 From Page to Screen",
+      "links": [
+        {
+          "text": "NPF 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/188/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 510 Media and the Environment",
+      "links": [
+        {
+          "text": "NPF 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 530 Electronic and Digital Art",
+      "links": [
+        {
+          "text": "NPF 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 569 Disaster Images: Memory and Response",
+      "links": [
+        {
+          "text": "NPF 569",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/569/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 570 Advertising and Consumer Culture",
+      "links": [
+        {
+          "text": "NPF 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 574 Indigenous Visual Culture in Canada",
+      "links": [
+        {
+          "text": "NPF 574",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/574/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 604 Screen Practices"
+    },
+    {
+      "kind": "list_item",
+      "text": "SEM 102 Introduction to Visual Semiotics",
+      "links": [
+        {
+          "text": "SEM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/semiotics/SEM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 (opens in new window) , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2 (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Visual Studies"
+}

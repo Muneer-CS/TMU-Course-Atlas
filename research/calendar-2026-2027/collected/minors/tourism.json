@@ -1,0 +1,415 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/tourism_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "bcc9e9abf3cfa21294eb22ace70ba5c49e1d1854588eaa18512e017a296f369c",
+  "source_bytes": 55258,
+  "title": "Minor in Tourism",
+  "headings": [
+    "Minor in Tourism"
+  ],
+  "course_codes_referenced": [
+    "CRB 100",
+    "GEO 631",
+    "HTH 700",
+    "HTI 746",
+    "HTL 503",
+    "HTT 100",
+    "HTT 150",
+    "HTT 501",
+    "HTT 509",
+    "HTT 510",
+    "HTT 605",
+    "HTT 607",
+    "HTT 622"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Hospitality and Tourism Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/"
+    },
+    {
+      "text": "HTT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/100/"
+    },
+    {
+      "text": "CRB 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/100/"
+    },
+    {
+      "text": "GEO 631",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/631/"
+    },
+    {
+      "text": "HTH 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/700/"
+    },
+    {
+      "text": "HTI 746",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTI/746/"
+    },
+    {
+      "text": "HTL 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/503/"
+    },
+    {
+      "text": "HTT 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/501/"
+    },
+    {
+      "text": "HTT 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/509/"
+    },
+    {
+      "text": "HTT 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+    },
+    {
+      "text": "HTT 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/605/"
+    },
+    {
+      "text": "HTT 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/607/"
+    },
+    {
+      "text": "HTT 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/622/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/tourism_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Tourism"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Tourism Minor is intended to provide a complementary area of study for students who wish to understand the nature, content, and structure of tourism experiences and operations. Whether it is from a personal perspective fostering critical reflection of our own motivations and behaviours, or disciplinary lenses that consider a range of outcomes of tourism activity (e.g., economic, social, environmental), tourism is a context ripe for examination."
+    },
+    {
+      "kind": "text",
+      "text": "The operating sectors of tourism are typically listed as attractions, events, travel trade (e.g., tour operators), accommodation, transportation, adventure recreation, entertainment, food services, and tourism services (e.g., planning)."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Ted Rogers School of Hospitality and Tourism Management"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Hospitality and Tourism Management , all options",
+      "links": [
+        {
+          "text": "Hospitality and Tourism Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required course (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 100 Tourism Experiences Management or HTT 150 Tourism Demand, Supply and Distribution",
+      "links": [
+        {
+          "text": "HTT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRB 100 Introduction to the Caribbean",
+      "links": [
+        {
+          "text": "CRB 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/caribbean-studies/CRB/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 631 Exploration in Travel and Tourism",
+      "links": [
+        {
+          "text": "GEO 631",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/631/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTH 700 Professional Ethics in Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTH 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTH/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTI 746 Digital Marketing for Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTI 746",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTI/746/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 503 Meeting and Convention Management",
+      "links": [
+        {
+          "text": "HTL 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 501 Casino Resort Management",
+      "links": [
+        {
+          "text": "HTT 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 509 Politics and Power in Tourism",
+      "links": [
+        {
+          "text": "HTT 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 510 Sustainable Tourism Development",
+      "links": [
+        {
+          "text": "HTT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 605 Incentive Marketing",
+      "links": [
+        {
+          "text": "HTT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 607 Event Management",
+      "links": [
+        {
+          "text": "HTT 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 622 Destination Management and Marketing",
+      "links": [
+        {
+          "text": "HTT 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/622/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Tourism"
+}

@@ -1,0 +1,975 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/real_estate_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "7c10bd112c5f20b2f98a92101ae7babba3bc2f1e4d07fb743d87739286b1c561",
+  "source_bytes": 66661,
+  "title": "Minor in Real Estate Management",
+  "headings": [
+    "Minor in Real Estate Management"
+  ],
+  "course_codes_referenced": [
+    "AFF 210",
+    "ECN 104",
+    "ECN 204",
+    "ENH 825",
+    "EUS 102",
+    "EUS 202",
+    "EUS 301",
+    "EUS 450",
+    "EUS 550",
+    "EUS 650",
+    "EUS 750",
+    "EUS 760",
+    "EUS 850",
+    "EUS 860",
+    "FIN 300",
+    "GEO 151",
+    "GEO 231",
+    "GEO 411",
+    "GEO 514",
+    "GEO 671",
+    "GEO 719",
+    "HIS 828",
+    "HTA 602",
+    "HTL 510",
+    "LAW 122",
+    "LAW 603",
+    "LAW 703",
+    "PLE 565",
+    "PLE 635",
+    "PLE 755",
+    "PLE 795",
+    "PLE 815",
+    "PLG 100",
+    "PLX 333",
+    "PLX 599",
+    "POL 377",
+    "REM 300",
+    "REM 400",
+    "REM 420",
+    "REM 500",
+    "REM 520",
+    "REM 600",
+    "REM 620",
+    "REM 660",
+    "REM 700",
+    "REM 750",
+    "REM 770"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Business Management - Real Estate Management Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+    },
+    {
+      "text": "Urban and Regional Planning",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/"
+    },
+    {
+      "text": "REM 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+    },
+    {
+      "text": "REM 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+    },
+    {
+      "text": "REM 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+    },
+    {
+      "text": "REM 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+    },
+    {
+      "text": "REM 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+    },
+    {
+      "text": "REM 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+    },
+    {
+      "text": "REM 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+    },
+    {
+      "text": "PLE 635",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+    },
+    {
+      "text": "REM 660",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+    },
+    {
+      "text": "REM 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+    },
+    {
+      "text": "REM 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+    },
+    {
+      "text": "REM 770",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+    },
+    {
+      "text": "LAW 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+    },
+    {
+      "text": "LAW 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+    },
+    {
+      "text": "AFF 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/210/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "ENH 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+    },
+    {
+      "text": "EUS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+    },
+    {
+      "text": "EUS 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+    },
+    {
+      "text": "EUS 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/301/"
+    },
+    {
+      "text": "EUS 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+    },
+    {
+      "text": "EUS 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+    },
+    {
+      "text": "EUS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/650/"
+    },
+    {
+      "text": "EUS 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/750/"
+    },
+    {
+      "text": "EUS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/760/"
+    },
+    {
+      "text": "EUS 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/850/"
+    },
+    {
+      "text": "EUS 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "GEO 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+    },
+    {
+      "text": "GEO 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+    },
+    {
+      "text": "GEO 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+    },
+    {
+      "text": "GEO 514",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/514/"
+    },
+    {
+      "text": "GEO 671",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+    },
+    {
+      "text": "GEO 719",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+    },
+    {
+      "text": "HIS 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+    },
+    {
+      "text": "HTA 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTA/602/"
+    },
+    {
+      "text": "HTL 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "PLE 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/565/"
+    },
+    {
+      "text": "PLE 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/755/"
+    },
+    {
+      "text": "PLE 795",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/795/"
+    },
+    {
+      "text": "PLE 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/815/"
+    },
+    {
+      "text": "PLG 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLG/100/"
+    },
+    {
+      "text": "PLX 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+    },
+    {
+      "text": "PLX 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/599/"
+    },
+    {
+      "text": "POL 377",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/377/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/real_estate_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Real Estate Management"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Real Estate Management will offer students theopportunity to increase their knowledge and skills in real estate. Real estate propels the economy, and this minor allows students togain the expertise to excel in this bustling arena in both housing and commercial property."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Ted Rogers School of Business Management, Real Estate Management Department"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management - Real Estate Management Major (regular and co-operative options)",
+      "links": [
+        {
+          "text": "Business Management - Real Estate Management Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For Urban and Regional Planning students, a maximum of two Planning courses can be applied to the Minor.",
+      "links": [
+        {
+          "text": "Urban and Regional Planning",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required course (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus a total of five (5) elective courses as follows:"
+    },
+    {
+      "kind": "text",
+      "text": "Group 1: A minimum of three (3) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis ( OR PLE 635 Feasibility Analysis of Development)",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        },
+        {
+          "text": "PLE 635",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 * Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 * Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Students in the Business Management - Law and Business Major can use only one of LAW 603 or LAW 703 towards minor requirements.",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        },
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2: A maximum of two (2) courses from following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 210 Principles of Finance I",
+      "links": [
+        {
+          "text": "AFF 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 102 Environment and Sustainability",
+      "links": [
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 202 Sustaining the City's Environments",
+      "links": [
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 301 Reading Neighbourhood Environments",
+      "links": [
+        {
+          "text": "EUS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 450 Responses to Climate Change",
+      "links": [
+        {
+          "text": "EUS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 550 Sustainable Cities: Politics and Equity",
+      "links": [
+        {
+          "text": "EUS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 650 Waste and Waste Management",
+      "links": [
+        {
+          "text": "EUS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 750 Energy and Transportation Transitions",
+      "links": [
+        {
+          "text": "EUS 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 760 Cities at Risk",
+      "links": [
+        {
+          "text": "EUS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 850 Sustainability in Organizations",
+      "links": [
+        {
+          "text": "EUS 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 860 Measuring Sustainability",
+      "links": [
+        {
+          "text": "EUS 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 411 Resource and Environmental Planning",
+      "links": [
+        {
+          "text": "GEO 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 514 Resource Management in Northern Canada",
+      "links": [
+        {
+          "text": "GEO 514",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/514/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 671 Developmental and Environmental Law",
+      "links": [
+        {
+          "text": "GEO 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 828 Science, Corporations and the Environment",
+      "links": [
+        {
+          "text": "HIS 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTA 602 Financial Management for Hosp/Tourism",
+      "links": [
+        {
+          "text": "HTA 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTA/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 565 Community Sustainable Development",
+      "links": [
+        {
+          "text": "PLE 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 635 Feasibility Analysis of Development",
+      "links": [
+        {
+          "text": "PLE 635",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 755 Contemporary Urban Design",
+      "links": [
+        {
+          "text": "PLE 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 795 Local Economic Development Fundamentals",
+      "links": [
+        {
+          "text": "PLE 795",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/795/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 815 Facility Siting and Env. Risk Assessment",
+      "links": [
+        {
+          "text": "PLE 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLG 100 Intro to Urban and Regional Planning",
+      "links": [
+        {
+          "text": "PLG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLG/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 599 The Human World",
+      "links": [
+        {
+          "text": "PLX 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/599/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 377 Urban Sustainability Policy",
+      "links": [
+        {
+          "text": "POL 377",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/377/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Real Estate Management"
+}

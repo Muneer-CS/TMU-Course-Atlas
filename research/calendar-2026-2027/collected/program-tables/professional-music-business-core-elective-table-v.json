@@ -1,0 +1,270 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_v/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "a56dca32eb35c0fbf79204f959c7aa4df3ff65cf7545f707373c4b2f1448b37e",
+  "source_bytes": 54179,
+  "title": "Business Core Elective Table V",
+  "headings": [
+    "Business Core Elective Table V"
+  ],
+  "course_codes_referenced": [
+    "BSM 200",
+    "ENT 100",
+    "ENT 401",
+    "ENT 500",
+    "ENT 505",
+    "ENT 627",
+    "GMS 410",
+    "GMS 455",
+    "GMS 520",
+    "ITM 102",
+    "ITM 350",
+    "MKT 310",
+    "NMA 936",
+    "RTA 315",
+    "RTA 913",
+    "RTA 989"
+  ],
+  "official_links": [
+    {
+      "text": "Professional Music",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+    },
+    {
+      "text": "BSM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+    },
+    {
+      "text": "ENT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/100/"
+    },
+    {
+      "text": "ENT 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/401/"
+    },
+    {
+      "text": "ENT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+    },
+    {
+      "text": "ENT 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+    },
+    {
+      "text": "ENT 627",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/627/"
+    },
+    {
+      "text": "GMS 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/410/"
+    },
+    {
+      "text": "GMS 455",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/455/"
+    },
+    {
+      "text": "GMS 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/520/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "ITM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+    },
+    {
+      "text": "MKT 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/310/"
+    },
+    {
+      "text": "NMA 936",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/936/"
+    },
+    {
+      "text": "RTA 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+    },
+    {
+      "text": "RTA 989",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/989/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Core Elective Table V"
+    },
+    {
+      "kind": "text",
+      "text": "Professional Music",
+      "links": [
+        {
+          "text": "Professional Music",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) courses from the Business Core Elective Table V are required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 200 The Growing Business",
+      "links": [
+        {
+          "text": "BSM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 100 Applied Entrepreneurship",
+      "links": [
+        {
+          "text": "ENT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 401 Design Thinking Experience",
+      "links": [
+        {
+          "text": "ENT 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 500 New Venture Startup",
+      "links": [
+        {
+          "text": "ENT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 505 Small-Business Management",
+      "links": [
+        {
+          "text": "ENT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 627 Social Entrepreneurship and Changemaking",
+      "links": [
+        {
+          "text": "ENT 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 410 Management-Large Corporation",
+      "links": [
+        {
+          "text": "GMS 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 455 Project Planning and Delivery",
+      "links": [
+        {
+          "text": "GMS 455",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/455/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 520 International Business",
+      "links": [
+        {
+          "text": "GMS 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 350 Concepts of e-Business",
+      "links": [
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 310 Marketing Plans",
+      "links": [
+        {
+          "text": "MKT 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/310/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 936 The Business of Art",
+      "links": [
+        {
+          "text": "NMA 936",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/936/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 315 Business of Creative Media",
+      "links": [
+        {
+          "text": "RTA 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 913 Media Entrepreneurship"
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 989 Emerging Media Markets/Entrepreneurship",
+      "links": [
+        {
+          "text": "RTA 989",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/989/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Professional Music - Business Core Elective Table V"
+}

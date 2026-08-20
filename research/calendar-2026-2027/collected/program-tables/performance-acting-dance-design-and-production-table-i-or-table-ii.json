@@ -1,0 +1,950 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/design_production_core_elective_table_i_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8ab77965b79765572b1f3e82eb3db8d98b66d1bd6093006b628e713a83623ba6",
+  "source_bytes": 61286,
+  "title": "Performance: Design and Production Core Elective Table I and II",
+  "headings": [
+    "Performance: Design and Production Core Elective Table I and II",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CSE 400",
+    "CSE 410",
+    "FCD 815",
+    "FCD 817",
+    "FCD 827",
+    "FMF 335",
+    "FMF 545",
+    "FSN 302",
+    "FSN 610",
+    "PFC 216",
+    "PFC 221",
+    "PFC 222",
+    "PFC 226",
+    "PFC 417",
+    "PFC 470",
+    "PFZ 201",
+    "PFZ 202",
+    "PFZ 210",
+    "PFZ 220",
+    "PFZ 230",
+    "PFZ 240",
+    "PFZ 250",
+    "PFZ 260",
+    "PFZ 261",
+    "PFZ 311",
+    "PFZ 312",
+    "PFZ 314",
+    "PFZ 315",
+    "PFZ 322",
+    "PFZ 323",
+    "PFZ 331",
+    "PFZ 343",
+    "PFZ 351",
+    "PFZ 352",
+    "PFZ 361",
+    "PFZ 362",
+    "PFZ 363",
+    "PFZ 370",
+    "PFZ 371",
+    "PFZ 372",
+    "PFZ 381",
+    "PFZ 411",
+    "PFZ 419",
+    "PFZ 421",
+    "PFZ 422",
+    "PFZ 429",
+    "PFZ 441",
+    "PFZ 449",
+    "PFZ 471",
+    "PFZ 489"
+  ],
+  "official_links": [
+    {
+      "text": "PFZ 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/201/"
+    },
+    {
+      "text": "PFZ 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/202/"
+    },
+    {
+      "text": "PFZ 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/210/"
+    },
+    {
+      "text": "PFZ 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/220/"
+    },
+    {
+      "text": "PFZ 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/230/"
+    },
+    {
+      "text": "PFZ 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/240/"
+    },
+    {
+      "text": "PFZ 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/250/"
+    },
+    {
+      "text": "PFZ 260",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/260/"
+    },
+    {
+      "text": "PFZ 261",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/261/"
+    },
+    {
+      "text": "CSE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+    },
+    {
+      "text": "CSE 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "FCD 817",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/817/"
+    },
+    {
+      "text": "FCD 827",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/827/"
+    },
+    {
+      "text": "FMF 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---material-and-fabrication/FMF/335/"
+    },
+    {
+      "text": "FMF 545",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---material-and-fabrication/FMF/545/"
+    },
+    {
+      "text": "FSN 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/302/"
+    },
+    {
+      "text": "FSN 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/610/"
+    },
+    {
+      "text": "PFC 216",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/216/"
+    },
+    {
+      "text": "PFC 226",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/226/"
+    },
+    {
+      "text": "PFC 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/221/"
+    },
+    {
+      "text": "PFC 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/222/"
+    },
+    {
+      "text": "PFC 417",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/417/"
+    },
+    {
+      "text": "PFC 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/470/"
+    },
+    {
+      "text": "PFZ 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/311/"
+    },
+    {
+      "text": "PFZ 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/312/"
+    },
+    {
+      "text": "PFZ 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/314/"
+    },
+    {
+      "text": "PFZ 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/315/"
+    },
+    {
+      "text": "PFZ 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/322/"
+    },
+    {
+      "text": "PFZ 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/323/"
+    },
+    {
+      "text": "PFZ 331",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/331/"
+    },
+    {
+      "text": "PFZ 343",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/343/"
+    },
+    {
+      "text": "PFZ 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/351/"
+    },
+    {
+      "text": "PFZ 352",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/352/"
+    },
+    {
+      "text": "PFZ 361",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/361/"
+    },
+    {
+      "text": "PFZ 362",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/362/"
+    },
+    {
+      "text": "PFZ 363",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/363/"
+    },
+    {
+      "text": "PFZ 370",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/370/"
+    },
+    {
+      "text": "PFZ 371",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/371/"
+    },
+    {
+      "text": "PFZ 372",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/372/"
+    },
+    {
+      "text": "PFZ 381",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/381/"
+    },
+    {
+      "text": "PFZ 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/411/"
+    },
+    {
+      "text": "PFZ 419",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/419/"
+    },
+    {
+      "text": "PFZ 421",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/421/"
+    },
+    {
+      "text": "PFZ 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/422/"
+    },
+    {
+      "text": "PFZ 429",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/429/"
+    },
+    {
+      "text": "PFZ 441",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/441/"
+    },
+    {
+      "text": "PFZ 449",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/449/"
+    },
+    {
+      "text": "PFZ 471",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/471/"
+    },
+    {
+      "text": "PFZ 489",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/489/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/design_production_core_elective_table_i_ii/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Performance: Design and Production Core Elective Table I and II"
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2025 and after: Students must choose 12 core electives from Table I and II. Students may take up to two courses offered by the Creative School and approved by the Director of the Performance: Design and Production program. Design and Production students must take a minimum of two (2) courses from Table I."
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE TABLE I:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 201 * Material Practice",
+      "links": [
+        {
+          "text": "PFZ 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 202 * Technological Practice",
+      "links": [
+        {
+          "text": "PFZ 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 210 Intro to Costume Design & Technique",
+      "links": [
+        {
+          "text": "PFZ 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 220 Intro to Scenic Design & Technique",
+      "links": [
+        {
+          "text": "PFZ 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 230 Intro to Lighting Design",
+      "links": [
+        {
+          "text": "PFZ 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 240 Intro to Sound Design",
+      "links": [
+        {
+          "text": "PFZ 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 250 Intro to Projection Design",
+      "links": [
+        {
+          "text": "PFZ 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/250/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 260 Intro to Stage Management",
+      "links": [
+        {
+          "text": "PFZ 260",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/260/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 261 Theatre Safety and Occupational Health",
+      "links": [
+        {
+          "text": "PFZ 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/261/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*If not selected in Semester 3."
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE TABLE II:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 400 Special Projects Placement",
+      "links": [
+        {
+          "text": "CSE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 410 Creative Capstone Enrichment",
+      "links": [
+        {
+          "text": "CSE 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse I",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 817 Live Event Supercourse I",
+      "links": [
+        {
+          "text": "FCD 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 827 Live Event Supercourse 2",
+      "links": [
+        {
+          "text": "FCD 827",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/827/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FMF 335 Millinery Design",
+      "links": [
+        {
+          "text": "FMF 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---material-and-fabrication/FMF/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FMF 545 Natural Dye Workshop",
+      "links": [
+        {
+          "text": "FMF 545",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---material-and-fabrication/FMF/545/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 302 Fashion Histories: Ancient to Pre-Modern",
+      "links": [
+        {
+          "text": "FSN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 610 Carnival Arts",
+      "links": [
+        {
+          "text": "FSN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 216 Playwriting",
+      "links": [
+        {
+          "text": "PFC 216",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/216/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 226 Directing for the Stage",
+      "links": [
+        {
+          "text": "PFC 226",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/226/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 221 Performance Creation III: Exploring Design, Body & Space",
+      "links": [
+        {
+          "text": "PFC 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 222 Performance Creation IV: Exploring Design, Body & Space",
+      "links": [
+        {
+          "text": "PFC 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 417 Advanced Playwriting",
+      "links": [
+        {
+          "text": "PFC 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/417/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFC 470 Black Creative Practices",
+      "links": [
+        {
+          "text": "PFC 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFC/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 311 Costume Technique I",
+      "links": [
+        {
+          "text": "PFZ 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 312 Make-Up and Special Effects",
+      "links": [
+        {
+          "text": "PFZ 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 314 Costume Design",
+      "links": [
+        {
+          "text": "PFZ 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 315 Corsetry: History and Construction",
+      "links": [
+        {
+          "text": "PFZ 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 322 Props: Design and Construction",
+      "links": [
+        {
+          "text": "PFZ 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 323 Puppetry Design and Technique",
+      "links": [
+        {
+          "text": "PFZ 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 331 Lighting Design I",
+      "links": [
+        {
+          "text": "PFZ 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 343 Sound Design and Technique II",
+      "links": [
+        {
+          "text": "PFZ 343",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/343/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 351 Creative Technology in Performance",
+      "links": [
+        {
+          "text": "PFZ 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 352 Show Systems Engineering",
+      "links": [
+        {
+          "text": "PFZ 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/352/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 361 Stage Management for Live Events",
+      "links": [
+        {
+          "text": "PFZ 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 362 Production Management for Performance",
+      "links": [
+        {
+          "text": "PFZ 362",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/362/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 363 Technical Direction",
+      "links": [
+        {
+          "text": "PFZ 363",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/363/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 370 Creative Producing II",
+      "links": [
+        {
+          "text": "PFZ 370",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/370/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 371 Arts and Cultural Management",
+      "links": [
+        {
+          "text": "PFZ 371",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/371/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 372 Tour and Company Management",
+      "links": [
+        {
+          "text": "PFZ 372",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/372/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 381 Global Performance Studio (intl special)",
+      "links": [
+        {
+          "text": "PFZ 381",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/381/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 411 Costume Technique III",
+      "links": [
+        {
+          "text": "PFZ 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 419 Special Topics: Costume",
+      "links": [
+        {
+          "text": "PFZ 419",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/419/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 421 Scenography",
+      "links": [
+        {
+          "text": "PFZ 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/421/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 422 Scenic Painting",
+      "links": [
+        {
+          "text": "PFZ 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 429 Special Topics: Scenic construction",
+      "links": [
+        {
+          "text": "PFZ 429",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/429/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 441 Recording as Practice",
+      "links": [
+        {
+          "text": "PFZ 441",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/441/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 449 Special Topics: Sound",
+      "links": [
+        {
+          "text": "PFZ 449",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/449/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 471 Commercial Theatre",
+      "links": [
+        {
+          "text": "PFZ 471",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/471/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PFZ 489 Special Topics: Production Innovation",
+      "links": [
+        {
+          "text": "PFZ 489",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/performance/PFZ/489/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Performance: Acting/Dance/Design and Production - Table I or Table II"
+}

@@ -1,0 +1,1712 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "203da9571a63a7eb77430f754fe2ae4a15e5c908367ba5d036061b4638ee02ad",
+  "source_bytes": 115002,
+  "title": "Undeclared Arts (First Year Studies Only)",
+  "headings": [
+    "Undeclared Arts (First Year Studies Only)",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Program Transfer Options",
+    "Transferability Guidelines",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Undeclared Arts (First Year Studies Only)",
+    "1st & 2nd Semester",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACS 100",
+    "ACS 103",
+    "CRM 100",
+    "CRM 102",
+    "ECN 104",
+    "ECN 109",
+    "ECN 204",
+    "ENG 110",
+    "ENG 208",
+    "EUS 102",
+    "EUS 202",
+    "GEO 131",
+    "GEO 151",
+    "HIS 100",
+    "HIS 399",
+    "HIS 461",
+    "HIS 462",
+    "HIS 490",
+    "LIR 100",
+    "PHL 101",
+    "PHL 102",
+    "PHL 110",
+    "PHL 187",
+    "PHL 201",
+    "PHL 212",
+    "PHL 306",
+    "PHL 333",
+    "PHL 365",
+    "PHL 366",
+    "PHL 406",
+    "POG 100",
+    "POG 110",
+    "PSY 102",
+    "PSY 202",
+    "SOC 105",
+    "SOC 107",
+    "SSH 105",
+    "SSH 205"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/"
+    },
+    {
+      "text": "Arts and Contemporary Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "Criminology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology/"
+    },
+    {
+      "text": "Criminology and History Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/"
+    },
+    {
+      "text": "Criminology and Politics and Governance Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/"
+    },
+    {
+      "text": "Criminology and Sociology Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_sociology/"
+    },
+    {
+      "text": "Economics and Finance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/economics/"
+    },
+    {
+      "text": "English",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/"
+    },
+    {
+      "text": "English and History Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/"
+    },
+    {
+      "text": "English and Philosophy Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/"
+    },
+    {
+      "text": "Environmental and Urban Sustainability",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+    },
+    {
+      "text": "Geographic Analysis",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+    },
+    {
+      "text": "History",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/"
+    },
+    {
+      "text": "History and Philosophy Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/"
+    },
+    {
+      "text": "History and Politics and Governance Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/"
+    },
+    {
+      "text": "History and Sociology Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/"
+    },
+    {
+      "text": "Language and Intercultural Relations",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+    },
+    {
+      "text": "Philosophy",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/"
+    },
+    {
+      "text": "Politics and Governance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/"
+    },
+    {
+      "text": "Politics and Governance and Sociology Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/"
+    },
+    {
+      "text": "Psychology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/"
+    },
+    {
+      "text": "Sociology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+    },
+    {
+      "text": "ACS 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/100/"
+    },
+    {
+      "text": "ACS 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/103/"
+    },
+    {
+      "text": "CRM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+    },
+    {
+      "text": "CRM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/102/"
+    },
+    {
+      "text": "HIS 461",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+    },
+    {
+      "text": "HIS 462",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+    },
+    {
+      "text": "HIS 490",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+    },
+    {
+      "text": "POG 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+    },
+    {
+      "text": "POG 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+    },
+    {
+      "text": "SOC 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+    },
+    {
+      "text": "SOC 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ECN 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/109/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "ENG 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+    },
+    {
+      "text": "ENG 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+    },
+    {
+      "text": "PHL 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/102/"
+    },
+    {
+      "text": "PHL 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/101/"
+    },
+    {
+      "text": "PHL 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/110/"
+    },
+    {
+      "text": "PHL 187",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/187/"
+    },
+    {
+      "text": "PHL 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/201/"
+    },
+    {
+      "text": "PHL 212",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/212/"
+    },
+    {
+      "text": "PHL 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+    },
+    {
+      "text": "PHL 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/333/"
+    },
+    {
+      "text": "PHL 365",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/365/"
+    },
+    {
+      "text": "PHL 366",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/366/"
+    },
+    {
+      "text": "PHL 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+    },
+    {
+      "text": "EUS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+    },
+    {
+      "text": "EUS 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+    },
+    {
+      "text": "GEO 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+    },
+    {
+      "text": "GEO 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+    },
+    {
+      "text": "LIR 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+    },
+    {
+      "text": "PSY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+    },
+    {
+      "text": "PSY 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/202/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "SSH 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/table_i/"
+    },
+    {
+      "text": "SSH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Undeclared Arts (First Year Studies Only)"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Arts",
+      "links": [
+        {
+          "text": "Faculty of Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Arts",
+      "links": [
+        {
+          "text": "Faculty of Arts",
+          "url": "https://www.torontomu.ca/content/ryerson/undeclaredarts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "First-year studies only."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students who are completing, or have already completed, post-secondary studies must apply to one of the twelve program areas – Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology or Sociology. Transfer credit / advanced standing cannot be granted for the Undeclared Arts option."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Undeclared Arts is a first-year studies option that allows students time to explore program areas in the social sciences and humanities before choosing the program they wish to pursue as a major or double major over the next three years."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Program Transfer Options"
+    },
+    {
+      "kind": "list_item",
+      "text": "Arts and Contemporary Studies (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Criminology",
+      "links": [
+        {
+          "text": "Criminology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Criminology and History Double Major",
+      "links": [
+        {
+          "text": "Criminology and History Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Criminology and Politics and Governance Double Major",
+      "links": [
+        {
+          "text": "Criminology and Politics and Governance Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Criminology and Sociology Double Major",
+      "links": [
+        {
+          "text": "Criminology and Sociology Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Economics and Finance",
+      "links": [
+        {
+          "text": "Economics and Finance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/economics/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English",
+      "links": [
+        {
+          "text": "English",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English and History Double Major",
+      "links": [
+        {
+          "text": "English and History Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English and Philosophy Double Major",
+      "links": [
+        {
+          "text": "English and Philosophy Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Environmental and Urban Sustainability",
+      "links": [
+        {
+          "text": "Environmental and Urban Sustainability",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Geographic Analysis",
+      "links": [
+        {
+          "text": "Geographic Analysis",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History",
+      "links": [
+        {
+          "text": "History",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Philosophy Double Major",
+      "links": [
+        {
+          "text": "History and Philosophy Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Politics and Governance Double Major",
+      "links": [
+        {
+          "text": "History and Politics and Governance Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Sociology Double Major",
+      "links": [
+        {
+          "text": "History and Sociology Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Language and Intercultural Relations",
+      "links": [
+        {
+          "text": "Language and Intercultural Relations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Philosophy",
+      "links": [
+        {
+          "text": "Philosophy",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Politics and Governance",
+      "links": [
+        {
+          "text": "Politics and Governance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Politics and Governance and Sociology Double Major",
+      "links": [
+        {
+          "text": "Politics and Governance and Sociology Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Psychology",
+      "links": [
+        {
+          "text": "Psychology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Sociology",
+      "links": [
+        {
+          "text": "Sociology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Because the above programs share a common one-year foundation, all of the courses successfully completed in Undeclared Arts are credited to the student's program of choice."
+    },
+    {
+      "kind": "text",
+      "text": "Students who have already decided which of the above major programs they are interested in should apply to those programs directly, and should consult the relevant pages of this calendar for program details."
+    },
+    {
+      "kind": "text",
+      "text": "Students interested in one of the above double major programs must apply to one of the major programs or to Undeclared Arts, from which they can apply to transfer in their second semester of studies to one of the approved double major programs. Students are not admitted into a double major in first year. Double major programs other than those listed above have not been approved and thus may not be taken. Students who are completing, or have already completed post-secondary studies, must apply to one of the major programs. Transfer credit/Advanced Standing cannot be granted for the Undeclared Arts option."
+    },
+    {
+      "kind": "text",
+      "text": "Semesters One and Two : Undeclared Arts students learn more about the program areas by selecting foundation courses in the social sciences and humanities. Two required first-year courses in Academic Writing and Research and in Critical Thinking develop essential skills and competencies that will enhance students' success in university and career preparation. Students also choose additional electives from a wide range of areas, including business, the natural sciences, media, and fine arts, and any one of these can lead to a Minor. Visit the Undeclared Arts website (opens in new window) for further information.",
+      "links": [
+        {
+          "text": "Undeclared Arts website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/undeclaredarts/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transferability Guidelines"
+    },
+    {
+      "kind": "text",
+      "text": "Students who have been admitted into the Bachelor of Arts – Undeclared must apply to transfer by second semester to one of the programs listed below. No student can remain Undeclared past second semester. Transfer applications are provided via Google Form and must be submitted by February 2nd. All program transfers will be considered on a competitive basis and are subject to program capacity."
+    },
+    {
+      "kind": "text",
+      "text": "Program Transfer Options"
+    },
+    {
+      "kind": "text",
+      "text": "Transferability Guidelines"
+    },
+    {
+      "kind": "text",
+      "text": "Arts and Contemporary Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed ACS 100 or ACS 103 . It is strongly recommended that students complete both ACS 100 and ACS 103 in first year.",
+      "links": [
+        {
+          "text": "ACS 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/100/"
+        },
+        {
+          "text": "ACS 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/103/"
+        },
+        {
+          "text": "ACS 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/100/"
+        },
+        {
+          "text": "ACS 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Criminology"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed CRM 100 in order to transfer to Criminology for the Fall term of their second year of studies. It is strongly recommended that students complete both CRM 100 and CRM 102 in first year. Transfer applications are considered on a competitive basis subject to space availability. Students intending to transfer to Criminology for second year are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer.",
+      "links": [
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "CRM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and History Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed CRM 100 and HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). HST courses may be substituted for HIS courses with departmental approval. Students are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer.",
+      "links": [
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "CRM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/102/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and Politics and Governance Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed CRM 100 and POG 100 or POG 110 . It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 and POG 100 and POG 110 . Students are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer.",
+      "links": [
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "CRM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/102/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Criminology and Sociology Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed CRM 100 and SOC 105 . It is strongly recommended that students complete, in first year, both CRM 100 and CRM 102 and SOC 105 and SOC 107 . Students are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer.",
+      "links": [
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        },
+        {
+          "text": "CRM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/102/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics and Finance"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies. Students admitted Fall 2026 must have successfully completed at least one of ECN 104 , ECN 109 , or ECN 204 . It is strongly recommended that students complete two of ECN 104 , ECN 109 or ECN 204 in first year.",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        },
+        {
+          "text": "ECN 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/109/"
+        },
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        },
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        },
+        {
+          "text": "ECN 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/109/"
+        },
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "English"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed ENG 110 in order to transfer to English for the Fall term of their second year of studies. It is strongly recommended that students complete both ENG 110 and ENG 208 in first year.",
+      "links": [
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        },
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        },
+        {
+          "text": "ENG 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "English and History Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed ENG 110 and one HIS course numbered between HIS 100 and HIS 399 (or one of HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that, in first year, students complete both ENG 110 and ENG 208 as well as two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). (HST courses may be substituted for HIS courses with departmental approval.)",
+      "links": [
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        },
+        {
+          "text": "ENG 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "English and Philosophy Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed ENG 110 and PHL 102 . It is strongly recommended that in first year, students also complete ENG 208 and one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 , and PHL 406 .",
+      "links": [
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        },
+        {
+          "text": "PHL 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/102/"
+        },
+        {
+          "text": "ENG 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+        },
+        {
+          "text": "PHL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/101/"
+        },
+        {
+          "text": "PHL 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/110/"
+        },
+        {
+          "text": "PHL 187",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/187/"
+        },
+        {
+          "text": "PHL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/201/"
+        },
+        {
+          "text": "PHL 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/212/"
+        },
+        {
+          "text": "PHL 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+        },
+        {
+          "text": "PHL 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/333/"
+        },
+        {
+          "text": "PHL 365",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/365/"
+        },
+        {
+          "text": "PHL 366",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/366/"
+        },
+        {
+          "text": "PHL 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Environmental and Urban Sustainability"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed EUS 102 or EUS 202 in order to transfer to Environmental and Urban Sustainability for the Fall term of their second year of studies. It is strongly recommended that students complete EUS 102 and EUS 202 in first year.",
+      "links": [
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        },
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        },
+        {
+          "text": "EUS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/102/"
+        },
+        {
+          "text": "EUS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/202/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Geographic Analysis"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed GEO 131 or GEO 151 in order to transfer to Geographic Analysis for the Fall term of their second year of studies. It is strongly recommended that students complete both GEO 131 and GEO 151 in first year.",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        },
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        },
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        },
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "History"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed one HIS course from among the courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). It is strongly recommended that students complete two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ). in first year. (HST courses may be substituted for HIS courses with department approval.)",
+      "links": [
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "History and Philosophy Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed one HIS course (completion of two is recommended) numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 , or HIS 490 , as well as PHL 102 . HST courses may be substituted for HIS courses with departmental approval. It is strongly recommended that in first year, students also complete one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 , or PHL 406 .",
+      "links": [
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "PHL 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/102/"
+        },
+        {
+          "text": "PHL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/101/"
+        },
+        {
+          "text": "PHL 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/110/"
+        },
+        {
+          "text": "PHL 187",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/187/"
+        },
+        {
+          "text": "PHL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/201/"
+        },
+        {
+          "text": "PHL 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/212/"
+        },
+        {
+          "text": "PHL 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+        },
+        {
+          "text": "PHL 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/333/"
+        },
+        {
+          "text": "PHL 365",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/365/"
+        },
+        {
+          "text": "PHL 366",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/366/"
+        },
+        {
+          "text": "PHL 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "History and Politics and Governance Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed one HIS course numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ) as well as POG 100 or POG 110 . It is strongly recommended that students complete, in first year, It is strongly recommended that, in first year, students complete two HIS courses numbered between HIS 100 and HIS 399 (or HIS 461 , HIS 462 or HIS 490 ) as well as POG 100 and POG 110 . HST courses may be substituted for HIS courses with departmental approval.",
+      "links": [
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "History and Sociology Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed SOC 105 and one HIS course numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . It is strongly recommended that students complete, in first year, both SOC 105 and SOC 107 , and two HIS courses numbered between HIS 100 and HIS 399, or one of HIS 461 , HIS 462 or HIS 490 . HST courses may be substituted for HIS courses with departmental approval.",
+      "links": [
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        },
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        },
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        },
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Language and Intercultural Relations"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed LIR 100 in order to transfer to Language and Intercultural Relations for the Fall term of their second year of studies. It is strongly recommended that students complete both LIR 100 and a FRE or SPN course above the 101 level in first year.",
+      "links": [
+        {
+          "text": "LIR 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+        },
+        {
+          "text": "LIR 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Philosophy"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed PHL 102 and preferably one of PHL 101 , PHL 110 , PHL 187 , PHL 201 , PHL 212 , PHL 306 , PHL 333 , PHL 365 , PHL 366 , and PHL 406 .",
+      "links": [
+        {
+          "text": "PHL 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/102/"
+        },
+        {
+          "text": "PHL 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/101/"
+        },
+        {
+          "text": "PHL 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/110/"
+        },
+        {
+          "text": "PHL 187",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/187/"
+        },
+        {
+          "text": "PHL 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/201/"
+        },
+        {
+          "text": "PHL 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/212/"
+        },
+        {
+          "text": "PHL 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+        },
+        {
+          "text": "PHL 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/333/"
+        },
+        {
+          "text": "PHL 365",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/365/"
+        },
+        {
+          "text": "PHL 366",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/366/"
+        },
+        {
+          "text": "PHL 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Politics and Governance"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed POG 100 or POG 110 in order to transfer to Politics and Governance for the Fall term of their second year of studies. It is strongly recommended that students complete both POG 100 and POG 110 in first year.",
+      "links": [
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Politics and Governance and Sociology Double Major"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed POG 100 or POG 110 as well as SOC 105 . It is strongly recommended that students complete both POG 100 and POG 110 as well as SOC 105 and SOC 107 in first year.",
+      "links": [
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        },
+        {
+          "text": "POG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/110/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Psychology"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed PSY 102 in order to transfer to Psychology for the Fall term of their second year of studies. It is strongly recommended that students complete both PSY 102 and PSY 202 in first year. Transfer applications are considered on a competitive basis subject to space availability. Students intending to transfer to Psychology for second year are normally expected to present a cumulative grade point average of 3.00 (B) in their first semester studies at Toronto Met to maximize their chances for consideration, subject to competition and available second-year spaces. Possession of the minimum cumulative grade point average does not guarantee program transfer.",
+      "links": [
+        {
+          "text": "PSY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+        },
+        {
+          "text": "PSY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+        },
+        {
+          "text": "PSY 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/202/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sociology"
+    },
+    {
+      "kind": "text",
+      "text": "Students must have successfully completed SOC 105 in order to transfer to Sociology for the Fall term of their second year of studies. It is strongly recommended that students complete both SOC 105 and SOC 107 in first year.",
+      "links": [
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/105/"
+        },
+        {
+          "text": "SOC 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/107/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Undeclared Arts (First Year Studies Only)",
+      "links": [
+        {
+          "text": "Undeclared Arts (First Year Studies Only)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Students are to follow this curriculum until they choose and are admitted to, one of the following specific programs of study: Arts and Contemporary Studies, Criminology, Criminology and History Double Major, Criminology and Politics and Governance Double Major, Criminology and Sociology Double Major, Economics and Finance, English, English and History Double Major, English and Philosophy Double Major, Environmental and Urban Sustainability, Geographic Analysis, History, History and Philosophy Double Major, History and Politics and Governance Double Major, History and Sociology Double Major, Language and Intercultural Relations, Philosophy, Politics and Governance, Politics and Governance and Sociology Double Major, Psychology or Sociology."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Four courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All program transfers will be considered on a competitive basis and are subject to program capacity."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Undeclared Arts (First Year Studies Only)"
+}

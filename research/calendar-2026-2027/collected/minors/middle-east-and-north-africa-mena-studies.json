@@ -1,0 +1,644 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/mena_studies_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "102fefdba3d0cf1503e667c4b26995318758dda2f89c369514af2a42b99e63f8",
+  "source_bytes": 60231,
+  "title": "Minor in Middle East and North Africa Studies",
+  "headings": [
+    "Minor in Middle East and North Africa Studies"
+  ],
+  "course_codes_referenced": [
+    "ACS 220",
+    "ARB 101",
+    "ARB 201",
+    "ARB 301",
+    "ARB 401",
+    "ARB 402",
+    "ARB 501",
+    "ARB 601",
+    "ENG 623",
+    "FRS 606",
+    "GEO 522",
+    "GMS 695",
+    "HIS 461",
+    "HIS 462",
+    "HIS 559",
+    "HIS 560",
+    "HIS 561",
+    "HIS 957",
+    "HST 506",
+    "HST 522",
+    "HST 777",
+    "HST 786",
+    "HST 788",
+    "PHL 622",
+    "PHL 639",
+    "REL 215",
+    "REL 225",
+    "SOC 885"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ARB 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/101/"
+    },
+    {
+      "text": "ARB 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/201/"
+    },
+    {
+      "text": "ARB 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/301/"
+    },
+    {
+      "text": "ARB 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/401/"
+    },
+    {
+      "text": "ARB 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/402/"
+    },
+    {
+      "text": "ARB 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/501/"
+    },
+    {
+      "text": "ARB 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/601/"
+    },
+    {
+      "text": "ACS 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/220/"
+    },
+    {
+      "text": "HIS 461",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+    },
+    {
+      "text": "HIS 462",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+    },
+    {
+      "text": "REL 215",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/215/"
+    },
+    {
+      "text": "REL 225",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/225/"
+    },
+    {
+      "text": "ENG 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+    },
+    {
+      "text": "GEO 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/522/"
+    },
+    {
+      "text": "GMS 695",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/695/"
+    },
+    {
+      "text": "HIS 559",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+    },
+    {
+      "text": "HIS 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+    },
+    {
+      "text": "HIS 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+    },
+    {
+      "text": "HIS 957",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/957/"
+    },
+    {
+      "text": "HST 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/506/"
+    },
+    {
+      "text": "HST 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/522/"
+    },
+    {
+      "text": "HST 777",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/777/"
+    },
+    {
+      "text": "HST 786",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/786/"
+    },
+    {
+      "text": "HST 788",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/788/"
+    },
+    {
+      "text": "PHL 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/622/"
+    },
+    {
+      "text": "PHL 639",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/639/"
+    },
+    {
+      "text": "SOC 885",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/mena_studies_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Middle East and North Africa Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This multi-disciplinary minor offers students the opportunity to learn about the histories and cultures of the peoples of the Middle East and North Africa from antiquity to the present day. With this minor, students will gain a greater understanding of an important region of the world that has played a key role in the development of literature, art, science, and technology. While enhancing their appreciation for cultural diversity and their awareness of globalization, students will also expand their knowledge of diasporic communities from this region."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of History"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: Students may use a maximum of two (2) courses in any given discipline (indicated by the subject prefix of the course code) toward completion of the Minor in Middle East and North Africa Studies. This means that students will be limited to two (2) History courses (HIS and/or HST)."
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses in total from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Minimum of one (1) to a maximum of two (2) of the following language courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 101 Introductory Arabic I",
+      "links": [
+        {
+          "text": "ARB 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 201 Introductory Arabic II",
+      "links": [
+        {
+          "text": "ARB 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 301 Intermediate Arabic I",
+      "links": [
+        {
+          "text": "ARB 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 401 Intermediate Arabic II",
+      "links": [
+        {
+          "text": "ARB 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 402 Arabic Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "ARB 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 501 Advanced Arabic I",
+      "links": [
+        {
+          "text": "ARB 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB 601 Advanced Arabic II",
+      "links": [
+        {
+          "text": "ARB 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/ARB/601/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Minimum of one (1) to a maximum of two (2) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 220 Ideas that Shape the World: Middle Ages",
+      "links": [
+        {
+          "text": "ACS 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 461 The Near East to 600 CE",
+      "links": [
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 462 Introduction to the Islamic World",
+      "links": [
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REL 215 Introduction to Judaism",
+      "links": [
+        {
+          "text": "REL 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/215/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REL 225 Introduction to Islam",
+      "links": [
+        {
+          "text": "REL 225",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/religious-studies/REL/225/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Minimum of two (2) to a maximum of four (4) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 623 Film/Literature: Middle East, North Africa",
+      "links": [
+        {
+          "text": "ENG 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRS 606 Franco Literature: Middle East, North Africa (taught in English)"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 522 Geography of the Middle East",
+      "links": [
+        {
+          "text": "GEO 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 695 Middle Eastern Business Environment",
+      "links": [
+        {
+          "text": "GMS 695",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/695/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 559 * The World of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 559",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 560 History of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 561 The Ottoman Empire",
+      "links": [
+        {
+          "text": "HIS 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 957 Senior Seminar V: Middle East",
+      "links": [
+        {
+          "text": "HIS 957",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/957/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 506 * The Ancient Egyptian World",
+      "links": [
+        {
+          "text": "HST 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 522 The Middle East: 1908 to the Present",
+      "links": [
+        {
+          "text": "HST 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 777 Medicine from Antiquity to 1500 CE",
+      "links": [
+        {
+          "text": "HST 777",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/777/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 786 Science in Middle Eastern History",
+      "links": [
+        {
+          "text": "HST 786",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/786/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 788 The Archaeology of Water",
+      "links": [
+        {
+          "text": "HST 788",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/788/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 622 Classical Arabic Philosophy",
+      "links": [
+        {
+          "text": "PHL 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/622/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 639 Medieval Philosophy",
+      "links": [
+        {
+          "text": "PHL 639",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/639/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* HIS 559 and HST 506 are antirequisites. Only one of them may be used to fulfil the minor requirements.",
+      "links": [
+        {
+          "text": "HIS 559",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+        },
+        {
+          "text": "HST 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/506/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Middle East and North Africa (MENA) Studies"
+}

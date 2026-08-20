@@ -1,0 +1,2751 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "32053b760510c4e5f6691bdc0913a8ebdffe1ba9abba80ee6782d394de91db2b",
+  "source_bytes": 178437,
+  "title": "Occupational Health and Safety",
+  "headings": [
+    "Occupational Health and Safety",
+    "Admission Information - Full-Time, Four-Year Programs",
+    "NOTES:",
+    "Admission Information - Full-Time, Two-Year Programs for University Graduates",
+    "Admission Information - Full-Time, Occupational Health and Safety Diploma to Degree Pathway",
+    "Program Overview/Curriculum Information",
+    "Co-Operative Program",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Program Advisory Council",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-Op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequencing of Academic and Work terms",
+    "Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety (for students admitted Fall 2020 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety Co-Op Program",
+    "Occupational Health and Safety Degree Completion Pathway",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CHY 104",
+    "CHY 152",
+    "CHY 182",
+    "CMN 100",
+    "ENH 121",
+    "ENH 122",
+    "ENH 220",
+    "ENH 440",
+    "ENH 522",
+    "ENH 825",
+    "GEO 716",
+    "OHS 301",
+    "OHS 314",
+    "OHS 322",
+    "OHS 323",
+    "OHS 421",
+    "OHS 422",
+    "OHS 477",
+    "OHS 509",
+    "OHS 516",
+    "OHS 523",
+    "OHS 621",
+    "OHS 623",
+    "OHS 709",
+    "OHS 800",
+    "OHS 806",
+    "OHS 811",
+    "POH 100",
+    "POH 103",
+    "POH 105",
+    "POH 201",
+    "POH 407",
+    "POH 705",
+    "WKT 110",
+    "WKT 210",
+    "WKT 310",
+    "WKT 410"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Community Services",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+    },
+    {
+      "text": "CHY 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/104/"
+    },
+    {
+      "text": "WKT 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/110/"
+    },
+    {
+      "text": "WKT 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/210/"
+    },
+    {
+      "text": "WKT 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/310/"
+    },
+    {
+      "text": "WKT 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/410/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Upper Level Liberal Studies Table B (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "POH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/105/"
+    },
+    {
+      "text": "GEO 716",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/716/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ENH 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+    },
+    {
+      "text": "ENH 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/220/"
+    },
+    {
+      "text": "POH 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/100/"
+    },
+    {
+      "text": "POH 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/103/"
+    },
+    {
+      "text": "CMN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+    },
+    {
+      "text": "ENH 440",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/440/"
+    },
+    {
+      "text": "OHS 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+    },
+    {
+      "text": "POH 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/201/"
+    },
+    {
+      "text": "CHY 152",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/152/"
+    },
+    {
+      "text": "OHS 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/301/"
+    },
+    {
+      "text": "OHS 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/323/"
+    },
+    {
+      "text": "OHS 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/314/"
+    },
+    {
+      "text": "ENH 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+    },
+    {
+      "text": "OHS 421",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/421/"
+    },
+    {
+      "text": "OHS 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+    },
+    {
+      "text": "OHS 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/709/"
+    },
+    {
+      "text": "Open Elective (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "ENH 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+    },
+    {
+      "text": "OHS 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/509/"
+    },
+    {
+      "text": "OHS 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/523/"
+    },
+    {
+      "text": "OHS 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/621/"
+    },
+    {
+      "text": "OHS 516",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/516/"
+    },
+    {
+      "text": "POH 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/407/"
+    },
+    {
+      "text": "ENH 66A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+    },
+    {
+      "text": "POH 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+    },
+    {
+      "text": "ENH 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+    },
+    {
+      "text": "OHS 477",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/477/"
+    },
+    {
+      "text": "OHS 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/623/"
+    },
+    {
+      "text": "OHS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+    },
+    {
+      "text": "OHS 806",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/806/"
+    },
+    {
+      "text": "OHS 811",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/811/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Occupational Health and Safety"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Applied Science (BASc)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "School of Occupational and Public Health",
+      "links": [
+        {
+          "text": "School of Occupational and Public Health",
+          "url": "https://www.torontomu.ca/content/ryerson/occupational-public-health/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program. Full-time, two-year program for university graduates. Full-time, three-year co-op program for university graduates Full-time, two-year degree completion."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time, Four-Year Programs",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time, Four-Year Programs",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English and one of Grade 12 U Chemistry (SCH4U) or Grade 12 U Biology (SBI4U)."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "NOTES:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 60-70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Candidates who are 21 years of age and wish to be considered as a mature student applicant should refer to the Mature Student policy."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants who hold a bachelor's degree or higher from an accredited university must apply for the two-year Occupational Health and Safety program for university graduates only (admission requirements described below). These applicants are not eligible for admission to the four-year program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time, Two-Year Programs for University Graduates",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time, Two-Year Programs for University Graduates",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Occupational Health and Safety Program for University Graduates requires two years of full-time study. A three-year co-op option is available."
+    },
+    {
+      "kind": "text",
+      "text": "Admission consideration for this program is available to applicants who hold a bachelor's degree or higher from an accredited university including three (lower or upper level) liberal studies courses."
+    },
+    {
+      "kind": "text",
+      "text": "Applicants must have as part of their degree (or other post-secondary education) credit for at least one single-term course in chemistry (equivalent to CHY 104 ).",
+      "links": [
+        {
+          "text": "CHY 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Successful candidates may apply for up to six single-term transfer credits based on their previous university studies."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time, Occupational Health and Safety Diploma to Degree Pathway",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time, Occupational Health and Safety Diploma to Degree Pathway",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Admission consideration for this option is available to applicants who have completed the Workplace Safety and Prevention Diploma from Lambton College, Seneca College or Cambrian College with a minimum B/3.0/70% overall average. Subject to competition higher overall averages may be required."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This program is unique in Canada. It equips graduates for careers in Occupational Health and Safety, and positions may be found in public, private and service organizations throughout Canada. Upon graduation, graduates are eligible to apply for the examination and certification as a Canadian Registered Safety Technician (CRST). Following a period of work experience and an examination process, graduates may choose to pursue registration as a Registered Occupational Hygienist through the Canadian Registration Board of Occupational Hygienists, or to apply for certification as a Canadian Registered Safety Professional (CRSP) through the Board of Canadian Registered Safety Professionals."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-Operative Program"
+    },
+    {
+      "kind": "text",
+      "text": "The School offers a co-operative option for the Occupational Health and Safety program, which provides graduating students with 12 months of work experience integrated into their academic studies which enhances their organizational and technical abilities as well as their oral and written communication skills."
+    },
+    {
+      "kind": "text",
+      "text": "Although the Career and Co-op Centre cannot guarantee work term employment, it provides assistance in locating suitable positions and in counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education."
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first year of the program must apply through this Centre for admission to the co-operative education program at the end of first year. Note:The only time to apply is during the co-op admission period in the spring/summer semester. Only students going into second year can apply to be in the co-op program (after the 2nd term in the program). Enrolment in the co-op program is limited. Admission will be based on a criteria which includes the student's grade point average, courses completed, a resume and a statement of intent. Students who are direct entry/transfer are not permitted into the program except on an exceptional case by case basis. Students who are ahead with significant course credits are not permitted into the program except on an exceptional case by case basis. All decisions regarding admission into the program are final and at the discretion of the Career and Co-op Centre, in consultation with the Co-op Faculty Advisor."
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 110 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 210 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 310 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 410 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the School's Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job. Students must successfully complete 3 co-op WKT’s in order to graduate from their program of study with a Co-op designation. Once the requirements are satisfied being able to do another work term (up to 4 WKT’s) is at the discretion of the Toronto Met Career & Co-op Centre."
+    },
+    {
+      "kind": "text",
+      "text": "The co-op program requires five years to complete the degree in Occupational Health and Safety. The regular program can be completed in four years."
+    },
+    {
+      "kind": "text",
+      "text": "All co-op positions must be approved by the Career & Co-op Centre and the Faculty Advisor for the Occupational Health and Safety co-op program."
+    },
+    {
+      "kind": "text",
+      "text": "Additional information about co-op can be found on the Career, Co-op and Student Success Education website .",
+      "links": [
+        {
+          "text": "Career, Co-op and Student Success Education website",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students in the regular and co-operative programs must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "CHY 182 is not available for credit .",
+      "links": [
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "POH 105 is not available for credit.",
+      "links": [
+        {
+          "text": "POH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 716 is not available for credit.",
+      "links": [
+        {
+          "text": "GEO 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/716/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Harith Aboud Health and Safety Professional Mattamy Homes Christine Abigail Alcon-Wig EHS Liaison/Partner National Silicates Alex Ewing Owner Aceis Group Ltd. Anne-Marie Landis-Groom Occupational Hygiene Association of Ontario (OHAO) Representative Lee-Anne Lyon-Bartley Executive Vice President Dexterra Jeff Mallany Senior Safety Specialist Hamilton Health Sciences Mansur Pathan Senior Safety Specialist TTC Peter Sturm STURM Consulting Inc."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 104 General Chemistry",
+      "links": [
+        {
+          "text": "CHY 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 121 Environmental Health Law",
+      "links": [
+        {
+          "text": "ENH 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 220 Pathophysiology",
+      "links": [
+        {
+          "text": "ENH 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 100 Professional Practice",
+      "links": [
+        {
+          "text": "POH 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 103 Data Management",
+      "links": [
+        {
+          "text": "POH 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Communication in the Health Sciences",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 440 Biostatistics",
+      "links": [
+        {
+          "text": "ENH 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 322 Introductory Toxicology",
+      "links": [
+        {
+          "text": "OHS 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 201 Determinants of Health",
+      "links": [
+        {
+          "text": "POH 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 152 Introductory Organic Chemistry",
+      "links": [
+        {
+          "text": "CHY 152",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/152/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 301 Biological Agents",
+      "links": [
+        {
+          "text": "OHS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 323 Accident Theory",
+      "links": [
+        {
+          "text": "OHS 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 314 Physical Agents",
+      "links": [
+        {
+          "text": "OHS 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/314/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 421 Occupational Hygiene I",
+      "links": [
+        {
+          "text": "OHS 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/421/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 422 Advanced Toxicology",
+      "links": [
+        {
+          "text": "OHS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 709 Fire and Radiation Safety",
+      "links": [
+        {
+          "text": "OHS 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/709/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 522 Research Methods",
+      "links": [
+        {
+          "text": "ENH 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 509 Systems Safety",
+      "links": [
+        {
+          "text": "OHS 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 523 Safety Evaluation Techniques",
+      "links": [
+        {
+          "text": "OHS 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/523/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies . OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 621 Occupational Hygiene II",
+      "links": [
+        {
+          "text": "OHS 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 516 Ergonomics",
+      "links": [
+        {
+          "text": "OHS 516",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/516/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 407 Environment and Emergencies",
+      "links": [
+        {
+          "text": "POH 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: *One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Students in 4th year may take ENH 66A/B Field Project to replace 2 open electives",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 705 Health Education and Promotion",
+      "links": [
+        {
+          "text": "POH 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 477 Disability Management",
+      "links": [
+        {
+          "text": "OHS 477",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/477/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: *One Open Elective (opens in new window) .",
+      "links": [
+        {
+          "text": "Open Elective (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Students in 4th year may take ENH 66A/B Field Project to replace 2 open electives",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 623 Safety Control Methods",
+      "links": [
+        {
+          "text": "OHS 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 800 Sectoral Applications",
+      "links": [
+        {
+          "text": "OHS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 806 Advanced Health and Safety Law",
+      "links": [
+        {
+          "text": "OHS 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 811 OHSE Management Systems",
+      "links": [
+        {
+          "text": "OHS 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/811/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 104 General Chemistry",
+      "links": [
+        {
+          "text": "CHY 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 121 Environmental Health Law",
+      "links": [
+        {
+          "text": "ENH 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 220 Pathophysiology",
+      "links": [
+        {
+          "text": "ENH 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 100 Professional Practice",
+      "links": [
+        {
+          "text": "POH 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 103 Data Management",
+      "links": [
+        {
+          "text": "POH 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Communication in the Health Sciences",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 440 Biostatistics",
+      "links": [
+        {
+          "text": "ENH 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 322 Introductory Toxicology",
+      "links": [
+        {
+          "text": "OHS 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 201 Determinants of Health",
+      "links": [
+        {
+          "text": "POH 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 152 Introductory Organic Chemistry",
+      "links": [
+        {
+          "text": "CHY 152",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/152/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 301 Biological Agents",
+      "links": [
+        {
+          "text": "OHS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 323 Accident Theory",
+      "links": [
+        {
+          "text": "OHS 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 314 Physical Agents",
+      "links": [
+        {
+          "text": "OHS 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/314/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 421 Occupational Hygiene I",
+      "links": [
+        {
+          "text": "OHS 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/421/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 422 Advanced Toxicology",
+      "links": [
+        {
+          "text": "OHS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 709 Fire and Radiation Safety",
+      "links": [
+        {
+          "text": "OHS 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/709/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective (opens in new window) .",
+      "links": [
+        {
+          "text": "Open Elective (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester (offered in the Winter term)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 621 Occupational Hygiene II",
+      "links": [
+        {
+          "text": "OHS 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 516 Ergonomics",
+      "links": [
+        {
+          "text": "OHS 516",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/516/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 407 Environment and Emergencies",
+      "links": [
+        {
+          "text": "POH 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective (opens in new window) .",
+      "links": [
+        {
+          "text": "Open Elective (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (offered in the Fall term)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 522 Research Methods",
+      "links": [
+        {
+          "text": "ENH 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 509 Systems Safety",
+      "links": [
+        {
+          "text": "OHS 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 523 Safety Evaluation Techniques",
+      "links": [
+        {
+          "text": "OHS 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/523/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective (opens in new window) .",
+      "links": [
+        {
+          "text": "Open Elective (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 705 Health Education and Promotion",
+      "links": [
+        {
+          "text": "POH 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 477 Disability Management",
+      "links": [
+        {
+          "text": "OHS 477",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/477/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective (opens in new window) .",
+      "links": [
+        {
+          "text": "Open Elective (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 623 Safety Control Methods",
+      "links": [
+        {
+          "text": "OHS 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 800 Sectoral Applications",
+      "links": [
+        {
+          "text": "OHS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 806 Advanced Health and Safety Law",
+      "links": [
+        {
+          "text": "OHS 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 811 OHSE Management Systems",
+      "links": [
+        {
+          "text": "OHS 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/811/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sequencing of Academic and Work terms"
+    },
+    {
+      "kind": "text",
+      "text": "The following table shows the sequence of academic and work terms for this program."
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 110 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 210 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 310 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 410 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety (for students admitted Fall 2020 and after)",
+      "links": [
+        {
+          "text": "Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety (for students admitted Fall 2020 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 121 Environmental Health Law",
+      "links": [
+        {
+          "text": "ENH 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 220 Pathophysiology",
+      "links": [
+        {
+          "text": "ENH 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 152 Introductory Organic Chemistry",
+      "links": [
+        {
+          "text": "CHY 152",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/152/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 301 Biological Agents",
+      "links": [
+        {
+          "text": "OHS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 314 Physical Agents",
+      "links": [
+        {
+          "text": "OHS 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 323 Accident Theory",
+      "links": [
+        {
+          "text": "OHS 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/323/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 440 Biostatistics",
+      "links": [
+        {
+          "text": "ENH 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 322 Introductory Toxicology",
+      "links": [
+        {
+          "text": "OHS 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 421 Occupational Hygiene I",
+      "links": [
+        {
+          "text": "OHS 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/421/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 516 Ergonomics",
+      "links": [
+        {
+          "text": "OHS 516",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/516/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 709 Fire and Radiation Safety",
+      "links": [
+        {
+          "text": "OHS 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 201 Determinants of Health",
+      "links": [
+        {
+          "text": "POH 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/201/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 *Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 477 Disability Management",
+      "links": [
+        {
+          "text": "OHS 477",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/477/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 509 Systems Safety",
+      "links": [
+        {
+          "text": "OHS 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 523 Safety Evaluation Techniques",
+      "links": [
+        {
+          "text": "OHS 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 705 Health Education and Promotion",
+      "links": [
+        {
+          "text": "POH 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Required Group 1: Complete one of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 66A/B Field Project OR",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 522 and OHS 800 .",
+      "links": [
+        {
+          "text": "ENH 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+        },
+        {
+          "text": "OHS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: ENH 66A/B requires enrolment permission. See program department for criteria and guidance",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 422 Advanced Toxicology",
+      "links": [
+        {
+          "text": "OHS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 621 Occupational Hygiene II",
+      "links": [
+        {
+          "text": "OHS 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 623 Safety Control Methods",
+      "links": [
+        {
+          "text": "OHS 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 806 Advanced Health and Safety Law",
+      "links": [
+        {
+          "text": "OHS 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 811 OHSE Management Systems",
+      "links": [
+        {
+          "text": "OHS 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/811/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 407 Environment and Emergencies",
+      "links": [
+        {
+          "text": "POH 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Required Group 1: Complete one of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 66A/B Field Project OR",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 522 and OHS 800 .",
+      "links": [
+        {
+          "text": "ENH 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+        },
+        {
+          "text": "OHS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: ENH 66A/B requires enrolment permission. See program department for criteria and guidance",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Students may take ENH 66A/B Field Project to replace ENH 522 and OHS 800 . ENH 66A/B requires enrolment permission. See program department for criteria and guidance",
+      "links": [
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        },
+        {
+          "text": "ENH 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+        },
+        {
+          "text": "OHS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+        },
+        {
+          "text": "ENH 66A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/66A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety Co-Op Program",
+      "links": [
+        {
+          "text": "Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Co-operative Work Terms"
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the regular Two-Year Fast-Track Bachelor of Applied Science: Occupational Health and Safety curriculum students must complete WKT 210 and WKT 310 before graduation.",
+      "links": [
+        {
+          "text": "WKT 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/210/"
+        },
+        {
+          "text": "WKT 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The following table shows the sequence of academic and work terms:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 210",
+      "links": [
+        {
+          "text": "WKT 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 310",
+      "links": [
+        {
+          "text": "WKT 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Occupational Health and Safety Degree Completion Pathway",
+      "links": [
+        {
+          "text": "Occupational Health and Safety Degree Completion Pathway",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/occupational/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 121 Environmental Health Law",
+      "links": [
+        {
+          "text": "ENH 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 220 Pathophysiology",
+      "links": [
+        {
+          "text": "ENH 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 152 Introductory Organic Chemistry",
+      "links": [
+        {
+          "text": "CHY 152",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/152/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 301 Biological Agents",
+      "links": [
+        {
+          "text": "OHS 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 314 Physical Agents",
+      "links": [
+        {
+          "text": "OHS 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/314/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 440 Biostatistics",
+      "links": [
+        {
+          "text": "ENH 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 322 Introductory Toxicology",
+      "links": [
+        {
+          "text": "OHS 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 709 Fire and Radiation Safety",
+      "links": [
+        {
+          "text": "OHS 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/709/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Upper Level Liberal Studies Table B (opens in new window)",
+      "links": [
+        {
+          "text": "Upper Level Liberal Studies Table B (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 522 Research Methods",
+      "links": [
+        {
+          "text": "ENH 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 509 Systems Safety",
+      "links": [
+        {
+          "text": "OHS 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 523 Safety Evaluation Techniques",
+      "links": [
+        {
+          "text": "OHS 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 705 Health Education and Promotion",
+      "links": [
+        {
+          "text": "POH 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/705/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Upper Level Liberal Studies Table B (opens in new window)",
+      "links": [
+        {
+          "text": "Upper Level Liberal Studies Table B (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 422 Advanced Toxicology",
+      "links": [
+        {
+          "text": "OHS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 621 Occupational Hygiene II",
+      "links": [
+        {
+          "text": "OHS 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 623 Safety Control Methods",
+      "links": [
+        {
+          "text": "OHS 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 800 Sectoral Applications",
+      "links": [
+        {
+          "text": "OHS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 806 Advanced Health and Safety Law",
+      "links": [
+        {
+          "text": "OHS 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/806/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Upper Level Liberal Studies Table B (opens in new window)",
+      "links": [
+        {
+          "text": "Upper Level Liberal Studies Table B (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Occupational Health and Safety"
+}

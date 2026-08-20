@@ -1,0 +1,111 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_II/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8543b7380764b7712bb8b14eaf9e5a62a9519f35c4b6a1cbb3c281f237f46ec9",
+  "source_bytes": 47910,
+  "title": "Core Studio Table II",
+  "headings": [
+    "Core Studio Table II"
+  ],
+  "course_codes_referenced": [
+    "ARC 920",
+    "BSC 720",
+    "BSC 820",
+    "PMT 720",
+    "PMT 820"
+  ],
+  "official_links": [
+    {
+      "text": "Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+    },
+    {
+      "text": "ARC 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/920/"
+    },
+    {
+      "text": "BSC 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/720/"
+    },
+    {
+      "text": "BSC 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/820/"
+    },
+    {
+      "text": "PMT 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/720/"
+    },
+    {
+      "text": "PMT 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/820/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Core Studio Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Architectural Science",
+      "links": [
+        {
+          "text": "Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARC 920 Advanced Architecture Studio",
+      "links": [
+        {
+          "text": "ARC 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 720 Building Science Studio I",
+      "links": [
+        {
+          "text": "BSC 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 820 Building Science Studio II",
+      "links": [
+        {
+          "text": "BSC 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 720 Project Management Studio in Development",
+      "links": [
+        {
+          "text": "PMT 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 820 Project Management Studio II",
+      "links": [
+        {
+          "text": "PMT 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/820/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Core Studio Table II"
+}

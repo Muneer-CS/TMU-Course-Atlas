@@ -1,0 +1,3536 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d94d5b9845a9e983ed495a65ab458d66ef924b4bf85edf011361b080704bc3a2",
+  "source_bytes": 213076,
+  "title": "Midwifery",
+  "headings": [
+    "Midwifery",
+    "Admission Information - Full-Time and Part-Time Programs",
+    "Notes:",
+    "Application Procedures",
+    "Police Reference Check (Vulnerable Sector) and Health Screening Requirements",
+    "Admission Information - Post-Baccalaureate Program for Health Professionals",
+    "Police Reference Check (Vulnerable Sector) and Health Screening Requirements",
+    "Program Overview/Curriculum Information",
+    "Curriculum Information",
+    "Transfer Credit",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2023 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th Semester (Offered in Spring/Summer Term Only)",
+    "8th & 9th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2022 and before)",
+    "8th & 9th Semester",
+    "Part-Time, First-Year Entry Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th Semester (Offered in Spring/Summer Term Only)",
+    "8th & 9th Semester",
+    "Full-Time, Post-Baccalaureate Program for Health Professionals (for students admitted Fall 2024 and after)",
+    "1st & 2nd Semester",
+    "3rd Semester (Offered in Spring/Summer Term Only)",
+    "4th & 5th Semester",
+    "6th Semester (Offered in Spring/Summer Term Only)",
+    "Academic Standing Variation - Full-Time, Four-Year Program and Part-Time, First-Year Entry Program",
+    "Academic Standing Variation - Full-Time, Post-Baccalaureate Program for Health Professionals",
+    "Graduation Requirement Variation",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BLG 101",
+    "BLG 111",
+    "CMN 230",
+    "ENG 602",
+    "ENG 621",
+    "FNF 400",
+    "FRS 502",
+    "HSM 301",
+    "INT 902",
+    "INT 904",
+    "INT 905",
+    "INT 907",
+    "INT 910",
+    "INT 911",
+    "INT 912",
+    "MWF 108",
+    "MWF 109",
+    "MWF 113",
+    "MWF 114",
+    "MWF 115",
+    "MWF 120",
+    "MWF 121",
+    "MWF 122",
+    "MWF 123",
+    "MWF 150",
+    "MWF 155",
+    "MWF 201",
+    "MWF 210",
+    "MWF 215",
+    "MWF 220",
+    "MWF 250",
+    "MWF 251",
+    "MWF 252",
+    "MWF 304",
+    "MWF 315",
+    "MWF 320",
+    "MWF 325",
+    "MWF 344",
+    "MWF 345",
+    "MWF 350",
+    "MWF 410",
+    "MWF 420",
+    "MWF 508",
+    "MWF 510",
+    "PHL 302",
+    "PHL 509",
+    "POG 315",
+    "POL 501",
+    "PSY 605",
+    "PSY 802",
+    "PSY 805",
+    "SOC 502",
+    "SOC 506",
+    "SOC 600",
+    "SOC 603",
+    "SOC 605",
+    "SOC 606",
+    "SOC 608",
+    "SOC 609",
+    "SOC 703",
+    "SOC 801",
+    "SOC 885"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Community Services",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+    },
+    {
+      "text": "MWF 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+    },
+    {
+      "text": "MWF 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "BLG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+    },
+    {
+      "text": "MWF 11A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+    },
+    {
+      "text": "MWF 115",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/115/"
+    },
+    {
+      "text": "CMN 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+    },
+    {
+      "text": "ENG 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+    },
+    {
+      "text": "ENG 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+    },
+    {
+      "text": "FNF 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+    },
+    {
+      "text": "FRS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/502/"
+    },
+    {
+      "text": "MWF 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+    },
+    {
+      "text": "MWF 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+    },
+    {
+      "text": "MWF 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/510/"
+    },
+    {
+      "text": "POL 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+    },
+    {
+      "text": "SOC 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+    },
+    {
+      "text": "SOC 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+    },
+    {
+      "text": "SOC 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+    },
+    {
+      "text": "SOC 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+    },
+    {
+      "text": "SOC 885",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "BLG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+    },
+    {
+      "text": "MWF 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/113/"
+    },
+    {
+      "text": "MWF 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/108/"
+    },
+    {
+      "text": "MWF 114",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+    },
+    {
+      "text": "MWF 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+    },
+    {
+      "text": "MWF 251",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+    },
+    {
+      "text": "MWF 252",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+    },
+    {
+      "text": "HSM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+    },
+    {
+      "text": "INT 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+    },
+    {
+      "text": "INT 904",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+    },
+    {
+      "text": "INT 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+    },
+    {
+      "text": "INT 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+    },
+    {
+      "text": "INT 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+    },
+    {
+      "text": "INT 911",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+    },
+    {
+      "text": "INT 912",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+    },
+    {
+      "text": "MWF 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/210/"
+    },
+    {
+      "text": "MWF 215",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/215/"
+    },
+    {
+      "text": "MWF 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/304/"
+    },
+    {
+      "text": "PHL 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+    },
+    {
+      "text": "PHL 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+    },
+    {
+      "text": "POG 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/315/"
+    },
+    {
+      "text": "PSY 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/605/"
+    },
+    {
+      "text": "PSY 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+    },
+    {
+      "text": "PSY 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/805/"
+    },
+    {
+      "text": "SOC 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+    },
+    {
+      "text": "SOC 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+    },
+    {
+      "text": "SOC 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/600/"
+    },
+    {
+      "text": "SOC 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+    },
+    {
+      "text": "SOC 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+    },
+    {
+      "text": "SOC 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/801/"
+    },
+    {
+      "text": "MWF 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+    },
+    {
+      "text": "MWF 344",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+    },
+    {
+      "text": "MWF 123",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/123/"
+    },
+    {
+      "text": "MWF 345",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+    },
+    {
+      "text": "MWF 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+    },
+    {
+      "text": "MWF 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+    },
+    {
+      "text": "MWF 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+    },
+    {
+      "text": "MWF 155",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/155/"
+    },
+    {
+      "text": "MWF 42A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/42A/"
+    },
+    {
+      "text": "MWF 41A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/41A/"
+    },
+    {
+      "text": "MWF 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/315/"
+    },
+    {
+      "text": "MWF 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/109/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Midwifery"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Health Sciences (BHSc)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Midwifery Education Program",
+      "links": [
+        {
+          "text": "Midwifery Education Program",
+          "url": "https://www.torontomu.ca/content/ryerson/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Part-time, first-year entry program. Full-time, Post-Baccalaureate Program for Health Professionals."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time and Part-Time Programs",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time and Part-Time Programs",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U courses in English, Biology (SBI4U), Chemistry (SCH4U), and one Grade 12 U or M course in Canadian and World Studies or the Social Sciences and the Humanities."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The overall average required for consideration is 75% or higher in six Grade 12 U/M courses. A grade of 75% or higher is required in each of the subject prerequisites."
+    },
+    {
+      "kind": "list_item",
+      "text": "Mature students as defined by the University are required to have the four specific Grade 12 U/M courses listed above and grades of 75% or higher in each of the four subject areas (or equivalent)."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants who have completed education at an accredited university or a public Canadian college (or equivalent) must present a minimum average of 75% or higher in their top ten (10) post-secondary courses. Applicants with post-secondary education who have completed less than ten (10) post-secondary courses must present an overall average of at least 75%."
+    },
+    {
+      "kind": "list_item",
+      "text": "The Midwifery Education Program (MEP) is a competitive limited enrolment program. High school graduates are encouraged to gain further college or university experience prior to applying to the Midwifery program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, the strongest candidates will be invited to the interview stage of the admissions process."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants who completed Biology (SBI4U) and Chemistry (SCH4U) more than 5 years ago are advised to consider additional biology and chemistry courses to prepare for the science curriculum in the Midwifery program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Admission guidelines are subject to change. Please review the admission guidelines outlined in the Midwifery application package available on the Midwifery program website .",
+      "links": [
+        {
+          "text": "Midwifery program website",
+          "url": "https://www.torontomu.ca/content/ryerson/midwifery/admissions/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Successful applicants should be aware that their placements may be offered in either the Greater Toronto Area or Greater Ontario Area."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Application Procedures"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants must:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Submit an online application form. Visit Applications and Related Forms for details on which form to use.",
+      "links": [
+        {
+          "text": "Applications and Related Forms",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/applications-related-forms/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Arrange for submission of secondary and post-secondary transcripts. Visit Submission of Documents for instructions.",
+      "links": [
+        {
+          "text": "Submission of Documents",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/apply/document-submission/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Submit the Midwifery Supplementary Information Form. Visit the Midwifery program page for details:",
+      "links": [
+        {
+          "text": "Midwifery program page",
+          "url": "https://www.torontomu.ca/content/ryerson/midwifery/admissions/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Submit all materials by the deadline of February 1st to Undergraduate Admissions. When February 1st falls on a weekend, application materials will be accepted on the first Monday thereafter."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Police Reference Check (Vulnerable Sector) and Health Screening Requirements"
+    },
+    {
+      "kind": "text",
+      "text": "The Midwifery Education Program requires that all students complete a current Police Reference Check for the vulnerable sector and ensure health screening requirements are current, including a primary vaccine series for COVID. These are required before entering MWF 150 , which is normally offered in the first semester of the program. As the police reference checks and health screening requirements can take some months to secure, admitted students should start these processes well in advance of the start of classes.",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Post-Baccalaureate Program for Health Professionals",
+      "links": [
+        {
+          "text": "Admission Information - Post-Baccalaureate Program for Health Professionals",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Post-Baccalaureate Program for Health Professionals typically requires two years (six semesters) of full-time study. Applicants with a health professional baccalaureate degree, such as a Bachelor of Science in Nursing, from an accredited university, or equivalent, may be considered candidates for this accelerated stream within the Midwifery Education Program. Recent and relevant labour and delivery experience is required, which is defined as the equivalent of one year of full-time experience. All baccalaureate degree requirements must be completed by June 30th of the year of entry into Toronto Metropolitan University's Post-Baccalaureate Midwifery Program."
+    },
+    {
+      "kind": "text",
+      "text": "Consideration for the Post-Baccalaureate Program for Health Professionals (PBHP) is by invitation only. Potential candidates must apply for and meet the admission requirements for the Full-Time, Four-Year Program. If selected to interview, applicants identified as holding a health professional degree will be offered the opportunity to elaborate on their labour and delivery experience in the interview."
+    },
+    {
+      "kind": "text",
+      "text": "Note: Successful applicants should be aware that their placements may be offered in either the Greater Toronto Area or Greater Ontario Area."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Police Reference Check (Vulnerable Sector) and Health Screening Requirements"
+    },
+    {
+      "kind": "text",
+      "text": "The Midwifery Education Program requires that all students complete a current Police Reference Check for the vulnerable sector and ensure health screening requirements are current, including a primary vaccine series for COVID. These are required before entering MWF 150 , which is normally offered in the first semester of the program. As the police reference checks and health screening requirements can take some months to secure, admitted students should start these processes well in advance of the start of classes.",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This innovative program has been offering midwifery education in partnership with McMaster and Laurentian universities between 1993 and 2020. Since then, McMaster has been our consortium partner. The baccalaureate degree program prepares graduates to be eligible to apply for registration as midwives in Ontario, and meets recognized national and international standards. Graduates work as registered health care professionals who provide primary care to people with low-risk pregnancies, conduct births in home, birth centres and hospital settings, and provide care after birth for the birthing parent and their babies up to six weeks of age."
+    },
+    {
+      "kind": "text",
+      "text": "The Midwifery Education Program prepares graduates to engage in lifelong learning. Working as a midwife requires a keen intelligence combined with flexibility and compassion. Midwives need a thorough understanding of normal and complex conditions affecting pregnancy, birth and the postpartum care of the birthing parent and the newborn and at times may need to make clinical judgements under stressful or emergency situations."
+    },
+    {
+      "kind": "text",
+      "text": "The Midwifery Education Program equips students with the clinical and communication skills needed to work effectively and competently as primary maternity care providers. Students learn critical thinking and problem solving skills, how to apply research evidence to provide high quality care, and develop an understanding of the relevance of cross-cultural issues to midwifery work. The Midwifery Education Program sees its role in education and in the midwifery profession as part of a broader commitment to social justice."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information"
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum includes courses from natural sciences, social sciences, health sciences, gender and women's studies and electives in addition to clinical midwifery courses. A variety of course formats are used, most often small group tutorials."
+    },
+    {
+      "kind": "text",
+      "text": "Students enrolled in the non-clinical midwifery courses must attend classes at Toronto Met."
+    },
+    {
+      "kind": "text",
+      "text": "Students in the full-time and part-time programs must complete all first, second and third semester non-clinical courses before proceeding to the first clinical placement, MWF 120 or MWF 121 . Part-time students may complete the first, second and third semester non-clinical courses on a part-time basis. The sequence of courses and course load are arranged individually. Upon entering MWF 120 or MWF 121 , full-time participation will be necessary for all students for the duration of the program.",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        },
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The maximum length of time to complete the program is seven years from the first admission to the Full-Time, Four-Year Program or the Part-Time, First-Year Entry Program or within five years of the first admission to the Full-Time, Post-Baccalaureate Program for Health Professionals. Please note the Full-Time, Four-Year Program or the Part-Time, First-Year Entry Program must be completed within 4 years of completing the first clinical placement, MWF 120 or MWF 121 .",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Post-Baccalaureate Program for Health Professionals is offered on a full-time basis only. Post-Baccalaureate students must complete all first semester non-clinical courses before proceeding to the first clinical placement, MWF 120 or MWF 121 . Please note: The clinical placement term is completed in the subsequent term following the successful completion of the \"A\" portion of a multi-term course (as the final graded component in that course).",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transfer Credit"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants with previous university courses may be exempt from electives or other non-clinical courses in the first three semesters. The actual amount of transfer credit awarded to an applicant will not be determined until the conclusion of the overall admissions process; each application will be assessed on an individual basis. An Offer of Admission does not guarantee that transfer credits will be awarded. Generally, transfer credits will not reduce the time required to complete the program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2023 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2023 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 101 Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 11A/B Social Justice in Midwifery",
+      "links": [
+        {
+          "text": "MWF 11A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 115 Research Methods for Midwives",
+      "links": [
+        {
+          "text": "MWF 115",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/115/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 150 Introduction to Midwifery",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 - Gender and Women's Studies: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 230 Trans Studies and Communication",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 602 Women's Writing",
+      "links": [
+        {
+          "text": "ENG 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 621 Women's Texts, Global Contexts",
+      "links": [
+        {
+          "text": "ENG 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRS 502 Feminism and French Literature",
+      "links": [
+        {
+          "text": "FRS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 510 Topics in African Mothering Traditions",
+      "links": [
+        {
+          "text": "MWF 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 501 Women, Power and Politics",
+      "links": [
+        {
+          "text": "POL 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 603 Sociology of Gender",
+      "links": [
+        {
+          "text": "SOC 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 609 Gender and Global Human Rights",
+      "links": [
+        {
+          "text": "SOC 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 703 Women, Power and the Global South",
+      "links": [
+        {
+          "text": "SOC 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 111 Anatomy and Physiology II",
+      "links": [
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 11A/B Social Justice in Midwifery",
+      "links": [
+        {
+          "text": "MWF 11A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 113 Life Sciences for Midwifery",
+      "links": [
+        {
+          "text": "MWF 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 108 Introduction to Indigenous Midwifery",
+      "links": [
+        {
+          "text": "MWF 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 - Gender and Women's Studies: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 230 Trans Studies and Communication",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 602 Women's Writing",
+      "links": [
+        {
+          "text": "ENG 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 621 Women's Texts, Global Contexts",
+      "links": [
+        {
+          "text": "ENG 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRS 502 Feminism and French Literature",
+      "links": [
+        {
+          "text": "FRS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 510 Topics in African Mothering Traditions",
+      "links": [
+        {
+          "text": "MWF 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 501 Women, Power and Politics",
+      "links": [
+        {
+          "text": "POL 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 603 Sociology of Gender",
+      "links": [
+        {
+          "text": "SOC 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 609 Gender and Global Human Rights",
+      "links": [
+        {
+          "text": "SOC 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 703 Women, Power and the Global South",
+      "links": [
+        {
+          "text": "SOC 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 114 Pharmacotherapy",
+      "links": [
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 201 Reproductive Physiology",
+      "links": [
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 251 Midwifery: Clinical Skills I",
+      "links": [
+        {
+          "text": "MWF 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 252 Midwifery: Clinical Skills II",
+      "links": [
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Two courses from the following"
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 301 The Healthcare Systems",
+      "links": [
+        {
+          "text": "HSM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 902 Disability Issues",
+      "links": [
+        {
+          "text": "INT 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 904 Health Promotion and Community Development",
+      "links": [
+        {
+          "text": "INT 904",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 905 Conflict Resolution in Community Services",
+      "links": [
+        {
+          "text": "INT 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 907 Team Work for Community Services",
+      "links": [
+        {
+          "text": "INT 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 910 Indigenous Peoples, Pol. and Reconciliation",
+      "links": [
+        {
+          "text": "INT 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 911 International Community Development",
+      "links": [
+        {
+          "text": "INT 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 912 Community Development: International Field Experience",
+      "links": [
+        {
+          "text": "INT 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 210 Independent Studies",
+      "links": [
+        {
+          "text": "MWF 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 215 Special Topics",
+      "links": [
+        {
+          "text": "MWF 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/215/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 304 Principles and Methods of Research",
+      "links": [
+        {
+          "text": "MWF 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 302 Ethics and Health Care",
+      "links": [
+        {
+          "text": "PHL 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 509 Bioethics",
+      "links": [
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 315 Equity and Human Rights in Canada",
+      "links": [
+        {
+          "text": "POG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 605 Psychology of Health and Health Care",
+      "links": [
+        {
+          "text": "PSY 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 802 Death, Dying and Bereavement",
+      "links": [
+        {
+          "text": "PSY 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 805 Adjustment, Stress and Coping",
+      "links": [
+        {
+          "text": "PSY 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 502 Violence and the Family",
+      "links": [
+        {
+          "text": "SOC 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 506 Health and Society",
+      "links": [
+        {
+          "text": "SOC 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 600 Globalization and Health",
+      "links": [
+        {
+          "text": "SOC 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 605 Families: Difference and Diversity",
+      "links": [
+        {
+          "text": "SOC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 606 Families and Care Work",
+      "links": [
+        {
+          "text": "SOC 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 801 Global Power Relations",
+      "links": [
+        {
+          "text": "SOC 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/801/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 121 * Fundamentals in Midwifery Care I",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis. All 1st, 2nd and 3rd Semester courses must be completed prior to enrolling in MWF 121 .",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 122 * Fundamentals in Midwifery Care II",
+      "links": [
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 344 Advanced Clinical Skills I",
+      "links": [
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 123 * Fundamentals in Midwifery Care III",
+      "links": [
+        {
+          "text": "MWF 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/123/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 345 Advanced Clinical Skills II",
+      "links": [
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th Semester (Offered in Spring/Summer Term Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 320 * Midwifery: Complex Care I",
+      "links": [
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "8th & 9th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 420 * Midwifery: Complex Care II",
+      "links": [
+        {
+          "text": "MWF 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "9th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 410 * Midwifery Care Clerkship",
+      "links": [
+        {
+          "text": "MWF 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2022 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2022 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "8th & 9th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 420 * Midwifery: Complex Care II",
+      "links": [
+        {
+          "text": "MWF 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "9th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 410 * Midwifery Care Clerkship",
+      "links": [
+        {
+          "text": "MWF 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 101 Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 11A/B Social Justice in Midwifery",
+      "links": [
+        {
+          "text": "MWF 11A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 115 Research Methods for Midwives",
+      "links": [
+        {
+          "text": "MWF 115",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/115/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 150 Introduction to Midwifery",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 - Gender and Women's Studies: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 230 Trans Studies and Communication",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 602 Women's Writing",
+      "links": [
+        {
+          "text": "ENG 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 621 Women's Texts, Global Contexts",
+      "links": [
+        {
+          "text": "ENG 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRS 502 Feminism and French Literature",
+      "links": [
+        {
+          "text": "FRS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 510 Topics in African Mothering Traditions",
+      "links": [
+        {
+          "text": "MWF 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 501 Women, Power and Politics",
+      "links": [
+        {
+          "text": "POL 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 603 Sociology of Gender",
+      "links": [
+        {
+          "text": "SOC 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 609 Gender and Global Human Rights",
+      "links": [
+        {
+          "text": "SOC 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 703 Women, Power and the Global South",
+      "links": [
+        {
+          "text": "SOC 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 111 Anatomy and Physiology II",
+      "links": [
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 11A/B Social Justice in Midwifery",
+      "links": [
+        {
+          "text": "MWF 11A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 113 Life Sciences for Midwifery",
+      "links": [
+        {
+          "text": "MWF 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 108 Introduction to Indigenous Midwifery",
+      "links": [
+        {
+          "text": "MWF 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/108/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 - Gender and Women's Studies: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 230 Trans Studies and Communication",
+      "links": [
+        {
+          "text": "CMN 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 602 Women's Writing",
+      "links": [
+        {
+          "text": "ENG 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 621 Women's Texts, Global Contexts",
+      "links": [
+        {
+          "text": "ENG 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRS 502 Feminism and French Literature",
+      "links": [
+        {
+          "text": "FRS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french-studies/FRS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 510 Topics in African Mothering Traditions",
+      "links": [
+        {
+          "text": "MWF 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 501 Women, Power and Politics",
+      "links": [
+        {
+          "text": "POL 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 603 Sociology of Gender",
+      "links": [
+        {
+          "text": "SOC 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 608 Women, Power and Change",
+      "links": [
+        {
+          "text": "SOC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 609 Gender and Global Human Rights",
+      "links": [
+        {
+          "text": "SOC 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 703 Women, Power and the Global South",
+      "links": [
+        {
+          "text": "SOC 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 885 Women, Islam and Modernity",
+      "links": [
+        {
+          "text": "SOC 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/885/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 114 Pharmacotherapy",
+      "links": [
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 201 Reproductive Physiology",
+      "links": [
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 251 Midwifery: Clinical Skills I",
+      "links": [
+        {
+          "text": "MWF 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 252 Midwifery: Clinical Skills II",
+      "links": [
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2: Two courses from the following"
+    },
+    {
+      "kind": "list_item",
+      "text": "HSM 301 The Healthcare Systems",
+      "links": [
+        {
+          "text": "HSM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 902 Disability Issues",
+      "links": [
+        {
+          "text": "INT 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 904 Health Promotion and Community Development",
+      "links": [
+        {
+          "text": "INT 904",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 905 Conflict Resolution in Community Services",
+      "links": [
+        {
+          "text": "INT 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 907 Team Work for Community Services",
+      "links": [
+        {
+          "text": "INT 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 910 Indigenous Peoples, Pol and Reconciliation",
+      "links": [
+        {
+          "text": "INT 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 911 International Community Development",
+      "links": [
+        {
+          "text": "INT 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 912 Community Development: International Field Experience",
+      "links": [
+        {
+          "text": "INT 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 210 Independent Studies",
+      "links": [
+        {
+          "text": "MWF 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 215 Special Topics",
+      "links": [
+        {
+          "text": "MWF 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/215/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 304 Principles and Methods of Research",
+      "links": [
+        {
+          "text": "MWF 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 508 Black Family Health: Decolonizing Systems",
+      "links": [
+        {
+          "text": "MWF 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 302 Ethics and Health Care",
+      "links": [
+        {
+          "text": "PHL 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 509 Bioethics",
+      "links": [
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 315 Equity and Human Rights in Canada",
+      "links": [
+        {
+          "text": "POG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 605 Psychology of Health and Health Care",
+      "links": [
+        {
+          "text": "PSY 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 802 Death, Dying and Bereavement",
+      "links": [
+        {
+          "text": "PSY 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 805 Adjustment, Stress and Coping",
+      "links": [
+        {
+          "text": "PSY 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 502 Violence and the Family",
+      "links": [
+        {
+          "text": "SOC 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 506 Health and Society",
+      "links": [
+        {
+          "text": "SOC 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 600 Globalization and Health",
+      "links": [
+        {
+          "text": "SOC 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 605 Families: Difference and Diversity",
+      "links": [
+        {
+          "text": "SOC 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 606 Families and Care Work",
+      "links": [
+        {
+          "text": "SOC 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 801 Global Power Relations",
+      "links": [
+        {
+          "text": "SOC 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/801/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 121 * Fundamentals in Midwifery Care I",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis. All 1st, 2nd and 3rd Semester courses must be completed prior to enrolling in MWF 121 .",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 122 * Fundamentals in Midwifery Care II",
+      "links": [
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 344 Advanced Clinical Skills I",
+      "links": [
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 123 * Fundamentals in Midwifery Care III",
+      "links": [
+        {
+          "text": "MWF 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/123/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 345 Advanced Clinical Skills II",
+      "links": [
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th Semester (Offered in Spring/Summer Term Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 320 * Midwifery: Complex Care I",
+      "links": [
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "8th & 9th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 420 * Midwifery: Complex Care II",
+      "links": [
+        {
+          "text": "MWF 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "9th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 410 * Midwifery Care Clerkship",
+      "links": [
+        {
+          "text": "MWF 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Post-Baccalaureate Program for Health Professionals (for students admitted Fall 2024 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Post-Baccalaureate Program for Health Professionals (for students admitted Fall 2024 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "This program is offered on a full-time basis only"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 114 Pharmacotherapy",
+      "links": [
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 150 Introduction to Midwifery",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 155 Social Justice in Midwifery",
+      "links": [
+        {
+          "text": "MWF 155",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/155/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 201 Reproductive Physiology",
+      "links": [
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 252 Clinical Skills II",
+      "links": [
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 121 * Fundamentals in Midwifery Care I",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 345 Advanced Clinical Skills II",
+      "links": [
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis. All 1st Semester courses must be completed prior to enrolling in MWF 121 .",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd Semester (Offered in Spring/Summer Term Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 320 * Midwifery: Complex Care I",
+      "links": [
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "4th & 5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 42A/B * Midwifery: Complex Care II",
+      "links": [
+        {
+          "text": "MWF 42A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/42A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 122 * Fundamentals in Midwifery Care II",
+      "links": [
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 344 Advanced Clinical Skills I",
+      "links": [
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 41A/B * Midwifery Care Clerkship",
+      "links": [
+        {
+          "text": "MWF 41A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/41A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 42A/B * Midwifery: Complex Care II",
+      "links": [
+        {
+          "text": "MWF 42A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/42A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 315 Midwifery Issues",
+      "links": [
+        {
+          "text": "MWF 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/315/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "6th Semester (Offered in Spring/Summer Term Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 41A/B * Midwifery Care Clerkship",
+      "links": [
+        {
+          "text": "MWF 41A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/41A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation - Full-Time, Four-Year Program and Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Academic Standing Variation - Full-Time, Four-Year Program and Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Standing"
+    },
+    {
+      "kind": "text",
+      "text": "Grade"
+    },
+    {
+      "kind": "text",
+      "text": "Consequence/Comment"
+    },
+    {
+      "kind": "text",
+      "text": "Clear"
+    },
+    {
+      "kind": "text",
+      "text": "A CGPA of 2.33 or higher, And ‘C-’ or above in Midwifery Required Courses: ● MWF 11A/B ● MWF 108 ● MWF 109 or MWF 115 ● MWF 113 ● MWF 114 ● MWF 201 ● MWF 315 ● BLG 10A/B or BLG 101 and BLG 111",
+      "links": [
+        {
+          "text": "MWF 11A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+        },
+        {
+          "text": "MWF 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/108/"
+        },
+        {
+          "text": "MWF 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/109/"
+        },
+        {
+          "text": "MWF 115",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/115/"
+        },
+        {
+          "text": "MWF 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/113/"
+        },
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        },
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        },
+        {
+          "text": "MWF 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/315/"
+        },
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        },
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 350 or MWF 123 ● MWF 320 ● MWF 410 ● MWF 420",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        },
+        {
+          "text": "MWF 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+        },
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        },
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        },
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        },
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        },
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        },
+        {
+          "text": "MWF 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/123/"
+        },
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        },
+        {
+          "text": "MWF 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+        },
+        {
+          "text": "MWF 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Probationary"
+    },
+    {
+      "kind": "text",
+      "text": "‘D+’ or below in Midwifery Required Courses or ‘C+’ or below in Midwifery Clinical Skills Preparation Courses or ‘FLD/F/FNA’ in Midwifery Clinical Placement Courses."
+    },
+    {
+      "kind": "text",
+      "text": "● Probationary Contract required. ● Repeat all Midwifery Required Courses previously completed with a grade of ‘D+’ or below. ● Repeat all Midwifery Clinical Skills Preparation Courses previously completed with a grade of ‘C+’ or below. ● Repeat all Midwifery Clinical Placement Courses without a grade of ‘PSD.’"
+    },
+    {
+      "kind": "text",
+      "text": "Standing Variation Withdrawal"
+    },
+    {
+      "kind": "text",
+      "text": "A CGPA of 2.33 or higher, and failure in two Midwifery Required Courses and/or Clinical Preparation Courses in the same academic term or A CGPA of 2.33 or higher, and failure to achieve the minimum grade requirement in a repeated or new Midwifery Required Course, Clinical Preparation Course and/or Clinical Placement Course."
+    },
+    {
+      "kind": "text",
+      "text": "● May not apply for program reinstatement. ● Eligible for immediate consideration for transfer to other undergraduate programs, subject to competitive admissions process and timelines."
+    },
+    {
+      "kind": "text",
+      "text": "Permanent Program Withdrawal"
+    },
+    {
+      "kind": "text",
+      "text": "Failure to achieve a TGPA of 2.33 while on probation. The program reserves the right to remove students from a clinical placement or laboratory setting for unsafe clinical practice or behaviour that places clients or others at risk or that violates the Ontario Midwifery Act. The program reserves the right to withdraw students from the program for unprofessional behaviour or professional misconduct."
+    },
+    {
+      "kind": "text",
+      "text": "May not apply for readmission to the program."
+    },
+    {
+      "kind": "text",
+      "text": "Midwifery Clinical Courses"
+    },
+    {
+      "kind": "text",
+      "text": "Clinical skills preparation courses"
+    },
+    {
+      "kind": "text",
+      "text": "MWF 150 MWF 250 or MWF 251 and MWF 252 MWF 344 MWF 345",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        },
+        {
+          "text": "MWF 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+        },
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        },
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        },
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Clinical placement courses"
+    },
+    {
+      "kind": "text",
+      "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        },
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        },
+        {
+          "text": "MWF 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/123/"
+        },
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        },
+        {
+          "text": "MWF 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+        },
+        {
+          "text": "MWF 41A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/41A/"
+        },
+        {
+          "text": "MWF 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+        },
+        {
+          "text": "MWF 42A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/42A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation - Full-Time, Post-Baccalaureate Program for Health Professionals",
+      "links": [
+        {
+          "text": "Academic Standing Variation - Full-Time, Post-Baccalaureate Program for Health Professionals",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Standing"
+    },
+    {
+      "kind": "text",
+      "text": "Grade"
+    },
+    {
+      "kind": "text",
+      "text": "Consequence/Comment"
+    },
+    {
+      "kind": "text",
+      "text": "Clear"
+    },
+    {
+      "kind": "text",
+      "text": "A CGPA of 2.33 or higher, And ‘C-’ or above in Midwifery Required Courses: ● MWF 114 ● MWF 155 ● MWF 201 ● MWF 315",
+      "links": [
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        },
+        {
+          "text": "MWF 155",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/155/"
+        },
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        },
+        {
+          "text": "MWF 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/315/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 252 ● MWF 344 ● MWF 345 And ‘PSD’ in Midwifery Clinical Placement Courses: ● MWF 120 and MWF 220 or MWF 121 and MWF 122 ● MWF 320 ● MWF 41A/B ● MWF 42A/B",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        },
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        },
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        },
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        },
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        },
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        },
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        },
+        {
+          "text": "MWF 41A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/41A/"
+        },
+        {
+          "text": "MWF 42A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/42A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Probationary"
+    },
+    {
+      "kind": "text",
+      "text": "‘D+’ or below in Midwifery Required Courses or ‘C+’ or below in Midwifery Clinical Skills Preparation Courses or ‘FLD/F/FNA’ in Midwifery Clinical Placement Courses."
+    },
+    {
+      "kind": "text",
+      "text": "● Probationary Contract required. ● Repeat all Midwifery Required Courses previously completed with a grade of ‘D+’ or below. ● Repeat all Midwifery Clinical Skills Preparation Courses previously completed with a grade of ‘C+’ or below. ● Repeat all Midwifery Clinical Placement Courses without a grade of ‘PSD.’"
+    },
+    {
+      "kind": "text",
+      "text": "Standing Variation Withdrawal"
+    },
+    {
+      "kind": "text",
+      "text": "A CGPA of 2.33 or higher, and failure in two Midwifery Required Courses and/or Clinical Preparation Courses in the same academic term or A CGPA of 2.33 or higher, and failure to achieve the minimum grade requirement in a repeated or new Midwifery Required Course, Clinical Preparation Course and/or Clinical Placement Course."
+    },
+    {
+      "kind": "text",
+      "text": "● May not apply for program reinstatement. ● Eligible for immediate consideration for transfer to other undergraduate programs, subject to competitive admissions process and timelines."
+    },
+    {
+      "kind": "text",
+      "text": "Permanent Program Withdrawal"
+    },
+    {
+      "kind": "text",
+      "text": "Failure to achieve a TGPA of 2.33 while on probation. The program reserves the right to remove students from a clinical placement or laboratory setting for unsafe clinical practice or behaviour that places clients or others at risk or that violates the Ontario Midwifery Act. The program reserves the right to withdraw students from the program for unprofessional behaviour or professional misconduct."
+    },
+    {
+      "kind": "text",
+      "text": "May not apply for readmission to the program."
+    },
+    {
+      "kind": "text",
+      "text": "Midwifery Clinical Courses"
+    },
+    {
+      "kind": "text",
+      "text": "Clinical skills preparation courses"
+    },
+    {
+      "kind": "text",
+      "text": "MWF 150 MWF 250 or MWF 251 and MWF 252 MWF 344 MWF 345",
+      "links": [
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        },
+        {
+          "text": "MWF 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+        },
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        },
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        },
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Clinical placement courses"
+    },
+    {
+      "kind": "text",
+      "text": "MWF 120 and MWF 220 or MWF 121 and MWF 122 MWF 350 or MWF 123 MWF 320 MWF 410 or MWF 41A/B MWF 420 or MWF 42A/B",
+      "links": [
+        {
+          "text": "MWF 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/121/"
+        },
+        {
+          "text": "MWF 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/122/"
+        },
+        {
+          "text": "MWF 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/123/"
+        },
+        {
+          "text": "MWF 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/320/"
+        },
+        {
+          "text": "MWF 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/410/"
+        },
+        {
+          "text": "MWF 41A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/41A/"
+        },
+        {
+          "text": "MWF 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/420/"
+        },
+        {
+          "text": "MWF 42A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/42A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Graduation Requirement Variation",
+      "links": [
+        {
+          "text": "Graduation Requirement Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to fulfilling the general academic requirements for graduation, students in any Midwifery program must also meet the following conditions:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Complete all studies within the allocated program timespan. Please refer to the Program Overview/Curriculum Information."
+    },
+    {
+      "kind": "list_item",
+      "text": "Achieve an overall academic performance of at least a cumulative grade point average (CGPA) of 2.33 in graded Toronto Metropolitan University courses."
+    },
+    {
+      "kind": "list_item",
+      "text": "Achieve the minimum grade requirements of the program:"
+    },
+    {
+      "kind": "text",
+      "text": "Midwifery Program"
+    },
+    {
+      "kind": "text",
+      "text": "Minimum Grade Requirements"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year Program and Part-Time, First-Year Entry Program"
+    },
+    {
+      "kind": "text",
+      "text": "‘C-’ or above in Midwifery Required Courses: ● MWF 11A/B ● MWF 108 ● MWF 109 or MWF 115 ● MWF 113 ● MWF 114 ● MWF 201 ● MWF 315 ● BLG 10A/B or BLG 101 and BLG 111 And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 251 and MWF 252 ● MWF 344 ● MWF 345",
+      "links": [
+        {
+          "text": "MWF 11A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/11A/"
+        },
+        {
+          "text": "MWF 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/108/"
+        },
+        {
+          "text": "MWF 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/109/"
+        },
+        {
+          "text": "MWF 115",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/115/"
+        },
+        {
+          "text": "MWF 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/113/"
+        },
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        },
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        },
+        {
+          "text": "MWF 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/315/"
+        },
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        },
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        },
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        },
+        {
+          "text": "MWF 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/251/"
+        },
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        },
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        },
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Post-Baccalaureate Program for Health Professionals"
+    },
+    {
+      "kind": "text",
+      "text": "‘C-’ or above in Midwifery required courses: ● MWF 114 ● MWF 155 ● MWF 201 ● MWF 315 And ‘B-’ or above in Midwifery Clinical Skills Preparation Courses: ● MWF 150 ● MWF 250 or MWF 252 ● MWF 344 ● MWF 345",
+      "links": [
+        {
+          "text": "MWF 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/114/"
+        },
+        {
+          "text": "MWF 155",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/155/"
+        },
+        {
+          "text": "MWF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/201/"
+        },
+        {
+          "text": "MWF 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/315/"
+        },
+        {
+          "text": "MWF 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/150/"
+        },
+        {
+          "text": "MWF 252",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/252/"
+        },
+        {
+          "text": "MWF 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/344/"
+        },
+        {
+          "text": "MWF 345",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/345/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/midwifery/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158.html-biohazardous-and-infectious-materials-in-research-and-teaching-policy-58/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Alexa Minichiello Association of Ontario Midwives"
+    },
+    {
+      "kind": "text",
+      "text": "Deborah Connerty Social Worker Women's Counselling Service Shanukha Thivyanath Graduate Toronto Met Midwifery Program"
+    },
+    {
+      "kind": "text",
+      "text": "Karen Fleming Family Medicine Physician Department of Family and Community Medicine Sunnybrook Health Sciences Centre"
+    },
+    {
+      "kind": "text",
+      "text": "Jennifer Gardiner Midwifery Preceptor The Midwives Clinic of East York - Don Mills"
+    },
+    {
+      "kind": "text",
+      "text": "Monica McKay Director Toronto Metropolitan University Indigenous Initiatives"
+    },
+    {
+      "kind": "text",
+      "text": "Adriana Rodriguez Graduate International Midwifery Preregistration Program"
+    },
+    {
+      "kind": "text",
+      "text": "Linda Remy Consumer"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Midwifery"
+}

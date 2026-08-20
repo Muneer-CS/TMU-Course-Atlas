@@ -1,0 +1,3378 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "bcb33d86d08e96f3f278894518c7940a96eaae5346097f6963be8c9485b61d9f",
+  "source_bytes": 198777,
+  "title": "Language and Intercultural Relations",
+  "headings": [
+    "Language and Intercultural Relations",
+    "Admission Information",
+    "Language Course Enrolment Procedures",
+    "Program Overview/Curriculum Information",
+    "Career Opportunities",
+    "Curriculum Information",
+    "Transferability Guidelines",
+    "Co-operative Program Overview",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program (for students admitted Fall 2025 and before)",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Concentrations (for students admitted Fall 2025 and before)",
+    "Concentration in Organizational Behaviour",
+    "Concentration in Language and Cognition",
+    "Concentration in Translation Studies",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACS 106",
+    "ACS 401",
+    "ANT 100",
+    "CLD 206",
+    "CLD 307",
+    "CMN 601",
+    "FRE 402",
+    "FRE 502",
+    "FRE 505",
+    "FRE 507",
+    "FRE 515",
+    "FRE 602",
+    "FRE 605",
+    "FRE 607",
+    "FRE 706",
+    "FRE 707",
+    "FRE 709",
+    "FRE 805",
+    "FRE 900",
+    "LIR 100",
+    "LIR 200",
+    "LIR 207",
+    "LIR 300",
+    "LIR 400",
+    "LIR 800",
+    "LIR 901",
+    "LIR 902",
+    "MHR 405",
+    "MHR 523",
+    "MHR 700",
+    "MHR 721",
+    "MHR 741",
+    "PHL 214",
+    "PSY 102",
+    "PSY 202",
+    "PSY 308",
+    "SPN 402",
+    "SPN 506",
+    "SPN 507",
+    "SPN 515",
+    "SPN 607",
+    "SPN 702",
+    "SPN 704",
+    "SPN 707",
+    "SPN 710",
+    "SPN 802",
+    "SPN 804",
+    "SPN 805",
+    "SPN 900",
+    "SSH 104",
+    "SSH 105",
+    "SSH 205",
+    "SSH 301",
+    "WKT 150",
+    "WKT 250",
+    "WKT 350"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+    },
+    {
+      "text": "LIR 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+    },
+    {
+      "text": "WKT 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+    },
+    {
+      "text": "WKT 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+    },
+    {
+      "text": "WKT 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "ANT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "CMN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/601/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "LIR 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+    },
+    {
+      "text": "SSH 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+    },
+    {
+      "text": "Table V",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+    },
+    {
+      "text": "ACS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/401/"
+    },
+    {
+      "text": "LIR 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "LIR 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+    },
+    {
+      "text": "LIR 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/800/"
+    },
+    {
+      "text": "FRE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+    },
+    {
+      "text": "SPN 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+    },
+    {
+      "text": "SSH 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+    },
+    {
+      "text": "SSH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+    },
+    {
+      "text": "SSH 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/104/"
+    },
+    {
+      "text": "MHR 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MHR 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+    },
+    {
+      "text": "MHR 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+    },
+    {
+      "text": "MHR 741",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+    },
+    {
+      "text": "FRE 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+    },
+    {
+      "text": "FRE 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+    },
+    {
+      "text": "FRE 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+    },
+    {
+      "text": "FRE 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+    },
+    {
+      "text": "LIR 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/901/"
+    },
+    {
+      "text": "SPN 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+    },
+    {
+      "text": "SPN 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+    },
+    {
+      "text": "SPN 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+    },
+    {
+      "text": "SPN 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+    },
+    {
+      "text": "LIR 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/902/"
+    },
+    {
+      "text": "ACS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+    },
+    {
+      "text": "PSY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+    },
+    {
+      "text": "PSY 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/202/"
+    },
+    {
+      "text": "PSY 308",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/308/"
+    },
+    {
+      "text": "CLD 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/206/"
+    },
+    {
+      "text": "CLD 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/307/"
+    },
+    {
+      "text": "FRE 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+    },
+    {
+      "text": "FRE 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+    },
+    {
+      "text": "FRE 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+    },
+    {
+      "text": "FRE 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+    },
+    {
+      "text": "SPN 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+    },
+    {
+      "text": "SPN 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+    },
+    {
+      "text": "SPN 804",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+    },
+    {
+      "text": "LIR 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/207/"
+    },
+    {
+      "text": "FRE 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+    },
+    {
+      "text": "FRE 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+    },
+    {
+      "text": "FRE 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+    },
+    {
+      "text": "FRE 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+    },
+    {
+      "text": "SPN 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+    },
+    {
+      "text": "SPN 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+    },
+    {
+      "text": "SPN 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+    },
+    {
+      "text": "SPN 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+    },
+    {
+      "text": "SPN 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Language and Intercultural Relations"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Arts",
+      "links": [
+        {
+          "text": "Faculty of Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Languages, Literatures and Cultures",
+      "links": [
+        {
+          "text": "Department of Languages, Literatures and Cultures",
+          "url": "https://www.torontomu.ca/content/ryerson/llc/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Admission: O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Although not a requirement, students are strongly encouraged to have at least some knowledge of the language of the stream (currently French or Spanish) in which they are interested."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Language Course Enrolment Procedures",
+      "links": [
+        {
+          "text": "Language Course Enrolment Procedures",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "If you are thinking about studying a language at Toronto Met, admission to French (FRE), Spanish (SPN), Arabic (ARB) and Chinese (CHN) courses is determined by an online fluency assessment test and/or an interview during specific periods in the year. No placement test is required for American Sign Language (ASL), Mohawk (MHK) or Greek (GRK) courses. Students should visit the Department of Languages, Literatures and Cultures website (opens in new window) to find out about the online fluency assessment test. Admission is granted on a first-come, first-served basis.",
+      "links": [
+        {
+          "text": "Department of Languages, Literatures and Cultures website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/llc/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The wide diversity of our students' educational backgrounds makes pre-admission language assessment necessary: it allows faculty to counsel students accurately as to which course or courses are appropriate and it ensures a uniform level of language skills in each class."
+    },
+    {
+      "kind": "text",
+      "text": "Students who have not taken language courses at Toronto Metropolitan University are therefore required to have their fluency assessed to ensure that they are placed at the appropriate level. Please note that students who willfully or inadvertently enrol in the wrong course(s) may be forced to re-enroll at the Instructor’s discretion, or drop the course(s)."
+    },
+    {
+      "kind": "text",
+      "text": "In addition to our language courses, we offer a limited number of culture and literature courses taught in English, for which the pre-enrolment fluency assessment test is not required."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The focus of the four-year baccalaureate degree program in Language and Intercultural Relations is to give students both the linguistic and cultural competence needed to enter a global market, and the leadership skills particular to a global workforce."
+    },
+    {
+      "kind": "text",
+      "text": "Students will be prepared for a wide range of cultural encounters - from the known to the vastly unfamiliar. This requires a breadth of knowledge that stems from a humanities education. Based in language studies and anthropology, the degree also includes courses that focus on history, urban and gender studies, human development, political science and psychology."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "Students in Language and Intercultural Relations will be exposed to new and exciting career paths."
+    },
+    {
+      "kind": "text",
+      "text": "Through a variety of experiential learning opportunities, students will acquire cognitive and practical skills, and will be well situated to seek employment in sectors where language and culture specialists are in demand: human resource management, labour relations, business, education, advocacy work, immigrant settlement, social services, translation, public administration, speech pathology, audiology, psychology, cognitive science, linguistics, anthropology, child language acquisition (child development), to name but a few. Additionally, students will be able to apply their skills to community development, faith-based field work, urban development, and applied linguistics. Also, some may opt to continue their academic endeavours and pursue graduate studies."
+    },
+    {
+      "kind": "text",
+      "text": "Primarily, though, LIR graduates will work internationally, help foreign international organizations better understand the Canadian market, and help Canadian organizations deal with international stakeholders."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information"
+    },
+    {
+      "kind": "text",
+      "text": "Intercultural Relations constitute an interdisciplinary field of knowledge which draws on theories, practices and methods of enquiry that are related to a wide range of perspectives in the humanities and social sciences. One of the strengths of this BA (Hons) is that it rests on solid foundations: a first year of study that is common to several programs in the Faculty of Arts, with specialization in LIR beginning in Year 2. The Language and Intercultural Relations (LIR) program prepares students to thrive in a globalized world by combining language proficiency, intercultural communication, and experiential learning. Students develop strong research, analytical, and critical thinking skills while exploring diverse perspectives at home and abroad."
+    },
+    {
+      "kind": "text",
+      "text": "Semesters One and Two: In the first year, which is shared with the programs in Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Politics and Governance, Philosophy, Psychology and Sociology, students are introduced to Language and Intercultural Relations through courses that launch them on their path to developing foundations in either Speech Science or the language they have chosen to study, and that provide an overview of intercultural relations as they are manifest around the world. Students also acquire skills and knowledge in Academic Writing and Research and Critical Thinking, and choose electives from a broad range of areas, such as Business, Law, and Natural Sciences."
+    },
+    {
+      "kind": "text",
+      "text": "Semesters Three and Four: In the second year, students study foundational practices in intercultural relations and negotiations through hands-on projects that help them learn how to navigate multicultural communicative events. They are also introduced to the quantitative and qualitative research methods that are necessary to study intercultural relations effectively."
+    },
+    {
+      "kind": "text",
+      "text": "Semesters Five through Eight: In addition to becoming increasingly fluent in their language of study, students acquire a better sense of intercultural relations through the use of ethnographic tools and practices. In addition to their program courses, students choose from a broad range of subject areas that complement their professional studies and broaden their career preparation. These include courses in Business, Communication, Finance, Journalism, Law, Marketing, Economics, Geography, Politics, Fine Arts, Psychology, Sociology, and the sciences such as Chemistry and Biology. During that time, they can also work on the basics of a third language of study."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transferability Guidelines"
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted to the Bachelor of Arts programs in Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology or Sociology may transfer to any one of the other programs or to any one of the approved double major programs for the Fall term of their second year of studies. Applications are provided via Google Form and must be submitted by February 2nd. Transfer applications are considered on a competitive basis subject to program capacity, and therefore, program choice cannot be guaranteed."
+    },
+    {
+      "kind": "text",
+      "text": "In order to transfer to Language and Intercultural Relations from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Philosophy, Politics and Governance, Psychology, or Sociology, students must:"
+    },
+    {
+      "kind": "list_item",
+      "text": "have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and"
+    },
+    {
+      "kind": "list_item",
+      "text": "have successfully completed LIR 100 . It is strongly recommended that students complete LIR 100 and a FRE, SPN or other language course.",
+      "links": [
+        {
+          "text": "LIR 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+        },
+        {
+          "text": "LIR 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students must select the French, Spanish or Speech Science stream."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "text",
+      "text": "An optional Co-operative education program is available which provides students with 12 months of work experience that will complement their classroom studies and support the development of essential employability skills required for the workforce, including communication, collaboration and problem solving. Although the Career, Co-op & Student Success Centre cannot guarantee placements, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This Co-op program enables students to earn competitive wages to offset the costs of a university education. Students who have completed the first semester of the regular program must apply through the department for admission to the Co-operative program before the end of the first year. Enrolment in the Co-op program is limited. Admission will be based on a portfolio which includes the student's grade point average, a resume and a statement of intent. Screening interviews may also be required. The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the Co-op program. In most cases the Co-op program requires five years to complete the degree in Language and Intercultural Relations. Students will have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All Co-op placements must be approved by the Career, Co-op & Student Success Centre and the Faculty Advisor for the Language and Intercultural Relations program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and four upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "ANT 100 and PHL 214 are not available for credit. Students in the French Stream : French courses (FRE, FRS) are not available for credit. Students in the Spanish Stream : Spanish courses (SPN, SPS) are not available for credit.",
+      "links": [
+        {
+          "text": "ANT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+        },
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "CMN 601 is not available for credit. Students in the French Stream : French courses (FRE, FRS) are not available for credit. Students in the Spanish Stream : Spanish courses (SPN, SPS) are not available for credit.",
+      "links": [
+        {
+          "text": "CMN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 200 Critical Practices in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 401 Introduction to Research and Statistics",
+      "links": [
+        {
+          "text": "ACS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 300 Intercultural Negotiations",
+      "links": [
+        {
+          "text": "LIR 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE : One course from Table I or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2027-2028 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 400 Ethnographic Practices",
+      "links": [
+        {
+          "text": "LIR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2028-2029 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 800 Topics in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One of the following, based on the student's target language:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 900 Senior French Seminar",
+      "links": [
+        {
+          "text": "FRE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 900 Senior Spanish Seminar",
+      "links": [
+        {
+          "text": "SPN 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "or one course from Table II"
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 100 Global Models in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2027-2028"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 200 Critical Practices in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE: One course from Table I or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 401 Introduction to Research and Statistics",
+      "links": [
+        {
+          "text": "ACS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 300 Intercultural Negotiations",
+      "links": [
+        {
+          "text": "LIR 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2028-2029"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 400 Ethnographic Practices",
+      "links": [
+        {
+          "text": "LIR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2029-2030"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 800 Topics in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Three courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered Fall 2026 to students admitted Fall 2025."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 200 Critical Practices in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE : One course from Table I * or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Students in the Co-op Program should take SSH 104 (Table I) to fulfill this requirement.",
+      "links": [
+        {
+          "text": "SSH 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered Winter 2028 to students admitted Fall 2025."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 401 Introduction to Research and Statistics",
+      "links": [
+        {
+          "text": "ACS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 300 Intercultural Negotiations",
+      "links": [
+        {
+          "text": "LIR 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2028-2029 to students admitted Fall 2025."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 400 Ethnographic Practices",
+      "links": [
+        {
+          "text": "LIR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2029-2030 to students admitted Fall 2025."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 800 Topics in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One of the following, based on the student's target language:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 900 Senior French Seminar",
+      "links": [
+        {
+          "text": "FRE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 900 Senior Spanish Seminar",
+      "links": [
+        {
+          "text": "SPN 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "or one course from Table II"
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table V (Concentrations) .",
+      "links": [
+        {
+          "text": "Table V (Concentrations)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the Co-op program. In most cases the Co-op program requires five years to complete the degree in Language and Intercultural Relations. Students will have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All Co-op placements must be approved by the Career, Co-op & Student Success Centre and the Faculty Advisor for the Language and Intercultural Relations program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 100 Global Models in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 200 Critical Practices in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE/OPEN ELECTIVE : One course from Table I * or one Open Elective .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Students in the Co-op Program should take SSH 104 (Table I) to fulfill this requirement.",
+      "links": [
+        {
+          "text": "SSH 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins Winter 2029"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 401 Introduction to Research and Statistics",
+      "links": [
+        {
+          "text": "ACS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 300 Intercultural Negotiations",
+      "links": [
+        {
+          "text": "LIR 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2029-2030"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 400 Ethnographic Practices",
+      "links": [
+        {
+          "text": "LIR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2030-2031"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 800 Topics in Intercultural Relations",
+      "links": [
+        {
+          "text": "LIR 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Three courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the Co-op program. In most cases the Co-op program requires five years to complete the degree in Language and Intercultural Relations. Students will have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All Co-op placements must be approved by the Career, Co-op & Student Success Centre and the Faculty Advisor for the Language and Intercultural Relations program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Concentrations (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or core electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Language and Intercultural Relations students may choose to select an optional concentration prior to commencing 3rd Semester. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor."
+    },
+    {
+      "kind": "text",
+      "text": "Note: Concentrations are available only to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "Eligible students may choose to complete an optional Concentration (from Core Elective Table V ) from the list below:",
+      "links": [
+        {
+          "text": "Table V",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Organizational Behaviour"
+    },
+    {
+      "kind": "text",
+      "text": "Students take six of the following courses. Two of these courses must be in French or Spanish depending on their target language."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Four of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour and Interpersonal Skills",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 700 Cross-Cultural Dimensions of Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 721 Negotiation and Conflict Resolution",
+      "links": [
+        {
+          "text": "MHR 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "French Stream - Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 502 Communication and Business French",
+      "links": [
+        {
+          "text": "FRE 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 515 Introduction to Business French",
+      "links": [
+        {
+          "text": "FRE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 602 Business French in Practice",
+      "links": [
+        {
+          "text": "FRE 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 901 Directed Readings (French)",
+      "links": [
+        {
+          "text": "LIR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spanish Stream - Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 515 Introduction to Business Spanish",
+      "links": [
+        {
+          "text": "SPN 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 702 Advanced Business Spanish",
+      "links": [
+        {
+          "text": "SPN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 802 Advanced Business Spanish II",
+      "links": [
+        {
+          "text": "SPN 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 902 Directed Readings (Spanish)",
+      "links": [
+        {
+          "text": "LIR 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/902/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Language and Cognition"
+    },
+    {
+      "kind": "text",
+      "text": "Students take six of the following courses. Two of these courses must be in French or Spanish depending on their target language."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED : - Four of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 106 Introduction to Language",
+      "links": [
+        {
+          "text": "ACS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 102 Introduction to Psychology I",
+      "links": [
+        {
+          "text": "PSY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 202 Introduction to Psychology II",
+      "links": [
+        {
+          "text": "PSY 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 308 Psychology of Thinking",
+      "links": [
+        {
+          "text": "PSY 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/308/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 206 Language Development",
+      "links": [
+        {
+          "text": "CLD 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/206/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 307 Children's Thinking and Learning",
+      "links": [
+        {
+          "text": "CLD 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/307/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "French Stream - Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 French Language and Culture",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 709 Children's Literature in French",
+      "links": [
+        {
+          "text": "FRE 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 901 Directed Readings (French)",
+      "links": [
+        {
+          "text": "LIR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spanish Stream - Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 704 Latin American Arts and Culture",
+      "links": [
+        {
+          "text": "SPN 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 804 Culture and Resistance in the Americas",
+      "links": [
+        {
+          "text": "SPN 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 902 Directed Readings (Spanish)",
+      "links": [
+        {
+          "text": "LIR 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/902/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Translation Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students take six of the following courses. Four of these courses must be in French or Spanish depending on their target language."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 106 Introduction to Language",
+      "links": [
+        {
+          "text": "ACS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 207 Translation as a Cultural Bridge",
+      "links": [
+        {
+          "text": "LIR 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/207/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "French Stream - Four of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 507 English-French Translation I",
+      "links": [
+        {
+          "text": "FRE 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 607 English-French Translation II",
+      "links": [
+        {
+          "text": "FRE 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 706 The Life and Times of the French Language",
+      "links": [
+        {
+          "text": "FRE 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 707 Introduction to French-English Translation",
+      "links": [
+        {
+          "text": "FRE 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 901 Directed Readings (French)",
+      "links": [
+        {
+          "text": "LIR 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/901/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Spanish Stream - Four of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 506 Spanish Audiovisual Translation",
+      "links": [
+        {
+          "text": "SPN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 507 English-Spanish Translation I",
+      "links": [
+        {
+          "text": "SPN 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 607 English-Spanish Translation II",
+      "links": [
+        {
+          "text": "SPN 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 707 Spanish-English Translation",
+      "links": [
+        {
+          "text": "SPN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 710 History of the Spanish Language",
+      "links": [
+        {
+          "text": "SPN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 902 Directed Readings (Spanish)",
+      "links": [
+        {
+          "text": "LIR 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/902/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The membership of the Program Advisory Council will be announced at a later date. Please visit the Department of Languages, Literatures and Cultures website (opens in new window) for updates.",
+      "links": [
+        {
+          "text": "Department of Languages, Literatures and Cultures website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/llc/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Language and Intercultural Relations"
+}

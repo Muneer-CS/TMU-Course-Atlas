@@ -1,0 +1,2205 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "a2aa1b134f08ea01ddd4eeba6294440e87daefd1c566e721d1617cad1c25c252",
+  "source_bytes": 138740,
+  "title": "Biomedical Engineering",
+  "headings": [
+    "Biomedical Engineering",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Careers in Biomedical Engineering",
+    "Transition Program",
+    "Early Intervention Program",
+    "Writing Skills Resource Path",
+    "Co-operative Program",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section.",
+    "Optional Internship Program",
+    "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Engineering Transfer Credits",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Accelerated Master of Applied Science (MASc) Pathway",
+    "Full-Time, Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Academic Standing Variation",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "AER 150",
+    "AER 222",
+    "ASC 120",
+    "BLG 143",
+    "BLG 181",
+    "BLG 599",
+    "BLG 601",
+    "BLG 699",
+    "BLG 701",
+    "BLG 850",
+    "BME 100",
+    "BME 229",
+    "BME 323",
+    "BME 328",
+    "BME 406",
+    "BME 423",
+    "BME 434",
+    "BME 501",
+    "BME 506",
+    "BME 516",
+    "BME 532",
+    "BME 538",
+    "BME 632",
+    "BME 634",
+    "BME 639",
+    "BME 674",
+    "BME 703",
+    "BME 704",
+    "BME 705",
+    "BME 714",
+    "BME 772",
+    "BME 777",
+    "BME 802",
+    "BME 803",
+    "BME 804",
+    "BME 808",
+    "BME 809",
+    "BME 872",
+    "BMS 150",
+    "CEN 100",
+    "CEN 199",
+    "CEN 800",
+    "CEN 810",
+    "CHE 200",
+    "CHY 102",
+    "CHY 182",
+    "CHY 183",
+    "CHY 211",
+    "CHY 583",
+    "CHY 599",
+    "CMN 432",
+    "CPS 125",
+    "CPS 188",
+    "CPS 650",
+    "CVL 207",
+    "ECN 801",
+    "ELE 202",
+    "ELE 900",
+    "ENG 377",
+    "ENG 503",
+    "GEO 702",
+    "HST 701",
+    "LNG 111",
+    "LNG 112",
+    "LNG 113",
+    "LNG 121",
+    "MEC 110",
+    "MEC 222",
+    "MTH 140",
+    "MTH 141",
+    "MTH 240",
+    "MTH 410",
+    "MTH 425",
+    "MTH 511",
+    "MTH 599",
+    "MTL 200",
+    "PCS 111",
+    "PCS 125",
+    "PCS 181",
+    "PCS 182",
+    "PCS 211",
+    "PCS 581",
+    "PHL 709",
+    "POL 507",
+    "WKT 119",
+    "WKT 219",
+    "WKT 299",
+    "WKT 319",
+    "WKT 419"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Engineering and Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+    },
+    {
+      "text": "CHY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+    },
+    {
+      "text": "MTH 140",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+    },
+    {
+      "text": "MTH 141",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+    },
+    {
+      "text": "PCS 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+    },
+    {
+      "text": "AER 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+    },
+    {
+      "text": "BME 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+    },
+    {
+      "text": "CHE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+    },
+    {
+      "text": "CHY 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+    },
+    {
+      "text": "CPS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+    },
+    {
+      "text": "CPS 188",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+    },
+    {
+      "text": "CVL 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/207/"
+    },
+    {
+      "text": "ELE 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+    },
+    {
+      "text": "MEC 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/222/"
+    },
+    {
+      "text": "MTH 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+    },
+    {
+      "text": "MTL 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+    },
+    {
+      "text": "PCS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+    },
+    {
+      "text": "CEN 199",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+    },
+    {
+      "text": "LNG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+    },
+    {
+      "text": "LNG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+    },
+    {
+      "text": "LNG 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+    },
+    {
+      "text": "LNG 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+    },
+    {
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "AER 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+    },
+    {
+      "text": "ASC 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+    },
+    {
+      "text": "BLG 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "CHY 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+    },
+    {
+      "text": "MEC 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "PCS 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+    },
+    {
+      "text": "PCS 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+    },
+    {
+      "text": "BLG 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+    },
+    {
+      "text": "BLG 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+    },
+    {
+      "text": "BLG 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+    },
+    {
+      "text": "CHY 583",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+    },
+    {
+      "text": "CHY 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/599/"
+    },
+    {
+      "text": "CPS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+    },
+    {
+      "text": "ELE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "PCS 581",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/581/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CEN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/100/"
+    },
+    {
+      "text": "ECN 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "BME 229",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/229/"
+    },
+    {
+      "text": "BME 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/323/"
+    },
+    {
+      "text": "BME 328",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/328/"
+    },
+    {
+      "text": "MTH 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/425/"
+    },
+    {
+      "text": "BLG 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+    },
+    {
+      "text": "BME 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/406/"
+    },
+    {
+      "text": "BME 423",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/423/"
+    },
+    {
+      "text": "BME 434",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/434/"
+    },
+    {
+      "text": "CMN 432",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/432/"
+    },
+    {
+      "text": "BLG 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+    },
+    {
+      "text": "BME 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/501/"
+    },
+    {
+      "text": "BME 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/506/"
+    },
+    {
+      "text": "BME 516",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/516/"
+    },
+    {
+      "text": "BME 532",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/532/"
+    },
+    {
+      "text": "BME 538",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/538/"
+    },
+    {
+      "text": "BME 632",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/632/"
+    },
+    {
+      "text": "BME 634",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/634/"
+    },
+    {
+      "text": "BME 639",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/639/"
+    },
+    {
+      "text": "BME 674",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/674/"
+    },
+    {
+      "text": "MTH 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/410/"
+    },
+    {
+      "text": "BME 70A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/70A/"
+    },
+    {
+      "text": "ENG 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+    },
+    {
+      "text": "GEO 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/702/"
+    },
+    {
+      "text": "HST 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/701/"
+    },
+    {
+      "text": "PHL 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/709/"
+    },
+    {
+      "text": "POL 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/507/"
+    },
+    {
+      "text": "BME 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/703/"
+    },
+    {
+      "text": "BME 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/704/"
+    },
+    {
+      "text": "BME 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/705/"
+    },
+    {
+      "text": "BME 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/714/"
+    },
+    {
+      "text": "BME 772",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/772/"
+    },
+    {
+      "text": "BME 777",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/777/"
+    },
+    {
+      "text": "CEN 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/800/"
+    },
+    {
+      "text": "BME 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/802/"
+    },
+    {
+      "text": "BME 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/803/"
+    },
+    {
+      "text": "BME 809",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/809/"
+    },
+    {
+      "text": "BME 872",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/872/"
+    },
+    {
+      "text": "BME 804",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/804/"
+    },
+    {
+      "text": "BME 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/808/"
+    },
+    {
+      "text": "CEN 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+    },
+    {
+      "text": "WKT 119",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/119/"
+    },
+    {
+      "text": "WKT 219",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/219/"
+    },
+    {
+      "text": "WKT 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/319/"
+    },
+    {
+      "text": "WKT 419",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/419/"
+    },
+    {
+      "text": "WKT 299",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/299/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Biomedical Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Engineering and Architectural Science",
+      "links": [
+        {
+          "text": "Faculty of Engineering and Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Engineering (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Electrical, Computer, and Biomedical Engineering",
+      "links": [
+        {
+          "text": "Department of Electrical, Computer, and Biomedical Engineering",
+          "url": "https://www.torontomu.ca/content/ryerson/electrical-computer-biomedical/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U courses in: English, Advanced Functions (MHF4U), Calculus and Vectors (MCV4U), Physics (SPH4U) and Chemistry (SCH4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "text",
+      "text": "The Biomedical Engineering BEng degree program is accredited by the Canadian Engineering Accreditation Board."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Faculty of Engineering and Architectural Science (FEAS) through the Department of Electrical, Computer, and Biomedical Engineering offers the BEng in Biomedical Engineering four-year degree program. The Bachelor of Engineering, Biomedical Engineering program is accredited by the Canadian Engineering Accreditation Board (external link, opens in new window) (CEAB). Our Biomedical Engineering program aims to take advantage of the strategic location of Toronto Metropolitan University in proximity to Toronto's Discovery District and seven world-class hospitals.",
+      "links": [
+        {
+          "text": "Canadian Engineering Accreditation Board (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/accreditation/accredited-programs"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Department of Electrical, Computer, and Biomedical Engineering in collaboration with the Departments of Aerospace Engineering; Biology; Chemical Engineering; Chemistry; Physics; Computer Science; Mechanical, Industrial and Mechatronics Engineering; and Mathematics at Toronto Metropolitan University will deliver the curriculum."
+    },
+    {
+      "kind": "text",
+      "text": "According to the working definition of the National Institutes of Health (NIH), biomedical engineering integrates physical, chemical, mathematical and computational sciences and engineering principles to study biology, medicine, behaviour, and health. It advances fundamental concepts, creates knowledge from the molecular to the organ system levels, and develops innovative biologics, materials, processes, implants, devices and informatics approaches for the prevention, diagnosis, and treatment of disease; for patient rehabilitation; and for improving health."
+    },
+    {
+      "kind": "text",
+      "text": "The Biomedical Engineering program has been developed to benefit from, enhance and expand the multidisciplinary collaboration among the various engineering and science programs at Toronto Met; to attract more students of higher quality to the university and retain them, as well as enhance the reputation of engineering education at Toronto Met. It will offer students excellent opportunities to build strong backgrounds in biomedical engineering and benefit from the collaborative interdisciplinary relationships between engineering and life sciences, being key strategic areas of strength at FEAS, Toronto Met. The Faculty has expertise in almost all of the areas of biomedical engineering. At this point the expertise is primarily devoted to the research activities of the faculty members."
+    },
+    {
+      "kind": "text",
+      "text": "This program is run within the framework of engineering programs at Toronto Met. In the first year, all engineering students are enrolled in common courses, followed by a more program-specific second term. During the second year, Biomedical Engineering students will study fundamental courses in electronic circuits, biomaterials, cell biology, physiology, engineering algorithms, digital systems, statics and mechanics of materials. In third year the students will focus in microprocessor systems, fluid mechanics, biomedical transducers, bioinformatics, biomechanics, biostatistics, signals and systems, control systems, and biomedical instrumentation. In the fourth year, the students will study a range of state-of-the-art topics in biomedical engineering, and will also be involved in a capstone design project."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Careers in Biomedical Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "There is a growing need for engineers trained in the biomedical sciences. Biomedical engineers are employed in industry, in hospitals, in research facilities of educational and medical institutions, in teaching, and in government regulatory agencies. They often serve a coordinating or interfacing function, using their background in both the engineering and medical fields. In industry, they may create designs where an in-depth understanding of living systems and of technology is essential. They may be involved in performance testing of new or proposed products. Government positions often involve product testing and safety, as well as establishing safety standards for devices. In the hospital, the biomedical engineer may provide advice on the selection and use of medical equipment, as well as supervising its performance testing and maintenance. They may also build customized devices for special health care or research needs. In research institutions, biomedical engineers supervise laboratories and equipment, and participate in or direct research activities in collaboration with other researchers with such backgrounds as medicine, physiology, and nursing."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transition Program"
+    },
+    {
+      "kind": "text",
+      "text": "First Year Transition Program : The objective of the first year transition program (opens in new window) is to provide students, who may need more time to adapt to the demanding university curriculum, with an immediate opportunity to upgrade their Academic Standing. In the second semester, Phase I of the transition program offers all first semester core courses: CHY 102 , MTH 140 , MTH 141 , and PCS 211 in parallel with the second semester regular program courses. Students who have failed and/or are missing any one of these courses at the end of the first semester are required to upgrade their Academic Standing through enrolling in the transition program. During the condensed Spring semester (May-July) Phase II of the transition program offers all second semester core courses: AER 222 , BME 100 , CHE 200 , CHY 211 , CPS 125 , CPS 188 , CVL 207 , ELE 202 , MEC 222 , MTH 240 , MTL 200 , and PCS 125 . These courses represent a repeat of the second semester regular program courses that were not taken by students enrolled in Phase I of the transition program. These courses will be offered subject to adequate enrolment.",
+      "links": [
+        {
+          "text": "first year transition program (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/students/current/transition/"
+        },
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        },
+        {
+          "text": "MTH 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+        },
+        {
+          "text": "MTH 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+        },
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        },
+        {
+          "text": "AER 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+        },
+        {
+          "text": "BME 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+        },
+        {
+          "text": "CHE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+        },
+        {
+          "text": "CHY 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+        },
+        {
+          "text": "CPS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+        },
+        {
+          "text": "CPS 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+        },
+        {
+          "text": "CVL 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/207/"
+        },
+        {
+          "text": "ELE 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+        },
+        {
+          "text": "MEC 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/222/"
+        },
+        {
+          "text": "MTH 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+        },
+        {
+          "text": "MTL 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+        },
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "At the completion of the transition program, successful transition program students will be promoted to the second year of the Biomedical Engineering program, without losing an academic year."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Early Intervention Program"
+    },
+    {
+      "kind": "text",
+      "text": "Highly innovative and proactive retention strategies play an important role in helping students build the skills for success in a demanding engineering curriculum. Through the First-Year Engineering Office (opens in new window) , the Faculty of Engineering and Architectural Science has incorporated the Early Intervention Program into the first-year engineering experience. At the semester's mid-point, students who are failing courses in their core curriculum are identified and encouraged to attend an interview with a member of our academic support team (Program Director/Academic Advisor and/or the Student Counsellor). Together, they discuss options to help reduce the chances of academic failure.",
+      "links": [
+        {
+          "text": "First-Year Engineering Office (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/fyeo/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Writing Skills Resource Path"
+    },
+    {
+      "kind": "text",
+      "text": "All new engineering students are automatically enrolled in CEN 199 : Writing Skills.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CEN 199 is graded on a Pass/Fail basis, and is used to track the results of the Writing Skills Test (WST).",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All students admitted into engineering are required to write the mandatory Writing Skills Test (WST) during Orientation Week. Students who pass the WST (by achieving a grade of ‘B' or higher) will receive a PASS in CEN 199 and therefore may enrol in the lower level liberal studies course of their choice (subject to availability).",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who do not pass the WST will receive an INP (In Progress Grade) in CEN 199 and will be required to enrol in one of LNG 111 , LNG 112 , LNG 113 , or LNG 121 as their first-year lower level liberal studies course. These courses, which count toward lower level liberal studies requirements, are writing-intensive humanities and social science courses designed to give students the opportunity to strengthen their foundations in communication. These students will then have three additional opportunities to write and pass the WST:",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        },
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        },
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        },
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        },
+        {
+          "text": "LNG 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "In May, following 2nd Semester."
+    },
+    {
+      "kind": "list_item",
+      "text": "During Orientation Week before 3rd Semester."
+    },
+    {
+      "kind": "list_item",
+      "text": "In May, following 4th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "A PASS in CEN 199 : Writing Skills is required to enrol in all third-year engineering courses. Students with a grade of INP in CEN 199 will not be allowed to enrol in any third-year engineering course.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        },
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 377 Telephone: 416-979-5000 ext. 4261.",
+      "links": [
+        {
+          "text": "First-Year Engineering Office (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/fyeo/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program"
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "After completing the first three years of the regular curriculum, a student in the Biomedical Engineering Program with CLEAR academic standing has options of continuing with the regular program or enrolling in the Biomedical Engineering Co-operative program after obtaining a 12 to 16-month Co-op job offer. After completing their co-operative job placement, a student in the Biomedical Engineering Co-operative program will return to the program to complete their degree requirements. The length of the Biomedical Engineering Co-operative Program is five years."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Internship Program"
+    },
+    {
+      "kind": "text",
+      "text": "After completing the first three years of the regular curriculum, students in the Biomedical Engineering Program with CLEAR Academic Standing may be eligible to enrol in the Optional Internship Program. If they are selected by one of the partner corporations, they spend a period of 8 months as engineering interns at the corresponding corporations. After the completion of the Internship, students return to the academic program to complete their final year of studies. Enrolment in the Internship Program extends the program length to five years."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)"
+    },
+    {
+      "kind": "text",
+      "text": "This option provides students with a solid foundation in innovation and entrepreneurship theory as well as the immersive experience of advancing and shaping an idea into a business. The lecture courses cover principles of engineering economics, entrepreneurship and innovation management, and technology based new venture creation. The practicum will guide students through the process of identifying a new business concept, developing their technology, and preparing their business for market readiness. For eligibility, registration and course information see Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance, and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Engineering Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants approved into an Engineering program cannot expect to receive any transfer credits in Engineering discipline or Engineering related discipline courses if their applicable post-secondary education was not completed at a program accredited by the Canadian Engineering Accreditation Board (external link, opens in new window) (CEAB).",
+      "links": [
+        {
+          "text": "Canadian Engineering Accreditation Board (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/accreditation/accredited-programs"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Core and professional engineering course transfer credits will ONLY be granted at the time of admission. An Offer of Admission will notify the applicant of transfer credit decision(s) subject to acceptance of their Offer."
+    },
+    {
+      "kind": "text",
+      "text": "Liberal studies discipline courses taken at CEAB accredited or non-accredited schools will be considered for either lower- or upper-level liberal studies transfer credit. College courses, in general, are not eligible for transfer credit except in the case of lower-level liberal studies courses."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and two upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, Mechatronics, and Undeclared Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "AER 150 , ASC 120 , BLG 181 , BMS 150 , CHY 182 , CHY 183 , MEC 110 , PCS 111 , PCS 181 , PCS 182 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "AER 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+        },
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        },
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        },
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "PCS 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+        },
+        {
+          "text": "PCS 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "BLG 599 , BLG 699 , BLG 850 , CHY 583 , CHY 599 , CPS 650 , ELE 900 , MTH 511 , MTH 599 and PCS 581 are not available for credit.",
+      "links": [
+        {
+          "text": "BLG 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+        },
+        {
+          "text": "BLG 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+        },
+        {
+          "text": "BLG 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+        },
+        {
+          "text": "CHY 583",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+        },
+        {
+          "text": "CHY 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/599/"
+        },
+        {
+          "text": "CPS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+        },
+        {
+          "text": "ELE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+        },
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        },
+        {
+          "text": "PCS 581",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/581/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Accelerated Master of Applied Science (MASc) Pathway"
+    },
+    {
+      "kind": "text",
+      "text": "The Accelerated Master of Applied Science (MASc) Pathway is open to undergraduate engineering students who have demonstrated academic excellence and/or research potential by the end of the third year of their undergraduate program. Students can enrol in a maximum of two graduate level courses in addition to their regular undergraduate course requirements in the final year of their undergraduate program and commence their Master’s research such that the MASc program can be completed in approximately one year. The Accelerated MASc Pathway does not change the degree requirements for the existing BEng or MASc programs. For more information about and application to this pathway, please contact the Associate Dean, Graduate Studies, Faculty of Engineering and Architectural Science."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Common to Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, and Mechatronics Engineering programs."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 100 Introduction to Engineering",
+      "links": [
+        {
+          "text": "CEN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 199 * Writing Skills",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 102 General Chemistry",
+      "links": [
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 140 Calculus I",
+      "links": [
+        {
+          "text": "MTH 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 141 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 211 Physics: Mechanics",
+      "links": [
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 100 * Introduction to Biomedical Engineering",
+      "links": [
+        {
+          "text": "BME 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 188 Computer Programming Fundamentals",
+      "links": [
+        {
+          "text": "CPS 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 801 Principles of Engineering Economics",
+      "links": [
+        {
+          "text": "ECN 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 202 Electric Circuit Analysis",
+      "links": [
+        {
+          "text": "ELE 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 240 Calculus II",
+      "links": [
+        {
+          "text": "MTH 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 125 Physics: Waves and Fields",
+      "links": [
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* BME 100 and CEN 199 are graded on a pass/fail basis.",
+      "links": [
+        {
+          "text": "BME 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+        },
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 229 Biomedical Physics",
+      "links": [
+        {
+          "text": "BME 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 323 Statics and Mechanics of Materials",
+      "links": [
+        {
+          "text": "BME 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 328 Digital Systems",
+      "links": [
+        {
+          "text": "BME 328",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/328/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 425 Differential Equations and Vector Calculus",
+      "links": [
+        {
+          "text": "MTH 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/425/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 601 Physiology",
+      "links": [
+        {
+          "text": "BLG 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 406 Biomechanics",
+      "links": [
+        {
+          "text": "BME 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 423 Biomaterials",
+      "links": [
+        {
+          "text": "BME 423",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/423/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 434 Circuits, Devices, and Sensors",
+      "links": [
+        {
+          "text": "BME 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/434/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 432 Communication in the Engineering Professions",
+      "links": [
+        {
+          "text": "CMN 432",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/432/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 701 Anatomy",
+      "links": [
+        {
+          "text": "BLG 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 501 Bioinformatics",
+      "links": [
+        {
+          "text": "BME 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 506 Introduction to Software",
+      "links": [
+        {
+          "text": "BME 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 516 Fluid Mechanics",
+      "links": [
+        {
+          "text": "BME 516",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/516/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 532 Signals and Systems I",
+      "links": [
+        {
+          "text": "BME 532",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/532/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 538 Microprocessor Systems",
+      "links": [
+        {
+          "text": "BME 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/538/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 632 Signals and Systems II",
+      "links": [
+        {
+          "text": "BME 632",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/632/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 634 Electrical Machines and Actuators",
+      "links": [
+        {
+          "text": "BME 634",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/634/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 639 Control Systems and Bio-Robotics",
+      "links": [
+        {
+          "text": "BME 639",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/639/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 674 Biomedical Instrumentation",
+      "links": [
+        {
+          "text": "BME 674",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/674/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 410 Statistics",
+      "links": [
+        {
+          "text": "MTH 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/410/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students after the 6th semester have options of continuing with the regular program (including, if eligible, enrolling in the Optional Internship Program) or, if eligible, enrolling in the Biomedical Engineering Co-operative Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 70A/B * Biomedical Engineering Capstone Design",
+      "links": [
+        {
+          "text": "BME 70A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/70A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 503 Science Fiction",
+      "links": [
+        {
+          "text": "ENG 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 702 Technology and the Contemporary Environment",
+      "links": [
+        {
+          "text": "GEO 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 701 Scientific Technology and Modern Society",
+      "links": [
+        {
+          "text": "HST 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 709 Religion, Science and Philosophy",
+      "links": [
+        {
+          "text": "PHL 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 507 Power, Change and Technology",
+      "links": [
+        {
+          "text": "POL 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/507/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Four courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 703 Tissue Engineering",
+      "links": [
+        {
+          "text": "BME 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 704 Radiation Therapy Devices",
+      "links": [
+        {
+          "text": "BME 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 705 Rehabilitation Engineering",
+      "links": [
+        {
+          "text": "BME 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 714 Medical Robotics",
+      "links": [
+        {
+          "text": "BME 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/714/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 772 Biomedical Signal Analysis",
+      "links": [
+        {
+          "text": "BME 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/772/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 777 Emerging Topics in Biomedical Engineering",
+      "links": [
+        {
+          "text": "BME 777",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/777/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 70A/B * Biomedical Engineering Capstone Design",
+      "links": [
+        {
+          "text": "BME 70A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/70A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 800 Law and Ethics in Engineering Practice",
+      "links": [
+        {
+          "text": "CEN 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Three (3) courses total as follows:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 802 Human-Computer Interaction",
+      "links": [
+        {
+          "text": "BME 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 803 Cardiovascular Biomechanics",
+      "links": [
+        {
+          "text": "BME 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 809 Biomedical Systems Modelling",
+      "links": [
+        {
+          "text": "BME 809",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/809/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 872 Biomedical Image Analysis",
+      "links": [
+        {
+          "text": "BME 872",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/872/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "One (1) course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 804 Design of Bio-MEMS",
+      "links": [
+        {
+          "text": "BME 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BME 808 Computations in Genetic Engineering",
+      "links": [
+        {
+          "text": "BME 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 810 Selected Topics in Engineering",
+      "links": [
+        {
+          "text": "CEN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* BME 70A/B is a two-term course and has a GPA weight of 2.0.",
+      "links": [
+        {
+          "text": "BME 70A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/70A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the regular Biomedical Engineering curriculum, students can choose to pursue the Biomedical Engineering Co-operative Program. The following table shows the sequence of academic and work terms for this program. Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of three work terms."
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Work Term I – WKT 119",
+      "links": [
+        {
+          "text": "WKT 119",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/119/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "Work Term I – WKT 119 or WKT II – WKT 219",
+      "links": [
+        {
+          "text": "WKT 119",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/119/"
+        },
+        {
+          "text": "WKT 219",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/219/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work Term II – WKT 219 or WKT III – WKT 319",
+      "links": [
+        {
+          "text": "WKT 219",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/219/"
+        },
+        {
+          "text": "WKT 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/319/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work Term III – WKT 319 or WKT IV – WKT 419",
+      "links": [
+        {
+          "text": "WKT 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/319/"
+        },
+        {
+          "text": "WKT 419",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/419/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Students obtaining extensions to placements not previously eligible for co-op may be granted department permission to use WKT 299 towards co-op WKT requirements.",
+      "links": [
+        {
+          "text": "WKT 299",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/299/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation",
+      "links": [
+        {
+          "text": "Academic Standing Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the general criteria used to determine Academic Standing, students in this program must also meet the following conditions: All students in undergraduate Engineering programs have an additional condition for Clear academic standing. In addition to students needing a cumulative grade point average (CGPA) of 1.67 or higher, students also need to have a term grade point average (TGPA) of 1.33 or higher, based on at least two reported grades for that term (not including Pass, DEF, INP or AEG grades). Students who have a TGPA less than 1.33 will be given PROBATIONARY Academic Standing. Students with only one reported grade for that term will be evaluated based on CGPA only. Students with a cumulative grade point average (CGPA) less than 1.67 will be assigned a Probationary or Required to Withdraw (RTW) standing. See Academic Standings (opens in new window) for information about the process and consequences.",
+      "links": [
+        {
+          "text": "Academic Standings (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2021-2022/policies-and-procedures/enrolmentrecords/ academic-information/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/biomedical_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Shahrzad Esmaili, MEng, MASc Patent Agent Smart & Biggar/Fetherstonhaugh"
+    },
+    {
+      "kind": "text",
+      "text": "Tarek Khan, MASc Product Development Engineer AMD"
+    },
+    {
+      "kind": "text",
+      "text": "Hassan Kojori, PhD, PEng, FIEEE Senior Principal Engineer Honeywell"
+    },
+    {
+      "kind": "text",
+      "text": "Tom Murad, PhD, PEng, FEC, SMIEEE Head, Engineering & Technology Academy Siemens Canada"
+    },
+    {
+      "kind": "text",
+      "text": "Mario Ramirez, MASc, PEng, CCE Director, Medical Engineering Sick Kids Hospital"
+    },
+    {
+      "kind": "text",
+      "text": "Adel Sedra, PhD, PEng, FCAE, FRSC, FIEEE Distinguished Professor Emeritus University of Waterloo"
+    },
+    {
+      "kind": "text",
+      "text": "Please see the department website (opens in new window) for updates to the Advisory Council.",
+      "links": [
+        {
+          "text": "department website (opens in new window)",
+          "url": "https://www.torontomu.ca/people/advisorycouncil/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Biomedical Engineering"
+}

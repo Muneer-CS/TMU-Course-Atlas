@@ -1,0 +1,1055 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "f03f07ce95c8a22e880c104e92deb2022522dc4930fbc0a506cecc12d385ac79",
+  "source_bytes": 69879,
+  "title": "Child and Youth Care Core Elective Table II",
+  "headings": [
+    "Child and Youth Care Core Elective Table II",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CLD 435",
+    "CLD 444",
+    "CRM 100",
+    "CRM 202",
+    "CRM 300",
+    "CRM 304",
+    "CYC 505",
+    "CYC 510",
+    "CYC 515",
+    "CYC 517",
+    "CYC 518",
+    "CYC 519",
+    "CYC 550",
+    "CYC 560",
+    "CYC 570",
+    "CYC 607",
+    "CYC 608",
+    "CYC 800",
+    "CYC 801",
+    "CYC 805",
+    "CYC 806",
+    "CYC 807",
+    "CYC 808",
+    "CYC 809",
+    "CYC 819",
+    "CYC 822",
+    "CYC 905",
+    "DST 501",
+    "DST 620",
+    "DST 640",
+    "POG 100",
+    "POG 214",
+    "POG 316",
+    "POG 317",
+    "POL 210",
+    "PPA 125",
+    "PPA 211",
+    "PSY 411",
+    "SSH 301"
+  ],
+  "official_links": [
+    {
+      "text": "Child and Youth Care",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/table_ii/"
+    },
+    {
+      "text": "CYC 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/505/"
+    },
+    {
+      "text": "CYC 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/515/"
+    },
+    {
+      "text": "CYC 517",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/517/"
+    },
+    {
+      "text": "CYC 518",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/518/"
+    },
+    {
+      "text": "CYC 519",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/519/"
+    },
+    {
+      "text": "CYC 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+    },
+    {
+      "text": "CYC 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+    },
+    {
+      "text": "CYC 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+    },
+    {
+      "text": "CYC 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/800/"
+    },
+    {
+      "text": "CYC 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/801/"
+    },
+    {
+      "text": "CYC 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/805/"
+    },
+    {
+      "text": "CYC 806",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/806/"
+    },
+    {
+      "text": "CYC 807",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/807/"
+    },
+    {
+      "text": "CYC 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/808/"
+    },
+    {
+      "text": "CYC 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/905/"
+    },
+    {
+      "text": "CLD 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/435/"
+    },
+    {
+      "text": "CLD 444",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/444/"
+    },
+    {
+      "text": "CYC 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/510/"
+    },
+    {
+      "text": "CYC 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/607/"
+    },
+    {
+      "text": "CYC 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/608/"
+    },
+    {
+      "text": "DST 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+    },
+    {
+      "text": "DST 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/620/"
+    },
+    {
+      "text": "DST 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/640/"
+    },
+    {
+      "text": "CRM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+    },
+    {
+      "text": "CRM 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/202/"
+    },
+    {
+      "text": "CRM 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/300/"
+    },
+    {
+      "text": "CRM 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/304/"
+    },
+    {
+      "text": "POG 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/214/"
+    },
+    {
+      "text": "POG 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/316/"
+    },
+    {
+      "text": "POG 317",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/317/"
+    },
+    {
+      "text": "PPA 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/125/"
+    },
+    {
+      "text": "PPA 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/211/"
+    },
+    {
+      "text": "POG 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+    },
+    {
+      "text": "PSY 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/411/"
+    },
+    {
+      "text": "SSH 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+    },
+    {
+      "text": "CYC 809",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/809/"
+    },
+    {
+      "text": "CYC 819",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/819/"
+    },
+    {
+      "text": "CYC 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/822/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Child and Youth Care Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Child and Youth Care",
+      "links": [
+        {
+          "text": "Child and Youth Care",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 505 Management in Human Service Organizations",
+      "links": [
+        {
+          "text": "CYC 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 515 Cyber Technology and Communication",
+      "links": [
+        {
+          "text": "CYC 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 517 CYC Practice in Developmental Services",
+      "links": [
+        {
+          "text": "CYC 517",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/517/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 518 Special Topics",
+      "links": [
+        {
+          "text": "CYC 518",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/518/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 519 Independent Reading",
+      "links": [
+        {
+          "text": "CYC 519",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/519/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 550 Foundations of Social Innovation",
+      "links": [
+        {
+          "text": "CYC 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 560 Social Innovation in Practice",
+      "links": [
+        {
+          "text": "CYC 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 570 Social Innovation in Action",
+      "links": [
+        {
+          "text": "CYC 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 800 Intensive In-Home Family Support",
+      "links": [
+        {
+          "text": "CYC 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 801 CYC Practice in Education",
+      "links": [
+        {
+          "text": "CYC 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 805 Special Issues: Program Development",
+      "links": [
+        {
+          "text": "CYC 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 806 Advanced Placement",
+      "links": [
+        {
+          "text": "CYC 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 807 Advanced Group Work",
+      "links": [
+        {
+          "text": "CYC 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/807/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 808 Residential Care Techniques",
+      "links": [
+        {
+          "text": "CYC 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 905 An Indigenous Perspective on CYC",
+      "links": [
+        {
+          "text": "CYC 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/905/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Education Focus"
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 435 Theory and Practice of Family Support",
+      "links": [
+        {
+          "text": "CLD 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/435/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 444 Therapies for Young Children",
+      "links": [
+        {
+          "text": "CLD 444",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/444/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 510 Anti-oppressive Relational Practice",
+      "links": [
+        {
+          "text": "CYC 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 517 Practice in Developmental Services",
+      "links": [
+        {
+          "text": "CYC 517",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/517/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 607 Therapeutic Assessment",
+      "links": [
+        {
+          "text": "CYC 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 608 Therapeutic Intervention",
+      "links": [
+        {
+          "text": "CYC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 801 CYC Practice in Education**",
+      "links": [
+        {
+          "text": "CYC 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 805 Special Issues: Program Development",
+      "links": [
+        {
+          "text": "CYC 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 501 Rethinking Disability",
+      "links": [
+        {
+          "text": "DST 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 620 Disability Studies in Education",
+      "links": [
+        {
+          "text": "DST 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 640 Madness and Childhood",
+      "links": [
+        {
+          "text": "DST 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/640/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students interested in teacher’s college, using Open Electives and Liberal Studies courses to pursue a minor and potential second teachable are highly recommended."
+    },
+    {
+      "kind": "text",
+      "text": "Law Focus"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 515 Cyber Technology and Communication",
+      "links": [
+        {
+          "text": "CYC 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 550 Foundations of Social Innovation",
+      "links": [
+        {
+          "text": "CYC 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 560 Social Innovation in Practice",
+      "links": [
+        {
+          "text": "CYC 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 570 Social Innovation in Action",
+      "links": [
+        {
+          "text": "CYC 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 607 Therapeutic Assessment",
+      "links": [
+        {
+          "text": "CYC 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 608 Therapeutic Intervention",
+      "links": [
+        {
+          "text": "CYC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 100 Introduction to Canadian Criminal Justice",
+      "links": [
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 202 Victims and the Criminal Process (prereq CRM 100 )",
+      "links": [
+        {
+          "text": "CRM 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/202/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 300 Policing in Canada (prereq CRM 100 )",
+      "links": [
+        {
+          "text": "CRM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/300/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 304 Youth Justice in Canada (prereq CRM 100 )",
+      "links": [
+        {
+          "text": "CRM 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/304/"
+        },
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Policy & Research Focus"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 518 Special Topics",
+      "links": [
+        {
+          "text": "CYC 518",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/518/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 519 Independent Reading",
+      "links": [
+        {
+          "text": "CYC 519",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/519/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 607 Therapeutic Assessment",
+      "links": [
+        {
+          "text": "CYC 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 608 Therapeutic Intervention",
+      "links": [
+        {
+          "text": "CYC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 214 Intro to Public Policy",
+      "links": [
+        {
+          "text": "POG 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/214/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 316 Social Policy",
+      "links": [
+        {
+          "text": "POG 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 317 Education Politics and Policy (prereq of POL 210)",
+      "links": [
+        {
+          "text": "POG 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 125 Rights, Equity and the State",
+      "links": [
+        {
+          "text": "PPA 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/125/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 211 Public Policy (prereq POG 100 )",
+      "links": [
+        {
+          "text": "PPA 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/211/"
+        },
+        {
+          "text": "POG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 411 Research Methods and Statistics I",
+      "links": [
+        {
+          "text": "PSY 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 301 Research Design and Qualitative Methods",
+      "links": [
+        {
+          "text": "SSH 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/301/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CYC-Related Courses"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 505 Management in Human Service Organizations",
+      "links": [
+        {
+          "text": "CYC 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 515 Cyber Technology and Communication",
+      "links": [
+        {
+          "text": "CYC 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 518 Special Topics",
+      "links": [
+        {
+          "text": "CYC 518",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/518/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 519 Independent Reading",
+      "links": [
+        {
+          "text": "CYC 519",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/519/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 550 Foundations of Social Innovation",
+      "links": [
+        {
+          "text": "CYC 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 560 Social Innovation in Practice",
+      "links": [
+        {
+          "text": "CYC 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 570 Social Innovation in Action",
+      "links": [
+        {
+          "text": "CYC 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 607 Therapeutic Assessment",
+      "links": [
+        {
+          "text": "CYC 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 608 Therapeutic Intervention",
+      "links": [
+        {
+          "text": "CYC 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 800 Intensive In-Home Family Support",
+      "links": [
+        {
+          "text": "CYC 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 805 Special Issues: Program Development",
+      "links": [
+        {
+          "text": "CYC 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 807 Advanced Group Work",
+      "links": [
+        {
+          "text": "CYC 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/807/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 808 Residential Care Techniques",
+      "links": [
+        {
+          "text": "CYC 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 809 Trauma-Informed Practice",
+      "links": [
+        {
+          "text": "CYC 809",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/809/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 819 Practice with Families",
+      "links": [
+        {
+          "text": "CYC 819",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/819/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 822 Professional Practice and Identity",
+      "links": [
+        {
+          "text": "CYC 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/822/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Child and Youth Care - Table II"
+}

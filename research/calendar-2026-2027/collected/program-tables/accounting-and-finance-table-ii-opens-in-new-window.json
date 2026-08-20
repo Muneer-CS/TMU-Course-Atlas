@@ -1,0 +1,111 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "28ea0f6afc58b0d5daf7ded0af9470aae3a22a46947b4b1db119a17b26d5018e",
+  "source_bytes": 47887,
+  "title": "Accounting and Finance Core Elective Table II",
+  "headings": [
+    "Accounting and Finance Core Elective Table II"
+  ],
+  "course_codes_referenced": [
+    "AFF 502",
+    "AFF 505",
+    "AFF 611",
+    "AFF 621",
+    "AFF 624"
+  ],
+  "official_links": [
+    {
+      "text": "Accounting and Finance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+    },
+    {
+      "text": "AFF 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/502/"
+    },
+    {
+      "text": "AFF 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/505/"
+    },
+    {
+      "text": "AFF 611",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/611/"
+    },
+    {
+      "text": "AFF 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/621/"
+    },
+    {
+      "text": "AFF 624",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/624/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Accounting and Finance Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Accounting and Finance",
+      "links": [
+        {
+          "text": "Accounting and Finance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 502 Personal Financial Planning",
+      "links": [
+        {
+          "text": "AFF 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 505 Islamic Finance",
+      "links": [
+        {
+          "text": "AFF 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 611 Fixed Income Securities",
+      "links": [
+        {
+          "text": "AFF 611",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/611/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 621 Market Microstructure, Algorithm Trading",
+      "links": [
+        {
+          "text": "AFF 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 624 International Finance",
+      "links": [
+        {
+          "text": "AFF 624",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/624/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Accounting and Finance - Table II (opens in new window)"
+}

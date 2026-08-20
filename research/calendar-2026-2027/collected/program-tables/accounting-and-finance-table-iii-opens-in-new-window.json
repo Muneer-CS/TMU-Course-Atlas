@@ -1,0 +1,126 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/table_iii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "052e652938e1e092925b1c5b55797b52599caa990f15734c65f45e89c9212fcc",
+  "source_bytes": 48135,
+  "title": "Accounting and Finance Core Elective Table III",
+  "headings": [
+    "Accounting and Finance Core Elective Table III"
+  ],
+  "course_codes_referenced": [
+    "AFF 711",
+    "AFF 713",
+    "AFF 714",
+    "AFF 811",
+    "AFF 813",
+    "AFF 823"
+  ],
+  "official_links": [
+    {
+      "text": "Accounting and Finance",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+    },
+    {
+      "text": "AFF 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/711/"
+    },
+    {
+      "text": "AFF 713",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/713/"
+    },
+    {
+      "text": "AFF 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/714/"
+    },
+    {
+      "text": "AFF 811",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/811/"
+    },
+    {
+      "text": "AFF 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/813/"
+    },
+    {
+      "text": "AFF 823",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/823/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Accounting and Finance Core Elective Table III"
+    },
+    {
+      "kind": "text",
+      "text": "Accounting and Finance",
+      "links": [
+        {
+          "text": "Accounting and Finance",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 711 Advanced Portfolio Management",
+      "links": [
+        {
+          "text": "AFF 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 713 Advanced Corporate Finance",
+      "links": [
+        {
+          "text": "AFF 713",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/713/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 714 Financial Modeling II",
+      "links": [
+        {
+          "text": "AFF 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/714/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 811 Financial Risk Management",
+      "links": [
+        {
+          "text": "AFF 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/811/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 813 Mergers and Acquisitions",
+      "links": [
+        {
+          "text": "AFF 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/813/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFF 823 Private Equity",
+      "links": [
+        {
+          "text": "AFF 823",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/AFF/823/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Accounting and Finance - Table III (opens in new window)"
+}

@@ -1,0 +1,1154 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/history_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "c6122ae54b76fc95431b8cf30fafe5e658f11df883c8e5731a172d3797400fc3",
+  "source_bytes": 68827,
+  "title": "Minor in History",
+  "headings": [
+    "Minor in History"
+  ],
+  "course_codes_referenced": [
+    "HIS 101",
+    "HIS 104",
+    "HIS 105",
+    "HIS 106",
+    "HIS 107",
+    "HIS 265",
+    "HIS 275",
+    "HIS 277",
+    "HIS 316",
+    "HIS 348",
+    "HIS 350",
+    "HIS 392",
+    "HIS 400",
+    "HIS 401",
+    "HIS 461",
+    "HIS 462",
+    "HIS 475",
+    "HIS 490",
+    "HIS 500",
+    "HIS 501",
+    "HIS 502",
+    "HIS 505",
+    "HIS 510",
+    "HIS 541",
+    "HIS 556",
+    "HIS 559",
+    "HIS 560",
+    "HIS 561",
+    "HIS 590",
+    "HIS 610",
+    "HIS 615",
+    "HIS 620",
+    "HIS 630",
+    "HIS 656",
+    "HIS 661",
+    "HIS 662",
+    "HIS 677",
+    "HIS 678",
+    "HIS 696",
+    "HIS 710",
+    "HIS 742",
+    "HIS 755",
+    "HIS 760",
+    "HIS 762",
+    "HIS 790",
+    "HIS 826",
+    "HIS 828",
+    "HIS 830",
+    "HIS 845",
+    "HIS 854",
+    "HIS 886",
+    "HIS 898",
+    "HST 100",
+    "HST 499",
+    "HST 500",
+    "HST 899"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Arts and Contemporary Studies - History Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "English and History Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/"
+    },
+    {
+      "text": "History and Philosophy Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/"
+    },
+    {
+      "text": "History",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/"
+    },
+    {
+      "text": "Criminology and History Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/"
+    },
+    {
+      "text": "History and Politics and Governance Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/"
+    },
+    {
+      "text": "History and Sociology Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/"
+    },
+    {
+      "text": "HIS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/401/"
+    },
+    {
+      "text": "HIS 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+    },
+    {
+      "text": "HIS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+    },
+    {
+      "text": "HIS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+    },
+    {
+      "text": "HIS 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/505/"
+    },
+    {
+      "text": "HIS 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+    },
+    {
+      "text": "HIS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/101/"
+    },
+    {
+      "text": "HIS 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/104/"
+    },
+    {
+      "text": "HIS 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/105/"
+    },
+    {
+      "text": "HIS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/106/"
+    },
+    {
+      "text": "HIS 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/107/"
+    },
+    {
+      "text": "HIS 265",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/265/"
+    },
+    {
+      "text": "HIS 275",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/275/"
+    },
+    {
+      "text": "HIS 277",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/277/"
+    },
+    {
+      "text": "HIS 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/316/"
+    },
+    {
+      "text": "HIS 348",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/348/"
+    },
+    {
+      "text": "HIS 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/350/"
+    },
+    {
+      "text": "HIS 392",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+    },
+    {
+      "text": "HIS 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/400/"
+    },
+    {
+      "text": "HIS 461",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+    },
+    {
+      "text": "HIS 462",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+    },
+    {
+      "text": "HIS 475",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+    },
+    {
+      "text": "HIS 490",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+    },
+    {
+      "text": "HIS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/510/"
+    },
+    {
+      "text": "HIS 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/541/"
+    },
+    {
+      "text": "HIS 556",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/556/"
+    },
+    {
+      "text": "HIS 559",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+    },
+    {
+      "text": "HIS 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+    },
+    {
+      "text": "HIS 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+    },
+    {
+      "text": "HIS 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/590/"
+    },
+    {
+      "text": "HIS 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/610/"
+    },
+    {
+      "text": "HIS 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+    },
+    {
+      "text": "HIS 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/620/"
+    },
+    {
+      "text": "HIS 630",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/630/"
+    },
+    {
+      "text": "HIS 656",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/656/"
+    },
+    {
+      "text": "HIS 661",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/661/"
+    },
+    {
+      "text": "HIS 662",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/662/"
+    },
+    {
+      "text": "HIS 677",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/677/"
+    },
+    {
+      "text": "HIS 678",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/678/"
+    },
+    {
+      "text": "HIS 696",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+    },
+    {
+      "text": "HIS 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/710/"
+    },
+    {
+      "text": "HIS 742",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/742/"
+    },
+    {
+      "text": "HIS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+    },
+    {
+      "text": "HIS 762",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/762/"
+    },
+    {
+      "text": "HIS 790",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/790/"
+    },
+    {
+      "text": "HIS 826",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/826/"
+    },
+    {
+      "text": "HIS 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+    },
+    {
+      "text": "HIS 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/830/"
+    },
+    {
+      "text": "HIS 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+    },
+    {
+      "text": "HIS 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+    },
+    {
+      "text": "HIS 886",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/886/"
+    },
+    {
+      "text": "HIS 898",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/898/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/history_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in History"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The History Minor presents an excellent opportunity to explore the past and its meaning for today's world, either across a range of areas and themes from ancient civilizations to contemporary issues in historical perspective, or through focusing on a particular region, period, or approach."
+    },
+    {
+      "kind": "text",
+      "text": "In addition to developing research, analytical, and literary skills that students need in order to take their place in the world after graduation, the Minor may be used to fulfill a number of other objectives. These include pursuing personal interests in History, enriching understanding in students' primary fields of study by deepening their historical expertise related to those fields, and providing training and expertise of direct relevance in areas where students wish to seek employment or pursue further studies."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of History"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Arts and Contemporary Studies - Anthropology Studies Option",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies - Anthropology Studies Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Arts and Contemporary Studies - History Option",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies - History Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English and History Double Major",
+      "links": [
+        {
+          "text": "English and History Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Philosophy Double Major",
+      "links": [
+        {
+          "text": "History and Philosophy Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History",
+      "links": [
+        {
+          "text": "History",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Criminology and History Double Major",
+      "links": [
+        {
+          "text": "Criminology and History Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Politics and Governance Double Major",
+      "links": [
+        {
+          "text": "History and Politics and Governance Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Sociology Double Major",
+      "links": [
+        {
+          "text": "History and Sociology Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, you must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 401 Hearing, Seeing and Speaking History",
+      "links": [
+        {
+          "text": "HIS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 500 Digital History",
+      "links": [
+        {
+          "text": "HIS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 501 Archaeology and Material Culture",
+      "links": [
+        {
+          "text": "HIS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 502 Life Stories: Oral History",
+      "links": [
+        {
+          "text": "HIS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 505 Locating The Past: Archival Research",
+      "links": [
+        {
+          "text": "HIS 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 755 Themes in Material Culture",
+      "links": [
+        {
+          "text": "HIS 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) of the following*:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 101 What Is History?",
+      "links": [
+        {
+          "text": "HIS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 104 Ten Days That Shook The World",
+      "links": [
+        {
+          "text": "HIS 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 105 Inventing Popular Culture",
+      "links": [
+        {
+          "text": "HIS 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 106 Technology, Warfare and Social Change",
+      "links": [
+        {
+          "text": "HIS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 107 Colonization, Colonialism and Independence",
+      "links": [
+        {
+          "text": "HIS 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/107/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 265 Asia: Foundations and Modern Nations",
+      "links": [
+        {
+          "text": "HIS 265",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/265/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 275 Ancient Greece and Rome",
+      "links": [
+        {
+          "text": "HIS 275",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/275/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 277 Mediaeval Europe, 400-1350",
+      "links": [
+        {
+          "text": "HIS 277",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/277/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 316 Evolutions in Science from 1700",
+      "links": [
+        {
+          "text": "HIS 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 348 American History from 1877",
+      "links": [
+        {
+          "text": "HIS 348",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/348/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 350 The Fight for Rights in North America",
+      "links": [
+        {
+          "text": "HIS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 392 African Canadian History",
+      "links": [
+        {
+          "text": "HIS 392",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/392/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 400 Reading, Writing and Using History",
+      "links": [
+        {
+          "text": "HIS 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 461 Cradle of Civilization: Ancient Near East",
+      "links": [
+        {
+          "text": "HIS 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/461/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 462 Introduction to the Islamic World",
+      "links": [
+        {
+          "text": "HIS 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/462/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 475 Human Rights in Global History",
+      "links": [
+        {
+          "text": "HIS 475",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/475/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 490 International Relations from 1945",
+      "links": [
+        {
+          "text": "HIS 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Up to two HST courses (from HST 100 to HST 499) may be used in place of the two HIS courses in this group."
+    },
+    {
+      "kind": "text",
+      "text": "Three (3) of the following†:"
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 510 Museology and Public History",
+      "links": [
+        {
+          "text": "HIS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 541 Canada and the First World War",
+      "links": [
+        {
+          "text": "HIS 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 556 Colonial Africa",
+      "links": [
+        {
+          "text": "HIS 556",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/556/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 559 The World of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 559",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/559/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 560 History of Ancient Egypt",
+      "links": [
+        {
+          "text": "HIS 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 561 The Ottoman Empire",
+      "links": [
+        {
+          "text": "HIS 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 590 Modern International Relations",
+      "links": [
+        {
+          "text": "HIS 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 610 Curating the Past",
+      "links": [
+        {
+          "text": "HIS 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 615 Film, Television and 20th C History",
+      "links": [
+        {
+          "text": "HIS 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 620 Imperial Russia",
+      "links": [
+        {
+          "text": "HIS 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 630 The Soviet Union",
+      "links": [
+        {
+          "text": "HIS 630",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/630/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 656 Post-Colonial Africa",
+      "links": [
+        {
+          "text": "HIS 656",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/656/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 661 The Middle East from 1908",
+      "links": [
+        {
+          "text": "HIS 661",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/661/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 662 The Mughal Empire, 1526-1764",
+      "links": [
+        {
+          "text": "HIS 662",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/662/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 677 Society in the High Middle Ages, 1000-1500",
+      "links": [
+        {
+          "text": "HIS 677",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/677/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 678 The Renaissance in Europe",
+      "links": [
+        {
+          "text": "HIS 678",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/678/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 696 The History of Terrorism",
+      "links": [
+        {
+          "text": "HIS 696",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/696/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 710 Museum and Heritage Management",
+      "links": [
+        {
+          "text": "HIS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 742 Canadian Cultural Industries",
+      "links": [
+        {
+          "text": "HIS 742",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/742/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 760 African Diaspora",
+      "links": [
+        {
+          "text": "HIS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 762 The Making of Modern South Asia, 1757-1947",
+      "links": [
+        {
+          "text": "HIS 762",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/762/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 790 Modern Germany",
+      "links": [
+        {
+          "text": "HIS 790",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/790/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 826 Science and World Exploration",
+      "links": [
+        {
+          "text": "HIS 826",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/826/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 828 Science, Corporations and the Environment",
+      "links": [
+        {
+          "text": "HIS 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 830 Settler Colonialism",
+      "links": [
+        {
+          "text": "HIS 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 845 Canada in the International Sphere",
+      "links": [
+        {
+          "text": "HIS 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 854 African-American History",
+      "links": [
+        {
+          "text": "HIS 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 886 The British Empire and the World",
+      "links": [
+        {
+          "text": "HIS 886",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/886/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 898 A History of International Organizations",
+      "links": [
+        {
+          "text": "HIS 898",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/898/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† Maximum of one HST courses (from HST 500 to HST 899) may be used in place of an HIS course in this group."
+    },
+    {
+      "kind": "text",
+      "text": "HST courses may not be used in place of HIS 401 , HIS 500 , HIS 501 , HIS 502 or HIS 505 , HIS 755 .",
+      "links": [
+        {
+          "text": "HIS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/401/"
+        },
+        {
+          "text": "HIS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/500/"
+        },
+        {
+          "text": "HIS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/501/"
+        },
+        {
+          "text": "HIS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/502/"
+        },
+        {
+          "text": "HIS 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/505/"
+        },
+        {
+          "text": "HIS 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/755/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "History"
+}

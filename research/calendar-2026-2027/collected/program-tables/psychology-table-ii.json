@@ -1,0 +1,1020 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "515f56562358466ddc899ae90d25e319e6cc9d24d13f027568d097f50d6f001a",
+  "source_bytes": 64659,
+  "title": "Psychology Core Elective Table II",
+  "headings": [
+    "Psychology Core Elective Table II",
+    "Cognition and Neuroscience",
+    "Developmental and Social Psychology",
+    "Clinical and Health Psychology",
+    "Advanced Seminar",
+    "Advanced Methods and Independent Study",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "PSY 214",
+    "PSY 215",
+    "PSY 300",
+    "PSY 304",
+    "PSY 335",
+    "PSY 402",
+    "PSY 412",
+    "PSY 434",
+    "PSY 502",
+    "PSY 505",
+    "PSY 514",
+    "PSY 518",
+    "PSY 535",
+    "PSY 544",
+    "PSY 550",
+    "PSY 560",
+    "PSY 602",
+    "PSY 605",
+    "PSY 612",
+    "PSY 614",
+    "PSY 620",
+    "PSY 621",
+    "PSY 622",
+    "PSY 674",
+    "PSY 682",
+    "PSY 700",
+    "PSY 701",
+    "PSY 706",
+    "PSY 707",
+    "PSY 712",
+    "PSY 713",
+    "PSY 721",
+    "PSY 751",
+    "PSY 802",
+    "PSY 805",
+    "PSY 806",
+    "PSY 807",
+    "PSY 808",
+    "PSY 811",
+    "PSY 813",
+    "PSY 904",
+    "PSY 905",
+    "PSY 908",
+    "PSY 914",
+    "PSY 915",
+    "PSY 918",
+    "PSY 940",
+    "PSY 941",
+    "PSY 961",
+    "PSY 971"
+  ],
+  "official_links": [
+    {
+      "text": "Psychology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/"
+    },
+    {
+      "text": "PSY 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/214/"
+    },
+    {
+      "text": "PSY 412",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/412/"
+    },
+    {
+      "text": "PSY 434",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/434/"
+    },
+    {
+      "text": "PSY 514",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/514/"
+    },
+    {
+      "text": "PSY 544",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/544/"
+    },
+    {
+      "text": "PSY 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/701/"
+    },
+    {
+      "text": "PSY 712",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/712/"
+    },
+    {
+      "text": "PSY 713",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/713/"
+    },
+    {
+      "text": "PSY 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+    },
+    {
+      "text": "PSY 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/300/"
+    },
+    {
+      "text": "PSY 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/304/"
+    },
+    {
+      "text": "PSY 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/402/"
+    },
+    {
+      "text": "PSY 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/502/"
+    },
+    {
+      "text": "PSY 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/505/"
+    },
+    {
+      "text": "PSY 518",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/518/"
+    },
+    {
+      "text": "PSY 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/535/"
+    },
+    {
+      "text": "PSY 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/560/"
+    },
+    {
+      "text": "PSY 614",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/614/"
+    },
+    {
+      "text": "PSY 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/620/"
+    },
+    {
+      "text": "PSY 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/622/"
+    },
+    {
+      "text": "PSY 674",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/674/"
+    },
+    {
+      "text": "PSY 807",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/807/"
+    },
+    {
+      "text": "PSY 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/808/"
+    },
+    {
+      "text": "PSY 940",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/940/"
+    },
+    {
+      "text": "PSY 941",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/941/"
+    },
+    {
+      "text": "PSY 215",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/215/"
+    },
+    {
+      "text": "PSY 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/335/"
+    },
+    {
+      "text": "PSY 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/550/"
+    },
+    {
+      "text": "PSY 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/602/"
+    },
+    {
+      "text": "PSY 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/605/"
+    },
+    {
+      "text": "PSY 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/621/"
+    },
+    {
+      "text": "PSY 682",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/682/"
+    },
+    {
+      "text": "PSY 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/706/"
+    },
+    {
+      "text": "PSY 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/707/"
+    },
+    {
+      "text": "PSY 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/721/"
+    },
+    {
+      "text": "PSY 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+    },
+    {
+      "text": "PSY 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/805/"
+    },
+    {
+      "text": "PSY 806",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/806/"
+    },
+    {
+      "text": "PSY 904",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/904/"
+    },
+    {
+      "text": "PSY 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/905/"
+    },
+    {
+      "text": "PSY 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/908/"
+    },
+    {
+      "text": "PSY 914",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/914/"
+    },
+    {
+      "text": "PSY 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/915/"
+    },
+    {
+      "text": "PSY 918",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/918/"
+    },
+    {
+      "text": "PSY 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/612/"
+    },
+    {
+      "text": "PSY 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/700/"
+    },
+    {
+      "text": "PSY 751",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/751/"
+    },
+    {
+      "text": "PSY 811",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/811/"
+    },
+    {
+      "text": "PSY 961",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/961/"
+    },
+    {
+      "text": "PSY 971",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/971/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/table_ii/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Psychology Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Psychology",
+      "links": [
+        {
+          "text": "Psychology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A total of ten (10) courses is required from Table II including the following: 1 course from the Advanced Seminar Group 9 other Table II courses"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Cognition and Neuroscience"
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 214 Psychopharmacology",
+      "links": [
+        {
+          "text": "PSY 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/214/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 412 Human Brain Circuitry",
+      "links": [
+        {
+          "text": "PSY 412",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/412/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 434 Brain and Behaviour",
+      "links": [
+        {
+          "text": "PSY 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/434/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 514 Sensory and Perceptual Processes",
+      "links": [
+        {
+          "text": "PSY 514",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/514/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 544 Evolutionary Psychology",
+      "links": [
+        {
+          "text": "PSY 544",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/544/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 701 The Psychology of Music",
+      "links": [
+        {
+          "text": "PSY 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 712 Human Memory",
+      "links": [
+        {
+          "text": "PSY 712",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/712/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 713 Psychology of Perception",
+      "links": [
+        {
+          "text": "PSY 713",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/713/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 813 Psychology of Art and Creativity",
+      "links": [
+        {
+          "text": "PSY 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Developmental and Social Psychology"
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 300 Psychology and Law",
+      "links": [
+        {
+          "text": "PSY 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 304 Psychology of Gender",
+      "links": [
+        {
+          "text": "PSY 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 402 Adult Development",
+      "links": [
+        {
+          "text": "PSY 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 502 Adolescence and Emerging Adulthood",
+      "links": [
+        {
+          "text": "PSY 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 505 Personality Theory",
+      "links": [
+        {
+          "text": "PSY 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 518 Environmental Psychology",
+      "links": [
+        {
+          "text": "PSY 518",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/518/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 535 Gender Issues in Psychology",
+      "links": [
+        {
+          "text": "PSY 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 560 Sport, Exercise and Performance",
+      "links": [
+        {
+          "text": "PSY 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 614 * Psychology of Sport",
+      "links": [
+        {
+          "text": "PSY 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 620 Psychology of Immigration",
+      "links": [
+        {
+          "text": "PSY 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 622 The Psychology of Criminal Behaviour",
+      "links": [
+        {
+          "text": "PSY 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/622/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 674 * Indigenous Peoples and Psychology",
+      "links": [
+        {
+          "text": "PSY 674",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/674/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 807 Psychology of Prejudice",
+      "links": [
+        {
+          "text": "PSY 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/807/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 808 Community Psychology",
+      "links": [
+        {
+          "text": "PSY 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/808/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 940 Prejudice and Discrimination",
+      "links": [
+        {
+          "text": "PSY 940",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/940/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 941 Cross Cultural Psychology",
+      "links": [
+        {
+          "text": "PSY 941",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/941/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Clinical and Health Psychology"
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 215 Psychology of Addictions",
+      "links": [
+        {
+          "text": "PSY 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/215/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 335 Clinical Psychology",
+      "links": [
+        {
+          "text": "PSY 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 550 Human Sexuality",
+      "links": [
+        {
+          "text": "PSY 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 560 Sport, Exercise and Performance",
+      "links": [
+        {
+          "text": "PSY 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 602 Developmental Psychopathology",
+      "links": [
+        {
+          "text": "PSY 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 605 Psychology of Health and Health Care",
+      "links": [
+        {
+          "text": "PSY 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 614 * Psychology of Sport",
+      "links": [
+        {
+          "text": "PSY 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/614/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 621 Psychology of Human Sexuality",
+      "links": [
+        {
+          "text": "PSY 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 674 * Indigenous Peoples and Psychology",
+      "links": [
+        {
+          "text": "PSY 674",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/674/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 682 Sleep",
+      "links": [
+        {
+          "text": "PSY 682",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/682/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 706 Positive Psychology",
+      "links": [
+        {
+          "text": "PSY 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 707 Models of Stress and Adaptation",
+      "links": [
+        {
+          "text": "PSY 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 721 Psychological Testing",
+      "links": [
+        {
+          "text": "PSY 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 802 Death, Dying and Bereavement",
+      "links": [
+        {
+          "text": "PSY 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 805 Adjustment, Stress and Coping",
+      "links": [
+        {
+          "text": "PSY 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 806 Behaviour Modification",
+      "links": [
+        {
+          "text": "PSY 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/806/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Advanced Seminar"
+    },
+    {
+      "kind": "text",
+      "text": "Only one Advanced Seminar course can be used to fulfill Table II requirements."
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 904 Advanced Cognition Seminar",
+      "links": [
+        {
+          "text": "PSY 904",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/904/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 905 Advanced Clinical Psychology Seminar",
+      "links": [
+        {
+          "text": "PSY 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 908 Advanced Developmental Seminar",
+      "links": [
+        {
+          "text": "PSY 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 914 Advanced Biopsychology Seminar",
+      "links": [
+        {
+          "text": "PSY 914",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/914/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 915 Advanced Health Psychology Seminar",
+      "links": [
+        {
+          "text": "PSY 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 918 Advanced Social Psychology Seminar",
+      "links": [
+        {
+          "text": "PSY 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/918/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Advanced Methods and Independent Study"
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 612 Independent Study",
+      "links": [
+        {
+          "text": "PSY 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 700 Research Practicum",
+      "links": [
+        {
+          "text": "PSY 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 751 Special Topics in Psychology",
+      "links": [
+        {
+          "text": "PSY 751",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/751/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 811 Advanced Statistical Methods",
+      "links": [
+        {
+          "text": "PSY 811",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/811/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 961 Thesis Project I",
+      "links": [
+        {
+          "text": "PSY 961",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/961/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 971 Thesis Project II",
+      "links": [
+        {
+          "text": "PSY 971",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/971/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course appears in two different Table II groups."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Psychology - Table II"
+}

@@ -1,0 +1,460 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/film-table-i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8a7f5620cd2a57bed9a5f7267487d14b71a2f82744058929599d5ab3053e743a",
+  "source_bytes": 54769,
+  "title": "Film Table I",
+  "headings": [
+    "Film Table I"
+  ],
+  "course_codes_referenced": [
+    "FPN 512",
+    "FPN 513",
+    "FPN 531",
+    "FPN 541",
+    "FPN 544",
+    "FPN 546",
+    "FPN 560",
+    "FPN 565",
+    "FPN 570",
+    "FPN 575",
+    "FPN 580",
+    "FPN 585",
+    "FPN 631",
+    "FPN 720",
+    "NPF 505",
+    "NPF 515",
+    "NPF 520",
+    "NPF 530",
+    "NPF 563",
+    "NPF 564",
+    "NPF 565",
+    "NPF 566",
+    "NPF 569",
+    "NPF 570",
+    "NPF 573",
+    "NPF 574",
+    "NPF 605",
+    "NPF 705"
+  ],
+  "official_links": [
+    {
+      "text": "Image Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+    },
+    {
+      "text": "FPN 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/512/"
+    },
+    {
+      "text": "FPN 513",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/513/"
+    },
+    {
+      "text": "FPN 531",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/531/"
+    },
+    {
+      "text": "FPN 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/541/"
+    },
+    {
+      "text": "FPN 544",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/544/"
+    },
+    {
+      "text": "FPN 546",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/546/"
+    },
+    {
+      "text": "FPN 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/560/"
+    },
+    {
+      "text": "FPN 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/565/"
+    },
+    {
+      "text": "FPN 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/570/"
+    },
+    {
+      "text": "FPN 575",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/575/"
+    },
+    {
+      "text": "FPN 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/580/"
+    },
+    {
+      "text": "FPN 585",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/585/"
+    },
+    {
+      "text": "FPN 631",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/631/"
+    },
+    {
+      "text": "FPN 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/720/"
+    },
+    {
+      "text": "NPF 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/505/"
+    },
+    {
+      "text": "NPF 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/515/"
+    },
+    {
+      "text": "NPF 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/520/"
+    },
+    {
+      "text": "NPF 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/530/"
+    },
+    {
+      "text": "NPF 563",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/563/"
+    },
+    {
+      "text": "NPF 564",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/564/"
+    },
+    {
+      "text": "NPF 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/565/"
+    },
+    {
+      "text": "NPF 569",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/569/"
+    },
+    {
+      "text": "NPF 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/570/"
+    },
+    {
+      "text": "NPF 573",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/573/"
+    },
+    {
+      "text": "NPF 574",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/574/"
+    },
+    {
+      "text": "NPF 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/605/"
+    },
+    {
+      "text": "NPF 566",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/566/"
+    },
+    {
+      "text": "NPF 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/705/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Film Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Image Arts",
+      "links": [
+        {
+          "text": "Image Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For Film students admitted Fall 2026 and after: Students must complete a total of three single-term courses (or equivalent) from Table I."
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 512 Microcinema",
+      "links": [
+        {
+          "text": "FPN 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/512/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 513 Creative Coding",
+      "links": [
+        {
+          "text": "FPN 513",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/513/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 531 Cinematography and Lighting Design I",
+      "links": [
+        {
+          "text": "FPN 531",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/531/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 541 Animation Practices",
+      "links": [
+        {
+          "text": "FPN 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 544 Experimental Film Processes",
+      "links": [
+        {
+          "text": "FPN 544",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/544/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 546 Curation and Exhibition",
+      "links": [
+        {
+          "text": "FPN 546",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/546/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 560 Advanced Sound Design & Mixing",
+      "links": [
+        {
+          "text": "FPN 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 565 Art Direction for Film",
+      "links": [
+        {
+          "text": "FPN 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 570 Advanced Screenwriting",
+      "links": [
+        {
+          "text": "FPN 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 575 Advanced Picture Editing",
+      "links": [
+        {
+          "text": "FPN 575",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/575/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 580 Visual Effects for Film",
+      "links": [
+        {
+          "text": "FPN 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 585 Production Design for Film",
+      "links": [
+        {
+          "text": "FPN 585",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/585/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 631 Cinematography and Lighting Design II",
+      "links": [
+        {
+          "text": "FPN 631",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/631/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FPN 720 Virtual Cameras: Intro to 3D",
+      "links": [
+        {
+          "text": "FPN 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/FPN/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 505 Independent Cinema",
+      "links": [
+        {
+          "text": "NPF 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 515 Gender, Race, and Sexuality in Art",
+      "links": [
+        {
+          "text": "NPF 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 520 Queer Cinemas",
+      "links": [
+        {
+          "text": "NPF 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 530 Electronic and Digital Art",
+      "links": [
+        {
+          "text": "NPF 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 563 Directors and Composers",
+      "links": [
+        {
+          "text": "NPF 563",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/563/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 564 Contemporary World Cinema",
+      "links": [
+        {
+          "text": "NPF 564",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/564/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 565 Contemporary Canadian Cinema",
+      "links": [
+        {
+          "text": "NPF 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 569 Disaster Images: Memory and Response",
+      "links": [
+        {
+          "text": "NPF 569",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/569/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 570 Advertising and Consumer Culture",
+      "links": [
+        {
+          "text": "NPF 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 573 Video Games: History, Theory, Culture",
+      "links": [
+        {
+          "text": "NPF 573",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/573/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 574 Indigenous Visual Culture in Canada",
+      "links": [
+        {
+          "text": "NPF 574",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/574/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 605 History of Documentary Film",
+      "links": [
+        {
+          "text": "NPF 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 566 History of Animation",
+      "links": [
+        {
+          "text": "NPF 566",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/566/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NPF 705 Thinking Through Diversity",
+      "links": [
+        {
+          "text": "NPF 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/image-arts/NPF/705/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Image Arts - Film Table I"
+}

@@ -1,0 +1,584 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d7319affa0576d156e0528e3a895a240e9049867093b90ab2b6a30ca6fce586d",
+  "source_bytes": 57224,
+  "title": "Urban and Regional Planning Core Elective Table I",
+  "headings": [
+    "Urban and Regional Planning Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "FCS 200",
+    "PLE 505",
+    "PLE 515",
+    "PLE 525",
+    "PLE 535",
+    "PLE 545",
+    "PLE 555",
+    "PLE 565",
+    "PLE 625",
+    "PLE 635",
+    "PLE 655",
+    "PLE 665",
+    "PLE 675",
+    "PLE 685",
+    "PLE 715",
+    "PLE 725",
+    "PLE 735",
+    "PLE 745",
+    "PLE 755",
+    "PLE 765",
+    "PLE 775",
+    "PLE 780",
+    "PLE 785",
+    "PLE 795",
+    "PLE 806",
+    "PLE 815",
+    "PLE 825",
+    "PLE 835",
+    "PLE 845",
+    "PLE 855",
+    "PLE 865",
+    "PLE 875",
+    "PLE 885",
+    "PLE 895",
+    "PLE 935",
+    "PLE 995"
+  ],
+  "official_links": [
+    {
+      "text": "Urban and Regional Planning",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/"
+    },
+    {
+      "text": "FCS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+    },
+    {
+      "text": "PLE 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/505/"
+    },
+    {
+      "text": "PLE 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/515/"
+    },
+    {
+      "text": "PLE 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/525/"
+    },
+    {
+      "text": "PLE 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/535/"
+    },
+    {
+      "text": "PLE 545",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/545/"
+    },
+    {
+      "text": "PLE 555",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/555/"
+    },
+    {
+      "text": "PLE 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/565/"
+    },
+    {
+      "text": "PLE 625",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/625/"
+    },
+    {
+      "text": "PLE 635",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+    },
+    {
+      "text": "PLE 655",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/655/"
+    },
+    {
+      "text": "PLE 665",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/665/"
+    },
+    {
+      "text": "PLE 675",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/675/"
+    },
+    {
+      "text": "PLE 685",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/685/"
+    },
+    {
+      "text": "PLE 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+    },
+    {
+      "text": "PLE 725",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/725/"
+    },
+    {
+      "text": "PLE 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/735/"
+    },
+    {
+      "text": "PLE 745",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/745/"
+    },
+    {
+      "text": "PLE 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/755/"
+    },
+    {
+      "text": "PLE 765",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/765/"
+    },
+    {
+      "text": "PLE 775",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/775/"
+    },
+    {
+      "text": "PLE 780",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/780/"
+    },
+    {
+      "text": "PLE 785",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/785/"
+    },
+    {
+      "text": "PLE 795",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/795/"
+    },
+    {
+      "text": "PLE 806",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/806/"
+    },
+    {
+      "text": "PLE 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/815/"
+    },
+    {
+      "text": "PLE 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/825/"
+    },
+    {
+      "text": "PLE 835",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/835/"
+    },
+    {
+      "text": "PLE 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/845/"
+    },
+    {
+      "text": "PLE 855",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/855/"
+    },
+    {
+      "text": "PLE 865",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/865/"
+    },
+    {
+      "text": "PLE 875",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/875/"
+    },
+    {
+      "text": "PLE 885",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/885/"
+    },
+    {
+      "text": "PLE 895",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/895/"
+    },
+    {
+      "text": "PLE 935",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/935/"
+    },
+    {
+      "text": "PLE 995",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/995/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Urban and Regional Planning Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Urban and Regional Planning",
+      "links": [
+        {
+          "text": "Urban and Regional Planning",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Professional courses are offered on a rotational basis."
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 200 Indigenous Relations in Practice",
+      "links": [
+        {
+          "text": "FCS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 505 Cities and Technology: Foundations",
+      "links": [
+        {
+          "text": "PLE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 515 Environmental Planning",
+      "links": [
+        {
+          "text": "PLE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 525 Transportation Planning",
+      "links": [
+        {
+          "text": "PLE 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 535 Housing",
+      "links": [
+        {
+          "text": "PLE 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 545 History of City Development",
+      "links": [
+        {
+          "text": "PLE 545",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/545/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 555 Site Planning I",
+      "links": [
+        {
+          "text": "PLE 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 565 Social and Community Planning",
+      "links": [
+        {
+          "text": "PLE 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 625 Transportation Policy",
+      "links": [
+        {
+          "text": "PLE 625",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/625/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 635 Feasibility Analysis of Development",
+      "links": [
+        {
+          "text": "PLE 635",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 655 Site Planning II",
+      "links": [
+        {
+          "text": "PLE 655",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/655/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 665 Regional Planning Seminar",
+      "links": [
+        {
+          "text": "PLE 665",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/665/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 675 Transportation and the Urban Form",
+      "links": [
+        {
+          "text": "PLE 675",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/675/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 685 Urban Analytics and Data Storytelling",
+      "links": [
+        {
+          "text": "PLE 685",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/685/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 715 Environmental Assessment",
+      "links": [
+        {
+          "text": "PLE 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 725 Planning and Design with Diversity",
+      "links": [
+        {
+          "text": "PLE 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/725/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 735 Private Development Seminar",
+      "links": [
+        {
+          "text": "PLE 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/735/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 745 Selected Topics in Planning",
+      "links": [
+        {
+          "text": "PLE 745",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/745/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 755 Contemporary Urban Design",
+      "links": [
+        {
+          "text": "PLE 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 765 International Development",
+      "links": [
+        {
+          "text": "PLE 765",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/765/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 775 Independent Study",
+      "links": [
+        {
+          "text": "PLE 775",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/775/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 780 * Field Internship",
+      "links": [
+        {
+          "text": "PLE 780",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/780/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 785 * Field Placement",
+      "links": [
+        {
+          "text": "PLE 785",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/785/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 795 Local Economic Development Fundamentals",
+      "links": [
+        {
+          "text": "PLE 795",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/795/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 806 Senior Research Paper",
+      "links": [
+        {
+          "text": "PLE 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 815 Facility Siting and Env. Risk Assessment",
+      "links": [
+        {
+          "text": "PLE 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 825 Planning Design and Technology",
+      "links": [
+        {
+          "text": "PLE 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 835 Ecological Design",
+      "links": [
+        {
+          "text": "PLE 835",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/835/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 845 Selected Topics in Planning",
+      "links": [
+        {
+          "text": "PLE 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 855 Strategic Planning",
+      "links": [
+        {
+          "text": "PLE 855",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/855/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 865 Brownfields and Sustainable Redevelopment",
+      "links": [
+        {
+          "text": "PLE 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/865/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 875 Independent Study",
+      "links": [
+        {
+          "text": "PLE 875",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/875/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 885 International Field Camp",
+      "links": [
+        {
+          "text": "PLE 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/885/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 895 Conflict Resolution and Dispute Negotiation",
+      "links": [
+        {
+          "text": "PLE 895",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/895/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 935 New Natures and Urban Wilds",
+      "links": [
+        {
+          "text": "PLE 935",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/935/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 995 Ecn Development and Business Improvement",
+      "links": [
+        {
+          "text": "PLE 995",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/995/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Not available to students in the Full-Time, Five-Year Co-op Program."
+    }
+  ],
+  "inventory_name": "Urban and Regional Planning Core Elective Table I"
+}

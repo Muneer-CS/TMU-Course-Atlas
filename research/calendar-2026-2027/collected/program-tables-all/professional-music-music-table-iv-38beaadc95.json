@@ -1,0 +1,240 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "0d0cb1fc42ad24b351a987a2f29e58ae0d6b6076734b0f7a94da4f4078237568",
+  "source_bytes": 53122,
+  "title": "Music Elective Table IV",
+  "headings": [
+    "Music Elective Table IV"
+  ],
+  "course_codes_referenced": [
+    "MUS 101",
+    "MUS 105",
+    "MUS 106",
+    "MUS 201",
+    "MUS 211",
+    "MUS 220",
+    "MUS 300",
+    "MUS 303",
+    "MUS 401",
+    "MUS 501",
+    "MUS 503",
+    "MUS 505",
+    "MUS 507",
+    "MUS 520"
+  ],
+  "official_links": [
+    {
+      "text": "Professional Music",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+    },
+    {
+      "text": "MUS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/101/"
+    },
+    {
+      "text": "MUS 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/105/"
+    },
+    {
+      "text": "MUS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/106/"
+    },
+    {
+      "text": "MUS 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/201/"
+    },
+    {
+      "text": "MUS 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/211/"
+    },
+    {
+      "text": "MUS 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/220/"
+    },
+    {
+      "text": "MUS 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/300/"
+    },
+    {
+      "text": "MUS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/401/"
+    },
+    {
+      "text": "MUS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/501/"
+    },
+    {
+      "text": "MUS 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/503/"
+    },
+    {
+      "text": "MUS 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/505/"
+    },
+    {
+      "text": "MUS 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/507/"
+    },
+    {
+      "text": "MUS 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/520/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Music Elective Table IV"
+    },
+    {
+      "kind": "text",
+      "text": "Professional Music",
+      "links": [
+        {
+          "text": "Professional Music",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "One (1) course from the Music Elective Table IV is required:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 101 Intro to World and Early European Music",
+      "links": [
+        {
+          "text": "MUS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 105 Voices Without Borders: Global Chorus",
+      "links": [
+        {
+          "text": "MUS 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 106 The Architecture of Music",
+      "links": [
+        {
+          "text": "MUS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 201 Introduction to Classical Music",
+      "links": [
+        {
+          "text": "MUS 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 211 Music Cultures of the City",
+      "links": [
+        {
+          "text": "MUS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/211/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 220 Global Popular Music",
+      "links": [
+        {
+          "text": "MUS 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 300 Musicology",
+      "links": [
+        {
+          "text": "MUS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 303 Global Guitar"
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 401 Music, Myth, and Ecstasy",
+      "links": [
+        {
+          "text": "MUS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 501 Music of World Cultures",
+      "links": [
+        {
+          "text": "MUS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 503 Social Issues in Popular Music",
+      "links": [
+        {
+          "text": "MUS 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 505 The History of Pop Music",
+      "links": [
+        {
+          "text": "MUS 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 507 Architecture of Music II",
+      "links": [
+        {
+          "text": "MUS 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MUS 520 Women in Popular Music",
+      "links": [
+        {
+          "text": "MUS 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/music/MUS/520/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Professional Music - Music Table IV"
+}

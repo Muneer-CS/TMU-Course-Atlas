@@ -1,0 +1,509 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_iii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "19a5557d35b1c3a758ece02c2ee323f0eb49ba8a5b8d93be67a497d066da442a",
+  "source_bytes": 55930,
+  "title": "Biology Core Elective Table III",
+  "headings": [
+    "Biology Core Elective Table III"
+  ],
+  "course_codes_referenced": [
+    "EID 100",
+    "MTH 110",
+    "MTH 210",
+    "MTH 322",
+    "MTH 330",
+    "MTH 430",
+    "MTH 480",
+    "MTH 500",
+    "MTH 501",
+    "MTH 503",
+    "MTH 540",
+    "MTH 601",
+    "MTH 603",
+    "MTH 607",
+    "MTH 609",
+    "MTH 640",
+    "MTH 710",
+    "MTH 712",
+    "MTH 714",
+    "MTH 718",
+    "MTH 814",
+    "MTH 817",
+    "MTH 820",
+    "OHS 319",
+    "PCS 228",
+    "PCS 230",
+    "PCS 335",
+    "PCS 350",
+    "PCS 405",
+    "PCS 406",
+    "PCS 407"
+  ],
+  "official_links": [
+    {
+      "text": "Biology",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+    },
+    {
+      "text": "EID 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+    },
+    {
+      "text": "MTH 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+    },
+    {
+      "text": "MTH 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/210/"
+    },
+    {
+      "text": "MTH 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/322/"
+    },
+    {
+      "text": "MTH 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+    },
+    {
+      "text": "MTH 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+    },
+    {
+      "text": "MTH 480",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/480/"
+    },
+    {
+      "text": "MTH 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/500/"
+    },
+    {
+      "text": "MTH 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/501/"
+    },
+    {
+      "text": "MTH 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/503/"
+    },
+    {
+      "text": "MTH 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/540/"
+    },
+    {
+      "text": "MTH 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/601/"
+    },
+    {
+      "text": "MTH 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/603/"
+    },
+    {
+      "text": "MTH 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/607/"
+    },
+    {
+      "text": "MTH 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/609/"
+    },
+    {
+      "text": "MTH 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/640/"
+    },
+    {
+      "text": "MTH 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/710/"
+    },
+    {
+      "text": "MTH 712",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/712/"
+    },
+    {
+      "text": "MTH 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/714/"
+    },
+    {
+      "text": "MTH 718",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/718/"
+    },
+    {
+      "text": "MTH 814",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/814/"
+    },
+    {
+      "text": "MTH 817",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/817/"
+    },
+    {
+      "text": "MTH 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/820/"
+    },
+    {
+      "text": "OHS 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/319/"
+    },
+    {
+      "text": "PCS 228",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+    },
+    {
+      "text": "PCS 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+    },
+    {
+      "text": "PCS 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+    },
+    {
+      "text": "PCS 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+    },
+    {
+      "text": "PCS 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+    },
+    {
+      "text": "PCS 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/406/"
+    },
+    {
+      "text": "PCS 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/407/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Biology Core Elective Table III"
+    },
+    {
+      "kind": "text",
+      "text": "Biology",
+      "links": [
+        {
+          "text": "Biology",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2025 and before:"
+    },
+    {
+      "kind": "text",
+      "text": "Biophysics Option: A total of three courses is required for graduation."
+    },
+    {
+      "kind": "list_item",
+      "text": "EID 100 Digital Skills and Innovation",
+      "links": [
+        {
+          "text": "EID 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 110 Discrete Mathematics I",
+      "links": [
+        {
+          "text": "MTH 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 210 Discrete Mathematics II",
+      "links": [
+        {
+          "text": "MTH 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 322 Chaos, Fractals and Dynamics",
+      "links": [
+        {
+          "text": "MTH 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 330 Calculus and Geometry",
+      "links": [
+        {
+          "text": "MTH 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 430 Dynamic Systems Differential Equations",
+      "links": [
+        {
+          "text": "MTH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 480 Probability and Statistics II",
+      "links": [
+        {
+          "text": "MTH 480",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/480/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 500 Introduction to Stochastic Processes",
+      "links": [
+        {
+          "text": "MTH 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 501 Numerical Analysis I",
+      "links": [
+        {
+          "text": "MTH 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 503 Intro Linear Programming and Applications",
+      "links": [
+        {
+          "text": "MTH 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 540 Geometry",
+      "links": [
+        {
+          "text": "MTH 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 601 Numerical Analysis II",
+      "links": [
+        {
+          "text": "MTH 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 603 Non-Linear Programming and Applications",
+      "links": [
+        {
+          "text": "MTH 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 607 Graph Theory",
+      "links": [
+        {
+          "text": "MTH 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 609 Number Theory",
+      "links": [
+        {
+          "text": "MTH 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 640 Complex Analysis",
+      "links": [
+        {
+          "text": "MTH 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 710 Fourier Analysis",
+      "links": [
+        {
+          "text": "MTH 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 712 Partial Differential Equations",
+      "links": [
+        {
+          "text": "MTH 712",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/712/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 714 Logic and Computability",
+      "links": [
+        {
+          "text": "MTH 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/714/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 718 Design and Codes",
+      "links": [
+        {
+          "text": "MTH 718",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/718/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 814 Computational Complexity",
+      "links": [
+        {
+          "text": "MTH 814",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/814/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 817 Combinatorics",
+      "links": [
+        {
+          "text": "MTH 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 820 Image Analysis",
+      "links": [
+        {
+          "text": "MTH 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 319 Health Effects of Radiation",
+      "links": [
+        {
+          "text": "OHS 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 228 Electricity and Magnetism",
+      "links": [
+        {
+          "text": "PCS 228",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 230 Photonics and Optical Devices",
+      "links": [
+        {
+          "text": "PCS 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 335 Thermodynamics and Statistical Physics",
+      "links": [
+        {
+          "text": "PCS 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 350 Computational Methods in Medical Physics",
+      "links": [
+        {
+          "text": "PCS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 405 Medical Imaging",
+      "links": [
+        {
+          "text": "PCS 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 406 Radiation Protection/Health Physics",
+      "links": [
+        {
+          "text": "PCS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 407 Radiation Therapy",
+      "links": [
+        {
+          "text": "PCS 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/407/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Biology - Table III"
+}

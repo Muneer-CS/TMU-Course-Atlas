@@ -1,0 +1,632 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d6c7095f68de5f0819db2a342433fd9c34456c42f5e3012826362c582143070f",
+  "source_bytes": 58742,
+  "title": "Geographic Analysis Core Elective Table II",
+  "headings": [
+    "Geographic Analysis Core Elective Table II"
+  ],
+  "course_codes_referenced": [
+    "GEO 311",
+    "GEO 431",
+    "GEO 446",
+    "GEO 513",
+    "GEO 514",
+    "GEO 521",
+    "GEO 527",
+    "GEO 530",
+    "GEO 541",
+    "GEO 542",
+    "GEO 546",
+    "GEO 551",
+    "GEO 553",
+    "GEO 555",
+    "GEO 561",
+    "GEO 570",
+    "GEO 575",
+    "GEO 605",
+    "GEO 612",
+    "GEO 621",
+    "GEO 627",
+    "GEO 631",
+    "GEO 641",
+    "GEO 642",
+    "GEO 643",
+    "GEO 644",
+    "GEO 645",
+    "GEO 652",
+    "GEO 655",
+    "GEO 671",
+    "GEO 691",
+    "GEO 705",
+    "GEO 711",
+    "GEO 772",
+    "GEO 773",
+    "GEO 799",
+    "GEO 871",
+    "GEO 873"
+  ],
+  "official_links": [
+    {
+      "text": "Geographic Analysis",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+    },
+    {
+      "text": "GEO 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+    },
+    {
+      "text": "GEO 431",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/431/"
+    },
+    {
+      "text": "GEO 446",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/446/"
+    },
+    {
+      "text": "GEO 513",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+    },
+    {
+      "text": "GEO 514",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/514/"
+    },
+    {
+      "text": "GEO 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+    },
+    {
+      "text": "GEO 527",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/527/"
+    },
+    {
+      "text": "GEO 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/530/"
+    },
+    {
+      "text": "GEO 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+    },
+    {
+      "text": "GEO 542",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+    },
+    {
+      "text": "GEO 546",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/546/"
+    },
+    {
+      "text": "GEO 551",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/551/"
+    },
+    {
+      "text": "GEO 553",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/553/"
+    },
+    {
+      "text": "GEO 555",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/555/"
+    },
+    {
+      "text": "GEO 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+    },
+    {
+      "text": "GEO 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/570/"
+    },
+    {
+      "text": "GEO 575",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/575/"
+    },
+    {
+      "text": "GEO 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/605/"
+    },
+    {
+      "text": "GEO 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/612/"
+    },
+    {
+      "text": "GEO 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/621/"
+    },
+    {
+      "text": "GEO 627",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/627/"
+    },
+    {
+      "text": "GEO 631",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/631/"
+    },
+    {
+      "text": "GEO 641",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+    },
+    {
+      "text": "GEO 642",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+    },
+    {
+      "text": "GEO 643",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+    },
+    {
+      "text": "GEO 644",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/644/"
+    },
+    {
+      "text": "GEO 645",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/645/"
+    },
+    {
+      "text": "GEO 652",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/652/"
+    },
+    {
+      "text": "GEO 655",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+    },
+    {
+      "text": "GEO 671",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+    },
+    {
+      "text": "GEO 691",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/691/"
+    },
+    {
+      "text": "GEO 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/705/"
+    },
+    {
+      "text": "GEO 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+    },
+    {
+      "text": "GEO 772",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+    },
+    {
+      "text": "GEO 773",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/773/"
+    },
+    {
+      "text": "GEO 799",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/799/"
+    },
+    {
+      "text": "GEO 871",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+    },
+    {
+      "text": "GEO 873",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Geographic Analysis Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Geographic Analysis",
+      "links": [
+        {
+          "text": "Geographic Analysis",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A total of eight (8) courses is required."
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 311 Indigenous Geographies",
+      "links": [
+        {
+          "text": "GEO 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 431 Recreation Analysis",
+      "links": [
+        {
+          "text": "GEO 431",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/431/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 446 Introduction to Drone Flight and Imagery",
+      "links": [
+        {
+          "text": "GEO 446",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/446/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 513 Physical Geography in Decision Support",
+      "links": [
+        {
+          "text": "GEO 513",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 514 Resource Management in Northern Canada",
+      "links": [
+        {
+          "text": "GEO 514",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/514/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 521 † Geodemographics",
+      "links": [
+        {
+          "text": "GEO 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 527 Inequalities in Urban Neighbourhoods",
+      "links": [
+        {
+          "text": "GEO 527",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/527/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 530 Urban Economic Geography",
+      "links": [
+        {
+          "text": "GEO 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 541 † GIS Programming",
+      "links": [
+        {
+          "text": "GEO 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 542 † Introduction to Remote Sensing",
+      "links": [
+        {
+          "text": "GEO 542",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 546 Advanced Drone Operations and Analysis",
+      "links": [
+        {
+          "text": "GEO 546",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/546/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 551 Urbanization and Regional Development",
+      "links": [
+        {
+          "text": "GEO 551",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/551/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 553 Studies in Rural Geography",
+      "links": [
+        {
+          "text": "GEO 553",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/553/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 555 Colonial Infrastructures in North America",
+      "links": [
+        {
+          "text": "GEO 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 561 † Multivariate Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 570 Neolithic Geographies",
+      "links": [
+        {
+          "text": "GEO 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 575 Hydrology in a Changing World",
+      "links": [
+        {
+          "text": "GEO 575",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/575/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 605 The Geography of the Canadian North",
+      "links": [
+        {
+          "text": "GEO 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 612 Environmental Decision Making",
+      "links": [
+        {
+          "text": "GEO 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 621 Location Analysis of Commercial Activity",
+      "links": [
+        {
+          "text": "GEO 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 627 Accessibility of Urban Social Services",
+      "links": [
+        {
+          "text": "GEO 627",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/627/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 631 Exploration in Travel and Tourism",
+      "links": [
+        {
+          "text": "GEO 631",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/631/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 641 † GIS and Decision Support",
+      "links": [
+        {
+          "text": "GEO 641",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 642 † Advanced Remote Sensing and GIS",
+      "links": [
+        {
+          "text": "GEO 642",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 643 † Field Methods for Geospatial Data",
+      "links": [
+        {
+          "text": "GEO 643",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 644 † Spatial Databases",
+      "links": [
+        {
+          "text": "GEO 644",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/644/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 645 Place and Population Health",
+      "links": [
+        {
+          "text": "GEO 645",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/645/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 652 Urban Transportation Systems",
+      "links": [
+        {
+          "text": "GEO 652",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/652/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 655 Queer Geographies",
+      "links": [
+        {
+          "text": "GEO 655",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 671 Developmental and Environmental Law",
+      "links": [
+        {
+          "text": "GEO 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 691 Canadian Immigration: Patterns and Place",
+      "links": [
+        {
+          "text": "GEO 691",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/691/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 705 Environment and Society in the Caribbean",
+      "links": [
+        {
+          "text": "GEO 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 711 An Indigenous Guide to the Apocalypse",
+      "links": [
+        {
+          "text": "GEO 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 772 * Individual Research Paper",
+      "links": [
+        {
+          "text": "GEO 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 773 Field Studies",
+      "links": [
+        {
+          "text": "GEO 773",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/773/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 799 Special Topics in Geographic Analysis",
+      "links": [
+        {
+          "text": "GEO 799",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/799/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 871 * The Professional Geographer",
+      "links": [
+        {
+          "text": "GEO 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 873 * Geographic Entrepreneurship and Consulting",
+      "links": [
+        {
+          "text": "GEO 873",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† If not previously selected in Required Group 1 (Methods and Techniques)."
+    },
+    {
+      "kind": "text",
+      "text": "* If not previously selected in Required Group 1 (Capstone). Students are advised to take GEO 772 , GEO 871 or GEO 873 in their 7th and/or 8th semester.",
+      "links": [
+        {
+          "text": "GEO 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+        },
+        {
+          "text": "GEO 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+        },
+        {
+          "text": "GEO 873",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Geographic Analysis - Table II"
+}

@@ -1,0 +1,2194 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "081b0b061076b2a14169ec4a0746f8a5892e1c5946629092566db0e6d0a76e25",
+  "source_bytes": 144976,
+  "title": "Mathematics and Its Applications",
+  "headings": [
+    "Mathematics and Its Applications",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Co-operative Program Overview",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program (for all Options) section.",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Research Practicum",
+    "How to Enrol",
+    "Career Opportunities",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Program Advisory Council",
+    "Mathematics and Its Applications - First Year Common",
+    "Mathematics and Its Applications - First Year Common for all Options",
+    "1st & 2nd Semester",
+    "Mathematics and Its Applications (Regular Program)",
+    "Regular, Full-Time Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Computer Science Option",
+    "Computer Science Option, Full-Time Four-Year Program and Five-Year Co-Op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Economics Option",
+    "Economics Option, Full-Time Four-Year Program and Five-Year Co-Op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program (for all Options)",
+    "Co-operative Work Terms",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BLG 143",
+    "BLG 144",
+    "CHY 103",
+    "CHY 113",
+    "CPS 109",
+    "CPS 209",
+    "CPS 213",
+    "CPS 305",
+    "CPS 393",
+    "ECN 104",
+    "ECN 204",
+    "ECN 301",
+    "ECN 504",
+    "MTH 108",
+    "MTH 110",
+    "MTH 207",
+    "MTH 210",
+    "MTH 260",
+    "MTH 304",
+    "MTH 310",
+    "MTH 350",
+    "MTH 404",
+    "MTH 430",
+    "MTH 501",
+    "MTH 511",
+    "MTH 525",
+    "MTH 599",
+    "MTH 617",
+    "MTH 640",
+    "MTH 719",
+    "PCS 111",
+    "PCS 120",
+    "PCS 130",
+    "SCI 180",
+    "SCI 999",
+    "WKT 405",
+    "WKT 505",
+    "WKT 506",
+    "WKT 605",
+    "WKT 606"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+    },
+    {
+      "text": "SCI 180",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "SCI 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "MTH 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+    },
+    {
+      "text": "MTH 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/207/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "BLG 144",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+    },
+    {
+      "text": "CHY 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+    },
+    {
+      "text": "CHY 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+    },
+    {
+      "text": "CPS 209",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+    },
+    {
+      "text": "PCS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+    },
+    {
+      "text": "PCS 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+    },
+    {
+      "text": "MTH 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+    },
+    {
+      "text": "MTH 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/210/"
+    },
+    {
+      "text": "MTH 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/310/"
+    },
+    {
+      "text": "MTH 260",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/260/"
+    },
+    {
+      "text": "MTH 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/304/"
+    },
+    {
+      "text": "MTH 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/350/"
+    },
+    {
+      "text": "MTH 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/404/"
+    },
+    {
+      "text": "MTH 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+    },
+    {
+      "text": "MTH 719",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/719/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "MTH 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/501/"
+    },
+    {
+      "text": "MTH 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/525/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+    },
+    {
+      "text": "MTH 617",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/617/"
+    },
+    {
+      "text": "MTH 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/640/"
+    },
+    {
+      "text": "CPS 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+    },
+    {
+      "text": "CPS 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+    },
+    {
+      "text": "CPS 393",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_ii/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "ECN 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+    },
+    {
+      "text": "ECN 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+    },
+    {
+      "text": "Table III",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_iii/"
+    },
+    {
+      "text": "WKT 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+    },
+    {
+      "text": "WKT 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+    },
+    {
+      "text": "WKT 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+    },
+    {
+      "text": "WKT 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+    },
+    {
+      "text": "WKT 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Mathematics and Its Applications"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Science",
+      "links": [
+        {
+          "text": "Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Science (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Mathematics",
+      "links": [
+        {
+          "text": "Department of Mathematics",
+          "url": "https://www.torontomu.ca/content/ryerson/math/future-undergraduates/program-overview/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Advanced Functions (MHF4U), one of Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U), and one of Biology (SBI4U) or Chemistry (SCH4U) or Physics (SPH4U). Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the range of 70 percent) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of Grade 12 U Physics (SPH4U) is strongly recommended."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For those students with a particular interest in the interrelationship between mathematics and computer science, we offer an Option in Computer Science which provides the opportunity to take many more courses in that subject. For those who wish to explore the relationship between mathematics and economics we offer an Option in Economics."
+    },
+    {
+      "kind": "text",
+      "text": "Students not taking either of the above Options will be enrolled in the Regular program. Under the new curriculum that came into effect in the Fall 2013 term, students have the chance to take up to 10 courses from an Open Elective Table. These electives can be chosen so as to obtain a Minor in areas such as Accounting, Biology, Chemistry, Finance or Physics, and even in areas such as French, Politics, Law, and News Studies just to name a few, although there is no Minor requirement. In addition to Open Electives, students must take six upper level mathematics electives in addition to their Math core courses."
+    },
+    {
+      "kind": "text",
+      "text": "Students in science programs must enrol in SCI 180 in their first semester of studies.",
+      "links": [
+        {
+          "text": "SCI 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Faculty members of the Department of Mathematics have expertise in applied and pure mathematics. The topics include: Computer Security, Financial Mathematics, Applied Statistics, Biomathematics, Software Testing, Graph Theory, Fluid Mechanics, Differential Equations and Operator Theory. Students will have the opportunity to work on a supervised thesis project that draws on faculty research in combination with their research interests. After graduation, students can go on to graduate studies in mathematics, as well as to work in industry."
+    },
+    {
+      "kind": "text",
+      "text": "All students enrolled in Mathematics and Its Applications have the option to enrol in the Optional Specialization in Management Sciences."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program (for all Options) section."
+    },
+    {
+      "kind": "text",
+      "text": "An optional co-operative program is available which provides the graduating students with 12 months of work experience that enhances their organizational and technical abilities as well as their oral and written communication skills."
+    },
+    {
+      "kind": "text",
+      "text": "Although the Career & Co-op Centre cannot guarantee work term employment, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first year of the Math & Its Applications program can apply through the Career & Co-op Centre for admission to the co-operative education program at the end of first year during our spring/summer admissions period. This is the only time for students to apply to Co-op."
+    },
+    {
+      "kind": "text",
+      "text": "Enrolment in the co-op program is limited. Admission will be based on a criteria which includes the student's grade point average, courses completed, a resume, statement of intent and interview if deemed necessary."
+    },
+    {
+      "kind": "text",
+      "text": "To be admitted into the co-­op program, students must have all first year courses completed and a CLEAR Academic Standing. Students who are direct entry/transfer are not permitted into the program except on an exceptional case by case basis."
+    },
+    {
+      "kind": "text",
+      "text": "Students who are ahead with significant course credits are not permitted into the program except on an exceptional case by case basis. All decisions regarding admission into the program are final and at the discretion of the Career and Co-op Centre.",
+      "links": [
+        {
+          "text": "Career and Co-op Centre.",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The graduation requirements for the co-op program are the same as those for the BSc in Mathematics."
+    },
+    {
+      "kind": "text",
+      "text": "The co-op program requires five years to complete the degree in Math and Its Applications. The regular program can be completed in four years."
+    },
+    {
+      "kind": "text",
+      "text": "All co-op placements must be approved by the Career & Co-op Centre and the Faculty Advisor for the Math and Its Applications co-op program.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Additional information about co-op can be found on the Co-operative Education website .",
+      "links": [
+        {
+          "text": "Co-operative Education website",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Research Practicum"
+    },
+    {
+      "kind": "text",
+      "text": "SCI 999 - Research Practicum gives students the chance to gain hands-on research experience, in a lab or in the field, by engaging in the research work of a faculty member. Toronto Met records participation in the practicum on the student’s Official Transcript.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "SCI 999 is a non-credit, pass-fail course that is not used to fulfil degree program requirements. Students who meet the expectations for the research will get a passing grade. These expectations will be worked out between the student and the professor at enrolment. To take part in SCI 999 , students must have a CGPA of 2.5 or more, and they must commit to a minimum of 5 to 10 hours each week (on average) for one term.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        },
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "There are no tuition fees associated with this practicum."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to Enrol"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must first find a supervisor. Descriptions of faculty research are available on the Faculty of Science website (opens in new window) .",
+      "links": [
+        {
+          "text": "Faculty of Science website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/science/programs/undergraduate/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Students should contact supervisors whose research interests them by email or in person. Students must give their potential supervisor an unofficial transcript (opens in new window) , a one-page resumé and a brief covering letter. This package must include their contact information, degree program and stream, a brief statement of their career goals and how this research experience would further those goals, and any relevant work experience (paid or volunteer).",
+      "links": [
+        {
+          "text": "unofficial transcript (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/RAMSSsupport/ugrad_grad/academics/view_unofficial_transcript/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Follow the instructions available in the (PDF file) Research Practicum Application Form (opens in new window) .",
+      "links": [
+        {
+          "text": "(PDF file) Research Practicum Application Form (opens in new window)",
+          "url": "https://www.torontomu.ca/content/dam/science/documents/ResearchPracticumApplicationForm.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "Graduates with a Bachelor degree in Mathematics, whether it is a single subject or in combinations with some other discipline, will have a wide range of prospective careers, ranging from finance to computer security to medical research to name a few. Mathematics graduates work for industry, business and governments, where they are involved in a wide variety of tasks such as biological and environmental studies (for ministries of the environment), market research (for finance institutions), software development (for the security and coding of data), statistical analysis (polling agencies, financial institutions, Statistics Canada), market analysis (for financial institutions) and others. It is universally recognized that training in mathematics develops strong problem-solving skills and the ability to reason analytically. Aptitude in problem solving and analytical reasoning is important and highly valued in all areas of industry. Graduates of the program will thus satisfy a current and growing demand for mathematically trained individuals who are able to move into business and industry. There is a consistent demand for students who are able to combine mathematics with another discipline. Students who are able to combine knowledge from mathematics with another area of expertise have a greater chance of employment in a variety of jobs. Science students with a mathematical background also have more flexibility and are better prepared when pursuing graduate studies in science. We note that graduates taking the Computer Science Option would be particularly well suited for careers as Systems Analysts and Computer Programmers. Those pursuing the Economics option would be well suited to work as Auditors, Accountants, Investment Professionals, Finance and Insurance Clerks. All graduates of the program would be eligible for the most common occupation: Mathematicians, Systems Analysts and Computer Programmers."
+    },
+    {
+      "kind": "text",
+      "text": "We would like to direct students to Human Resources Development Canada (HRDC). Specifically, Job Futures (www.jobfutures.ca), a Government of Canada web-site that provides overviews of the labour market and general economic trends, detailed information on all occupational groups and post-secondary fields of study, current and future labour market conditions and prospects for finding work in the Canadian workforce. The site has an entry for those studying undergraduate mathematics, and this category includes applied mathematics, actuarial mathematics, and statistics. Graduates usually find work as mathematicians, statisticians, systems analysts, accountants, financial auditors in finance and insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics (ECN) courses are not available to Mathematics and Its Applications - Economics Option students."
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "MTH 511 and MTH 599 are not available for credit.",
+      "links": [
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics (ECN) courses are not available to Mathematics and Its Applications - Economics Option students."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr. Joe Campolieti Associate Professor Department of Mathematics Wilfrid Laurier University Dr. Tom Salisbury Professor Department of Mathematics York University"
+    },
+    {
+      "kind": "text",
+      "text": "Dr. Dave Saunders Associate Professor Department of Statistics and Actuarial Science University of Waterloo Dr. Luis Seco Professor Department of Mathematics University of Toronto Adam Thibideau Senior Analyst Global Tactical Asset Allocation Canada Pension Plan Investment Board"
+    },
+    {
+      "kind": "text",
+      "text": "Dr. Rudi Zagst Professor Chair of Financial Mathematics Munich University of Technology (Germany)"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mathematics and Its Applications - First Year Common"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Mathematics and Its Applications - First Year Common for all Options",
+      "links": [
+        {
+          "text": "Mathematics and Its Applications - First Year Common for all Options",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 110 Discrete Mathematics I",
+      "links": [
+        {
+          "text": "MTH 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 207 Calculus and Computational Methods I",
+      "links": [
+        {
+          "text": "MTH 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/207/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 180 * Orientation",
+      "links": [
+        {
+          "text": "SCI 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED SCIENCE GROUP: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 144 Biology II",
+      "links": [
+        {
+          "text": "BLG 144",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 113 General Chemistry II",
+      "links": [
+        {
+          "text": "CHY 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 120 Physics I",
+      "links": [
+        {
+          "text": "PCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 130 Physics II",
+      "links": [
+        {
+          "text": "PCS 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 108 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 210 Discrete Mathematics II",
+      "links": [
+        {
+          "text": "MTH 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 310 Calculus and Computational Methods II",
+      "links": [
+        {
+          "text": "MTH 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED SCIENCE GROUP: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 144 Biology II",
+      "links": [
+        {
+          "text": "BLG 144",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 113 General Chemistry II",
+      "links": [
+        {
+          "text": "CHY 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 120 Physics I",
+      "links": [
+        {
+          "text": "PCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 130 Physics II",
+      "links": [
+        {
+          "text": "PCS 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mathematics and Its Applications (Regular Program)"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Regular, Full-Time Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Regular, Full-Time Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 260 Introduction to Mathematical Inquiry",
+      "links": [
+        {
+          "text": "MTH 260",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/260/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 304 Probability and Statistics I",
+      "links": [
+        {
+          "text": "MTH 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 350 Multivariate and Vector Calculus and Geo",
+      "links": [
+        {
+          "text": "MTH 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 404 Probability and Statistics II",
+      "links": [
+        {
+          "text": "MTH 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 430 Dynamic Systems Differential Equations",
+      "links": [
+        {
+          "text": "MTH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 719 Applied Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/719/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 501",
+      "links": [
+        {
+          "text": "MTH 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Numerical Analysis I"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 525",
+      "links": [
+        {
+          "text": "MTH 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/525/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Analysis"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (Offered in Winter Term Only)"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 617",
+      "links": [
+        {
+          "text": "MTH 617",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/617/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Algebra"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 640",
+      "links": [
+        {
+          "text": "MTH 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/640/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Complex Analysis"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Five Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Computer Science Option"
+    },
+    {
+      "kind": "text",
+      "text": "For those students with a particular interest in the interrelationship between mathematics and computer science, we offer an Option in Computer Science ."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Computer Science Option, Full-Time Four-Year Program and Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Computer Science Option, Full-Time Four-Year Program and Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 * Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 213 Computer Organization I",
+      "links": [
+        {
+          "text": "CPS 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 260 Introduction to Mathematical Inquiry",
+      "links": [
+        {
+          "text": "MTH 260",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/260/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 304 Probability and Statistics I",
+      "links": [
+        {
+          "text": "MTH 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 350 Multivariate and Vector Calculus and Geo",
+      "links": [
+        {
+          "text": "MTH 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 404 Probability and Statistics II",
+      "links": [
+        {
+          "text": "MTH 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 430 Dynamic Systems Differential Equations",
+      "links": [
+        {
+          "text": "MTH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 719 Applied Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/719/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Students who have already completed CPS 209 as a Required Science Group course are required to take a different Required Science Group course instead. Please see 1st & 2nd Semester for the complete Required Science Group list.",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 501 Numerical Analysis I",
+      "links": [
+        {
+          "text": "MTH 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 525 Analysis",
+      "links": [
+        {
+          "text": "MTH 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 393 Introduction to Unix, C and C++",
+      "links": [
+        {
+          "text": "CPS 393",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (Offered in Winter Term Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 617 Algebra",
+      "links": [
+        {
+          "text": "MTH 617",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/617/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 640 Complex Analysis",
+      "links": [
+        {
+          "text": "MTH 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/640/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Four Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Economics Option"
+    },
+    {
+      "kind": "text",
+      "text": "For those who wish to explore the relationship between mathematics and economics we offer an Option in Economics ."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Economics Option, Full-Time Four-Year Program and Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Economics Option, Full-Time Four-Year Program and Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 260 Introduction to Mathematical Inquiry",
+      "links": [
+        {
+          "text": "MTH 260",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/260/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 304 Probability and Statistics I",
+      "links": [
+        {
+          "text": "MTH 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 350 Multivariate and Vector Calculus and Geo",
+      "links": [
+        {
+          "text": "MTH 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 404 Probability and Statistics II",
+      "links": [
+        {
+          "text": "MTH 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 430 Dynamic Systems Differential Equations",
+      "links": [
+        {
+          "text": "MTH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 719 Applied Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/719/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies.",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies.",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 301 Intermediate Macroeconomics I",
+      "links": [
+        {
+          "text": "ECN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 504 Intermediate Microeconomics I",
+      "links": [
+        {
+          "text": "ECN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 501 Numerical Analysis I",
+      "links": [
+        {
+          "text": "MTH 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 525 Analysis",
+      "links": [
+        {
+          "text": "MTH 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/525/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (Offered in Winter Term Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 617 Algebra",
+      "links": [
+        {
+          "text": "MTH 617",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/617/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table III .",
+      "links": [
+        {
+          "text": "Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 640 Complex Analysis",
+      "links": [
+        {
+          "text": "MTH 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/640/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table III .",
+      "links": [
+        {
+          "text": "Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES: Four Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sequence of Academic and Work Terms for Co-op Program (for all Options)"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Work Terms"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 405 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 505 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 506 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 605 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester or 7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 606 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester or 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Each work term is assessed by the School's Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job. Students must successfully complete 3 co-op WKT’s in order to graduate from their program of study with a Co-op designation. Once the requirements are satisfied being able to do another work term is at the discretion of the Career & Co-op Centre."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Mathematics and Its Applications"
+}

@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "1a11eb48a02bbb537d6f97703c007cbf03515525fa756c76bb4860e6eeb2af00",
+  "source_bytes": 47261,
+  "title": "Faculty of Science",
+  "headings": [
+    "Faculty of Science",
+    "Undergraduate Programs Listed Alphabetically"
+  ],
+  "course_codes_referenced": [],
+  "official_links": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Faculty of Science"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Undergraduate Programs Listed Alphabetically"
+    }
+  ],
+  "inventory_name": "Faculty of Science"
+}

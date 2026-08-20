@@ -1,0 +1,333 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_iii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d45d769e49585ef2643089f5c337a5d7734670ba5dac363fdc1fde61c1a2faac",
+  "source_bytes": 51393,
+  "title": "Computer Engineering Core Elective Table III",
+  "headings": [
+    "Computer Engineering Core Elective Table III",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "COE 718",
+    "COE 758",
+    "CPS 710",
+    "CPS 843",
+    "ELE 734"
+  ],
+  "official_links": [
+    {
+      "text": "Computer Engineering",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/"
+    },
+    {
+      "text": "COE 718",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/718/"
+    },
+    {
+      "text": "COE 758",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/758/"
+    },
+    {
+      "text": "CPS 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/710/"
+    },
+    {
+      "text": "CPS 843",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/843/"
+    },
+    {
+      "text": "ELE 734",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/734/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_iii/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Computer Engineering Core Elective Table III"
+    },
+    {
+      "kind": "text",
+      "text": "Computer Engineering",
+      "links": [
+        {
+          "text": "Computer Engineering",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2022 to the Full-Time, Five-Year Co-op Program:"
+    },
+    {
+      "kind": "text",
+      "text": "Professional Table III is for students completing the Option in Software Engineering."
+    },
+    {
+      "kind": "text",
+      "text": "A total of two courses is required from Table III."
+    },
+    {
+      "kind": "text",
+      "text": "A minimum of one of COE 718 and COE 758 must be completed; students may take both.",
+      "links": [
+        {
+          "text": "COE 718",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/718/"
+        },
+        {
+          "text": "COE 758",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/758/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 718 Embedded Systems Design",
+      "links": [
+        {
+          "text": "COE 718",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/718/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 758 Digital Systems Engineering",
+      "links": [
+        {
+          "text": "COE 758",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/758/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 710 Compilers and Interpreters",
+      "links": [
+        {
+          "text": "CPS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 843 Introduction to Computer Vision",
+      "links": [
+        {
+          "text": "CPS 843",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/843/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 734 Low Power Digital Integrated Circuits",
+      "links": [
+        {
+          "text": "ELE 734",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/734/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2023 and after: A total of two courses is required from Table III."
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 718 Embedded Systems Design",
+      "links": [
+        {
+          "text": "COE 718",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/718/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 710 Compilers and Interpreters",
+      "links": [
+        {
+          "text": "CPS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 843 Introduction to Computer Vision",
+      "links": [
+        {
+          "text": "CPS 843",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/843/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Computer Engineering - Table III (opens in new window)"
+}

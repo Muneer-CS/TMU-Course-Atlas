@@ -1,0 +1,1920 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d1122a36be0ffaf53b74433e4cd1950635a4bc1f5565e3e87f0304aeac58492c",
+  "source_bytes": 113994,
+  "title": "Graphic Communications Management",
+  "headings": [
+    "Graphic Communications Management",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Concentrations",
+    "Concentration in Digital Graphic Output",
+    "Concentration in Leadership",
+    "Concentration in Packaging",
+    "Concentration in Publishing",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "CMN 279",
+    "ENT 601",
+    "FIN 300",
+    "FIN 401",
+    "FIN 510",
+    "GCM 110",
+    "GCM 111",
+    "GCM 120",
+    "GCM 121",
+    "GCM 130",
+    "GCM 210",
+    "GCM 220",
+    "GCM 230",
+    "GCM 240",
+    "GCM 250",
+    "GCM 260",
+    "GCM 320",
+    "GCM 350",
+    "GCM 360",
+    "GCM 362",
+    "GCM 370",
+    "GCM 372",
+    "GCM 375",
+    "GCM 420",
+    "GCM 460",
+    "GCM 461",
+    "GCM 470",
+    "GCM 490",
+    "GCM 712",
+    "GCM 720",
+    "GCM 722",
+    "GCM 730",
+    "GCM 738",
+    "GCM 740",
+    "GCM 746",
+    "GCM 750",
+    "GCM 754",
+    "GCM 765",
+    "GCM 800",
+    "GCM 802",
+    "GCM 804",
+    "GCM 806",
+    "GCM 808",
+    "GCM 810",
+    "GCM 812",
+    "GCM 816",
+    "GCM 822",
+    "GCM 824",
+    "GCM 826",
+    "GCM 830",
+    "GCM 840",
+    "GCM 850",
+    "GCM 852",
+    "GCM 854",
+    "GCM 856",
+    "GCM 858",
+    "GCM 860",
+    "GCM 871",
+    "GMS 200",
+    "MKT 100",
+    "MKT 300",
+    "PHL 214",
+    "SSH 105",
+    "WKT 608"
+  ],
+  "official_links": [
+    {
+      "text": "The Creative School",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "GCM 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/110/"
+    },
+    {
+      "text": "GCM 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/120/"
+    },
+    {
+      "text": "GCM 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/130/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "CMN 279",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+    },
+    {
+      "text": "GCM 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/111/"
+    },
+    {
+      "text": "GCM 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/121/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "SSH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+    },
+    {
+      "text": "GCM 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/230/"
+    },
+    {
+      "text": "GCM 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/240/"
+    },
+    {
+      "text": "GCM 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/250/"
+    },
+    {
+      "text": "MKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "GCM 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/210/"
+    },
+    {
+      "text": "GCM 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/220/"
+    },
+    {
+      "text": "GCM 260",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/260/"
+    },
+    {
+      "text": "Core Elective Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+    },
+    {
+      "text": "GCM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/350/"
+    },
+    {
+      "text": "GCM 360",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/360/"
+    },
+    {
+      "text": "GCM 370",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/370/"
+    },
+    {
+      "text": "GCM 375",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/375/"
+    },
+    {
+      "text": "GCM 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/320/"
+    },
+    {
+      "text": "GCM 362",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/362/"
+    },
+    {
+      "text": "GCM 372",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/372/"
+    },
+    {
+      "text": "The Creative School Core Elective Table",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/core_elective_table/"
+    },
+    {
+      "text": "GCM 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/420/"
+    },
+    {
+      "text": "GCM 460",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/460/"
+    },
+    {
+      "text": "WKT 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/608/"
+    },
+    {
+      "text": "GCM 461",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/461/"
+    },
+    {
+      "text": "GCM 470",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/470/"
+    },
+    {
+      "text": "GCM 490",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/490/"
+    },
+    {
+      "text": "GCM 754",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/754/"
+    },
+    {
+      "text": "GCM 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/802/"
+    },
+    {
+      "text": "GCM 854",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/854/"
+    },
+    {
+      "text": "GCM 765",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/765/"
+    },
+    {
+      "text": "GCM 804",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/804/"
+    },
+    {
+      "text": "GCM 806",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/806/"
+    },
+    {
+      "text": "GCM 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/810/"
+    },
+    {
+      "text": "GCM 840",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/840/"
+    },
+    {
+      "text": "GCM 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/850/"
+    },
+    {
+      "text": "GCM 852",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/852/"
+    },
+    {
+      "text": "GCM 858",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/858/"
+    },
+    {
+      "text": "GCM 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/860/"
+    },
+    {
+      "text": "GCM 871",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/871/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "ENT 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/601/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "FIN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/510/"
+    },
+    {
+      "text": "GCM 746",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/746/"
+    },
+    {
+      "text": "GCM 816",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/816/"
+    },
+    {
+      "text": "GCM 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/830/"
+    },
+    {
+      "text": "GCM 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/800/"
+    },
+    {
+      "text": "GCM 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/808/"
+    },
+    {
+      "text": "GCM 740",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/740/"
+    },
+    {
+      "text": "GCM 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/750/"
+    },
+    {
+      "text": "GCM 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/822/"
+    },
+    {
+      "text": "GCM 856",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/856/"
+    },
+    {
+      "text": "GCM 824",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/824/"
+    },
+    {
+      "text": "GCM 826",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/826/"
+    },
+    {
+      "text": "GCM 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/720/"
+    },
+    {
+      "text": "GCM 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/722/"
+    },
+    {
+      "text": "GCM 712",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/712/"
+    },
+    {
+      "text": "GCM 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/730/"
+    },
+    {
+      "text": "GCM 738",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/738/"
+    },
+    {
+      "text": "GCM 812",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/812/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Graphic Communications Management"
+    },
+    {
+      "kind": "text",
+      "text": "The Creative School",
+      "links": [
+        {
+          "text": "The Creative School",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Technology (BTech)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "School of Graphic Communications Management",
+      "links": [
+        {
+          "text": "School of Graphic Communications Management",
+          "url": "https://www.torontomu.ca/content/ryerson/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 65-70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students are encouraged to take Grade 12 M Principles of Financial Accounting (BAT4M) and/or Communication Technology (TGJ4M)."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Toronto Met’s Bachelor of Technology (Graphic Communications Management) program aims to graduate individuals who will become effective professionals in the printing industries and who will have a foundation upon which they may develop themselves as managers. Naturally, the program cannot produce instant managers or executives. Graduates must gain acceptance and prove capability before winning the opportunity to acquire managerial responsibility."
+    },
+    {
+      "kind": "text",
+      "text": "The program curriculum reflects the opinions of industry managers regarding the educational content required to produce capable, knowledgeable graduates. The program stresses the application of theory to practical problems. Emphasis is placed on business and management subjects, which account for about half of the curriculum. The balance between technology and business management in the program makes graduates versatile and therefore flexible in terms of career development."
+    },
+    {
+      "kind": "text",
+      "text": "In laboratories, students operate equipment similar to that used in the printing industries, learn the fundamental principles underlying industry processes, and acquire practical insight into production problems by completing projects which simulate industry conditions. State-of-the-art equipment and instruments in the labs enable students to investigate materials and processes in detail."
+    },
+    {
+      "kind": "text",
+      "text": "Between third and fourth years students are involved in a mandatory internship, as an employee in industry."
+    },
+    {
+      "kind": "text",
+      "text": "Fourth year features a course involving the preparation of a complete business plan for a new manufacturing business or a thesis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "PHL 214 is not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 110 Introduction to Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 120 Graphic Communications Processes 1",
+      "links": [
+        {
+          "text": "GCM 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 130 Design and Layout",
+      "links": [
+        {
+          "text": "GCM 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/130/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 279 Introduction to Professional Communication",
+      "links": [
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 111 Graphic Communication Technologies",
+      "links": [
+        {
+          "text": "GCM 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 121 Graphic Communications Processes 2",
+      "links": [
+        {
+          "text": "GCM 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 230 Typography",
+      "links": [
+        {
+          "text": "GCM 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 240 Material Science for Print",
+      "links": [
+        {
+          "text": "GCM 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 250 Binding and Finishing",
+      "links": [
+        {
+          "text": "GCM 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/250/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 210 Introduction to Packaging",
+      "links": [
+        {
+          "text": "GCM 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 220 Graphic Communication Processes 3",
+      "links": [
+        {
+          "text": "GCM 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 260 Digital Premedia Workflows",
+      "links": [
+        {
+          "text": "GCM 260",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/260/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "An optional Concentration may be selected from Core Elective Table I starting in 5th Semester.",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 350 Estimating for Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 360 Colour Management for Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 360",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/360/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 370 Management Studies",
+      "links": [
+        {
+          "text": "GCM 370",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/370/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 375 Project Management for Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 375",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/375/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 320 Digital Printing Technologies",
+      "links": [
+        {
+          "text": "GCM 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 362 Introduction to UX/UI Design",
+      "links": [
+        {
+          "text": "GCM 362",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/362/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 372 Operations and Process Management",
+      "links": [
+        {
+          "text": "GCM 372",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/372/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Core Elective Table I or The Creative School Core Elective Table",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+        },
+        {
+          "text": "The Creative School Core Elective Table",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/core_elective_table/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 420 Advanced Print Production Processes",
+      "links": [
+        {
+          "text": "GCM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 460 Asset Management for Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 460",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/460/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "WKT 608 GCM Internship",
+      "links": [
+        {
+          "text": "WKT 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/608/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Core Elective Table I or The Creative School Core Elective Table",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+        },
+        {
+          "text": "The Creative School Core Elective Table",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/core_elective_table/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 461 Workflow Automation",
+      "links": [
+        {
+          "text": "GCM 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/461/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 470 Business Plan",
+      "links": [
+        {
+          "text": "GCM 470",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/470/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 490 Thesis",
+      "links": [
+        {
+          "text": "GCM 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/490/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Core Elective Table I .",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Concentrations",
+      "links": [
+        {
+          "text": "Concentrations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or core electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor."
+    },
+    {
+      "kind": "text",
+      "text": "The following optional Concentrations may be selected from Core Elective Table I :",
+      "links": [
+        {
+          "text": "Core Elective Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Digital Graphic Output"
+    },
+    {
+      "kind": "text",
+      "text": "Required (3):"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 754 Sign and Display Graphics",
+      "links": [
+        {
+          "text": "GCM 754",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/754/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 802 Ebook Production and Publishing",
+      "links": [
+        {
+          "text": "GCM 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 854 Advanced Material Science",
+      "links": [
+        {
+          "text": "GCM 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/854/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) of:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 765 Digital Signage",
+      "links": [
+        {
+          "text": "GCM 765",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/765/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 804 Non-traditional Printing Applications",
+      "links": [
+        {
+          "text": "GCM 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 806 Advanced Typography",
+      "links": [
+        {
+          "text": "GCM 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 810 Creativity, Clients and Design",
+      "links": [
+        {
+          "text": "GCM 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 840 Advanced Graphic Technologies",
+      "links": [
+        {
+          "text": "GCM 840",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/840/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 850 Special Topics I",
+      "links": [
+        {
+          "text": "GCM 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 852 Special Topics II",
+      "links": [
+        {
+          "text": "GCM 852",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/852/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 858 Advanced Workflows",
+      "links": [
+        {
+          "text": "GCM 858",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/858/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 860 Advanced Variable Data Printing",
+      "links": [
+        {
+          "text": "GCM 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/860/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 871 Research Design and Methods",
+      "links": [
+        {
+          "text": "GCM 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/871/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Leadership"
+    },
+    {
+      "kind": "text",
+      "text": "Required (3):"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 601 Identifying Opportunities",
+      "links": [
+        {
+          "text": "ENT 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) of:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 510 Small Business Finance",
+      "links": [
+        {
+          "text": "FIN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 746 Sustainability in Print and Packaging",
+      "links": [
+        {
+          "text": "GCM 746",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/746/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 810 Creativity, Clients and Design",
+      "links": [
+        {
+          "text": "GCM 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 816 Sales and Customer Relationship Mgmt GCM",
+      "links": [
+        {
+          "text": "GCM 816",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/816/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 830 Digital Client Communications Management",
+      "links": [
+        {
+          "text": "GCM 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/830/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 850 Special Topics I",
+      "links": [
+        {
+          "text": "GCM 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 852 Special Topics II",
+      "links": [
+        {
+          "text": "GCM 852",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/852/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 871 Research Design and Methods",
+      "links": [
+        {
+          "text": "GCM 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/871/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Packaging"
+    },
+    {
+      "kind": "text",
+      "text": "Required (2):"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 800 Flexo for Creative Packaging",
+      "links": [
+        {
+          "text": "GCM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 808 Outside the box: Package Prototyping",
+      "links": [
+        {
+          "text": "GCM 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/808/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 740 Accessibility for Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 740",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/740/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 746 Sustainability in Print and Packaging",
+      "links": [
+        {
+          "text": "GCM 746",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/746/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 750 3D Printing",
+      "links": [
+        {
+          "text": "GCM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 804 Non-traditional Printing Applications",
+      "links": [
+        {
+          "text": "GCM 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 806 Advanced Typography",
+      "links": [
+        {
+          "text": "GCM 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 810 Creativity, Clients and Design",
+      "links": [
+        {
+          "text": "GCM 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 822 Packaging and Distribution",
+      "links": [
+        {
+          "text": "GCM 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/822/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 854 Advanced Material Science",
+      "links": [
+        {
+          "text": "GCM 854",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/854/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 856 Colour Theory and Measurement",
+      "links": [
+        {
+          "text": "GCM 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/856/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 824 Digital Package Prototyping",
+      "links": [
+        {
+          "text": "GCM 824",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/824/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 826 Plastics and Packaging",
+      "links": [
+        {
+          "text": "GCM 826",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/826/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 871 Research Design and Methods",
+      "links": [
+        {
+          "text": "GCM 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/871/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Publishing"
+    },
+    {
+      "kind": "text",
+      "text": "Required (3):"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 720 Magazine Production and Publishing",
+      "links": [
+        {
+          "text": "GCM 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 722 Book Production and Publishing",
+      "links": [
+        {
+          "text": "GCM 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/722/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 802 Ebook Production and Publishing",
+      "links": [
+        {
+          "text": "GCM 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/802/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) of:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 712 Making an Impact: The Letterpress Revival",
+      "links": [
+        {
+          "text": "GCM 712",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/712/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 730 Fulfillment: Signed, Sealed and Delivered",
+      "links": [
+        {
+          "text": "GCM 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 738 Photoshopped! The Art of Image Retouching",
+      "links": [
+        {
+          "text": "GCM 738",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/738/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 740 Accessibility for Graphic Communications",
+      "links": [
+        {
+          "text": "GCM 740",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/740/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 746 Sustainability in Print and Packaging",
+      "links": [
+        {
+          "text": "GCM 746",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/746/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 806 Advanced Typography",
+      "links": [
+        {
+          "text": "GCM 806",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/806/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 810 Creativity, Clients and Design",
+      "links": [
+        {
+          "text": "GCM 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 812 Advanced Binding and Book Arts",
+      "links": [
+        {
+          "text": "GCM 812",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/812/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GCM 871 Research Design and Methods",
+      "links": [
+        {
+          "text": "GCM 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/graphic-communication/GCM/871/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Marlys Brothers VP Commercial & Industrial Print Ricoh Canada Todd Cober President Cober Solutions"
+    },
+    {
+      "kind": "text",
+      "text": "Christine Custodio Senior Vice President, Operations DCM Jeff Ekstein President Willow Printing Group Ltd. Christine Jacques VP Eastern Canada Spicers Canada Jay Mandarino President & CEO CJ Graphics Inc. Rachel Morier Director, Sustainability Beer Store Tony Rubino Managing Director Resource Integrated Ltd. Kyle Steward Consultant Canadian Professional Sales Association Renee Walsh President TI Group"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Graphic Communications Management"
+}

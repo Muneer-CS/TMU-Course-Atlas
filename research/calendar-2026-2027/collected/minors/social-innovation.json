@@ -1,0 +1,767 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/social_innovation_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "cac0b804499ba25da6f42beb1d680a6dd2d064e28f8c9d4eece6167e3ada0baf",
+  "source_bytes": 63221,
+  "title": "Minor in Social Innovation",
+  "headings": [
+    "Minor in Social Innovation",
+    "Theme 1: Health and Well-Being",
+    "Theme 2: Adversity and Rights",
+    "Theme 3: Community Development",
+    "Theme 4: Diversity",
+    "Theme 5: Global Issues",
+    "Theme 6: Leadership and Innovation"
+  ],
+  "course_codes_referenced": [
+    "CLD 448",
+    "CLD 450",
+    "CYC 101",
+    "CYC 201",
+    "CYC 550",
+    "CYC 560",
+    "CYC 570",
+    "CYC 601",
+    "CYC 602",
+    "DST 503",
+    "DST 504",
+    "DST 506",
+    "DST 727",
+    "FNY 400",
+    "FNY 403",
+    "FNY 404",
+    "FNY 407",
+    "FNY 408",
+    "FNY 409",
+    "FNY 510",
+    "INT 912",
+    "INT 917",
+    "MWF 325",
+    "SWP 900",
+    "SWP 903",
+    "SWP 905",
+    "SWP 908",
+    "SWP 923",
+    "SWP 925",
+    "SWP 926",
+    "SWP 927",
+    "SWP 928",
+    "SWP 933",
+    "SWP 938",
+    "SWP 939"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CYC 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+    },
+    {
+      "text": "CYC 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+    },
+    {
+      "text": "CYC 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+    },
+    {
+      "text": "CLD 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/450/"
+    },
+    {
+      "text": "CYC 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/101/"
+    },
+    {
+      "text": "DST 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/503/"
+    },
+    {
+      "text": "FNY 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/400/"
+    },
+    {
+      "text": "FNY 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/510/"
+    },
+    {
+      "text": "MWF 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+    },
+    {
+      "text": "SWP 903",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/903/"
+    },
+    {
+      "text": "SWP 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/908/"
+    },
+    {
+      "text": "SWP 925",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/925/"
+    },
+    {
+      "text": "SWP 933",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/933/"
+    },
+    {
+      "text": "CYC 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/201/"
+    },
+    {
+      "text": "CYC 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/602/"
+    },
+    {
+      "text": "FNY 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/409/"
+    },
+    {
+      "text": "SWP 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/905/"
+    },
+    {
+      "text": "SWP 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/923/"
+    },
+    {
+      "text": "DST 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/506/"
+    },
+    {
+      "text": "FNY 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/407/"
+    },
+    {
+      "text": "FNY 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/408/"
+    },
+    {
+      "text": "INT 912",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+    },
+    {
+      "text": "INT 917",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/917/"
+    },
+    {
+      "text": "SWP 939",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/939/"
+    },
+    {
+      "text": "DST 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+    },
+    {
+      "text": "SWP 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/900/"
+    },
+    {
+      "text": "SWP 926",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/926/"
+    },
+    {
+      "text": "CLD 448",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/448/"
+    },
+    {
+      "text": "FNY 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/403/"
+    },
+    {
+      "text": "FNY 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/404/"
+    },
+    {
+      "text": "SWP 928",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/928/"
+    },
+    {
+      "text": "DST 727",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/727/"
+    },
+    {
+      "text": "SWP 927",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/927/"
+    },
+    {
+      "text": "SWP 938",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/938/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/social_innovation_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Social Innovation"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The fundamental goal of this Minor is to help students engage in the emergent field of social innovation, to see themselves as change-makers and leaders who introduce innovative, radical and sustainable ways of improving life for those living in marginalized, disadvantaged or peripheral circumstance and to change the world for the better."
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum offers an interdisciplinary approach, draws on micro and macro analysis and recognizes academic and community expertise. A key aim is to create professional networks of peers and social innovators in fields of practice."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Child and Youth Care"
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (3):"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 550 Foundations of Social Innovation",
+      "links": [
+        {
+          "text": "CYC 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 560 Social Innovation in Practice",
+      "links": [
+        {
+          "text": "CYC 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 570 Social Innovation in Action",
+      "links": [
+        {
+          "text": "CYC 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) of the following: Choose any three courses on this list. The courses have been grouped into themes to facilitate an informed choice. Some courses have prerequisites. Child and Youth Care students must choose non-CYC courses."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Theme 1: Health and Well-Being"
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 450 Indigenous Early Learning",
+      "links": [
+        {
+          "text": "CLD 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 101 Intro to Child and Youth Care",
+      "links": [
+        {
+          "text": "CYC 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 503 Current Topics in Disability I",
+      "links": [
+        {
+          "text": "DST 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 400 Selected Topics in Food Security",
+      "links": [
+        {
+          "text": "FNY 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 510 Indigenous Food Systems in Canada",
+      "links": [
+        {
+          "text": "FNY 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MWF 325 Birth and its Meanings",
+      "links": [
+        {
+          "text": "MWF 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/midwifery/MWF/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 903 Crisis Intervention",
+      "links": [
+        {
+          "text": "SWP 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/903/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 908 Social Group Work",
+      "links": [
+        {
+          "text": "SWP 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 925 Strong Helpers' Teachings",
+      "links": [
+        {
+          "text": "SWP 925",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/925/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 933 Indigenous Health and Well Being",
+      "links": [
+        {
+          "text": "SWP 933",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/933/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Theme 2: Adversity and Rights"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 201 Child Abuse and Neglect",
+      "links": [
+        {
+          "text": "CYC 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 602 Children's Rights",
+      "links": [
+        {
+          "text": "CYC 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 409 Gender and Food Security",
+      "links": [
+        {
+          "text": "FNY 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 905 Criticl. Appr. to Mental Health and Madness",
+      "links": [
+        {
+          "text": "SWP 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 923 Family Violence",
+      "links": [
+        {
+          "text": "SWP 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/923/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Theme 3: Community Development"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 506 Principles and Practices of Accessibility",
+      "links": [
+        {
+          "text": "DST 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 407 Community Development and Food Security",
+      "links": [
+        {
+          "text": "FNY 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/407/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 408 Urban Food Security",
+      "links": [
+        {
+          "text": "FNY 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 912 Community Development: International Field Experience",
+      "links": [
+        {
+          "text": "INT 912",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/912/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 917 Interprof. Ed. for Community Development",
+      "links": [
+        {
+          "text": "INT 917",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/917/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 939 Art and Social Transformation",
+      "links": [
+        {
+          "text": "SWP 939",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/939/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Theme 4: Diversity"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 504 Mad People's History",
+      "links": [
+        {
+          "text": "DST 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 900 Race and Ethnicity",
+      "links": [
+        {
+          "text": "SWP 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 926 Critical Practice with Queer Populations",
+      "links": [
+        {
+          "text": "SWP 926",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/926/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Theme 5: Global Issues"
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 448 Childhood in a Global Context",
+      "links": [
+        {
+          "text": "CLD 448",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/448/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 403 Food Security Concepts and Principles",
+      "links": [
+        {
+          "text": "FNY 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 404 Food Policy and Programs for Food Security",
+      "links": [
+        {
+          "text": "FNY 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 928 International Social Work",
+      "links": [
+        {
+          "text": "SWP 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/928/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Theme 6: Leadership and Innovation"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 601 Social Research Methods"
+    },
+    {
+      "kind": "list_item",
+      "text": "DST 727 Leadership Practices for Changing Times",
+      "links": [
+        {
+          "text": "DST 727",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/disability-studies/DST/727/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 927 Advocacy in Social Work",
+      "links": [
+        {
+          "text": "SWP 927",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/927/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 938 Innovative Organizing in Precarious Times",
+      "links": [
+        {
+          "text": "SWP 938",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/938/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 (opens in new window) , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2 (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Social Innovation"
+}

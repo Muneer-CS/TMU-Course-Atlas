@@ -1,0 +1,292 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/accounting_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "ee1ebd33cbc68cf42ec31aacb5fab08a320a98a58a44b632638b9ee9f70a19d5",
+  "source_bytes": 55008,
+  "title": "Minor in Accounting",
+  "headings": [
+    "Minor in Accounting"
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 110",
+    "ACC 406",
+    "ACC 410",
+    "AFA 100",
+    "AFA 200",
+    "AFA 620",
+    "BUS 223",
+    "FIN 501",
+    "FIN 621",
+    "ITM 618",
+    "ITM 752",
+    "LAW 529",
+    "LAW 603"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Accounting and Finance, all majors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+    },
+    {
+      "text": "Business Management, Law and Business Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ACC 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/110/"
+    },
+    {
+      "text": "AFA 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/AFA/100/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "ACC 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/410/"
+    },
+    {
+      "text": "AFA 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/AFA/200/"
+    },
+    {
+      "text": "AFA 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/AFA/620/"
+    },
+    {
+      "text": "BUS 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+    },
+    {
+      "text": "FIN 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/501/"
+    },
+    {
+      "text": "FIN 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/621/"
+    },
+    {
+      "text": "ITM 752",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/752/"
+    },
+    {
+      "text": "ITM 618",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/618/"
+    },
+    {
+      "text": "LAW 529",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+    },
+    {
+      "text": "LAW 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Accounting"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Accounting will offer future business managers and entrepreneurs an understanding of the accounting functions of a business. Courses selected for this Minor are intended to focus on the needs of managers and entrepreneurs."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Accounting and Finance at the Ted Rogers School of Management"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Accounting and Finance, all majors",
+      "links": [
+        {
+          "text": "Accounting and Finance, all majors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management, Accounting Major"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management, Finance Major"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management, Law and Business Major",
+      "links": [
+        {
+          "text": "Business Management, Law and Business Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Three (3) Required courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting or ACC 110 Financial Accounting or AFA 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        },
+        {
+          "text": "ACC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/110/"
+        },
+        {
+          "text": "AFA 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/AFA/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting or ACC 410 Management Accounting or AFA 200 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        },
+        {
+          "text": "ACC 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/410/"
+        },
+        {
+          "text": "AFA 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/AFA/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "AFA 620 Data Analytics and Info Systems",
+      "links": [
+        {
+          "text": "AFA 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/AFA/620/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 501 Investment Analysis",
+      "links": [
+        {
+          "text": "FIN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 621 International Finance",
+      "links": [
+        {
+          "text": "FIN 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 752 Data Visualization",
+      "links": [
+        {
+          "text": "ITM 752",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/752/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 618 Business Intelligence and Analytics",
+      "links": [
+        {
+          "text": "ITM 618",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/618/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Accounting"
+}

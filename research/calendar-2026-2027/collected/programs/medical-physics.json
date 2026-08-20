@@ -1,0 +1,2296 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "15ad54dbc40819c0cfe1ba18685fcb7a1533d01e5ff07656cf76eb92b1cd0c41",
+  "source_bytes": 146391,
+  "title": "Medical Physics",
+  "headings": [
+    "Medical Physics",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Co-operative Program Overview",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section.",
+    "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section.",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Research Practicum",
+    "How to Enrol",
+    "Career Opportunities",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program and Five-Year Co-op Program (for students admitted Fall 2025 and before)",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BLG 143",
+    "BLG 144",
+    "BLG 181",
+    "BLG 311",
+    "BLG 599",
+    "BLG 699",
+    "BLG 850",
+    "BMS 150",
+    "CHY 103",
+    "CHY 113",
+    "CHY 182",
+    "CHY 183",
+    "CHY 583",
+    "CPS 109",
+    "CPS 118",
+    "MTH 108",
+    "MTH 131",
+    "MTH 231",
+    "MTH 330",
+    "MTH 430",
+    "MTH 511",
+    "MTH 599",
+    "PCS 111",
+    "PCS 120",
+    "PCS 130",
+    "PCS 227",
+    "PCS 228",
+    "PCS 229",
+    "PCS 230",
+    "PCS 300",
+    "PCS 335",
+    "PCS 352",
+    "PCS 354",
+    "PCS 401",
+    "PCS 405",
+    "PCS 407",
+    "PCS 521",
+    "PCS 622",
+    "PCS 623",
+    "SCI 180",
+    "SCI 999",
+    "WKT 405",
+    "WKT 505",
+    "WKT 506",
+    "WKT 605",
+    "WKT 606"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+    },
+    {
+      "text": "SCI 180",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "SCI 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "BLG 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "CHY 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+    },
+    {
+      "text": "BLG 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+    },
+    {
+      "text": "BLG 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+    },
+    {
+      "text": "BLG 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+    },
+    {
+      "text": "CHY 583",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "MTH 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+    },
+    {
+      "text": "MTH 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+    },
+    {
+      "text": "PCS 229",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+    },
+    {
+      "text": "PCS 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+    },
+    {
+      "text": "MTH 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+    },
+    {
+      "text": "PCS 227",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+    },
+    {
+      "text": "PCS 228",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+    },
+    {
+      "text": "PCS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+    },
+    {
+      "text": "PCS 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/521/"
+    },
+    {
+      "text": "BLG 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+    },
+    {
+      "text": "PCS 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+    },
+    {
+      "text": "PCS 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/622/"
+    },
+    {
+      "text": "PCS 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/623/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+    },
+    {
+      "text": "PCS 352",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+    },
+    {
+      "text": "PCS 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+    },
+    {
+      "text": "PCS 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+    },
+    {
+      "text": "PCS 40A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+    },
+    {
+      "text": "PCS 354",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40AB/"
+    },
+    {
+      "text": "PCS 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/407/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "CHY 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+    },
+    {
+      "text": "MTH 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/131/"
+    },
+    {
+      "text": "PCS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "CPS 118",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/118/"
+    },
+    {
+      "text": "BLG 144",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+    },
+    {
+      "text": "CHY 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+    },
+    {
+      "text": "MTH 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/231/"
+    },
+    {
+      "text": "PCS 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+    },
+    {
+      "text": "WKT 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+    },
+    {
+      "text": "WKT 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+    },
+    {
+      "text": "WKT 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+    },
+    {
+      "text": "WKT 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+    },
+    {
+      "text": "WKT 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Medical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Science",
+      "links": [
+        {
+          "text": "Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Science (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Physics",
+      "links": [
+        {
+          "text": "Department of Physics",
+          "url": "https://www.torontomu.ca/content/ryerson/physics/future-undergraduates/"
+        },
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/content/ryerson/physics/future-undergraduates/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Advanced Functions (MHF4U), two of Physics (SPH4U), Biology (SBI4U) or Chemistry (SCH4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the range of 70 percent) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of all three science courses is recommended. Physics (SPH4U) is strongly recommended."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "First Year: The BSc (Hons) in Medical Physics shares a point of entry with the programs in Biology and Chemistry. This allows students to explore various science-based routes to degree completion before they commit to the Medical Physics program. In addition to foundation courses, the first year of studies will include an introduction to the use of computers as scientific tools, and an orientation course that will support students in making a successful transition to university and planning their steps to degree completion. All students in Science programs must enrol in SCI 180 in their first semester of studies.",
+      "links": [
+        {
+          "text": "SCI 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Upper Years: In the upper years, students will develop expertise and technical skills in physics, focusing on the applications of physics principles and methodologies in medicine, such as diagnostic imaging and radiation therapy. Students will also explore applications in health physics which deals with environmental exposures to radiation. Laboratory work will provide students with relevant practical experiences, reinforcing key concepts. In the final year, students will consolidate their learning by undertaking an independent, faculty-supervised thesis project in an area of their academic focus."
+    },
+    {
+      "kind": "text",
+      "text": "Students can also select to participate in the Co-operative program. All students enrolled in Medical Physics have the option to enrol in the Management Science Specialization."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "An optional co-operative program is available which provides the graduating students with 12 months of work experience that enhances their organizational and technical abilities as well as their oral and written communication skills."
+    },
+    {
+      "kind": "text",
+      "text": "Although the Career & Co-op Centre cannot guarantee work term employment, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first year of the Medical Physics program can apply through the Career & Co-op Centre for admission to the co-operative education program at the end of first year during our spring/summer admissions period. This is the only time for students to apply to Co-op."
+    },
+    {
+      "kind": "text",
+      "text": "Enrolment in the co-op program is limited. Admission will be based on a criteria which includes the student's grade point average, courses completed, a resume, statement of intent and interview if deemed necessary."
+    },
+    {
+      "kind": "text",
+      "text": "To be admitted into the co-­op program, students must have all first year courses completed and a CLEAR Academic Standing. Students who are direct entry/transfer are not permitted into the program except on an exceptional case by case basis. Students who are ahead with significant course credits are not permitted into the program except on an exceptional case by case basis. All decisions regarding admission into the program are final and at the discretion of the Career and Co-op Centre."
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis. Students must successfully complete a minimum of three work terms in order to graduate from the co-op program. All co-op placements must be approved by the Office of Co-operative Education (opens in new window) and the Medical Physics Co-op Faculty Advisor.",
+      "links": [
+        {
+          "text": "Office of Co-operative Education (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Research Practicum"
+    },
+    {
+      "kind": "text",
+      "text": "SCI 999 - Research Practicum gives students the chance to gain hands-on research experience, in a lab or in the field, by engaging in the research work of a faculty member. Toronto Met records participation in the practicum on the student’s Official Transcript.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "SCI 999 is a non-credit, pass-fail course that is not used to fulfil degree program requirements. Students who meet the expectations for the research will get a passing grade. These expectations will be worked out between the student and the professor at enrolment. To take part in SCI 999 , students must have a CGPA of 2.5 or more, and they must commit to a minimum of 5 to 10 hours each week (on average) for one term.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        },
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "There are no tuition fees associated with this practicum."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to Enrol"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must first find a supervisor. Descriptions of faculty research are available on the Faculty of Science website (opens in new window) .",
+      "links": [
+        {
+          "text": "Faculty of Science website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/science/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Students should contact supervisors whose research interests them by email or in person. Students must give their potential supervisor an unofficial transcript (opens in new window) , a one-page resumé and a brief covering letter. This package must include their contact information, degree program and stream, a brief statement of their career goals and how this research experience would further those goals, and any relevant work experience (paid or volunteer).",
+      "links": [
+        {
+          "text": "unofficial transcript (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/unofficial-transcript/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Follow the instructions available in the (PDF file) Research Practicum Application Form (opens in new window) .",
+      "links": [
+        {
+          "text": "(PDF file) Research Practicum Application Form (opens in new window)",
+          "url": "https://www.torontomu.ca/content/dam/science/Images/PDF/Research_Practicum_Application_Form_April_2023.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "Students graduating from the program will acquire training in the multidisciplinary field that is of critical importance to Canada. Graduating students will have the necessary skills to:"
+    },
+    {
+      "kind": "list_item",
+      "text": "be admitted into a graduate program in Medical Physics, Medical Biophysics, Biophysics or Physics (Additional physics courses might be required);"
+    },
+    {
+      "kind": "list_item",
+      "text": "secure an entry level position in Health Physics (with, for example, Hydro One);"
+    },
+    {
+      "kind": "list_item",
+      "text": "secure industrial employment in the biomedical technology, bioinformatics and health sectors;"
+    },
+    {
+      "kind": "list_item",
+      "text": "secure a Clinical Physics Assistant or Research Assistant position at an Ontario Cancer Centre;"
+    },
+    {
+      "kind": "list_item",
+      "text": "work as technicians in research laboratories or companies; as well as"
+    },
+    {
+      "kind": "list_item",
+      "text": "proceed to professional school (Medicine, Education, Business and Law)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "BLG 599 , BLG 699 , BLG 850 , CHY 583 , MTH 511 , and MTH 599 are not available for credit.",
+      "links": [
+        {
+          "text": "BLG 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+        },
+        {
+          "text": "BLG 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+        },
+        {
+          "text": "BLG 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+        },
+        {
+          "text": "CHY 583",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+        },
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Five-Year Co-op Program (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Five-Year Co-op Program (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 108 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 330 Calculus and Geometry",
+      "links": [
+        {
+          "text": "MTH 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 229 Introduction to Medical Physics",
+      "links": [
+        {
+          "text": "PCS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 300 Modern Physics",
+      "links": [
+        {
+          "text": "PCS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 430 Dynamic Systems Differential Equations",
+      "links": [
+        {
+          "text": "MTH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 227 Biophysics",
+      "links": [
+        {
+          "text": "PCS 227",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 228 Electricity and Magnetism",
+      "links": [
+        {
+          "text": "PCS 228",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 401 Quantum Mechanics I",
+      "links": [
+        {
+          "text": "PCS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 521 Mathematical Physics",
+      "links": [
+        {
+          "text": "PCS 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/521/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2027-2028 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 230 Photonics and Optical Devices",
+      "links": [
+        {
+          "text": "PCS 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 622 Mathematical Methods in Medical Physics",
+      "links": [
+        {
+          "text": "PCS 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/622/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 623 Biostatistics",
+      "links": [
+        {
+          "text": "PCS 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/623/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I (opens in new window) .",
+      "links": [
+        {
+          "text": "Table I (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 352 Nuclear Physics/Radiation Protection",
+      "links": [
+        {
+          "text": "PCS 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 335 Thermodynamics and Statistical Physics",
+      "links": [
+        {
+          "text": "PCS 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 405 Medical Imaging",
+      "links": [
+        {
+          "text": "PCS 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES:"
+    },
+    {
+      "kind": "text",
+      "text": "One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES/CORE ELECTIVE: One course from Table B - Upper Level Liberal Studies OR One course from Table I *.",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Timetabling Flexibility: Students who take a Table B course in 6th Semester will take a Table I course in 7th Semester. Students who take a Table I course in 6th Semester will choose a Table B course in 7th Semester."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 40A/B Medical Physics - Thesis",
+      "links": [
+        {
+          "text": "PCS 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 354 Radiation Biology",
+      "links": [
+        {
+          "text": "PCS 354",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES/CORE ELECTIVE: One course from Table B - Upper Level Liberal Studies OR One course from Table I .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Timetabling Flexibility: Students who take a Table B course in 6th Semester will take a Table I course in 7th Semester. Students who take a Table I course in 6th Semester will choose a Table B course in 7th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "PCS 40A/B is a two-term course.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40AB/"
+        },
+        {
+          "text": "PCS 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 40A/B Medical Physics - Thesis",
+      "links": [
+        {
+          "text": "PCS 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 407 Radiation Therapy",
+      "links": [
+        {
+          "text": "PCS 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 131 Modern Mathematics I",
+      "links": [
+        {
+          "text": "MTH 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 120 Physics I",
+      "links": [
+        {
+          "text": "PCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 180 * Orientation",
+      "links": [
+        {
+          "text": "SCI 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 118 Introductory Programming for Scientists",
+      "links": [
+        {
+          "text": "CPS 118",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/118/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 144 Biology II",
+      "links": [
+        {
+          "text": "BLG 144",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 113 General Chemistry II",
+      "links": [
+        {
+          "text": "CHY 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 231 Modern Mathematics II",
+      "links": [
+        {
+          "text": "MTH 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 130 Physics II",
+      "links": [
+        {
+          "text": "PCS 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 108 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/108/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 330 Calculus and Geometry",
+      "links": [
+        {
+          "text": "MTH 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 229 Introduction to Medical Physics",
+      "links": [
+        {
+          "text": "PCS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 300 Modern Physics",
+      "links": [
+        {
+          "text": "PCS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 430 Dynamic Systems Differential Equations",
+      "links": [
+        {
+          "text": "MTH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 227 Biophysics",
+      "links": [
+        {
+          "text": "PCS 227",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 228 Electricity and Magnetism",
+      "links": [
+        {
+          "text": "PCS 228",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 230 Photonics and Optical Devices",
+      "links": [
+        {
+          "text": "PCS 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 521 Mathematical Physics",
+      "links": [
+        {
+          "text": "PCS 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/521/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2028-2029 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 401 Quantum Mechanics I",
+      "links": [
+        {
+          "text": "PCS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 622 Mathematical Methods in Medical Physics",
+      "links": [
+        {
+          "text": "PCS 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/622/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 623 Biostatistics",
+      "links": [
+        {
+          "text": "PCS 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/623/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I (opens in new window) .",
+      "links": [
+        {
+          "text": "Table I (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 352 Nuclear Physics/Radiation Protection",
+      "links": [
+        {
+          "text": "PCS 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 335 Thermodynamics and Statistical Physics",
+      "links": [
+        {
+          "text": "PCS 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 405 Medical Imaging",
+      "links": [
+        {
+          "text": "PCS 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES:"
+    },
+    {
+      "kind": "text",
+      "text": "One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES/CORE ELECTIVE: One course from Table B - Upper Level Liberal Studies OR One course from Table I *.",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Timetabling Flexibility: Students who take a Table B course in 6th Semester will take a Table I course in 7th Semester. Students who take a Table I course in 6th Semester will choose a Table B course in 7th Semester."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 40A/B Medical Physics - Thesis",
+      "links": [
+        {
+          "text": "PCS 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 354 Radiation Biology",
+      "links": [
+        {
+          "text": "PCS 354",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES/CORE ELECTIVE: One course from Table B - Upper Level Liberal Studies OR One course from Table I .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Timetabling Flexibility: Students who take a Table B course in 6th Semester will take a Table I course in 7th Semester. Students who take a Table I course in 6th Semester will choose a Table B course in 7th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 40A/B Medical Physics - Thesis",
+      "links": [
+        {
+          "text": "PCS 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 407 Radiation Therapy",
+      "links": [
+        {
+          "text": "PCS 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/407/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "PCS 40A/B is a two-term course.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40AB/"
+        },
+        {
+          "text": "PCS 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "Fall Term"
+    },
+    {
+      "kind": "text",
+      "text": "Winter Term"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer Term"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Off"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 405 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 505 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 506 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester or WKT 605 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester or 7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 606 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester or 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester or Completion of Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Physics Option 2"
+    },
+    {
+      "kind": "text",
+      "text": "Fall Term"
+    },
+    {
+      "kind": "text",
+      "text": "Winter Term"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer Term"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Off"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 405 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 505 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 506 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester or WKT 605 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 606 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester or 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Physics Option 3"
+    },
+    {
+      "kind": "text",
+      "text": "Fall Term"
+    },
+    {
+      "kind": "text",
+      "text": "Winter Term"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer Term"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 405 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 505 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 506 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 605 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester or WKT 606 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Each work term is assessed by the School's Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete 3 co-op WKT’s in order to graduate from their program of study with a Co-op designation. Once the requirements are satisfied, being able to do another work term is at the discretion of the Career & Co-op Centre.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre.",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The co-op program requires five years to complete the degree in Medical Physics. The regular program can be completed in four years."
+    },
+    {
+      "kind": "text",
+      "text": "All co-op placements must be approved by the Career & Co-op Centre and the Faculty Advisor for the Medical Physics co-op program.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Additional information about co-op can be found on the Co-operative Education website .",
+      "links": [
+        {
+          "text": "Co-operative Education website",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ana Sofía Barrows Senior Manager, Equity, Diversity and Inclusion Perimeter Institute (Alumnus)"
+    },
+    {
+      "kind": "text",
+      "text": "Dr. Stephen Breen Assistant Professor Department of Radiation Oncology, University of Toronto Head of Medical Physics Department Odette Cancer Centre, Sunnybrook Health Sciences Centre Dr. Kieran Murphy MB, BCH, BAO, BSC, LRCPI, LRCSI, FRCPC, FSIR Professor Research Department of Medical Imaging, University of Toronto Clinician Scientist Krembil Research Institute Cancer Clinical Research Unit (CCRU), Princess Margaret Cancer Centre Medical Director UHN International Strategy"
+    },
+    {
+      "kind": "text",
+      "text": "Dr. Alla Reznik Professor Department of Physics, Lakehead University Canada Research Chair in Physics of Molecular Imaging Dr. Kevin Rod MD, CCFP, FCFP Founder and Medical Director Toronto Poly Clinic Founder and CEO Zendose Inc. Katharina Sixel Assistant Professor Department of Radiation Oncology, University of Toronto Chief of Physics Durham Regional Cancer Centre"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Medical Physics"
+}

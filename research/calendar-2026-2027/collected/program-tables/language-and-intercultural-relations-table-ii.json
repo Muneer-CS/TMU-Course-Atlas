@@ -1,0 +1,2432 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "f59d8bef5369149ff6d3409bbe672840790f7fee0e722b690e1274f68be9116e",
+  "source_bytes": 98859,
+  "title": "Language and Intercultural Relations Core Elective Table II",
+  "headings": [
+    "Language and Intercultural Relations Core Elective Table II",
+    "French Stream",
+    "Spanish Stream",
+    "French Stream",
+    "Spanish Stream",
+    "Speech Science Stream",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACS 106",
+    "ANT 100",
+    "ANT 200",
+    "ANT 306",
+    "ANT 900",
+    "BLG 101",
+    "BLG 111",
+    "BLG 143",
+    "BLG 311",
+    "BLG 600",
+    "CLD 206",
+    "CLD 307",
+    "FRE 101",
+    "FRE 201",
+    "FRE 301",
+    "FRE 302",
+    "FRE 303",
+    "FRE 401",
+    "FRE 402",
+    "FRE 501",
+    "FRE 502",
+    "FRE 503",
+    "FRE 504",
+    "FRE 505",
+    "FRE 507",
+    "FRE 510",
+    "FRE 515",
+    "FRE 601",
+    "FRE 602",
+    "FRE 603",
+    "FRE 604",
+    "FRE 605",
+    "FRE 607",
+    "FRE 608",
+    "FRE 609",
+    "FRE 610",
+    "FRE 701",
+    "FRE 702",
+    "FRE 704",
+    "FRE 706",
+    "FRE 707",
+    "FRE 709",
+    "FRE 801",
+    "FRE 805",
+    "FRE 900",
+    "FRE 901",
+    "FRE 903",
+    "HAU 100",
+    "HAU 400",
+    "LIR 203",
+    "LIR 206",
+    "LIR 207",
+    "LIR 302",
+    "MHK 101",
+    "MHK 201",
+    "PSY 102",
+    "PSY 202",
+    "PSY 308",
+    "PSY 402",
+    "PSY 654",
+    "SOC 504",
+    "SPN 101",
+    "SPN 201",
+    "SPN 301",
+    "SPN 302",
+    "SPN 303",
+    "SPN 401",
+    "SPN 402",
+    "SPN 501",
+    "SPN 504",
+    "SPN 506",
+    "SPN 507",
+    "SPN 510",
+    "SPN 515",
+    "SPN 601",
+    "SPN 607",
+    "SPN 610",
+    "SPN 702",
+    "SPN 704",
+    "SPN 705",
+    "SPN 706",
+    "SPN 707",
+    "SPN 708",
+    "SPN 710",
+    "SPN 802",
+    "SPN 803",
+    "SPN 804",
+    "SPN 805",
+    "SPN 810",
+    "SPN 900"
+  ],
+  "official_links": [
+    {
+      "text": "Language and Intercultural Relations",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+    },
+    {
+      "text": "FRE 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/101/"
+    },
+    {
+      "text": "FRE 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/201/"
+    },
+    {
+      "text": "FRE 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/301/"
+    },
+    {
+      "text": "FRE 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+    },
+    {
+      "text": "FRE 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+    },
+    {
+      "text": "FRE 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/401/"
+    },
+    {
+      "text": "FRE 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+    },
+    {
+      "text": "FRE 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/501/"
+    },
+    {
+      "text": "FRE 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+    },
+    {
+      "text": "FRE 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/503/"
+    },
+    {
+      "text": "FRE 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/504/"
+    },
+    {
+      "text": "FRE 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+    },
+    {
+      "text": "FRE 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+    },
+    {
+      "text": "FRE 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/510/"
+    },
+    {
+      "text": "FRE 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+    },
+    {
+      "text": "FRE 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/601/"
+    },
+    {
+      "text": "FRE 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+    },
+    {
+      "text": "FRE 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/603/"
+    },
+    {
+      "text": "FRE 604",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+    },
+    {
+      "text": "FRE 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+    },
+    {
+      "text": "FRE 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+    },
+    {
+      "text": "FRE 608",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/608/"
+    },
+    {
+      "text": "FRE 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/609/"
+    },
+    {
+      "text": "FRE 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/610/"
+    },
+    {
+      "text": "FRE 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/701/"
+    },
+    {
+      "text": "FRE 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/702/"
+    },
+    {
+      "text": "FRE 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/704/"
+    },
+    {
+      "text": "FRE 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+    },
+    {
+      "text": "FRE 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+    },
+    {
+      "text": "FRE 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+    },
+    {
+      "text": "FRE 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/801/"
+    },
+    {
+      "text": "FRE 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+    },
+    {
+      "text": "FRE 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/901/"
+    },
+    {
+      "text": "FRE 903",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/903/"
+    },
+    {
+      "text": "SPN 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/101/"
+    },
+    {
+      "text": "SPN 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/201/"
+    },
+    {
+      "text": "SPN 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/301/"
+    },
+    {
+      "text": "SPN 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/302/"
+    },
+    {
+      "text": "SPN 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/303/"
+    },
+    {
+      "text": "SPN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/401/"
+    },
+    {
+      "text": "SPN 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+    },
+    {
+      "text": "SPN 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/501/"
+    },
+    {
+      "text": "SPN 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+    },
+    {
+      "text": "SPN 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+    },
+    {
+      "text": "SPN 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+    },
+    {
+      "text": "SPN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/510/"
+    },
+    {
+      "text": "SPN 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+    },
+    {
+      "text": "SPN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/601/"
+    },
+    {
+      "text": "SPN 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+    },
+    {
+      "text": "SPN 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/610/"
+    },
+    {
+      "text": "SPN 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+    },
+    {
+      "text": "SPN 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+    },
+    {
+      "text": "SPN 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/705/"
+    },
+    {
+      "text": "SPN 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/706/"
+    },
+    {
+      "text": "SPN 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+    },
+    {
+      "text": "SPN 708",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/708/"
+    },
+    {
+      "text": "SPN 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+    },
+    {
+      "text": "SPN 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+    },
+    {
+      "text": "SPN 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/803/"
+    },
+    {
+      "text": "SPN 804",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+    },
+    {
+      "text": "SPN 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+    },
+    {
+      "text": "SPN 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/810/"
+    },
+    {
+      "text": "FRE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+    },
+    {
+      "text": "SPN 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+    },
+    {
+      "text": "ACS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+    },
+    {
+      "text": "BLG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+    },
+    {
+      "text": "BLG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+    },
+    {
+      "text": "CLD 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/206/"
+    },
+    {
+      "text": "LIR 206",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/206/"
+    },
+    {
+      "text": "PSY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+    },
+    {
+      "text": "PSY 308",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/308/"
+    },
+    {
+      "text": "ARB",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/"
+    },
+    {
+      "text": "ASL",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/"
+    },
+    {
+      "text": "CHN",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/"
+    },
+    {
+      "text": "FRE",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/"
+    },
+    {
+      "text": "SPN",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/"
+    },
+    {
+      "text": "MHK 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+    },
+    {
+      "text": "MHK 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+    },
+    {
+      "text": "ANT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+    },
+    {
+      "text": "ANT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/200/"
+    },
+    {
+      "text": "ANT 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/306/"
+    },
+    {
+      "text": "ANT 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/900/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "BLG 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+    },
+    {
+      "text": "BLG 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/600/"
+    },
+    {
+      "text": "CLD 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/307/"
+    },
+    {
+      "text": "HAU 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+    },
+    {
+      "text": "HAU 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/400/"
+    },
+    {
+      "text": "LIR 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/203/"
+    },
+    {
+      "text": "LIR 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/207/"
+    },
+    {
+      "text": "LIR 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/302/"
+    },
+    {
+      "text": "PSY 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/202/"
+    },
+    {
+      "text": "PSY 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/402/"
+    },
+    {
+      "text": "PSY 654",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/654/"
+    },
+    {
+      "text": "SOC 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/504/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Language and Intercultural Relations Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Language and Intercultural Relations",
+      "links": [
+        {
+          "text": "Language and Intercultural Relations",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students must declare their stream upon admission: either French or Spanish."
+    },
+    {
+      "kind": "text",
+      "text": "Students will complete a minimum of 8 Table II courses from their chosen stream."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "French Stream"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 101 Introductory French I",
+      "links": [
+        {
+          "text": "FRE 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 201 Introductory French II",
+      "links": [
+        {
+          "text": "FRE 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 301 Intermediate French I",
+      "links": [
+        {
+          "text": "FRE 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 302 French Food, Wine and Hospitality",
+      "links": [
+        {
+          "text": "FRE 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 303 French and Fashion",
+      "links": [
+        {
+          "text": "FRE 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 401 Intermediate French II",
+      "links": [
+        {
+          "text": "FRE 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 501 Speaking and Writing French I",
+      "links": [
+        {
+          "text": "FRE 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 502 Communication and Business French",
+      "links": [
+        {
+          "text": "FRE 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 503 Middle Ages to Classicism",
+      "links": [
+        {
+          "text": "FRE 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 504 French Audiovisual Translation",
+      "links": [
+        {
+          "text": "FRE 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 French Language and Culture",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 507 English-French Translation I",
+      "links": [
+        {
+          "text": "FRE 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 510 Effective Writing",
+      "links": [
+        {
+          "text": "FRE 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 515 Introduction to Business French",
+      "links": [
+        {
+          "text": "FRE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 601 Speaking and Writing French II",
+      "links": [
+        {
+          "text": "FRE 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 602 Business French in Practice",
+      "links": [
+        {
+          "text": "FRE 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 603 Enlightenment to La Belle Époque",
+      "links": [
+        {
+          "text": "FRE 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 604 French for Healthcare",
+      "links": [
+        {
+          "text": "FRE 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 607 English-French Translation II",
+      "links": [
+        {
+          "text": "FRE 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 608 Contemporary French Literature",
+      "links": [
+        {
+          "text": "FRE 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 609 Franco-Canadian Literature",
+      "links": [
+        {
+          "text": "FRE 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 610 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "FRE 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 701 French for Today",
+      "links": [
+        {
+          "text": "FRE 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 702 French Gastronomy and Culture",
+      "links": [
+        {
+          "text": "FRE 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 704 Franco-Canadian Culture",
+      "links": [
+        {
+          "text": "FRE 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 706 The Life and Times of the French Language",
+      "links": [
+        {
+          "text": "FRE 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 707 Introduction to French-English Translation",
+      "links": [
+        {
+          "text": "FRE 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 709 Children's Literature in French",
+      "links": [
+        {
+          "text": "FRE 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 801 French and New Media",
+      "links": [
+        {
+          "text": "FRE 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 901 Francophone Women Writers",
+      "links": [
+        {
+          "text": "FRE 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 903 The Francophone Short Story",
+      "links": [
+        {
+          "text": "FRE 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/903/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Spanish Stream"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 101 Introductory Spanish I",
+      "links": [
+        {
+          "text": "SPN 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 201 Introductory Spanish II",
+      "links": [
+        {
+          "text": "SPN 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 301 Intermediate Spanish I",
+      "links": [
+        {
+          "text": "SPN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 302 Spanish for the Tourism Industry",
+      "links": [
+        {
+          "text": "SPN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 303 Spanish and Fashion",
+      "links": [
+        {
+          "text": "SPN 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 401 Intermediate Spanish II",
+      "links": [
+        {
+          "text": "SPN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 501 Advanced Spanish I",
+      "links": [
+        {
+          "text": "SPN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 504 Spanish Language and Culture through Films",
+      "links": [
+        {
+          "text": "SPN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 506 Spanish Audiovisual Translation",
+      "links": [
+        {
+          "text": "SPN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 507 English-Spanish Translation I",
+      "links": [
+        {
+          "text": "SPN 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 510 Effective Writing",
+      "links": [
+        {
+          "text": "SPN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 515 Introduction to Business Spanish",
+      "links": [
+        {
+          "text": "SPN 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 601 Advanced Spanish II",
+      "links": [
+        {
+          "text": "SPN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 607 English-Spanish Translation II",
+      "links": [
+        {
+          "text": "SPN 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 610 Spanish Writing Composition",
+      "links": [
+        {
+          "text": "SPN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 702 Communication in Business Spanish",
+      "links": [
+        {
+          "text": "SPN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 704 Latin American Arts and Culture",
+      "links": [
+        {
+          "text": "SPN 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 705 The Boom in Latin American Culture",
+      "links": [
+        {
+          "text": "SPN 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 706 Spanish Graphic Novels",
+      "links": [
+        {
+          "text": "SPN 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 707 Spanish-English Translation",
+      "links": [
+        {
+          "text": "SPN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 708 Contemporary Spanish Fiction",
+      "links": [
+        {
+          "text": "SPN 708",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/708/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 710 History of the Spanish Language",
+      "links": [
+        {
+          "text": "SPN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 802 Spanish for Business Strategies",
+      "links": [
+        {
+          "text": "SPN 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 803 Latin American Short Story",
+      "links": [
+        {
+          "text": "SPN 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 804 Culture and Resistance in the Americas",
+      "links": [
+        {
+          "text": "SPN 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 810 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "SPN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students must declare their stream by the start of their second year: French, Spanish or Speech Science. Students in the French and Spanish streams will complete a minimum of 8 Table II courses from their chosen stream. Students in the Speech Science stream will complete a minimum of 13 Table II courses from their chosen stream. Students who choose to complete the minimum number of courses for their stream can choose courses from any other stream to complete their Table II requirements."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "French Stream"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: A minimum of two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 French Language and Culture",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 515 Introduction to Business French",
+      "links": [
+        {
+          "text": "FRE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 707 Introduction to French-English Translation",
+      "links": [
+        {
+          "text": "FRE 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2: A minimum of six (6) and a maximum of eleven (11) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 101 Introductory French I",
+      "links": [
+        {
+          "text": "FRE 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 201 Introductory French II",
+      "links": [
+        {
+          "text": "FRE 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 301 Intermediate French I",
+      "links": [
+        {
+          "text": "FRE 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 302 French Food, Wine and Hospitality",
+      "links": [
+        {
+          "text": "FRE 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 303 French and Fashion",
+      "links": [
+        {
+          "text": "FRE 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 401 Intermediate French II",
+      "links": [
+        {
+          "text": "FRE 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 402 French Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "FRE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 501 Speaking and Writing French I",
+      "links": [
+        {
+          "text": "FRE 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 502 Communication and Business French",
+      "links": [
+        {
+          "text": "FRE 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 503 Middle Ages to Classicism",
+      "links": [
+        {
+          "text": "FRE 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 504 French Audiovisual Translation",
+      "links": [
+        {
+          "text": "FRE 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 505 French Language and Culture",
+      "links": [
+        {
+          "text": "FRE 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 507 English-French Translation I",
+      "links": [
+        {
+          "text": "FRE 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 510 Effective Writing",
+      "links": [
+        {
+          "text": "FRE 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 515 Introduction to Business French",
+      "links": [
+        {
+          "text": "FRE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 601 Speaking and Writing French II",
+      "links": [
+        {
+          "text": "FRE 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 602 Business French in Practice",
+      "links": [
+        {
+          "text": "FRE 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 603 Enlightenment to La Belle Époque",
+      "links": [
+        {
+          "text": "FRE 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 604 French for Healthcare",
+      "links": [
+        {
+          "text": "FRE 604",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/604/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 605 Francophone Language and Culture",
+      "links": [
+        {
+          "text": "FRE 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 607 English-French Translation II",
+      "links": [
+        {
+          "text": "FRE 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 608 Contemporary French Literature",
+      "links": [
+        {
+          "text": "FRE 608",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/608/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 609 Franco-Canadian Literature",
+      "links": [
+        {
+          "text": "FRE 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 610 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "FRE 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 701 French for Today",
+      "links": [
+        {
+          "text": "FRE 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 702 French Gastronomy and Culture",
+      "links": [
+        {
+          "text": "FRE 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 704 Franco-Canadian Culture",
+      "links": [
+        {
+          "text": "FRE 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 706 The Life and Times of the French Language",
+      "links": [
+        {
+          "text": "FRE 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 707 Introduction to French-English Translation",
+      "links": [
+        {
+          "text": "FRE 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 709 Children's Literature in French",
+      "links": [
+        {
+          "text": "FRE 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 801 French and New Media",
+      "links": [
+        {
+          "text": "FRE 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 805 French Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "FRE 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 900 Senior French Seminar",
+      "links": [
+        {
+          "text": "FRE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 901 Francophone Women Writer",
+      "links": [
+        {
+          "text": "FRE 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE 903 The Francophone Short Story",
+      "links": [
+        {
+          "text": "FRE 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/FRE/903/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Spanish Stream"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: A minimum of two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 504 Spanish Language and Culture through Films",
+      "links": [
+        {
+          "text": "SPN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 515 Introduction to Business Spanish",
+      "links": [
+        {
+          "text": "SPN 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 704 Latin American Arts and Culture",
+      "links": [
+        {
+          "text": "SPN 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 707 Spanish-English Translation",
+      "links": [
+        {
+          "text": "SPN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2: A minimum of six (6) and a maximum of eleven (11) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 101 Introductory Spanish I",
+      "links": [
+        {
+          "text": "SPN 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 201 Introductory Spanish II",
+      "links": [
+        {
+          "text": "SPN 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 301 Intermediate Spanish I",
+      "links": [
+        {
+          "text": "SPN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 302 Spanish for the Tourism Industry",
+      "links": [
+        {
+          "text": "SPN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 303 Spanish and Fashion",
+      "links": [
+        {
+          "text": "SPN 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 401 Intermediate Spanish II",
+      "links": [
+        {
+          "text": "SPN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 402 Spanish Conversation and Pronunciation",
+      "links": [
+        {
+          "text": "SPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 501 Advanced Spanish I",
+      "links": [
+        {
+          "text": "SPN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 504 Spanish Language and Culture through Films",
+      "links": [
+        {
+          "text": "SPN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 506 Spanish Audiovisual Translation",
+      "links": [
+        {
+          "text": "SPN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 507 English-Spanish Translation I",
+      "links": [
+        {
+          "text": "SPN 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 510 Effective Writing",
+      "links": [
+        {
+          "text": "SPN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 515 Introduction to Business Spanish",
+      "links": [
+        {
+          "text": "SPN 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 601 Advanced Spanish II",
+      "links": [
+        {
+          "text": "SPN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 607 English-Spanish Translation II",
+      "links": [
+        {
+          "text": "SPN 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 610 Spanish Writing Composition",
+      "links": [
+        {
+          "text": "SPN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 702 Communication in Business Spanish",
+      "links": [
+        {
+          "text": "SPN 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 704 Latin American Arts and Culture",
+      "links": [
+        {
+          "text": "SPN 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 705 The Boom in Latin American Culture",
+      "links": [
+        {
+          "text": "SPN 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 706 Spanish Graphic Novels",
+      "links": [
+        {
+          "text": "SPN 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 707 Spanish-English Translation",
+      "links": [
+        {
+          "text": "SPN 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 708 Contemporary Spanish Fiction",
+      "links": [
+        {
+          "text": "SPN 708",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/708/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 710 History of the Spanish Language",
+      "links": [
+        {
+          "text": "SPN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 802 Spanish for Business Strategies",
+      "links": [
+        {
+          "text": "SPN 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 803 Latin American Short Story",
+      "links": [
+        {
+          "text": "SPN 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/803/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 804 Culture and Resistance in the Americas",
+      "links": [
+        {
+          "text": "SPN 804",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/804/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 805 Spanish Language Teaching Methodologies",
+      "links": [
+        {
+          "text": "SPN 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/805/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 810 Cultural Context of Writing",
+      "links": [
+        {
+          "text": "SPN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN 900 Senior Spanish Seminar",
+      "links": [
+        {
+          "text": "SPN 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/SPN/900/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Speech Science Stream"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACS 106 Introduction to Language",
+      "links": [
+        {
+          "text": "ACS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arts-and-contemporary-studies/ACS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 101 Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 111 Anatomy and Physiology II",
+      "links": [
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 206 Language Development",
+      "links": [
+        {
+          "text": "CLD 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/206/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 206 Introduction to Phonetics",
+      "links": [
+        {
+          "text": "LIR 206",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/206/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 102 Introduction to Psychology I",
+      "links": [
+        {
+          "text": "PSY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 308 Psychology of Thinking",
+      "links": [
+        {
+          "text": "PSY 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/308/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Four (4) of the following, with at least three (3) of the same course code:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ARB † An Arabic course",
+      "links": [
+        {
+          "text": "ARB",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/arabic/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASL An American Sign Language course",
+      "links": [
+        {
+          "text": "ASL",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/american-sign-language/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHN † A Chinese course",
+      "links": [
+        {
+          "text": "CHN",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chinese/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FRE † A French course",
+      "links": [
+        {
+          "text": "FRE",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/french/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SPN † A Spanish Course",
+      "links": [
+        {
+          "text": "SPN",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/spanish/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK 101 Introductory Kanyen'kéha I",
+      "links": [
+        {
+          "text": "MHK 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHK 201 Introductory Kanyen'kéha II",
+      "links": [
+        {
+          "text": "MHK 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mohawk/MHK/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2: A minimum of two (2) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 100 Introduction to Anthropology",
+      "links": [
+        {
+          "text": "ANT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 200 Decoding Culture",
+      "links": [
+        {
+          "text": "ANT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 306 Language, Culture and Power",
+      "links": [
+        {
+          "text": "ANT 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ANT 900 Anthropology Capstone",
+      "links": [
+        {
+          "text": "ANT 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/anthropology/ANT/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 600 Physiology",
+      "links": [
+        {
+          "text": "BLG 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CLD 307 Children's Thinking and Learning",
+      "links": [
+        {
+          "text": "CLD 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/early-childhood-studies/CLD/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HAU 100 Haudenosaunee Cultural Perspective",
+      "links": [
+        {
+          "text": "HAU 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HAU 400 Haudenosaunee Leaders and Writers",
+      "links": [
+        {
+          "text": "HAU 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/haudenosaunee/HAU/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 203 Indigenous Oral Tradition",
+      "links": [
+        {
+          "text": "LIR 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 207 Translation as a Cultural Bridge",
+      "links": [
+        {
+          "text": "LIR 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/207/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LIR 302 Food Language and Culture",
+      "links": [
+        {
+          "text": "LIR 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language-and-intercultural-relations/LIR/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 202 Introduction to Psychology II",
+      "links": [
+        {
+          "text": "PSY 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 402 Adult Development",
+      "links": [
+        {
+          "text": "PSY 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 654 Cognitive Psychology",
+      "links": [
+        {
+          "text": "PSY 654",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/654/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 504 Children and Society",
+      "links": [
+        {
+          "text": "SOC 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/504/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† An online placement test is required. See Department of Languages, Literatures and Cultures' website for details."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Language and Intercultural Relations - Table II"
+}

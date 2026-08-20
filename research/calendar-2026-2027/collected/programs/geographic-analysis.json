@@ -1,0 +1,2061 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "393b2ee9a9e9c539d11b4a98c23d2b9d7c6c704071c5acd9d9aa518d8e4f0e27",
+  "source_bytes": 133947,
+  "title": "Geographic Analysis",
+  "headings": [
+    "Geographic Analysis",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Career Opportunities",
+    "Curriculum Information",
+    "Co-operative Education",
+    "Transferability Guidelines",
+    "Co-operative Program Overview",
+    "Academic Recovery Pathway (for students admitted Fall 2025 and after)",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2024 and before)",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program (for students admitted Fall 2024 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "5th Semester",
+    "6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-op Program, Academic Recovery Pathway (for students admitted Fall 2025 and after)",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "GEO 131",
+    "GEO 141",
+    "GEO 151",
+    "GEO 161",
+    "GEO 171",
+    "GEO 221",
+    "GEO 231",
+    "GEO 241",
+    "GEO 313",
+    "GEO 351",
+    "GEO 361",
+    "GEO 411",
+    "GEO 421",
+    "GEO 441",
+    "GEO 521",
+    "GEO 541",
+    "GEO 542",
+    "GEO 561",
+    "GEO 641",
+    "GEO 642",
+    "GEO 643",
+    "GEO 644",
+    "GEO 771",
+    "GEO 772",
+    "GEO 871",
+    "GEO 873",
+    "PHL 214",
+    "SSH 105",
+    "SSH 205",
+    "WKT 150",
+    "WKT 250",
+    "WKT 350",
+    "WKT 450"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Arts",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+    },
+    {
+      "text": "GEO 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+    },
+    {
+      "text": "GEO 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+    },
+    {
+      "text": "GEO 171",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/171/"
+    },
+    {
+      "text": "WKT 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+    },
+    {
+      "text": "WKT 250",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+    },
+    {
+      "text": "WKT 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+    },
+    {
+      "text": "WKT 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "GEO 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+    },
+    {
+      "text": "GEO 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+    },
+    {
+      "text": "GEO 542",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+    },
+    {
+      "text": "GEO 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+    },
+    {
+      "text": "GEO 641",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+    },
+    {
+      "text": "GEO 642",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+    },
+    {
+      "text": "GEO 643",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+    },
+    {
+      "text": "GEO 644",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/644/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "GEO 771",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/771/"
+    },
+    {
+      "text": "GEO 772",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+    },
+    {
+      "text": "GEO 871",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+    },
+    {
+      "text": "GEO 873",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+    },
+    {
+      "text": "GEO 141",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/141/"
+    },
+    {
+      "text": "GEO 161",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/161/"
+    },
+    {
+      "text": "SSH 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+    },
+    {
+      "text": "SSH 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_i/"
+    },
+    {
+      "text": "GEO 241",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/241/"
+    },
+    {
+      "text": "GEO 361",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/361/"
+    },
+    {
+      "text": "GEO 441",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/441/"
+    },
+    {
+      "text": "GEO 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/221/"
+    },
+    {
+      "text": "GEO 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+    },
+    {
+      "text": "GEO 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/313/"
+    },
+    {
+      "text": "GEO 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/351/"
+    },
+    {
+      "text": "GEO 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+    },
+    {
+      "text": "GEO 421",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/421/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Geographic Analysis"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Arts",
+      "links": [
+        {
+          "text": "Faculty of Arts",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Geography and Environmental Studies",
+      "links": [
+        {
+          "text": "Department of Geography and Environmental Studies",
+          "url": "https://www.torontomu.ca/content/ryerson/geography/programs/geographic-analysis/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program (last admission Fall 2024). Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U English."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Geographic Analysis is a five year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The BA (Hons) in Geographic Analysis has a proven track record of preparing students for careers in the public and private sectors. The program emphasizes applications of geospatial analysis methods and techniques on a foundation of physical and human aspects of geography and their interrelationships.. Our students graduate with competency in the use of Geographic Information Systems (GIS) and remote sensing tools used in virtually all fields of business and public administration. Core program courses introduce the computer software to collect, manage, analyze, and map spatial data, and thus provide a conceptual and technical foundation for geographic analysis. In addition to the geotechnology core curriculum, there are three broad areas of study:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Location analysis, which determines the networks and sites of retail, industrial, and other socio-economic activities at local, regional, national and international levels, where identifying and evaluating alternative sites is an important strategic task in private sector operations;"
+    },
+    {
+      "kind": "list_item",
+      "text": "Urban analysis, which examines the factors that combine to create the structure of an urban environment (including residential patterns, business and industrial developments, transportation systems, and social and health services), and the dynamics of these factors in the growth and intensification of cities and regions; and"
+    },
+    {
+      "kind": "list_item",
+      "text": "Environmental analysis, which emphasizes the study of the management and planning policies for natural resources and addresses issues involving conflicts between society's economic and environmental goals."
+    },
+    {
+      "kind": "text",
+      "text": "Students can specialize in one area of study or sample courses from several areas in order to experience the transferability of spatial analytical techniques and geotechnologies. Two fully equipped state-of-the-art computer labs ensure that students receive practical training on major statistical, database, GIS and remote sensing software using real world data."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "Graduates of Geographic Analysis pursue a wide array of careers in the public and private sectors. Courses emphasizing concepts, issues, techniques and decision processes are combined with practical work experience in the context of an established co-operative education network . This experiential learning on and off campus leads to employment opportunities in marketing, real estate management, property development, retail management, bank network planning, police services, health agencies, environmental consulting, GIS vendors, education, municipalities, environmental consulting, conservation authorities, and the non-profit sector. Typical job titles include market research analyst, marketing analyst, GIS analyst, data engineer, database specialist, conservation analyst, crime analyst, geospatial health analyst, field technician, and consultant."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information"
+    },
+    {
+      "kind": "text",
+      "text": "Semesters one and two: Students in Geographic Analysis take four Geography courses in first year, which show how geographers approach current issues in the physical and human environments and lay the foundation for the use of GIS and statistical analysis throughout their studies. Like other students in the Faculty of Arts, they also take Social Science and Humanities electives as part of a common platform. Together with courses in critical thinking and writing, these facilitate program transfers after first year. Semesters three and four: Students develop their conceptual knowledge and career-relevant skills in the tools and methods of professional geographers through required courses in statistics, cartography, and Geographic Information Science. They also select courses which focus on their areas of interest in retail location, urban, and/or environmental analysis. Semesters five to eight: Students select advanced program courses to build on their expertise in one or more of the three broad areas of study and to enhance their competencies in analytical and spatial methods. In their final year, students take capstone courses to solidify their expertise before going out into the workplace or on to graduate study. In their course of study, students also choose open electives and liberal studies courses to gain insight into other fields of academic knowledge."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Education"
+    },
+    {
+      "kind": "text",
+      "text": "Integral to the degree is the requirement for students to apply their knowledge and skills in the workplace. All students admitted to the program are enrolled in the co-operative education program. See further Co-operative Education details below."
+    },
+    {
+      "kind": "text",
+      "text": "Through co-op, students have opportunities to gain employment experience and to establish professional contacts for their future careers, benefiting them in the following ways:"
+    },
+    {
+      "kind": "list_item",
+      "text": "enhancement of their practical perspective;"
+    },
+    {
+      "kind": "list_item",
+      "text": "addition of valuable work experience to their resume;"
+    },
+    {
+      "kind": "list_item",
+      "text": "acquisition of specific knowledge of workplace operations;"
+    },
+    {
+      "kind": "list_item",
+      "text": "appreciation of the value of their capabilities; and"
+    },
+    {
+      "kind": "list_item",
+      "text": "introduction to prospective employers."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transferability Guidelines"
+    },
+    {
+      "kind": "text",
+      "text": "Students admitted to the Bachelor of Arts programs in Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, Geographic Analysis, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology or Sociology may transfer to any one of the other programs or to any one of the approved double major programs for the Fall term of their second year of studies. Applications are provided via Google Form and must be submitted by February 2nd. Transfer applications are considered on a competitive basis subject to program capacity, and therefore, program choice cannot be guaranteed."
+    },
+    {
+      "kind": "text",
+      "text": "In order to transfer to Geographic Analysis from any of Arts and Contemporary Studies, Criminology, Economics and Finance, English, Environmental and Urban Sustainability, History, Language and Intercultural Relations, Philosophy, Politics and Governance, Psychology, or Sociology, students must:"
+    },
+    {
+      "kind": "list_item",
+      "text": "have a CLEAR Academic Standing at the end of the Winter term of their second semester of studies; and"
+    },
+    {
+      "kind": "list_item",
+      "text": "have successfully completed GEO 131 or GEO 151 . It is strongly recommended that students complete both GEO 131 and GEO 151 in first year.",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        },
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        },
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        },
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "text",
+      "text": "The co-operative education program provides students with 12 months of work experience to complement their classroom studies and support the development of essential employability skills, including communication, collaboration and problem-solving."
+    },
+    {
+      "kind": "text",
+      "text": "Although the Career & Co-op Centre cannot guarantee placements, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education. All students are enrolled into co-op at the end of their first year and must complete GEO 171 prior to their first placement.",
+      "links": [
+        {
+          "text": "GEO 171",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/171/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 450 (optional)",
+      "links": [
+        {
+          "text": "WKT 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the co-op program. Completion of WKT 450 is at the discretion of the Career and Co-op Centre, in consultation with the Faculty Advisor.",
+      "links": [
+        {
+          "text": "WKT 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Academic Recovery Pathway (for students admitted Fall 2025 and after)"
+    },
+    {
+      "kind": "text",
+      "text": "After completion of WKT 150 , students who cannot continue in the Co-operative Education Program due to unforeseen circumstances and wish to withdraw to complete the academic recovery pathway will be required to complete a Plan Change Form. This form needs to confirm the student completed WKT 150 and their circumstances to support the academic recovery pathway. The form needs to be approved by the Program Department.",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        },
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "All co-op placements must be approved by the Career & Co-op Centre and the Faculty Advisor for the Geographic Analysis co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and four upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Geography courses and PHL 214 are not available for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Geography courses are not available for credit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2024 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2024 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2024 and before."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 (Methods and Techniques): Two courses from the following. Not all courses will be offered in the same term:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 521 Geodemographics",
+      "links": [
+        {
+          "text": "GEO 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 541 GIS Programming",
+      "links": [
+        {
+          "text": "GEO 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 542 Introduction to Remote Sensing",
+      "links": [
+        {
+          "text": "GEO 542",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 561 Multivariate Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 641 GIS and Decision Support",
+      "links": [
+        {
+          "text": "GEO 641",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 642 Advanced Remote Sensing and GIS",
+      "links": [
+        {
+          "text": "GEO 642",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 643 Field Methods for Geospatial Data",
+      "links": [
+        {
+          "text": "GEO 643",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 644 Spatial Databases",
+      "links": [
+        {
+          "text": "GEO 644",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/644/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2023 and before. Students admitted Fall 2024 see revised curriculum below."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 771 Practicum",
+      "links": [
+        {
+          "text": "GEO 771",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/771/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 (Capstone): Two of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 772 Individual Research Paper",
+      "links": [
+        {
+          "text": "GEO 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 871 The Professional Geographer",
+      "links": [
+        {
+          "text": "GEO 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 873 Geographic Entrepreneurship and Consulting",
+      "links": [
+        {
+          "text": "GEO 873",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins and last offered 2027-2028 for students admitted Fall 2024."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 771 Practicum",
+      "links": [
+        {
+          "text": "GEO 771",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/771/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 (Capstone): One of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 772 Individual Research Paper",
+      "links": [
+        {
+          "text": "GEO 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 871 The Professional Geographer",
+      "links": [
+        {
+          "text": "GEO 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 873 Geographic Entrepreneurship and Consulting",
+      "links": [
+        {
+          "text": "GEO 873",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2024 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program (for students admitted Fall 2024 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 131 Energy, Earth and Ecosystems",
+      "links": [
+        {
+          "text": "GEO 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 141 Geography and GIS",
+      "links": [
+        {
+          "text": "GEO 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/141/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 161 Introductory Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 161",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/161/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 105 Critical Thinking",
+      "links": [
+        {
+          "text": "SSH 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 205 Academic Writing and Research",
+      "links": [
+        {
+          "text": "SSH 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/205/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: Four courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 171 Professional Geography and Co-op",
+      "links": [
+        {
+          "text": "GEO 171",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/171/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 241 Cartographic Principles and Practice",
+      "links": [
+        {
+          "text": "GEO 241",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/241/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 361 Inferential Statistics in Geography",
+      "links": [
+        {
+          "text": "GEO 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 441 Geographic Information Science",
+      "links": [
+        {
+          "text": "GEO 441",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/441/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE (Field Foundation) : Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 221 Location Analysis",
+      "links": [
+        {
+          "text": "GEO 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 313 Weather and Climate",
+      "links": [
+        {
+          "text": "GEO 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 351 Internal Structure of the City",
+      "links": [
+        {
+          "text": "GEO 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 411 Resource and Environmental Planning",
+      "links": [
+        {
+          "text": "GEO 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 421 Geography of Retailing",
+      "links": [
+        {
+          "text": "GEO 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/421/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered Fall 2026 to students admitted Fall 2024 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 (Methods and Techniques): One course from the following. Not all courses will be offered in the same term:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 521 Geodemographics",
+      "links": [
+        {
+          "text": "GEO 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 541 GIS Programming",
+      "links": [
+        {
+          "text": "GEO 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 542 Introduction to Remote Sensing",
+      "links": [
+        {
+          "text": "GEO 542",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 561 Multivariate Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 641 GIS and Decision Support",
+      "links": [
+        {
+          "text": "GEO 641",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 642 Advanced Remote Sensing and GIS",
+      "links": [
+        {
+          "text": "GEO 642",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 643 Field Methods for Geospatial Data",
+      "links": [
+        {
+          "text": "GEO 643",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 644 Spatial Databases",
+      "links": [
+        {
+          "text": "GEO 644",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/644/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered Winter 2028 to students admitted Fall 2024 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 (Methods and Techniques): One course from the following. Not all courses will be offered in the same term:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 521 Geodemographics",
+      "links": [
+        {
+          "text": "GEO 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 541 GIS Programming",
+      "links": [
+        {
+          "text": "GEO 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 542 Introduction to Remote Sensing",
+      "links": [
+        {
+          "text": "GEO 542",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 561 Multivariate Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 641 GIS and Decision Support",
+      "links": [
+        {
+          "text": "GEO 641",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 642 Advanced Remote Sensing and GIS",
+      "links": [
+        {
+          "text": "GEO 642",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 643 Field Methods for Geospatial Data",
+      "links": [
+        {
+          "text": "GEO 643",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 644 Spatial Databases",
+      "links": [
+        {
+          "text": "GEO 644",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/644/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2028-2029 to students admitted Fall 2024 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 (Capstone): One of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 772 Individual Research Paper",
+      "links": [
+        {
+          "text": "GEO 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 871 The Professional Geographer",
+      "links": [
+        {
+          "text": "GEO 871",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/871/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 873 Geographic Entrepreneurship and Consulting",
+      "links": [
+        {
+          "text": "GEO 873",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/873/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 250",
+      "links": [
+        {
+          "text": "WKT 250",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/250/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 350",
+      "links": [
+        {
+          "text": "WKT 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 450 (optional)",
+      "links": [
+        {
+          "text": "WKT 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of three work terms in order to graduate from the Co-op program. Completion of WKT 450 is at the discretion of the Career and Co-op Centre, in consultation with the Faculty Advisor. In most cases the Co-op program requires five years to complete the degree in Geographic Analysis. Students may have the option to fast track if they choose to take electives during the Spring/Summer. The regular program can be completed in four years. All Co-op placements must be approved by the Career, Co-op & Student Success Centre and the Faculty Advisor for the Geographic Analysis program.",
+      "links": [
+        {
+          "text": "WKT 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/450/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-op Program, Academic Recovery Pathway (for students admitted Fall 2025 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-op Program, Academic Recovery Pathway (for students admitted Fall 2025 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students will not enter the Academic Recovery Pathway until completion of WKT 150 at minimum, which occurs following the 4th Semester.",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 150",
+      "links": [
+        {
+          "text": "WKT 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/150/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "7th semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "All co-op placements must be approved by the Career & Co-op Centre and the Faculty Advisor for the Geographic Analysis co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Kruti Desai Director, Research and Planning Analytics Metrolinx Paul Hackl Geography Department Head Toronto District School Board Jason Hastings Director, Social Development, Planning and Partnerships Peel Region Jan Kestle President Environics Analytics Danbi Lee Principal Owner MAPWRK Gayle Ramsay Senior Vice President and Head of Everyday Banking, Segment and Customer Growth"
+    },
+    {
+      "kind": "text",
+      "text": "Duncan Rowe Lead, Advanced Analytics and Visualization Services York Region Ian Williams Director, Information Management Toronto Police Service"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Geographic Analysis"
+}

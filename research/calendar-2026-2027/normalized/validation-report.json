@@ -1,0 +1,58 @@
+{
+  "calendar_year": "2026-2027",
+  "status": "collection_complete",
+  "checks": {
+    "official_downloads_completed_without_errors": true,
+    "all_72_program_entries_collected": true,
+    "all_69_minors_collected": true,
+    "all_minors_have_six_course_policy_count": true,
+    "all_programs_have_curriculum_periods": true,
+    "all_programs_have_official_sources": true,
+    "all_minors_have_official_sources": true,
+    "all_program_minor_pairs_assessed": true,
+    "all_discovered_plan_minor_pairs_assessed": true,
+    "four_optional_specializations_collected": true,
+    "no_empty_source_pages": true,
+    "no_unparsed_minor_curricula": true,
+    "no_unparsed_program_curricula": true
+  },
+  "failures": [],
+  "counts": {
+    "programs_expected": 72,
+    "programs_collected": 72,
+    "minors_expected": 69,
+    "minors_discovered": 69,
+    "minors_collected": 69,
+    "optional_specializations_discovered": 4,
+    "optional_specializations_collected": 4,
+    "program_tables_collected": 111,
+    "program_subpages_from_sitemap_collected": 130,
+    "shared_pages_collected": 6,
+    "unique_program_course_references": 2100,
+    "unique_minor_course_references": 1492,
+    "normalized_program_subpages": 130,
+    "separate_major_or_plan_pages": 8,
+    "concentration_source_records": 21,
+    "course_catalog_records": 3971,
+    "structured_curriculum_periods": 696,
+    "structured_requirement_groups": 3063,
+    "program_minor_assessments": 4968,
+    "plan_minor_assessments": 552,
+    "unresolved_reference_categories": {
+      "published_reference_missing_from_course_catalog": 110,
+      "restriction_reference_missing_from_catalog": 7,
+      "range_boundary_or_level_example": 9,
+      "historical_or_equivalent_reference": 56
+    },
+    "program_minor_statuses": {
+      "officially_excluded": 79,
+      "eligible_under_general_minor_policy": 4857,
+      "plan_specific_exclusion_review": 32
+    }
+  },
+  "flagged_items": {
+    "course_references_absent_from_current_catalog": 182,
+    "details_file": "normalized/unresolved-course-references.json",
+    "meaning": "These references remain attached to their exact official context. They are former codes, range examples, restrictions, removed courses, or published requirement references without a current catalogue record. They must not be presented as ordinary currently available courses."
+  }
+}

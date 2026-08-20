@@ -1,0 +1,2323 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "3df86bc19e6865ad94eff4b0439333d71d172b24a2f74d86b3d458e161dfd671",
+  "source_bytes": 157950,
+  "title": "Retail Management",
+  "headings": [
+    "Retail Management",
+    "Admission Information - Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program",
+    "Notes:",
+    "Admission Information - Full-Time Second-Year Direct Entry Program",
+    "Program Overview/Curriculum Information",
+    "Exchange and Travel Study",
+    "Internship Placement",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Optional Co-operative Program Overview",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-Op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Full-Time, Second-Year Entry Program",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Program Advisory Council",
+    "Ted Rogers School of Management Dean's Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "ECN 104",
+    "ECN 204",
+    "ENT 101",
+    "FIN 300",
+    "GMS 200",
+    "ITM 102",
+    "LAW 122",
+    "MHR 523",
+    "MKT 100",
+    "QMS 110",
+    "QMS 210",
+    "RMG 100",
+    "RMG 200",
+    "RMG 210",
+    "RMG 300",
+    "RMG 301",
+    "RMG 302",
+    "RMG 303",
+    "RMG 400",
+    "RMG 434",
+    "RMG 452",
+    "RMG 500",
+    "RMG 510",
+    "RMG 700",
+    "RMG 908",
+    "WKT 100",
+    "WKT 104",
+    "WKT 200",
+    "WKT 204",
+    "WKT 300",
+    "WKT 304",
+    "WKT 400",
+    "WKT 404"
+  ],
+  "official_links": [
+    {
+      "text": "Ted Rogers School of Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+    },
+    {
+      "text": "RMG 79A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "RMG 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/210/"
+    },
+    {
+      "text": "RMG 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/510/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "RMG 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/100/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "RMG 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/200/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "RMG 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/301/"
+    },
+    {
+      "text": "RMG 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/400/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "RMG 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/300/"
+    },
+    {
+      "text": "RMG 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/303/"
+    },
+    {
+      "text": "RMG 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/700/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "RMG 434",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/434/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+    },
+    {
+      "text": "RMG 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/302/"
+    },
+    {
+      "text": "RMG 452",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/452/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "RMG 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/500/"
+    },
+    {
+      "text": "RMG 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/908/"
+    },
+    {
+      "text": "WKT 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/104/"
+    },
+    {
+      "text": "WKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+    },
+    {
+      "text": "WKT 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/204/"
+    },
+    {
+      "text": "WKT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+    },
+    {
+      "text": "WKT 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/304/"
+    },
+    {
+      "text": "WKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+    },
+    {
+      "text": "WKT 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/404/"
+    },
+    {
+      "text": "WKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Retail Management"
+    },
+    {
+      "kind": "text",
+      "text": "Ted Rogers School of Management",
+      "links": [
+        {
+          "text": "Ted Rogers School of Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Commerce (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Ted Rogers School of Retail Management",
+      "links": [
+        {
+          "text": "Ted Rogers School of Retail Management",
+          "url": "https://www.torontomu.ca/content/ryerson/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program. Full-time, second-year direct entry program"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U courses in: English and Mathematics [one of Grade 12 U Calculus and Vectors (MCV4U), Advanced Functions (MHF4U) or Mathematics of Data Management (MDM4U)]."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Grade 12 U Calculus and Vectors (MCV4U) is the preferred Mathematics course."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70 percent range or higher) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students can apply directly to the regular four-year undergraduate program or the five-year co-op option. Admission to the co-op option is subject to competition. Applicants who are not selected for the co-op option are automatically considered for the regular program. To maintain a place in co-op, students will need to meet CGPA requirements, successfully complete all courses and submit required documentation."
+    },
+    {
+      "kind": "text",
+      "text": "Co-op for Retail Management Students:"
+    },
+    {
+      "kind": "text",
+      "text": "Students enrolled in Retail Management wishing to be considered for this program must apply for admission into the co-op option upon completion of the first year of the degree. Admission into the co-op program is based on the following items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Minimum CGPA of 2.80 (or higher), subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communication skills."
+    },
+    {
+      "kind": "list_item",
+      "text": "An application that includes a letter and resume to be followed by an interview with the Faculty Advisor."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time Second-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time Second-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Ted Rogers School of Retail Management will consider graduates of the following two-year and three-year Diploma programs for admission to the second year of Toronto Metropolitan University's Retail Management Program. Some reach back courses are required. A minimum cumulative average of 'B' is required. A demonstrated ability to succeed in the retail industry may be required. Subject to competition, candidates may be required to present averages above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion Business and Fashion Business Management programs at Seneca College;"
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion Management program at George Brown College;"
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion Merchandising and Fashion Marketing and Management programs at Fanshawe College;"
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion Arts and Fashion Arts and Business programs at Humber Institute of Technology and Advanced Learning."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The program is designed to develop effective leadership and analytic skills toward a strategic understanding of shopper insights and drivers of the value chain."
+    },
+    {
+      "kind": "text",
+      "text": "Graduates of the Retail Management program may pursue a variety of career options within the industry:"
+    },
+    {
+      "kind": "list_item",
+      "text": "buying and supply chain management positions in a retailer's or manufacturer's head office including: trend identification, assortment planning, category management, selection and procurement, supply chain management and logistics functions;"
+    },
+    {
+      "kind": "list_item",
+      "text": "store operations management positions in single-unit or multi-unit organizations which specialize in products or services;"
+    },
+    {
+      "kind": "list_item",
+      "text": "digital retailing and marketing positions in retail companies or related industries of advertising and communications;"
+    },
+    {
+      "kind": "list_item",
+      "text": "planning and analysis positions for retailers in areas such as: rapidly changing consumer needs, the global retail environment and the impact of technology on changing retail formats;"
+    },
+    {
+      "kind": "list_item",
+      "text": "retail real estate and (shopping centre management) companies in marketing, leasing or analytics;"
+    },
+    {
+      "kind": "list_item",
+      "text": "entrepreneurship new venture start-up and management."
+    },
+    {
+      "kind": "text",
+      "text": "The program provides students with an integrated perspective of the many facets of a retail organization as well as insight into the broader context of retailing in society. Students will develop practical and comprehensive knowledge of customer service strategies, 'people' skills, information systems, merchandising and financial acumen as essential elements in the Retail Industry."
+    },
+    {
+      "kind": "text",
+      "text": "Courses listed in the first four semesters provide students with the foundational skills and knowledge of a Bachelor of Commerce degree and introductory courses with an emphasis on retail management. Some of the topics include: Consumer Insight, Logistics and Supply Chain, Buying, Merchandising, Applied Retail Research and Service Quality Management."
+    },
+    {
+      "kind": "text",
+      "text": "In semesters 5 through 8 , students have the opportunity to delve into more advanced (and strategic) theories, concepts and practices. Retailing in the context of the entire value chain is explored with concepts related to service strategy taking on a broader dimension. A package of elective courses provides students with flexibility in building a program of study that meets individual needs including topics such as Advanced Buying, Visualizing Data for Decisions, Private Label, Sector Studies in Fashion and Luxury, Digital Advertising in Retailing, Corporate Responsibility, Omni-Channel, Store Design and Planning, Franchising, Category Management, and Social Media Marketing."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Exchange and Travel Study"
+    },
+    {
+      "kind": "text",
+      "text": "In fifth or sixth semester, students have the opportunity, subject to availability of spaces and academic performance, to study for a semester abroad. Travel/Study trips to Europe, Asia, and/or North America may be available to students in conjunction with specific courses. In a given year, students may also choose to participate in an extra-curricular Travel Study in major retail centres such as Montreal, New York or Chicago."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Internship Placement"
+    },
+    {
+      "kind": "text",
+      "text": "Internships are an integral part of the B.Comm in Retail management – giving students an opportunity to put theory into practice by working with a retail manager to document and develop new skills and personal learning objectives. This work experience may cover one or more areas from a broad range of Retail Management opportunities including store management, visual merchandising, buying, shopping centre management, retail banking, e-commerce, digital marketing roles and more."
+    },
+    {
+      "kind": "text",
+      "text": "Before starting an internship, students are required to enrol in the RMG 79A/B Internship Placement and Prep Course during their sixth semester of the curriculum.",
+      "links": [
+        {
+          "text": "RMG 79A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The internship work term is completed in the spring/summer following RMG 79A/B as the final graded component in that course.",
+      "links": [
+        {
+          "text": "RMG 79A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "RMG 210 and Economics (ECN) courses are not available for credit.",
+      "links": [
+        {
+          "text": "RMG 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "RMG 510 is not available for credit. Students may take only two Geography courses for credit.",
+      "links": [
+        {
+          "text": "RMG 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/510/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Optional Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section(s). The School offers an optional co-op program which provides graduates with up to 16 months of work experience integrated into their academic program. The co-op option extends the program by one year. The School cannot guarantee work term jobs, but the Business Career Hub and the School will prospect for employers and make every effort to locate suitable positions, as well as be available to advise students on their search for program related jobs. The co-op program enables students to earn prevailing wages for the level of responsibility and contribution of the jobs they perform and thus finance at least part of their university education."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 100 Issues and Innovations in Retailing I",
+      "links": [
+        {
+          "text": "RMG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 200 Introduction to Retail",
+      "links": [
+        {
+          "text": "RMG 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/200/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 301 Retail Operations Management",
+      "links": [
+        {
+          "text": "RMG 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 400 Merchandise Buying and Planning I",
+      "links": [
+        {
+          "text": "RMG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 300 - Retail Information Systems",
+      "links": [
+        {
+          "text": "RMG 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 303 Managing the Retail Workplace",
+      "links": [
+        {
+          "text": "RMG 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 700 Applied Retail Research",
+      "links": [
+        {
+          "text": "RMG 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 434 Intro to Logistics and Supply Chain Mgmt",
+      "links": [
+        {
+          "text": "RMG 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/434/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 302 Retail Consumer Insight",
+      "links": [
+        {
+          "text": "RMG 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 452 Visual Merchandising and Space Planning",
+      "links": [
+        {
+          "text": "RMG 452",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/452/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 79A/B * Internship Placement and Prep",
+      "links": [
+        {
+          "text": "RMG 79A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RMG 79A/B is graded on a pass/fail basis. Please read the program overview (above) for information about the scheduling of this course.",
+      "links": [
+        {
+          "text": "RMG 79A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 500 Retail Strategy",
+      "links": [
+        {
+          "text": "RMG 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/500/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 908 Issues and Innovations in Retailing II",
+      "links": [
+        {
+          "text": "RMG 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/908/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives (opens in new window)",
+      "links": [
+        {
+          "text": "Open Electives (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 100 Issues and Innovations in Retailing I",
+      "links": [
+        {
+          "text": "RMG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 200 Introduction to Retail",
+      "links": [
+        {
+          "text": "RMG 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/200/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 301 Retail Operations Management",
+      "links": [
+        {
+          "text": "RMG 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 400 Merchandise Buying and Planning I",
+      "links": [
+        {
+          "text": "RMG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 300 - Retail Information Systems",
+      "links": [
+        {
+          "text": "RMG 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 303 Managing the Retail Workplace",
+      "links": [
+        {
+          "text": "RMG 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 700 Applied Retail Research",
+      "links": [
+        {
+          "text": "RMG 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester (Offered in Winter Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 302 Retail Consumer Insight",
+      "links": [
+        {
+          "text": "RMG 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 452 Visual Merchandising and Space Planning",
+      "links": [
+        {
+          "text": "RMG 452",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/452/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester (Offered in Fall Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 434 Intro to Logistics and Supply Chain Mgmt",
+      "links": [
+        {
+          "text": "RMG 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/434/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 500 Retail Strategy",
+      "links": [
+        {
+          "text": "RMG 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/500/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 908 Issues and Innovations in Retailing II",
+      "links": [
+        {
+          "text": "RMG 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/908/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 104 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/104/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 204 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/204/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 304 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/304/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 404 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/404/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Second-Year Entry Program",
+      "links": [
+        {
+          "text": "Full-Time, Second-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Second-Year Entry students will normally be admitted into 3rd Semester of this program. Some reach back courses are required. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introductory Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 301 Retail Operations Management",
+      "links": [
+        {
+          "text": "RMG 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 400 Merchandise Buying and Planning I",
+      "links": [
+        {
+          "text": "RMG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 300 - Retail Information Systems",
+      "links": [
+        {
+          "text": "RMG 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 303 Managing the Retail Workplace",
+      "links": [
+        {
+          "text": "RMG 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 700 Applied Retail Research",
+      "links": [
+        {
+          "text": "RMG 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 434 Intro to Logistics and Supply Chain Mgmt",
+      "links": [
+        {
+          "text": "RMG 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/434/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 302 Retail Consumer Insight",
+      "links": [
+        {
+          "text": "RMG 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 452 Visual Merchandising and Space Planning",
+      "links": [
+        {
+          "text": "RMG 452",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/452/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 79A/B * Internship Placement and Prep",
+      "links": [
+        {
+          "text": "RMG 79A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* RMG 79A/B is graded on a pass/fail basis. Please read the program overview (above) for information about the scheduling of this course.",
+      "links": [
+        {
+          "text": "RMG 79A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/79A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 500 Retail Strategy",
+      "links": [
+        {
+          "text": "RMG 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/500/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 908 Issues and Innovations in Retailing II",
+      "links": [
+        {
+          "text": "RMG 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/908/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fawad Baig Managing Director Accenture"
+    },
+    {
+      "kind": "text",
+      "text": "Alim Esmail VP Merchandising Operations Walmart Canada"
+    },
+    {
+      "kind": "text",
+      "text": "Michael Forgione President United Grocers Inc"
+    },
+    {
+      "kind": "text",
+      "text": "Andrew Gomes Online Search and Merchandise Manager Acklands Grainger Inc."
+    },
+    {
+      "kind": "text",
+      "text": "Myles Gooding, Chair Advisor, Board Director, Alumni PwC, Accenture"
+    },
+    {
+      "kind": "text",
+      "text": "Pouneh Hanafi Vice President, Marketing Introhive"
+    },
+    {
+      "kind": "text",
+      "text": "Graham Heuman Research and Insights Associate JCWG Hardeep Kharaud SVP, Head of Food Basics Division SVP Metro"
+    },
+    {
+      "kind": "text",
+      "text": "Philip Ngan Director - Brand Operations, Global Supply Chain The Estée Lauder Companies"
+    },
+    {
+      "kind": "text",
+      "text": "Adele Oriet Director, Human Resources Costco Wholesale Canada"
+    },
+    {
+      "kind": "text",
+      "text": "Laura Smith Vice President, Customer Experience & Insights Canadian Tire Corporation"
+    },
+    {
+      "kind": "text",
+      "text": "Robert Sopov VP, Sales and Customer Development Kenvue"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ted Rogers School of Management Dean's Council"
+    },
+    {
+      "kind": "text",
+      "text": "Vinny Bhathal, CPA, CMA Managing Partner, Chief Controller & Treasurer, Sprott Inc. and Chief Financial Officer Sprott Asset Management LP. Michael Brooks CEO RealPac Darlene Dasent Executive Vice President & Chief Financial Officer University Health Network (UHN) Rania Llewellyn Former President and CEO Laurentian Bank of Canada Rita Loncar Co-Founder and CEO TALO Associates"
+    },
+    {
+      "kind": "text",
+      "text": "Kristina Milbourn Managing Counsel Litigation Rogers Communications Christopher West Director, Business and Service Management Branch The Central Agencies I&IT Cluster"
+    },
+    {
+      "kind": "text",
+      "text": "For updates see: https://www.torontomu.ca/tedrogersschool/about/leadership/deans-council",
+      "links": [
+        {
+          "text": "https://www.torontomu.ca/tedrogersschool/about/leadership/deans-council",
+          "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/about/leadership/deans-council"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Retail Management"
+}

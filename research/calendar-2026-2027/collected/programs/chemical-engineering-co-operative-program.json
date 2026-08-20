@@ -1,0 +1,2065 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "91672a044e198063612a5c63237208119cc416a2370a808bba252504bff2602e",
+  "source_bytes": 133304,
+  "title": "Chemical Engineering Co-operative Program",
+  "headings": [
+    "Chemical Engineering Co-operative Program",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section.",
+    "Career Opportunities",
+    "Transition Programs",
+    "Early Intervention Program",
+    "Writing Skills Resource Path",
+    "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Engineering Transfer Credits",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Accelerated Master of Applied Science (MASc) Pathway",
+    "Full-Time, Five-Year Co-Op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequencing of Academic and Work Terms",
+    "Academic and Work terms",
+    "Academic Standing Variation",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "AER 150",
+    "AER 222",
+    "ASC 120",
+    "BLG 181",
+    "BLG 599",
+    "BLG 699",
+    "BLG 850",
+    "BME 100",
+    "BMS 150",
+    "CEN 100",
+    "CEN 199",
+    "CEN 800",
+    "CHE 200",
+    "CHE 204",
+    "CHE 214",
+    "CHE 215",
+    "CHE 217",
+    "CHE 220",
+    "CHE 307",
+    "CHE 308",
+    "CHE 309",
+    "CHE 312",
+    "CHE 315",
+    "CHE 318",
+    "CHE 319",
+    "CHE 331",
+    "CHE 338",
+    "CHE 413",
+    "CHE 415",
+    "CHE 430",
+    "CHE 617",
+    "CHY 102",
+    "CHY 182",
+    "CHY 183",
+    "CHY 203",
+    "CHY 211",
+    "CHY 224",
+    "CHY 583",
+    "CHY 599",
+    "CMN 432",
+    "CPS 125",
+    "CPS 188",
+    "CPS 650",
+    "CVL 207",
+    "ECN 801",
+    "EES 512",
+    "ELE 202",
+    "ELE 900",
+    "ENG 340",
+    "ENG 503",
+    "GEO 702",
+    "HST 701",
+    "LNG 111",
+    "LNG 112",
+    "LNG 113",
+    "LNG 121",
+    "MEC 110",
+    "MEC 222",
+    "MTH 140",
+    "MTH 141",
+    "MTH 240",
+    "MTH 425",
+    "MTH 511",
+    "MTH 599",
+    "MTL 200",
+    "PCS 111",
+    "PCS 125",
+    "PCS 181",
+    "PCS 182",
+    "PCS 211",
+    "PCS 581",
+    "PHL 709",
+    "POL 507",
+    "WKT 500",
+    "WKT 501",
+    "WKT 601",
+    "WKT 602"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Engineering and Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+    },
+    {
+      "text": "CHY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+    },
+    {
+      "text": "MTH 140",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+    },
+    {
+      "text": "MTH 141",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+    },
+    {
+      "text": "PCS 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+    },
+    {
+      "text": "AER 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+    },
+    {
+      "text": "BME 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+    },
+    {
+      "text": "CHE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+    },
+    {
+      "text": "CHY 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+    },
+    {
+      "text": "CPS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+    },
+    {
+      "text": "CPS 188",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+    },
+    {
+      "text": "CVL 207",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/207/"
+    },
+    {
+      "text": "ELE 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+    },
+    {
+      "text": "MEC 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/222/"
+    },
+    {
+      "text": "MTH 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+    },
+    {
+      "text": "MTL 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+    },
+    {
+      "text": "PCS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+    },
+    {
+      "text": "CHE 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/214/"
+    },
+    {
+      "text": "CHE 308",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/308/"
+    },
+    {
+      "text": "CHE 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/312/"
+    },
+    {
+      "text": "CHE 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/319/"
+    },
+    {
+      "text": "CHE 338",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/338/"
+    },
+    {
+      "text": "CEN 199",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+    },
+    {
+      "text": "LNG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+    },
+    {
+      "text": "LNG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+    },
+    {
+      "text": "LNG 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+    },
+    {
+      "text": "LNG 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+    },
+    {
+      "text": "ENG 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/340/"
+    },
+    {
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "AER 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+    },
+    {
+      "text": "ASC 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+    },
+    {
+      "text": "BLG 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "CHY 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+    },
+    {
+      "text": "MEC 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "PCS 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+    },
+    {
+      "text": "PCS 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+    },
+    {
+      "text": "BLG 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+    },
+    {
+      "text": "BLG 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+    },
+    {
+      "text": "BLG 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+    },
+    {
+      "text": "CHY 583",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+    },
+    {
+      "text": "CHY 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/599/"
+    },
+    {
+      "text": "CPS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+    },
+    {
+      "text": "ELE 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "PCS 581",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/581/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CEN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/100/"
+    },
+    {
+      "text": "ECN 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+    },
+    {
+      "text": "CHE 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/204/"
+    },
+    {
+      "text": "CHE 217",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/217/"
+    },
+    {
+      "text": "CHY 224",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/224/"
+    },
+    {
+      "text": "EES 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/512/"
+    },
+    {
+      "text": "MTH 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/425/"
+    },
+    {
+      "text": "CHE 215",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/215/"
+    },
+    {
+      "text": "CHE 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/220/"
+    },
+    {
+      "text": "CHY 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/203/"
+    },
+    {
+      "text": "CMN 432",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/432/"
+    },
+    {
+      "text": "CHE 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/307/"
+    },
+    {
+      "text": "CHE 318",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/318/"
+    },
+    {
+      "text": "CHE 331",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/331/"
+    },
+    {
+      "text": "ENG 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+    },
+    {
+      "text": "GEO 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/702/"
+    },
+    {
+      "text": "HST 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/701/"
+    },
+    {
+      "text": "PHL 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/709/"
+    },
+    {
+      "text": "POL 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/507/"
+    },
+    {
+      "text": "CHE 309",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/309/"
+    },
+    {
+      "text": "CHE 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/315/"
+    },
+    {
+      "text": "CHE 617",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/617/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/"
+    },
+    {
+      "text": "CHE 44A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/44A/"
+    },
+    {
+      "text": "CHE 413",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/413/"
+    },
+    {
+      "text": "CHE 415",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/415/"
+    },
+    {
+      "text": "CHE 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/430/"
+    },
+    {
+      "text": "CEN 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/800/"
+    },
+    {
+      "text": "WKT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/500/"
+    },
+    {
+      "text": "WKT 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/501/"
+    },
+    {
+      "text": "WKT 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/601/"
+    },
+    {
+      "text": "WKT 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/602/"
+    },
+    {
+      "text": "Academic Standings (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/academic-information/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Chemical Engineering Co-operative Program"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Engineering and Architectural Science",
+      "links": [
+        {
+          "text": "Faculty of Engineering and Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Engineering (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Chemical Engineering",
+      "links": [
+        {
+          "text": "Department of Chemical Engineering",
+          "url": "https://www.torontomu.ca/content/ryerson/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U courses in: English, Advanced Functions (MHF4U), Calculus and Vectors (MCV4U), Physics (SPH4U) and Chemistry (SCH4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "text",
+      "text": "The Chemical Engineering BEng Co-operative degree program is accredited by the Canadian Engineering Accreditation Board."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "The Department offers a mandatory co-operative (co-op) program, which provides the graduating chemical engineering student with up to 16 months of co-op work experience that helps enhance their organizational competence and technical abilities as well as oral and written communication skills. In addition, the co-op component enables students to earn competitive wages to partially offset their education costs. Students must successfully complete three work terms. The Department and the Career, Co-op & Student Success Centre Office of Co-operative Education (opens in new window) provide training and counseling to students in obtaining co-op positions. The first two years of the program focus on basic sciences, and include introductory courses in chemical engineering.",
+      "links": [
+        {
+          "text": "Career, Co-op & Student Success Centre Office of Co-operative Education (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The third and fourth years of the academic program give students the opportunity to study chemical engineering in depth and to apply this knowledge to process design applications. Computer applications in chemical engineering are emphasized throughout the curriculum. Students can take specialized elective courses to broaden their knowledge in the chemical and related engineering fields. These courses include Food Process Engineering, Water and Wastewater Treatment, Resource Recovery from Waste and Circular Economy, Air Pollution and Control, Hydrogen and Fuel Cell Technologies, Pharmaceutical Technology and Processing, Artificial Intelligence in Chemical Engineering, and Plastics Technology."
+    },
+    {
+      "kind": "text",
+      "text": "The program fosters the development of soft skills, organizational competency, and effective communication. The laboratory courses offer practical learning experience on important chemical engineering topics. The co-op component of the program provides enhanced experiential learning experience to students in the chemical engineering profession. During co-op placements, students work under the supervision of trained engineers, or other skilled professionals to gain valuable work experience in diverse several settings. This experience gives them a cutting edge over students in other non-co-op programs when it comes to securing regular employment."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "The Bachelor of Engineering (Chemical Engineering Co-operative) program prepares students for careers in a variety of fields, including renewable energy, oil and gas, petrochemicals, pulp and paper, food processing, pharmaceuticals, polymers and plastics, and government research and testing laboratories. Opportunities include plant operations, product development, research, quality control, and technical sales and service as well as work in the environmental field. After gaining experience, graduates may assume management responsibilities. Some graduates continue with post-graduate studies."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transition Programs"
+    },
+    {
+      "kind": "text",
+      "text": "First Year Transition Program: The objective of the first year transition program (opens in new window) is to provide students, who may need more time to adapt to the demanding university curriculum, with an immediate opportunity to upgrade their Academic Standing. In the second semester, Phase I of the transition program offers all first semester core courses: CHY 102 , MTH 140 , MTH 141 , and PCS 211 in parallel with the second semester regular program courses. Students who have failed and/or are missing any one of these courses at the end of the first semester are required to upgrade their Academic Standing through enrolling in the transition program. During the condensed Spring semester (May-July) Phase II of the transition program offers all second semester core courses: AER 222 , BME 100 , CHE 200 , CHY 211 , CPS 125 , CPS 188 , CVL 207 , ELE 202 , MEC 222 , MTH 240 , MTL 200 , and PCS 125 . These courses represent a repeat of the second semester regular program courses that were not taken by students enrolled in Phase I of the transition program. These courses will be offered subject to adequate enrolment.",
+      "links": [
+        {
+          "text": "first year transition program (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/students/current/transition/"
+        },
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        },
+        {
+          "text": "MTH 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+        },
+        {
+          "text": "MTH 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+        },
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        },
+        {
+          "text": "AER 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/222/"
+        },
+        {
+          "text": "BME 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-engineering/BME/100/"
+        },
+        {
+          "text": "CHE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+        },
+        {
+          "text": "CHY 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+        },
+        {
+          "text": "CPS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+        },
+        {
+          "text": "CPS 188",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/188/"
+        },
+        {
+          "text": "CVL 207",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/civil-engineering/CVL/207/"
+        },
+        {
+          "text": "ELE 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/202/"
+        },
+        {
+          "text": "MEC 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/222/"
+        },
+        {
+          "text": "MTH 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+        },
+        {
+          "text": "MTL 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MTL/200/"
+        },
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Second and Third Year Transition Program: The second year transition program is intended to help students who have failed the second year course CHE 214 (provided that the student has passed the laboratory portion of CHE 214 ) to stay in-phase with their classmates and still have a chance to be promoted to third year in the following academic year. This is accomplished by allowing such students to enrol in CHE 214 in the Transition Program; this course will be offered subject to adequate enrolment. The third year transition program is intended to help students who have failed or dropped the third year courses CHE 308 and/or CHE 312 and/or CHE 319 and/or CHE 338 to continue their studies in the sixth and seventh semesters. This is accomplished by allowing such students to enrol in CHE 308 and/or CHE 312 and/or CHE 319 and/or CHE 338 in the Transition Program; these courses will be offered subject to adequate enrolment.",
+      "links": [
+        {
+          "text": "CHE 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/214/"
+        },
+        {
+          "text": "CHE 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/214/"
+        },
+        {
+          "text": "CHE 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/214/"
+        },
+        {
+          "text": "CHE 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/308/"
+        },
+        {
+          "text": "CHE 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/312/"
+        },
+        {
+          "text": "CHE 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/319/"
+        },
+        {
+          "text": "CHE 338",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/338/"
+        },
+        {
+          "text": "CHE 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/308/"
+        },
+        {
+          "text": "CHE 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/312/"
+        },
+        {
+          "text": "CHE 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/319/"
+        },
+        {
+          "text": "CHE 338",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/338/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Early Intervention Program"
+    },
+    {
+      "kind": "text",
+      "text": "Highly innovative and proactive retention strategies play an important role in helping students build the skills for success in a demanding engineering curriculum. Through the First-Year Engineering Office (opens in new window) , the Faculty of Engineering and Architectural Science has incorporated the Early Intervention Program into the first-year engineering experience. At the semester's mid-point, students who are failing courses in their core curriculum are identified and encouraged to attend an interview with a member of our academic support team (Program Director/Academic Advisor and/or the Student Counsellor). Together, they discuss options to help reduce the chances of academic failure.",
+      "links": [
+        {
+          "text": "First-Year Engineering Office (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/feas/fyeo/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Writing Skills Resource Path"
+    },
+    {
+      "kind": "text",
+      "text": "All new engineering students are automatically enrolled in CEN 199 : Writing Skills.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CEN 199 is graded on a Pass/Fail basis, and is used to track the results of the Writing Skills Test (WST).",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All students admitted into engineering are required to write the mandatory Writing Skills Test (WST) during Orientation Week. Students who pass the WST (by achieving a grade of ‘B' or higher) will receive a PASS in CEN 199 and therefore may enrol in the lower level liberal studies course of their choice (subject to availability).",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who do not pass the WST will receive an INP (In Progress Grade) in CEN 199 and will be required to enrol in one of LNG 111 , LNG 112 , LNG 113 , or LNG 121 as their first-year lower level liberal studies course. These courses, which count toward lower level liberal studies requirements, are writing-intensive humanities and social science courses designed to give students the opportunity to strengthen their foundations in communication. These students will then have three additional opportunities to write and pass the WST:",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        },
+        {
+          "text": "LNG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/111/"
+        },
+        {
+          "text": "LNG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/112/"
+        },
+        {
+          "text": "LNG 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/113/"
+        },
+        {
+          "text": "LNG 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/language/LNG/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "In May, following 2nd Semester."
+    },
+    {
+      "kind": "list_item",
+      "text": "During Orientation Week before 3rd Semester."
+    },
+    {
+      "kind": "list_item",
+      "text": "In May, following 4th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "A PASS in CEN 199 : Writing Skills is required to enrol in all third-year engineering courses. Students with a grade of INP in CEN 199 will not be allowed to enrol in any third-year engineering course.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        },
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Detailed information is available from the First-Year Engineering Office (opens in new window) . Room ENG 340 -A Telephone: 416-979-5000 ext. 554502.",
+      "links": [
+        {
+          "text": "First-Year Engineering Office (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/first-year-engineering-office/"
+        },
+        {
+          "text": "ENG 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/340/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)"
+    },
+    {
+      "kind": "text",
+      "text": "This option provides students with a solid foundation in innovation and entrepreneurship theory as well as the immersive experience of advancing and shaping an idea into a business. The lecture courses cover principles of engineering economics, entrepreneurship and innovation management, and technology based new venture creation. The practicum will guide students through the process of identifying a new business concept, developing their technology, and preparing their business for market readiness. For eligibility, registration and course information see Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Engineering Innovation and Entrepreneurship (OS EIE)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/engineering_innovation/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance, and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Engineering Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Applicants approved into an Engineering program cannot expect to receive any transfer credits in Engineering discipline or Engineering related discipline courses if their applicable post-secondary education was not completed at a program accredited by the Canadian Engineering Accreditation Board (external link, opens in new window) (CEAB).",
+      "links": [
+        {
+          "text": "Canadian Engineering Accreditation Board (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/accreditation/accredited-programs"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Core and professional engineering course transfer credits will ONLY be granted at the time of admission. An Offer of Admission will notify the applicant of transfer credit decision(s) subject to acceptance of their Offer."
+    },
+    {
+      "kind": "text",
+      "text": "Liberal studies discipline courses taken at CEAB accredited or non-accredited schools will be considered for either lower- or upper-level liberal studies transfer credit. College courses, in general, are not eligible for transfer credit except in the case of lower-level liberal studies courses."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take two lower level liberal studies courses and two upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, Mechatronics, and Undeclared Engineering"
+    },
+    {
+      "kind": "text",
+      "text": "AER 150 , ASC 120 , BLG 181 , BMS 150 , CHY 182 , CHY 183 , MEC 110 , PCS 111 , PCS 181 , PCS 182 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "AER 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/aerospace/AER/150/"
+        },
+        {
+          "text": "ASC 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/120/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        },
+        {
+          "text": "MEC 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mechanical-engineering/MEC/110/"
+        },
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "PCS 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/181/"
+        },
+        {
+          "text": "PCS 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/182/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "BLG 599 , BLG 699 , BLG 850 , CHY 583 , CHY 599 , CPS 650 , ELE 900 , MTH 511 , MTH 599 and PCS 581 are not available for credit.",
+      "links": [
+        {
+          "text": "BLG 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+        },
+        {
+          "text": "BLG 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+        },
+        {
+          "text": "BLG 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+        },
+        {
+          "text": "CHY 583",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+        },
+        {
+          "text": "CHY 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/599/"
+        },
+        {
+          "text": "CPS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/650/"
+        },
+        {
+          "text": "ELE 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/900/"
+        },
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        },
+        {
+          "text": "PCS 581",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/581/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Accelerated Master of Applied Science (MASc) Pathway"
+    },
+    {
+      "kind": "text",
+      "text": "The Accelerated Master of Applied Science (MASc) Pathway is open to undergraduate engineering students who have demonstrated academic excellence and/or research potential by the end of the third year of their undergraduate program. Students can enrol in a maximum of two graduate level courses in addition to their regular undergraduate course requirements in the final year of their undergraduate program and commence their Master’s research such that the MASc program can be completed in approximately one year. The Accelerated MASc Pathway does not change the degree requirements for the existing BEng or MASc programs. For more information about and application to this pathway, please contact the Associate Dean, Graduate Studies, Faculty of Engineering and Architectural Science."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Common to Aerospace, Biomedical, Chemical, Civil, Computer, Electrical, Industrial, Mechanical, and Mechatronics Engineering programs."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 100 Introduction to Engineering",
+      "links": [
+        {
+          "text": "CEN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 199 * Writing Skills",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 102 General Chemistry",
+      "links": [
+        {
+          "text": "CHY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 140 Calculus I",
+      "links": [
+        {
+          "text": "MTH 140",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/140/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 141 Linear Algebra",
+      "links": [
+        {
+          "text": "MTH 141",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/141/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 211 Physics: Mechanics",
+      "links": [
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 200 Chemical Engineering Fundamentals",
+      "links": [
+        {
+          "text": "CHE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 211 General Chemistry Laboratory",
+      "links": [
+        {
+          "text": "CHY 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/211/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 125 Digital Computation and Programming",
+      "links": [
+        {
+          "text": "CPS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 801 Principles of Engineering Economics",
+      "links": [
+        {
+          "text": "ECN 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 240 Calculus II",
+      "links": [
+        {
+          "text": "MTH 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 125 Physics: Waves and Fields",
+      "links": [
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* CEN 199 is graded on a pass/fail basis.",
+      "links": [
+        {
+          "text": "CEN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 204 Thermodynamics I",
+      "links": [
+        {
+          "text": "CHE 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 217 Fluid Mechanics",
+      "links": [
+        {
+          "text": "CHE 217",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/217/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 224 Organic Chemistry",
+      "links": [
+        {
+          "text": "CHY 224",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/224/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EES 512 Electric Circuits",
+      "links": [
+        {
+          "text": "EES 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/EES/512/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 425 Differential Equations and Vector Calculus",
+      "links": [
+        {
+          "text": "MTH 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/425/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 214 Thermodynamics II",
+      "links": [
+        {
+          "text": "CHE 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/214/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 215 Process Measurements",
+      "links": [
+        {
+          "text": "CHE 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/215/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 220 Heat Transfer",
+      "links": [
+        {
+          "text": "CHE 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 203 Instrumental Methods of Analysis",
+      "links": [
+        {
+          "text": "CHY 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 432 Communication in the Engineering Professions",
+      "links": [
+        {
+          "text": "CMN 432",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/432/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 307 Chemical Engineering Materials",
+      "links": [
+        {
+          "text": "CHE 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 308 Mass Transfer",
+      "links": [
+        {
+          "text": "CHE 308",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/308/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 318 Separation Processes",
+      "links": [
+        {
+          "text": "CHE 318",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/318/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 331 Engineering Statistics and Probabilities",
+      "links": [
+        {
+          "text": "CHE 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 338 Chemical Engineering Computations",
+      "links": [
+        {
+          "text": "CHE 338",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/338/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 503 Science Fiction",
+      "links": [
+        {
+          "text": "ENG 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 702 Technology and the Contemporary Environment",
+      "links": [
+        {
+          "text": "GEO 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HST 701 Scientific Technology and Modern Society",
+      "links": [
+        {
+          "text": "HST 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HST/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 709 Religion, Science and Philosophy",
+      "links": [
+        {
+          "text": "PHL 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 507 Power, Change and Technology",
+      "links": [
+        {
+          "text": "POL 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/507/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 309 Introductory Bioengineering",
+      "links": [
+        {
+          "text": "CHE 309",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/309/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 312 Chemical Reaction Engineering",
+      "links": [
+        {
+          "text": "CHE 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 315 Unit Operations Laboratory I",
+      "links": [
+        {
+          "text": "CHE 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 319 Process Modeling and Simulation",
+      "links": [
+        {
+          "text": "CHE 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 617 Chemical Process Safety Loss Prevention",
+      "links": [
+        {
+          "text": "CHE 617",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/617/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: All 1st, 2nd and 3rd year required courses must be successfully completed in order to be eligible to begin the co-op placements."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins 2026-2027 to students admitted Fall 2022 and after."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 44A/B * Plant Design",
+      "links": [
+        {
+          "text": "CHE 44A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/44A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 413 Chemical Engineering Equipment Design",
+      "links": [
+        {
+          "text": "CHE 413",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/413/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 415 Unit Operations Laboratory II",
+      "links": [
+        {
+          "text": "CHE 415",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/415/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 430 Process Control",
+      "links": [
+        {
+          "text": "CHE 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/430/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 800 Law and Ethics in Engineering Practice",
+      "links": [
+        {
+          "text": "CEN 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 44A/B * Plant Design",
+      "links": [
+        {
+          "text": "CHE 44A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/44A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES : One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE : Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* A multi-term course."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequencing of Academic and Work Terms",
+      "links": [
+        {
+          "text": "Sequencing of Academic and Work Terms",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Academic and Work terms"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 500",
+      "links": [
+        {
+          "text": "WKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 501",
+      "links": [
+        {
+          "text": "WKT 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 601",
+      "links": [
+        {
+          "text": "WKT 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/601/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 602",
+      "links": [
+        {
+          "text": "WKT 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/602/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete three work terms in order to graduate from the Chemical Engineering co-op program."
+    },
+    {
+      "kind": "text",
+      "text": "The co-op program requires five years to complete the degree in Chemical Engineering."
+    },
+    {
+      "kind": "text",
+      "text": "Further information about the program is available on the Department's website .",
+      "links": [
+        {
+          "text": "the Department's website",
+          "url": "https://www.torontomu.ca/content/ryerson/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation",
+      "links": [
+        {
+          "text": "Academic Standing Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to the general criteria used to determine Academic Standing, students in this program must also meet the following conditions: All students in undergraduate Engineering programs have an additional condition for Clear academic standing. In addition to students needing a cumulative grade point average (CGPA) of 1.67 or higher, students also need to have a term grade point average (TGPA) of 1.33 or higher, based on at least two reported grades for that term (not including Pass, DEF, INP or AEG grades). Students who have a TGPA less than 1.33 will be given PROBATIONARY Academic Standing. Students with only one reported grade for that term will be evaluated based on CGPA only. Students with a cumulative grade point average (CGPA) less than 1.67 will be assigned a Probationary or Required to Withdraw (RTW) standing. See Academic Standings (opens in new window) for information about the process and consequences.",
+      "links": [
+        {
+          "text": "Academic Standings (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/academic-information/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Marzieh Baghi, PEng Director, Engineering and Technical Services Sofina Foods Inc."
+    },
+    {
+      "kind": "text",
+      "text": "Eric Doerr, MESc, PEng Senior Project Lead – Building 100 Manufacturing Sciences and Analytical Technology Sanofi Pasteur"
+    },
+    {
+      "kind": "text",
+      "text": "Joseph Fida Co-Founder and Chief Innovation Officer Blade Air"
+    },
+    {
+      "kind": "text",
+      "text": "Timothy Muttoo, PEng Co-founder, Chief Technology and Public Health Officer H2O4All"
+    },
+    {
+      "kind": "text",
+      "text": "Zack Sayevich, PMP, PEng Manager, Process Control Systems Unit, Toronto Water City of Toronto"
+    },
+    {
+      "kind": "text",
+      "text": "Mark Willis, PEng Production Engineer Canadian Natural Resources Ltd."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Chemical Engineering Co-operative Program"
+}

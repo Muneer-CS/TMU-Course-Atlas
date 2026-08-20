@@ -1,0 +1,1228 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/english_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d696aff5b6c7626f69f2adb554838a7e5d3da86c17b4464634c678afe3d322ee",
+  "source_bytes": 67285,
+  "title": "Minor in English",
+  "headings": [
+    "Minor in English"
+  ],
+  "course_codes_referenced": [
+    "ENG 101",
+    "ENG 104",
+    "ENG 110",
+    "ENG 112",
+    "ENG 142",
+    "ENG 200",
+    "ENG 201",
+    "ENG 203",
+    "ENG 208",
+    "ENG 212",
+    "ENG 222",
+    "ENG 223",
+    "ENG 224",
+    "ENG 230",
+    "ENG 402",
+    "ENG 409",
+    "ENG 413",
+    "ENG 416",
+    "ENG 417",
+    "ENG 421",
+    "ENG 422",
+    "ENG 503",
+    "ENG 505",
+    "ENG 510",
+    "ENG 511",
+    "ENG 515",
+    "ENG 517",
+    "ENG 520",
+    "ENG 522",
+    "ENG 529",
+    "ENG 530",
+    "ENG 531",
+    "ENG 540",
+    "ENG 548",
+    "ENG 550",
+    "ENG 560",
+    "ENG 570",
+    "ENG 580",
+    "ENG 590",
+    "ENG 602",
+    "ENG 610",
+    "ENG 611",
+    "ENG 620",
+    "ENG 621",
+    "ENG 623",
+    "ENG 624",
+    "ENG 632",
+    "ENG 634",
+    "ENG 635",
+    "ENG 640",
+    "ENG 647",
+    "ENG 650",
+    "ENG 653",
+    "ENG 680",
+    "ENG 701",
+    "ENG 703",
+    "ENG 705",
+    "ENG 706",
+    "ENG 707",
+    "ENG 710",
+    "ENG 730",
+    "ENG 921",
+    "ENG 941",
+    "ENG 942"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Arts and Contemporary Studies - English Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "English",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/"
+    },
+    {
+      "text": "English and History Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/"
+    },
+    {
+      "text": "English and Philosophy Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/"
+    },
+    {
+      "text": "ENG 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+    },
+    {
+      "text": "ENG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+    },
+    {
+      "text": "ENG 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+    },
+    {
+      "text": "ENG 112",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+    },
+    {
+      "text": "ENG 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+    },
+    {
+      "text": "ENG 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/200/"
+    },
+    {
+      "text": "ENG 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+    },
+    {
+      "text": "ENG 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+    },
+    {
+      "text": "ENG 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+    },
+    {
+      "text": "ENG 212",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+    },
+    {
+      "text": "ENG 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/222/"
+    },
+    {
+      "text": "ENG 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/223/"
+    },
+    {
+      "text": "ENG 224",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/224/"
+    },
+    {
+      "text": "ENG 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/230/"
+    },
+    {
+      "text": "ENG 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/402/"
+    },
+    {
+      "text": "ENG 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/409/"
+    },
+    {
+      "text": "ENG 413",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/413/"
+    },
+    {
+      "text": "ENG 416",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/416/"
+    },
+    {
+      "text": "ENG 417",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/417/"
+    },
+    {
+      "text": "ENG 421",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/421/"
+    },
+    {
+      "text": "ENG 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/422/"
+    },
+    {
+      "text": "ENG 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+    },
+    {
+      "text": "ENG 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/505/"
+    },
+    {
+      "text": "ENG 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/510/"
+    },
+    {
+      "text": "ENG 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/511/"
+    },
+    {
+      "text": "ENG 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/515/"
+    },
+    {
+      "text": "ENG 517",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/517/"
+    },
+    {
+      "text": "ENG 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/520/"
+    },
+    {
+      "text": "ENG 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/522/"
+    },
+    {
+      "text": "ENG 529",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/529/"
+    },
+    {
+      "text": "ENG 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/530/"
+    },
+    {
+      "text": "ENG 531",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/531/"
+    },
+    {
+      "text": "ENG 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/540/"
+    },
+    {
+      "text": "ENG 548",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/548/"
+    },
+    {
+      "text": "ENG 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/550/"
+    },
+    {
+      "text": "ENG 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/560/"
+    },
+    {
+      "text": "ENG 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/570/"
+    },
+    {
+      "text": "ENG 580",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/580/"
+    },
+    {
+      "text": "ENG 590",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/590/"
+    },
+    {
+      "text": "ENG 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+    },
+    {
+      "text": "ENG 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/610/"
+    },
+    {
+      "text": "ENG 611",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/611/"
+    },
+    {
+      "text": "ENG 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+    },
+    {
+      "text": "ENG 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+    },
+    {
+      "text": "ENG 623",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+    },
+    {
+      "text": "ENG 624",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/624/"
+    },
+    {
+      "text": "ENG 632",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/632/"
+    },
+    {
+      "text": "ENG 634",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/634/"
+    },
+    {
+      "text": "ENG 635",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/635/"
+    },
+    {
+      "text": "ENG 640",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/640/"
+    },
+    {
+      "text": "ENG 647",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+    },
+    {
+      "text": "ENG 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/650/"
+    },
+    {
+      "text": "ENG 653",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/653/"
+    },
+    {
+      "text": "ENG 680",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/680/"
+    },
+    {
+      "text": "ENG 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/701/"
+    },
+    {
+      "text": "ENG 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/703/"
+    },
+    {
+      "text": "ENG 705",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/705/"
+    },
+    {
+      "text": "ENG 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/706/"
+    },
+    {
+      "text": "ENG 707",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/707/"
+    },
+    {
+      "text": "ENG 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/710/"
+    },
+    {
+      "text": "ENG 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/730/"
+    },
+    {
+      "text": "ENG 921",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/921/"
+    },
+    {
+      "text": "ENG 941",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/941/"
+    },
+    {
+      "text": "ENG 942",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/942/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/english_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in English"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The English Minor provides students with a course of study that focuses on how to read and write critically – that is, analyze, historicize, and politicize literary and cultural texts. Understanding the complexities of texts and their influence in a variety of forms, media, time periods and cultural contexts adds depth and breadth to students' program of study and enhances their career possibilities."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of English"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Arts and Contemporary Studies - English Option",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies - English Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English",
+      "links": [
+        {
+          "text": "English",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English and History Double Major",
+      "links": [
+        {
+          "text": "English and History Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English and Philosophy Double Major",
+      "links": [
+        {
+          "text": "English and Philosophy Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Required course (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 110 Literatures Across Borders",
+      "links": [
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus five (5) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 101 Laughter and Tears: Comedy and Tragedy",
+      "links": [
+        {
+          "text": "ENG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 104 The Short Story",
+      "links": [
+        {
+          "text": "ENG 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 112 Zap, Pow, Bang: Pop Lit",
+      "links": [
+        {
+          "text": "ENG 112",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/112/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 142 Black Arts, Black Power",
+      "links": [
+        {
+          "text": "ENG 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 200 Writing as a Cultural Act",
+      "links": [
+        {
+          "text": "ENG 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 201 Myth and Literature",
+      "links": [
+        {
+          "text": "ENG 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 203 The Literature of Indigenous Peoples",
+      "links": [
+        {
+          "text": "ENG 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 208 Introduction to Non-Fiction",
+      "links": [
+        {
+          "text": "ENG 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 212 Cultures in Crisis",
+      "links": [
+        {
+          "text": "ENG 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/212/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 222 Fairy Tales and Fantasies",
+      "links": [
+        {
+          "text": "ENG 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 223 Literatures of Exile and Migration",
+      "links": [
+        {
+          "text": "ENG 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 224 Children's Literature",
+      "links": [
+        {
+          "text": "ENG 224",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/224/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 230 Creativity, Writing and Everyday Life",
+      "links": [
+        {
+          "text": "ENG 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 402 Comics",
+      "links": [
+        {
+          "text": "ENG 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 409 Literatures of the City",
+      "links": [
+        {
+          "text": "ENG 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 413 Literature, Empire, and Colonization",
+      "links": [
+        {
+          "text": "ENG 413",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/413/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 416 American Literatures",
+      "links": [
+        {
+          "text": "ENG 416",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/416/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 417 Special Topics in American Literatures",
+      "links": [
+        {
+          "text": "ENG 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/417/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 421 16C Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/421/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 422 17C Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 503 Science Fiction",
+      "links": [
+        {
+          "text": "ENG 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 505 Creative Writing",
+      "links": [
+        {
+          "text": "ENG 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 510 Gothic Horror",
+      "links": [
+        {
+          "text": "ENG 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 511 The Art of Writing Life",
+      "links": [
+        {
+          "text": "ENG 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 515 Madness in Fiction",
+      "links": [
+        {
+          "text": "ENG 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 517 Techniques and Topics in Creative Writing",
+      "links": [
+        {
+          "text": "ENG 517",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/517/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 520 The Language of Persuasion",
+      "links": [
+        {
+          "text": "ENG 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 522 Crime Fiction",
+      "links": [
+        {
+          "text": "ENG 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 529 Controversies in Public Discourse",
+      "links": [
+        {
+          "text": "ENG 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 530 Literary Non-Fiction",
+      "links": [
+        {
+          "text": "ENG 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 531 18C Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 531",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/531/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 540 The Novel",
+      "links": [
+        {
+          "text": "ENG 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 548 Parenting, Media, and Culture",
+      "links": [
+        {
+          "text": "ENG 548",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/548/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 550 Drama",
+      "links": [
+        {
+          "text": "ENG 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 560 Poetry and Poetics",
+      "links": [
+        {
+          "text": "ENG 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 570 Auto/Biography",
+      "links": [
+        {
+          "text": "ENG 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 580 The Gothic",
+      "links": [
+        {
+          "text": "ENG 580",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/580/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 590 Studies in Word and Image",
+      "links": [
+        {
+          "text": "ENG 590",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/590/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 602 Women's Writing",
+      "links": [
+        {
+          "text": "ENG 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/602/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 610 The Language of Love, Sex, and Gender",
+      "links": [
+        {
+          "text": "ENG 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 611 Film and Literature",
+      "links": [
+        {
+          "text": "ENG 611",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/611/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 620 Literatures of the Caribbean",
+      "links": [
+        {
+          "text": "ENG 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 621 Women's Texts, Global Contexts",
+      "links": [
+        {
+          "text": "ENG 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 623 Film/Literature: Middle East, North Africa",
+      "links": [
+        {
+          "text": "ENG 623",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/623/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 624 20C Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 624",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/624/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 632 19C Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 632",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/632/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 634 Romantic Explorations",
+      "links": [
+        {
+          "text": "ENG 634",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/634/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 635 Modernism",
+      "links": [
+        {
+          "text": "ENG 635",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/635/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 640 Literatures of Asia and its Diasporas",
+      "links": [
+        {
+          "text": "ENG 640",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/640/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 647 Afrofuturism: Black 2 the Future",
+      "links": [
+        {
+          "text": "ENG 647",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/647/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 650 Indigenous World View",
+      "links": [
+        {
+          "text": "ENG 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 653 Black Literatures and Cultures",
+      "links": [
+        {
+          "text": "ENG 653",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/653/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 680 The Art of Oral Storytelling",
+      "links": [
+        {
+          "text": "ENG 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 701 Canadian Literatures",
+      "links": [
+        {
+          "text": "ENG 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 703 Popular Literatures",
+      "links": [
+        {
+          "text": "ENG 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 705 Studies in Visual Cultures",
+      "links": [
+        {
+          "text": "ENG 705",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/705/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 706 Shakespeare and Performance",
+      "links": [
+        {
+          "text": "ENG 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 707 Shakespeare and His World",
+      "links": [
+        {
+          "text": "ENG 707",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/707/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 710 Special Topics in Canadian Literatures",
+      "links": [
+        {
+          "text": "ENG 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 730 Cultures of the Book",
+      "links": [
+        {
+          "text": "ENG 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 921 Storytelling in the Algorithmic Age",
+      "links": [
+        {
+          "text": "ENG 921",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/921/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 941 Gender and Sex in Literature and Culture",
+      "links": [
+        {
+          "text": "ENG 941",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/941/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 942 Decolonizing Literature",
+      "links": [
+        {
+          "text": "ENG 942",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/942/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "English"
+}

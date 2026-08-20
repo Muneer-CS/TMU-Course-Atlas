@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Faculty of Arts",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/"
+  },
+  {
+    "name": "Arts and Contemporary Studies Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/required_group_1_table_i/"
+  },
+  {
+    "name": "Arts and Contemporary Studies Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_i/"
+  },
+  {
+    "name": "Arts and Contemporary Studies - Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_ii/"
+  },
+  {
+    "name": "Arts and Contemporary Studies - Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/table_iii/"
+  },
+  {
+    "name": "Criminology Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology/table_i/"
+  },
+  {
+    "name": "Criminology Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology/table_ii/"
+  },
+  {
+    "name": "Criminology and History Required Group I Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/table_i/"
+  },
+  {
+    "name": "Criminology and History Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_history/table_ii/"
+  },
+  {
+    "name": "Criminology and Politics Governance Required Group I Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/table_i/"
+  },
+  {
+    "name": "Criminology and Politics and Governance Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_politics_governance/table_ii/"
+  },
+  {
+    "name": "Criminology and Sociology Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_sociology/table_i/"
+  },
+  {
+    "name": "Criminology and Sociology Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/criminology_sociology/table_ii/"
+  },
+  {
+    "name": "Economics and Finance Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/economics/table_i/"
+  },
+  {
+    "name": "Economics and Finance Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/economics/table_ii/"
+  },
+  {
+    "name": "English Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/table_i/"
+  },
+  {
+    "name": "English Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english/table_ii/"
+  },
+  {
+    "name": "English and History Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/table_i/"
+  },
+  {
+    "name": "English and History Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_history/table_ii/"
+  },
+  {
+    "name": "English and Philosophy Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/table_i/"
+  },
+  {
+    "name": "English and Philosophy Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/table_ii/"
+  },
+  {
+    "name": "Environmental and Urban Sustainability Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_i/"
+  },
+  {
+    "name": "Environmental and Urban Sustainability Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+  },
+  {
+    "name": "Geographic Analysis Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_i/"
+  },
+  {
+    "name": "Geographic Analysis Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/geographic/table_ii/"
+  },
+  {
+    "name": "History Required Group 2 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/table_i/"
+  },
+  {
+    "name": "History Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history/table_ii/"
+  },
+  {
+    "name": "History and Philosophy Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/table_i/"
+  },
+  {
+    "name": "History and Philosophy Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/table_ii/"
+  },
+  {
+    "name": "History Politics and Governance Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/table_i/"
+  },
+  {
+    "name": "History Politics and Governance Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_politics_governance/table_ii/"
+  },
+  {
+    "name": "History and Sociology Double Major Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/table_i/"
+  },
+  {
+    "name": "History and Sociology Double Major Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_sociology/table_ii/"
+  },
+  {
+    "name": "Language and Intercultural Relations Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_i/"
+  },
+  {
+    "name": "Language and Intercultural Relations Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_ii/"
+  },
+  {
+    "name": "Language and Intercultural Relations Core Elective Table V",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/language/table_v/"
+  },
+  {
+    "name": "Philosophy Required Group 2 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/table_i/"
+  },
+  {
+    "name": "Philosophy Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/table_ii/"
+  },
+  {
+    "name": "Politics and Governance Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/table_i/"
+  },
+  {
+    "name": "Politics and Governance Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics/table_ii/"
+  },
+  {
+    "name": "Politics and Governance Sociology Double Major Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/table_i/"
+  },
+  {
+    "name": "Politics and Governance Sociology Double Major Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/politics_gov_sociology/table_ii/"
+  },
+  {
+    "name": "Psychology Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/table_i/"
+  },
+  {
+    "name": "Psychology Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/psychology/table_ii/"
+  },
+  {
+    "name": "Sociology Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_i/"
+  },
+  {
+    "name": "Sociology Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/sociology/table_ii/"
+  },
+  {
+    "name": "Table I - Arts",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/Common_table_i/"
+  },
+  {
+    "name": "Undeclared Arts Required Group 1 - Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/table_i/"
+  },
+  {
+    "name": "Undeclared Arts Transferability Guidelines",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/undeclared_arts/transferability-guidelines/"
+  },
+  {
+    "name": "Co-operative Education at Toronto Met",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/co-op_education/"
+  },
+  {
+    "name": "Faculty of Community Services",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+  },
+  {
+    "name": "Child and Youth Care Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/child_youth/table_ii/"
+  },
+  {
+    "name": "Disability Studies Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/disability_studies/disability_core_elective_i/"
+  },
+  {
+    "name": "Early Childhood Studies Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/early_child/table_ii/"
+  },
+  {
+    "name": "Nutrition and Food Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/table_i_ii_open/"
+  },
+  {
+    "name": "Urban and Regional Planning Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/table_i/"
+  },
+  {
+    "name": "Urban and Regional Planning Core Elective Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/planning/table_iii/"
+  },
+  {
+    "name": "Public Health Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/publichealth/pubhealth_core_tablei/"
+  },
+  {
+    "name": "Social Work Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/"
+  },
+  {
+    "name": "The Creative School",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+  },
+  {
+    "name": "Creative Industries Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_i/"
+  },
+  {
+    "name": "Creative Industries Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+  },
+  {
+    "name": "Fashion Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/core_table_i/"
+  },
+  {
+    "name": "Fashion Core Elective Table II and III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/core_table_ii_iii/"
+  },
+  {
+    "name": "The Creative School Core Elective Table",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/core_elective_table/"
+  },
+  {
+    "name": "Graphic Communications Management Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/gcm/table_i/"
+  },
+  {
+    "name": "Film Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/film-table-i/"
+  },
+  {
+    "name": "Photography Media Arts Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/photomedia_table_i/"
+  },
+  {
+    "name": "Image Arts Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_i/"
+  },
+  {
+    "name": "Image Arts Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/image_arts/table_ii/"
+  },
+  {
+    "name": "Interior Design Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/interior/table_i/"
+  },
+  {
+    "name": "Journalism Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/journalism/table_i/"
+  },
+  {
+    "name": "Journalism Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/journalism/table_ii/"
+  },
+  {
+    "name": "Journalism Core Elective Table IV",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/journalism/table_iv/"
+  },
+  {
+    "name": "Media Production Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/media/table_i/"
+  },
+  {
+    "name": "RTA-NMA Course Code Conversion Chart",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/"
+  },
+  {
+    "name": "New Media Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+  },
+  {
+    "name": "Performance: Acting Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/acting_core_elective_table_i/"
+  },
+  {
+    "name": "Professional Table I - Performance: Acting/Dance",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/acting_dance_table_i/"
+  },
+  {
+    "name": "Professionally-Related Table II - Performance: Acting/Dance",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/acting_dance_table_ii/"
+  },
+  {
+    "name": "Performance: Dance Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/dance_core_elective_tablei/"
+  },
+  {
+    "name": "Performance: Design and Production Core Elective Table I and II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/design_production_core_elective_table_i_ii/"
+  },
+  {
+    "name": "Professional Table I - Performance Production",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/production_table_i/"
+  },
+  {
+    "name": "Professionally-Related Table II- Performance Production",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/production_table_ii/"
+  },
+  {
+    "name": "The Creative School Core Elective Table",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/core_electivetable/"
+  },
+  {
+    "name": "Professional Communication Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/table_i/"
+  },
+  {
+    "name": "Creative Industries Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_i/"
+  },
+  {
+    "name": "Media Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_ii/"
+  },
+  {
+    "name": "Performance Elective Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iii/"
+  },
+  {
+    "name": "Music Elective Table IV",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_iv/"
+  },
+  {
+    "name": "Business Core Elective Table V",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/professional_music/table_v/"
+  },
+  {
+    "name": "Sport Media Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/sport_media/table_i/"
+  },
+  {
+    "name": "Faculty of Engineering and Architectural Science",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/"
+  },
+  {
+    "name": "Core Studio Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_II/"
+  },
+  {
+    "name": "Core Elective Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_iii/"
+  },
+  {
+    "name": "Chemical Engineering Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/"
+  },
+  {
+    "name": "Computer Engineering Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_i/"
+  },
+  {
+    "name": "Computer Engineering Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_ii/"
+  },
+  {
+    "name": "Computer Engineering Core Elective Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_iii/"
+  },
+  {
+    "name": "Computer Engineering Core Elective Table IV",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_iv/"
+  },
+  {
+    "name": "Electrical Engineering Core Elective Tables I and II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/electrical/professional_table/"
+  },
+  {
+    "name": "Faculty of Science",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+  },
+  {
+    "name": "Biology Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+  },
+  {
+    "name": "Biology Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_ii/"
+  },
+  {
+    "name": "Biology Core Elective Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_iii/"
+  },
+  {
+    "name": "Biology Core Elective Table V",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_v1/"
+  },
+  {
+    "name": "Biomedical Sciences Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biomedical_sci/table_i/"
+  },
+  {
+    "name": "Chemistry Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/table_i1/"
+  },
+  {
+    "name": "Chemistry Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/table_ii1/"
+  },
+  {
+    "name": "Computer Science Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/computer_sci/table_i/"
+  },
+  {
+    "name": "Cyber Science Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/"
+  },
+  {
+    "name": "Mathematics Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_i/"
+  },
+  {
+    "name": "Mathematics Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_ii/"
+  },
+  {
+    "name": "Mathematics Core Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/mathematics/math_table_iii/"
+  },
+  {
+    "name": "Medical Physics Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/"
+  },
+  {
+    "name": "Undeclared Science (First Year Studies Only)",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/undeclared_science/"
+  },
+  {
+    "name": "Ted Rogers School of Management",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+  },
+  {
+    "name": "Accounting and Finance Core Elective Table II",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/table_ii/"
+  },
+  {
+    "name": "Accounting and Finance Core Elective Table III",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/table_iii/"
+  },
+  {
+    "name": "Business Management - Economics and Management Science Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/economics_management_science_major/"
+  },
+  {
+    "name": "Business Management - Entrepreneurship and Innovation Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/entrepreneurship_major/"
+  },
+  {
+    "name": "Business Management - Global Management Studies Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/global_management_studies_major/"
+  },
+  {
+    "name": "Business Management - Health Services Management Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/health_services_management_major/"
+  },
+  {
+    "name": "Business Management - Human Resources Management Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/human_resources_management_major/"
+  },
+  {
+    "name": "Business Management - Law and Business Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/law_business_major/"
+  },
+  {
+    "name": "Business Management - Marketing Management Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/marketing_management_major/"
+  },
+  {
+    "name": "Business Management - Real Estate Management Major",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+  },
+  {
+    "name": "Business Technology Management Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_tech/table_i/"
+  },
+  {
+    "name": "Hospitality and Tourism Management Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/hospitality/table_i/"
+  },
+  {
+    "name": "Retail Management Core Elective Table I",
+    "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/retail/table_i/"
+  }
+]

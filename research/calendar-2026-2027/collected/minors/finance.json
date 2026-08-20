@@ -1,0 +1,511 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/finance_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "3149f513c57e0c2cf23b3b59df1800d0cd2ed33ef7dd7a01f5fbec1dcadd9d2b",
+  "source_bytes": 58954,
+  "title": "Minor in Finance",
+  "headings": [
+    "Minor in Finance"
+  ],
+  "course_codes_referenced": [
+    "ECN 506",
+    "ECN 606",
+    "FIN 205",
+    "FIN 300",
+    "FIN 401",
+    "FIN 501",
+    "FIN 502",
+    "FIN 510",
+    "FIN 512",
+    "FIN 601",
+    "FIN 611",
+    "FIN 612",
+    "FIN 621",
+    "FIN 631",
+    "FIN 650",
+    "FIN 699",
+    "FIN 701",
+    "FIN 710",
+    "FIN 711",
+    "FIN 750",
+    "FIN 800",
+    "FIN 801",
+    "FIN 812",
+    "HTA 602",
+    "INP 915",
+    "PPA 303",
+    "REM 400"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Accounting and Finance - all majors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+    },
+    {
+      "text": "Financial Mathematics",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/financial_math/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "FIN 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/501/"
+    },
+    {
+      "text": "FIN 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/502/"
+    },
+    {
+      "text": "ECN 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+    },
+    {
+      "text": "ECN 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+    },
+    {
+      "text": "FIN 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/650/"
+    },
+    {
+      "text": "FIN 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/750/"
+    },
+    {
+      "text": "FIN 205",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/205/"
+    },
+    {
+      "text": "FIN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/510/"
+    },
+    {
+      "text": "FIN 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/512/"
+    },
+    {
+      "text": "FIN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/601/"
+    },
+    {
+      "text": "FIN 611",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/611/"
+    },
+    {
+      "text": "FIN 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/612/"
+    },
+    {
+      "text": "FIN 621",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/621/"
+    },
+    {
+      "text": "FIN 631",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/631/"
+    },
+    {
+      "text": "FIN 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/699/"
+    },
+    {
+      "text": "FIN 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/701/"
+    },
+    {
+      "text": "FIN 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/710/"
+    },
+    {
+      "text": "FIN 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/711/"
+    },
+    {
+      "text": "FIN 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/800/"
+    },
+    {
+      "text": "FIN 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/801/"
+    },
+    {
+      "text": "FIN 812",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/812/"
+    },
+    {
+      "text": "INP 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nonprofit/INP/915/"
+    },
+    {
+      "text": "PPA 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/303/"
+    },
+    {
+      "text": "REM 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+    },
+    {
+      "text": "HTA 602",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTA/602/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Finance"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Finance Minor will help to prepare students for careers in financial institutions and business."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Accounting and Finance at the Ted Rogers School of Management"
+    },
+    {
+      "kind": "text",
+      "text": "Students that have completed AFF courses and are no longer registered in the School of Accounting and Finance may use certain AFF courses in place of FIN courses, if applicable and approved by the department, for the completion of the Minor."
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Accounting and Finance - all majors",
+      "links": [
+        {
+          "text": "Accounting and Finance - all majors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/accounting_finance/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Financial Mathematics",
+      "links": [
+        {
+          "text": "Financial Mathematics",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/financial_math/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (4):"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 * Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 501 Investment Analysis",
+      "links": [
+        {
+          "text": "FIN 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 502 Personal Financial Planning",
+      "links": [
+        {
+          "text": "FIN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus two (2) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 506 Money and Banking",
+      "links": [
+        {
+          "text": "ECN 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/506/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 606 International Monetary Economics",
+      "links": [
+        {
+          "text": "ECN 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/606/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 650 Applied Investment Management I",
+      "links": [
+        {
+          "text": "FIN 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 750 Applied Investment Management II",
+      "links": [
+        {
+          "text": "FIN 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 205 Islamic Finance",
+      "links": [
+        {
+          "text": "FIN 205",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/205/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 510 Small Business Finance",
+      "links": [
+        {
+          "text": "FIN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 512 Risk Management and Insurance",
+      "links": [
+        {
+          "text": "FIN 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/512/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 601 Derivatives",
+      "links": [
+        {
+          "text": "FIN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 611 Fixed Income Securities",
+      "links": [
+        {
+          "text": "FIN 611",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/611/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 612 Retirement and Estate Planning",
+      "links": [
+        {
+          "text": "FIN 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 621 International Finance",
+      "links": [
+        {
+          "text": "FIN 621",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/621/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 631 Financial Modeling I",
+      "links": [
+        {
+          "text": "FIN 631",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/631/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 699 Introduction to FinTEch",
+      "links": [
+        {
+          "text": "FIN 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/699/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 701 Financial Intermediation",
+      "links": [
+        {
+          "text": "FIN 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 710 Advanced Corporate Finance",
+      "links": [
+        {
+          "text": "FIN 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 711 Advanced Portfolio Management",
+      "links": [
+        {
+          "text": "FIN 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 800 Ethics in Finance",
+      "links": [
+        {
+          "text": "FIN 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 801 Financial Risk Management",
+      "links": [
+        {
+          "text": "FIN 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 812 Advanced Personal Financial Planning",
+      "links": [
+        {
+          "text": "FIN 812",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/812/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INP 915 Financial Management for Nonprofits",
+      "links": [
+        {
+          "text": "INP 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nonprofit/INP/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPA 303 Public Budget Policy/Politics",
+      "links": [
+        {
+          "text": "PPA 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/PPA/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Hospitality and Tourism Management students will take HTA 602 Financial Management for Hosp/Tourism in place of FIN 300 .",
+      "links": [
+        {
+          "text": "HTA 602",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTA/602/"
+        },
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Finance"
+}

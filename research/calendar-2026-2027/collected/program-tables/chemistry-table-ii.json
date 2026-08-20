@@ -1,0 +1,328 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/table_ii1/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "62840dcf1ffa160f2d02394f74104c33e0171e952cce5d0c05e93dc4d7342c2f",
+  "source_bytes": 51615,
+  "title": "Chemistry Core Elective Table II",
+  "headings": [
+    "Chemistry Core Elective Table II"
+  ],
+  "course_codes_referenced": [
+    "BLG 311",
+    "CHY 213",
+    "CHY 223",
+    "CHY 330",
+    "CHY 331",
+    "CHY 434",
+    "CHY 435",
+    "CHY 445",
+    "CHY 449",
+    "CHY 600",
+    "PCS 227",
+    "PCS 229",
+    "PCS 350",
+    "PCS 352",
+    "PCS 354",
+    "PCS 405",
+    "PCS 510",
+    "PCS 724"
+  ],
+  "official_links": [
+    {
+      "text": "Chemistry",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/"
+    },
+    {
+      "text": "BLG 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+    },
+    {
+      "text": "CHY 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/213/"
+    },
+    {
+      "text": "CHY 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/223/"
+    },
+    {
+      "text": "CHY 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/330/"
+    },
+    {
+      "text": "CHY 331",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/331/"
+    },
+    {
+      "text": "CHY 40A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/40A/"
+    },
+    {
+      "text": "CHY 434",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/434/"
+    },
+    {
+      "text": "CHY 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/435/"
+    },
+    {
+      "text": "CHY 445",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/445/"
+    },
+    {
+      "text": "CHY 449",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/449/"
+    },
+    {
+      "text": "CHY 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/600/"
+    },
+    {
+      "text": "PCS 227",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+    },
+    {
+      "text": "PCS 229",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+    },
+    {
+      "text": "PCS 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+    },
+    {
+      "text": "PCS 352",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+    },
+    {
+      "text": "PCS 354",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+    },
+    {
+      "text": "PCS 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+    },
+    {
+      "text": "PCS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/510/"
+    },
+    {
+      "text": "PCS 724",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Chemistry Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Chemistry",
+      "links": [
+        {
+          "text": "Chemistry",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Applied Physics Option, Regular and Co-operative Programs: A total of six (6) courses are required for graduation."
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 213 Analytical Chemistry I",
+      "links": [
+        {
+          "text": "CHY 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 223 Analytical Chemistry II",
+      "links": [
+        {
+          "text": "CHY 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 330 Atomic and Molecular Spectroscopy",
+      "links": [
+        {
+          "text": "CHY 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 331 Basic Chromatography",
+      "links": [
+        {
+          "text": "CHY 331",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/331/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 40A/B † Research Project-Thesis",
+      "links": [
+        {
+          "text": "CHY 40A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/40A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 434 Analytical Chemistry of Complex Samples",
+      "links": [
+        {
+          "text": "CHY 434",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/434/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 435 Advanced Chemical Instrumentation",
+      "links": [
+        {
+          "text": "CHY 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/435/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 445 Materials Chemistry",
+      "links": [
+        {
+          "text": "CHY 445",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/445/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 449 Inorganic Chemistry II",
+      "links": [
+        {
+          "text": "CHY 449",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/449/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 600 Organic Reaction Mechanisms",
+      "links": [
+        {
+          "text": "CHY 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "†A Multi-term course (equivalent to two single-term courses)."
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 227 Biophysics",
+      "links": [
+        {
+          "text": "PCS 227",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 229 Introduction to Medical Physics",
+      "links": [
+        {
+          "text": "PCS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 350 Computational Methods in Medical Physics",
+      "links": [
+        {
+          "text": "PCS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 352 Nuclear Physics/Radiation Protection",
+      "links": [
+        {
+          "text": "PCS 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 354 Radiation Biology",
+      "links": [
+        {
+          "text": "PCS 354",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 405 Medical Imaging",
+      "links": [
+        {
+          "text": "PCS 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 510 Fundamentals of Astrophysics",
+      "links": [
+        {
+          "text": "PCS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 724 Condensed Matter Physics/Materials",
+      "links": [
+        {
+          "text": "PCS 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Chemistry - Table II"
+}

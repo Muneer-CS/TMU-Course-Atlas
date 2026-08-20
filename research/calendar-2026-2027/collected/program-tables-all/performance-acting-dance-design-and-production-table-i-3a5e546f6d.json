@@ -1,0 +1,507 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/production_table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "b6812997b938a7592f4f1c095f7d9160fe6b8de7fadcec9726feedc230ee7904",
+  "source_bytes": 56866,
+  "title": "Professional Table I - Performance Production",
+  "headings": [
+    "Professional Table I - Performance Production"
+  ],
+  "course_codes_referenced": [
+    "FSN 302",
+    "THM 114",
+    "THM 301",
+    "THM 303",
+    "THM 327",
+    "THM 401",
+    "THM 503",
+    "THP 312",
+    "THP 315",
+    "THP 325",
+    "THP 328",
+    "THP 333",
+    "THP 337",
+    "THP 350",
+    "THP 404",
+    "THP 422",
+    "THP 515",
+    "THP 538",
+    "THP 612",
+    "THP 648",
+    "THP 660",
+    "THP 843",
+    "THP 845",
+    "THT 318",
+    "THT 319",
+    "THT 383",
+    "THT 500",
+    "THT 582",
+    "THT 893"
+  ],
+  "official_links": [
+    {
+      "text": "Performance: Acting/Dance/Production",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/"
+    },
+    {
+      "text": "FSN 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/302/"
+    },
+    {
+      "text": "THG 32A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THG/32A/"
+    },
+    {
+      "text": "THP 325",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/325/"
+    },
+    {
+      "text": "THP 328",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/328/"
+    },
+    {
+      "text": "THP 337",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/337/"
+    },
+    {
+      "text": "THP 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/350/"
+    },
+    {
+      "text": "THP 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/422/"
+    },
+    {
+      "text": "THP 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/515/"
+    },
+    {
+      "text": "THT 383",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/383/"
+    },
+    {
+      "text": "THM 114",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/114/"
+    },
+    {
+      "text": "THM 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/301/"
+    },
+    {
+      "text": "THM 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/303/"
+    },
+    {
+      "text": "THM 327",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/327/"
+    },
+    {
+      "text": "THM 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/401/"
+    },
+    {
+      "text": "THM 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/503/"
+    },
+    {
+      "text": "THP 312",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/312/"
+    },
+    {
+      "text": "THP 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/315/"
+    },
+    {
+      "text": "THP 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/333/"
+    },
+    {
+      "text": "THP 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/404/"
+    },
+    {
+      "text": "THP 538",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/538/"
+    },
+    {
+      "text": "THP 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/612/"
+    },
+    {
+      "text": "THP 648",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/648/"
+    },
+    {
+      "text": "THP 660",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/660/"
+    },
+    {
+      "text": "THP 843",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/843/"
+    },
+    {
+      "text": "THP 845",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/845/"
+    },
+    {
+      "text": "THT 318",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/318/"
+    },
+    {
+      "text": "THT 319",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/319/"
+    },
+    {
+      "text": "THT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/500/"
+    },
+    {
+      "text": "THT 582",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/582/"
+    },
+    {
+      "text": "THT 893",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/893/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Professional Table I - Performance Production"
+    },
+    {
+      "kind": "text",
+      "text": "Performance: Acting/Dance/Production",
+      "links": [
+        {
+          "text": "Performance: Acting/Dance/Production",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2024 and before:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 302 Fashion Histories: Ancient to Pre-modern",
+      "links": [
+        {
+          "text": "FSN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THG 32A/B Staging the Theatrical Production",
+      "links": [
+        {
+          "text": "THG 32A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THG/32A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 325 Theatre Costume",
+      "links": [
+        {
+          "text": "THP 325",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/325/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 328 Scenic Construction",
+      "links": [
+        {
+          "text": "THP 328",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/328/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 337 Lighting Design",
+      "links": [
+        {
+          "text": "THP 337",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/337/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 350 Projection Design",
+      "links": [
+        {
+          "text": "THP 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 422 Scenic Painting",
+      "links": [
+        {
+          "text": "THP 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 515 Theatre Safety and Occupational Health",
+      "links": [
+        {
+          "text": "THP 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 383 Sound Design",
+      "links": [
+        {
+          "text": "THT 383",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/383/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The following Professional Table I courses are offered in alternate years. Contact the School of Performance for further information about scheduling:"
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 114 Advanced Stage Management",
+      "links": [
+        {
+          "text": "THM 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/114/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 301 Technical Direction",
+      "links": [
+        {
+          "text": "THM 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 303 Theatre Administration Special Topics",
+      "links": [
+        {
+          "text": "THM 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/303/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 327 Theatre Administration",
+      "links": [
+        {
+          "text": "THM 327",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/327/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 401 Production Management",
+      "links": [
+        {
+          "text": "THM 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THM 503 Tour and Company Management",
+      "links": [
+        {
+          "text": "THM 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THM/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 312 Make-Up and Wiggery",
+      "links": [
+        {
+          "text": "THP 312",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/312/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 315 Corsetry: History and Construction",
+      "links": [
+        {
+          "text": "THP 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 333 Costume: Special Topics",
+      "links": [
+        {
+          "text": "THP 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 404 Lighting Design Special Topics",
+      "links": [
+        {
+          "text": "THP 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 538 Properties: Design and Construction",
+      "links": [
+        {
+          "text": "THP 538",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/538/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 612 Fabric Dyeing and Costume Painting",
+      "links": [
+        {
+          "text": "THP 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 648 Scenic Construction: Special Topics",
+      "links": [
+        {
+          "text": "THP 648",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/648/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 660 Projection Design: Special Topics",
+      "links": [
+        {
+          "text": "THP 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 843 Pyrotechnics",
+      "links": [
+        {
+          "text": "THP 843",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/843/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THP 845 Costume Design III",
+      "links": [
+        {
+          "text": "THP 845",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THP/845/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 318 Set Design",
+      "links": [
+        {
+          "text": "THT 318",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/318/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 319 Costume Design I",
+      "links": [
+        {
+          "text": "THT 319",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/319/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 500 Structure for Performing Arts",
+      "links": [
+        {
+          "text": "THT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 582 Show Systems Engineering",
+      "links": [
+        {
+          "text": "THT 582",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/582/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THT 893 Sound Special Topics",
+      "links": [
+        {
+          "text": "THT 893",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THT/893/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "THG 32A/B has a GPA weight of 2.00.",
+      "links": [
+        {
+          "text": "THG 32A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THG/32A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students may take up to two courses offered by the University outside the School of Performance and approved by the Director of the Performance Production program."
+    }
+  ],
+  "inventory_name": "Performance: Acting/Dance/Design and Production - Table I"
+}

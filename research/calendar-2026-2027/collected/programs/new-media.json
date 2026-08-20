@@ -1,0 +1,1938 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "2aaba3246b67c70915d7c3c3da037a874da5b9594978ce2c5107d6c03e06a317",
+  "source_bytes": 130419,
+  "title": "New Media",
+  "headings": [
+    "New Media",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Creative Practice Hours",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CSE 100",
+    "CSE 200",
+    "CSE 300",
+    "CSE 310",
+    "CSE 400",
+    "CSE 410",
+    "FCD 815",
+    "IRL 500",
+    "NMA 107",
+    "NMA 111",
+    "NMA 120",
+    "NMA 201",
+    "NMA 220",
+    "NMA 222",
+    "NMA 223",
+    "NMA 321",
+    "NMA 322",
+    "NMA 323",
+    "NMA 501",
+    "NMA 520",
+    "NMA 807",
+    "NMA 814",
+    "NMA 820",
+    "NMA 821",
+    "NMA 856",
+    "NMA 867",
+    "NMA 886",
+    "NMA 891",
+    "NMA 928",
+    "NMA 962",
+    "NMA 997",
+    "PSY 713",
+    "PSY 813",
+    "RTA 104"
+  ],
+  "official_links": [
+    {
+      "text": "The Creative School",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+    },
+    {
+      "text": "NMA 82A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "NMA 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+    },
+    {
+      "text": "IRL 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/500/"
+    },
+    {
+      "text": "PSY 713",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/713/"
+    },
+    {
+      "text": "PSY 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "RTA-NMA Course Code Conversion",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/"
+    },
+    {
+      "text": "NMA 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+    },
+    {
+      "text": "NMA 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/322/"
+    },
+    {
+      "text": "NMA 867",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/867/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+    },
+    {
+      "text": "NMA 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+    },
+    {
+      "text": "NMA 886",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/886/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "NMA 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/520/"
+    },
+    {
+      "text": "NMA 807",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/807/"
+    },
+    {
+      "text": "NMA 928",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+    },
+    {
+      "text": "NMA 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+    },
+    {
+      "text": "NMA 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/501/"
+    },
+    {
+      "text": "NMA 814",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/814/"
+    },
+    {
+      "text": "NMA 856",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/856/"
+    },
+    {
+      "text": "NMA 997",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+    },
+    {
+      "text": "NMA 891",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/891/"
+    },
+    {
+      "text": "NMA 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+    },
+    {
+      "text": "NMA 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/821/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media-studies/RTA/82A/"
+    },
+    {
+      "text": "NMA 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/107/"
+    },
+    {
+      "text": "NMA 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/111/"
+    },
+    {
+      "text": "RTA 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/104/"
+    },
+    {
+      "text": "CSE 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+    },
+    {
+      "text": "NMA 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/201/"
+    },
+    {
+      "text": "NMA 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+    },
+    {
+      "text": "NMA 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+    },
+    {
+      "text": "NMA 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+    },
+    {
+      "text": "CSE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+    },
+    {
+      "text": "CSE 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/300/"
+    },
+    {
+      "text": "CSE 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+    },
+    {
+      "text": "CSE 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+    },
+    {
+      "text": "CSE 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "New Media"
+    },
+    {
+      "kind": "text",
+      "text": "The Creative School",
+      "links": [
+        {
+          "text": "The Creative School",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Fine Arts (BFA)"
+    },
+    {
+      "kind": "text",
+      "text": "Program Website:"
+    },
+    {
+      "kind": "text",
+      "text": "New Media",
+      "links": [
+        {
+          "text": "New Media",
+          "url": "https://www.torontomu.ca/content/ryerson/rta/undergraduate/new-media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "New Media Department",
+      "links": [
+        {
+          "text": "New Media Department",
+          "url": "https://www.torontomu.ca/content/ryerson/new-media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English. Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade required in the subject prerequisite (normally in the 65-70 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Commensurate with the technological challenge it faces within an ever-evolving field, the program uses a variety of innovative teaching approaches to move students through an immersive, hands-on course of study."
+    },
+    {
+      "kind": "text",
+      "text": "Emphasizing creativity, New Media expands the idea of computing. It encourages risk taking and experimentation within a supportive, collaborative environment designed to address the emerging challenges of the communication age. To this end, students engage new technologies not only as a means of art production but as instruments of social, cultural, and artistic change."
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum is unique both in its substance and in its structure, which emphasizes depth as well as breadth and flexibility. The remarkable learning environment offered by The Creative School, combined with Toronto Met's proximity to Toronto's art community, as well as the media production, telecommunications, and cultural industries, provide unparalleled opportunities for developing not only the tools, but an understanding of the medium in a field that is continually in the process of self-invention."
+    },
+    {
+      "kind": "text",
+      "text": "The New Media BFA prepares fine art students to become creators of digital art, mobile media, interactive storytelling and virtual worlds."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Creative Practice Hours"
+    },
+    {
+      "kind": "text",
+      "text": "To graduate from the New Media program, each student must complete a minimum of 60 hours of Creative Practice unpaid volunteer work in a qualifying institution or project. This can be done at any time over the four years of the program. This is a mandatory condition for the successful completion of NMA 82A/B .",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120 is not available for credit.",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "IRL 500 , PSY 713 and PSY 813 are not available for credit.",
+      "links": [
+        {
+          "text": "IRL 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IRL/500/"
+        },
+        {
+          "text": "PSY 713",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/713/"
+        },
+        {
+          "text": "PSY 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and before)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Some course codes in this program have changed. See RTA-NMA Course Code Conversion Chart for further information.",
+      "links": [
+        {
+          "text": "RTA-NMA Course Code Conversion",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 321 Intro to Tangible Media",
+      "links": [
+        {
+          "text": "NMA 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 322 Technology, Identity and Creativity",
+      "links": [
+        {
+          "text": "NMA 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 867 Game Engines",
+      "links": [
+        {
+          "text": "NMA 867",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/867/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 220 New Media Art History",
+      "links": [
+        {
+          "text": "NMA 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 886 Intro to Studio Practice",
+      "links": [
+        {
+          "text": "NMA 886",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/886/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2024. Students admitted Fall 2025 see revised curriculum below."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Choose one of the following three options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Art as Practice"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 520 Art As Practice",
+      "links": [
+        {
+          "text": "NMA 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Art as Problem Solving"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 807 Problem Solving Practices",
+      "links": [
+        {
+          "text": "NMA 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/807/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Art as Play"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 928 Introduction to Game Design",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Students must continue with the options from 5th Semester:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Art as Practice"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 323 Contemporary Issues in New Media Art",
+      "links": [
+        {
+          "text": "NMA 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 501 Studio Practice",
+      "links": [
+        {
+          "text": "NMA 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Art as Problem Solving"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 814 Problem Solving Studio",
+      "links": [
+        {
+          "text": "NMA 814",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/814/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 856 Speculative Design: Making Change",
+      "links": [
+        {
+          "text": "NMA 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/856/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Art as Play"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 997 Mechanics of Play",
+      "links": [
+        {
+          "text": "NMA 997",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 891 Games Industry and Trends",
+      "links": [
+        {
+          "text": "NMA 891",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/891/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Revised curriculum begins and last offered 2027-2028 to students admitted Fall 2025."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Choose one of the following three options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Art as Practice"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 520 Art As Practice",
+      "links": [
+        {
+          "text": "NMA 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Art as Problem Solving"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 807 Problem Solving Practices",
+      "links": [
+        {
+          "text": "NMA 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/807/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Art as Play"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 997 Mechanics of Play",
+      "links": [
+        {
+          "text": "NMA 997",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Students must continue with the options from 5th Semester:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Art as Practice"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 323 Contemporary Issues in New Media Art",
+      "links": [
+        {
+          "text": "NMA 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 501 Studio Practice",
+      "links": [
+        {
+          "text": "NMA 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Art as Problem Solving"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 814 Problem Solving Studio",
+      "links": [
+        {
+          "text": "NMA 814",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/814/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 856 Speculative Design: Making Change",
+      "links": [
+        {
+          "text": "NMA 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/856/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Art as Play"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 820 Game Prototyping and Testing",
+      "links": [
+        {
+          "text": "NMA 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 891 Games Industry and Trends",
+      "links": [
+        {
+          "text": "NMA 891",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/891/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2028-2029 to students admitted Fall 2025 and before."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 82A/B New Media Thesis Project",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* NMA 82A/B has a GPA Weight of 3.00 and a Course Count of 2.00.",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 82A/B New Media Thesis Project",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 821 New Media Master Class",
+      "links": [
+        {
+          "text": "NMA 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/821/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* NMA 82A/B has a GPA Weight of 3.00 and a Course Count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media-studies/RTA/82A/"
+        },
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2026 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2026-2027 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 107 Creative Processes - New Media",
+      "links": [
+        {
+          "text": "NMA 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/107/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 111 Introduction to New Media",
+      "links": [
+        {
+          "text": "NMA 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 928 Introduction to Game Design",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 104 Introductory Audio Production",
+      "links": [
+        {
+          "text": "RTA 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/104/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 100 Wicked Problems",
+      "links": [
+        {
+          "text": "CSE 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 201 Video Art Production",
+      "links": [
+        {
+          "text": "NMA 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 222 Intro to Computational Arts",
+      "links": [
+        {
+          "text": "NMA 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 223 Designing Material Experiences",
+      "links": [
+        {
+          "text": "NMA 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 962 Interaction Design",
+      "links": [
+        {
+          "text": "NMA 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2027-2028 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 321 Intro to Tangible Media",
+      "links": [
+        {
+          "text": "NMA 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 322 Technology, Identity and Creativity",
+      "links": [
+        {
+          "text": "NMA 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 867 Game Engines",
+      "links": [
+        {
+          "text": "NMA 867",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/867/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 200 Creative Strategic Foresight",
+      "links": [
+        {
+          "text": "CSE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 220 New Media Art History",
+      "links": [
+        {
+          "text": "NMA 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 886 Intro to Studio Practice",
+      "links": [
+        {
+          "text": "NMA 886",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/886/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2028-2029 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Choose one of the following three options:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Art as Practice"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 520 Art As Practice",
+      "links": [
+        {
+          "text": "NMA 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Art as Problem Solving"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 807 Problem Solving Practices",
+      "links": [
+        {
+          "text": "NMA 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/807/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Art as Play"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 997 Mechanics of Play",
+      "links": [
+        {
+          "text": "NMA 997",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1 : Students must continue with the options from 5th Semester:"
+    },
+    {
+      "kind": "text",
+      "text": "Option 1: Art as Practice"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 323 Contemporary Issues in New Media Art",
+      "links": [
+        {
+          "text": "NMA 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 501 Studio Practice",
+      "links": [
+        {
+          "text": "NMA 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 2: Art as Problem Solving"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 814 Problem Solving Studio",
+      "links": [
+        {
+          "text": "NMA 814",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/814/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 856 Speculative Design: Making Change",
+      "links": [
+        {
+          "text": "NMA 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/856/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Option 3: Art as Play"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 820 Game Prototyping and Testing",
+      "links": [
+        {
+          "text": "NMA 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 891 Games Industry and Trends",
+      "links": [
+        {
+          "text": "NMA 891",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/891/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 2 : One course from the following"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 300 Creative Global Masterclass",
+      "links": [
+        {
+          "text": "CSE 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 310 International Context",
+      "links": [
+        {
+          "text": "CSE 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2029-2030 to students admitted Fall 2026 and after."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 82A/B New Media Thesis Project",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* NMA 82A/B has a GPA Weight of 3.00 and a Course Count of 2.00.",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 82A/B New Media Thesis Project",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 400 Special Projects Placement",
+      "links": [
+        {
+          "text": "CSE 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 410 Creative Capstone Enrichment",
+      "links": [
+        {
+          "text": "CSE 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse I",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 821 New Media Master Class",
+      "links": [
+        {
+          "text": "NMA 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/821/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective .",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* NMA 82A/B has a GPA Weight of 3.00 and a Course Count of 2.00.",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media-studies/RTA/82A/"
+        },
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Jason French AVP Project Management, Exhibitions & Galleries Royal Ontario Museum Cindy Poremba Associate Professor and Co-Director of the game:play Lab OCAD University David Rokeby Assistant Professor, Teaching Stream, Director of the BMO Lab University of Toronto Tristan Sauer New Media Artist and Curator Program Alumni"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "New Media"
+}

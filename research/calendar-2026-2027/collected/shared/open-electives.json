@@ -1,0 +1,409 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "74e0e670d997153352eccf56cc3538f407bb8b02907e43da0059bb193e3ef11a",
+  "source_bytes": 65247,
+  "title": "Open Electives",
+  "headings": [
+    "Open Electives",
+    "Open Elective Restrictions",
+    "Faculty of Community Services",
+    "Faculty of Science",
+    "Ted Rogers School of Management",
+    "Undergraduate Courses"
+  ],
+  "course_codes_referenced": [
+    "ACC 522",
+    "CPS 100",
+    "CPS 499",
+    "FIN 512",
+    "FIN 612",
+    "FIN 650",
+    "FIN 699",
+    "FIN 750",
+    "FIN 812",
+    "FNN 111",
+    "FNY 404",
+    "HIM 408",
+    "HSM 407",
+    "HSM 437",
+    "ITM 330",
+    "ITM 350",
+    "ITM 410",
+    "ITM 711",
+    "ITM 735",
+    "QMS 102",
+    "QMS 110",
+    "QMS 202",
+    "QMS 210"
+  ],
+  "official_links": [
+    {
+      "text": "Ted Rogers School of Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "FNN 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNN/111/"
+    },
+    {
+      "text": "FNY 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/404/"
+    },
+    {
+      "text": "ITM 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+    },
+    {
+      "text": "ITM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+    },
+    {
+      "text": "ITM 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+    },
+    {
+      "text": "ITM 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+    },
+    {
+      "text": "ITM 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+    },
+    {
+      "text": "ACC 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/522/"
+    },
+    {
+      "text": "FIN 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/650/"
+    },
+    {
+      "text": "FIN 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/750/"
+    },
+    {
+      "text": "FIN 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/512/"
+    },
+    {
+      "text": "FIN 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/612/"
+    },
+    {
+      "text": "FIN 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/699/"
+    },
+    {
+      "text": "FIN 812",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/812/"
+    },
+    {
+      "text": "QMS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/102/"
+    },
+    {
+      "text": "QMS 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/202/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "HIM 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/408/"
+    },
+    {
+      "text": "HSM 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/407/"
+    },
+    {
+      "text": "HSM 437",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/437/"
+    },
+    {
+      "text": "Undergraduate Courses",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Open Electives"
+    },
+    {
+      "kind": "text",
+      "text": "Open electives provide students with the opportunity to choose degree-level courses outside their core or to gain greater depth within their core. Open electives also allow students to complete courses towards a minor. Open Elective (OE) requirements must be fulfilled using graded, degree level courses. Students may choose any graded, degree level course for which they meet the enrolment (requisite) requirements, including additional core program electives, subject to availability and the following limitations :"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students cannot use the following courses to fulfill an OE requirement:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Courses specifically excluded from use by their program department; see Open Elective Exclusions below."
+    },
+    {
+      "kind": "list_item",
+      "text": "Lower Level Liberal Studies courses"
+    },
+    {
+      "kind": "list_item",
+      "text": "Courses graded on a pass/fail basis, such as orientations, work terms, some internships and practicums, or placement/skills tests"
+    },
+    {
+      "kind": "list_item",
+      "text": "Direct Entry students in Business Management, Business Technology Management, Child and Youth Care, Early Childhood Studies and Social Work cannot use core required courses, including antirequisites, from Years 1 and 2 of their program to fill Open Elective requirements."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must obtain the permission of their program department to use the following courses to fulfill an OE requirement:"
+    },
+    {
+      "kind": "list_item",
+      "text": "degree-level courses which are only offered by The Chang School (those marked as degree level but which do not have a corresponding three-character course code in the undergraduate calendar)"
+    },
+    {
+      "kind": "list_item",
+      "text": "an Upper Level Liberal Studies course"
+    },
+    {
+      "kind": "list_item",
+      "text": "any Toronto Met course completed more than fifteen years prior to admission to their current program."
+    },
+    {
+      "kind": "list_item",
+      "text": "A course used to fulfill an OE requirement cannot be used to meet another program requirement. For example, if you receive permission to use an Upper Level Liberal Studies course towards OE requirements, you must take a different Upper Level Liberal Studies course to use towards your Liberal Studies requirements."
+    },
+    {
+      "kind": "list_item",
+      "text": "Not all courses will be offered every semester. Courses may be cancelled due to low enrolment."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Open Elective Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Students may not choose courses that are excluded for their program or major."
+    },
+    {
+      "kind": "text",
+      "text": "Some subjects have a limitation (i.e. a maximum number that may be chosen)."
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions may change from year to year depending on curricular changes."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions"
+    },
+    {
+      "kind": "text",
+      "text": "Nutrition and Food"
+    },
+    {
+      "kind": "text",
+      "text": "FNN 111 and FNY 404 are not available to students in the Nutrition and Food program.",
+      "links": [
+        {
+          "text": "FNN 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNN/111/"
+        },
+        {
+          "text": "FNY 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/404/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Faculty of Science",
+      "links": [
+        {
+          "text": "Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions"
+    },
+    {
+      "kind": "text",
+      "text": "Computer Science"
+    },
+    {
+      "kind": "text",
+      "text": "Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 330 , ITM 350 , ITM 410 , ITM 735",
+      "links": [
+        {
+          "text": "ITM 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/330/"
+        },
+        {
+          "text": "ITM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/350/"
+        },
+        {
+          "text": "ITM 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/410/"
+        },
+        {
+          "text": "ITM 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/735/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cyber Science"
+    },
+    {
+      "kind": "text",
+      "text": "Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 .",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Ted Rogers School of Management",
+      "links": [
+        {
+          "text": "Ted Rogers School of Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions"
+    },
+    {
+      "kind": "text",
+      "text": "Accounting and Finance"
+    },
+    {
+      "kind": "text",
+      "text": "No ACC or FIN courses, with the exception of ACC 522 , FIN 650 , FIN 750 , FIN 512 , FIN 612 , FIN 699 , and FIN 812 can be used to meet Open Elective requirements. QMS 102 , QMS 202 , QMS 110 , and QMS 210 cannot be used to meet Open Elective requirements.",
+      "links": [
+        {
+          "text": "ACC 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/522/"
+        },
+        {
+          "text": "FIN 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/650/"
+        },
+        {
+          "text": "FIN 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/750/"
+        },
+        {
+          "text": "FIN 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/512/"
+        },
+        {
+          "text": "FIN 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/612/"
+        },
+        {
+          "text": "FIN 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/699/"
+        },
+        {
+          "text": "FIN 812",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/812/"
+        },
+        {
+          "text": "QMS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/102/"
+        },
+        {
+          "text": "QMS 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/202/"
+        },
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        },
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management - Health Services Management Major"
+    },
+    {
+      "kind": "text",
+      "text": "HIM 408 , HSM 407 and HSM 437 cannot be used to meet Open Elective requirements.",
+      "links": [
+        {
+          "text": "HIM 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-information-management/HIM/408/"
+        },
+        {
+          "text": "HSM 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/407/"
+        },
+        {
+          "text": "HSM 437",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/health-services-management/HSM/437/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Undergraduate Courses",
+      "links": [
+        {
+          "text": "Undergraduate Courses",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Open Electives"
+}

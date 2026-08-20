@@ -1,0 +1,1174 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "5ee43c0091267117dd27fb01e9b9a8e45c82df91cbe5db93ebf1b940bbe834d2",
+  "source_bytes": 60890,
+  "title": "RTA-NMA Course Code Conversion Chart",
+  "headings": [
+    "RTA-NMA Course Code Conversion Chart",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "NMA 107",
+    "NMA 111",
+    "NMA 120",
+    "NMA 201",
+    "NMA 220",
+    "NMA 221",
+    "NMA 222",
+    "NMA 223",
+    "NMA 320",
+    "NMA 321",
+    "NMA 322",
+    "NMA 323",
+    "NMA 501",
+    "NMA 520",
+    "NMA 521",
+    "NMA 807",
+    "NMA 814",
+    "NMA 818",
+    "NMA 820",
+    "NMA 821",
+    "NMA 822",
+    "NMA 824",
+    "NMA 825",
+    "NMA 828",
+    "NMA 830",
+    "NMA 832",
+    "NMA 835",
+    "NMA 838",
+    "NMA 842",
+    "NMA 856",
+    "NMA 867",
+    "NMA 886",
+    "NMA 891",
+    "NMA 925",
+    "NMA 928",
+    "NMA 929",
+    "NMA 933",
+    "NMA 934",
+    "NMA 936",
+    "NMA 939",
+    "NMA 946",
+    "NMA 948",
+    "NMA 953",
+    "NMA 954",
+    "NMA 958",
+    "NMA 962",
+    "NMA 965",
+    "NMA 968",
+    "NMA 997",
+    "RTA 107",
+    "RTA 111",
+    "RTA 120",
+    "RTA 201",
+    "RTA 220",
+    "RTA 221",
+    "RTA 222",
+    "RTA 223",
+    "RTA 320",
+    "RTA 321",
+    "RTA 322",
+    "RTA 323",
+    "RTA 501",
+    "RTA 520",
+    "RTA 521",
+    "RTA 807",
+    "RTA 814",
+    "RTA 818",
+    "RTA 820",
+    "RTA 821",
+    "RTA 822",
+    "RTA 824",
+    "RTA 825",
+    "RTA 828",
+    "RTA 830",
+    "RTA 832",
+    "RTA 835",
+    "RTA 838",
+    "RTA 842",
+    "RTA 856",
+    "RTA 867",
+    "RTA 886",
+    "RTA 891",
+    "RTA 925",
+    "RTA 928",
+    "RTA 929",
+    "RTA 933",
+    "RTA 934",
+    "RTA 936",
+    "RTA 939",
+    "RTA 946",
+    "RTA 948",
+    "RTA 953",
+    "RTA 954",
+    "RTA 958",
+    "RTA 962",
+    "RTA 965",
+    "RTA 968",
+    "RTA 997"
+  ],
+  "official_links": [
+    {
+      "text": "NMA 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/107/"
+    },
+    {
+      "text": "NMA 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/111/"
+    },
+    {
+      "text": "NMA 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+    },
+    {
+      "text": "NMA 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/201/"
+    },
+    {
+      "text": "NMA 220",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+    },
+    {
+      "text": "NMA 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/221/"
+    },
+    {
+      "text": "NMA 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+    },
+    {
+      "text": "NMA 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+    },
+    {
+      "text": "NMA 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+    },
+    {
+      "text": "NMA 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+    },
+    {
+      "text": "NMA 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/322/"
+    },
+    {
+      "text": "NMA 323",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+    },
+    {
+      "text": "NMA 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/501/"
+    },
+    {
+      "text": "NMA 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/520/"
+    },
+    {
+      "text": "NMA 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/521/"
+    },
+    {
+      "text": "NMA 807",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/807/"
+    },
+    {
+      "text": "NMA 814",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/814/"
+    },
+    {
+      "text": "NMA 818",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/818/"
+    },
+    {
+      "text": "NMA 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+    },
+    {
+      "text": "NMA 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/821/"
+    },
+    {
+      "text": "NMA 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/822/"
+    },
+    {
+      "text": "NMA 824",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/824/"
+    },
+    {
+      "text": "NMA 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/825/"
+    },
+    {
+      "text": "NMA 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/828/"
+    },
+    {
+      "text": "NMA 82A/B",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+    },
+    {
+      "text": "NMA 830",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/830/"
+    },
+    {
+      "text": "NMA 832",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/832/"
+    },
+    {
+      "text": "NMA 835",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/835/"
+    },
+    {
+      "text": "NMA 838",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/838/"
+    },
+    {
+      "text": "NMA 842",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/842/"
+    },
+    {
+      "text": "NMA 856",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/856/"
+    },
+    {
+      "text": "NMA 867",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/867/"
+    },
+    {
+      "text": "NMA 886",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/886/"
+    },
+    {
+      "text": "NMA 891",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/891/"
+    },
+    {
+      "text": "NMA 925",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/925/"
+    },
+    {
+      "text": "NMA 928",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+    },
+    {
+      "text": "NMA 933",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/933/"
+    },
+    {
+      "text": "NMA 934",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+    },
+    {
+      "text": "NMA 936",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/936/"
+    },
+    {
+      "text": "NMA 939",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/939/"
+    },
+    {
+      "text": "NMA 946",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/946/"
+    },
+    {
+      "text": "NMA 948",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/948/"
+    },
+    {
+      "text": "NMA 953",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/953/"
+    },
+    {
+      "text": "NMA 954",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/954/"
+    },
+    {
+      "text": "NMA 958",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/958/"
+    },
+    {
+      "text": "NMA 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+    },
+    {
+      "text": "NMA 965",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/965/"
+    },
+    {
+      "text": "NMA 997",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/new_media/rta_nma_courseconversion_chart/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "RTA-NMA Course Code Conversion Chart"
+    },
+    {
+      "kind": "text",
+      "text": "Revised course codes and titles effective 2025-2026."
+    },
+    {
+      "kind": "text",
+      "text": "Former Course Code"
+    },
+    {
+      "kind": "text",
+      "text": "New Course Code"
+    },
+    {
+      "kind": "text",
+      "text": "RTA 107"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 107",
+      "links": [
+        {
+          "text": "NMA 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/107/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 111"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 111",
+      "links": [
+        {
+          "text": "NMA 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/111/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 120"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 120",
+      "links": [
+        {
+          "text": "NMA 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 201"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 201",
+      "links": [
+        {
+          "text": "NMA 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 220"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 220",
+      "links": [
+        {
+          "text": "NMA 220",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/220/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 221"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 221",
+      "links": [
+        {
+          "text": "NMA 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/221/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 222"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 222",
+      "links": [
+        {
+          "text": "NMA 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 223"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 223",
+      "links": [
+        {
+          "text": "NMA 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 320"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 320",
+      "links": [
+        {
+          "text": "NMA 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/320/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 321"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 321",
+      "links": [
+        {
+          "text": "NMA 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 322"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 322",
+      "links": [
+        {
+          "text": "NMA 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/322/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 323"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 323",
+      "links": [
+        {
+          "text": "NMA 323",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/323/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 501"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 501",
+      "links": [
+        {
+          "text": "NMA 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 520"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 520",
+      "links": [
+        {
+          "text": "NMA 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/520/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 521"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 521",
+      "links": [
+        {
+          "text": "NMA 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/521/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 807"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 807",
+      "links": [
+        {
+          "text": "NMA 807",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/807/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 814"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 814",
+      "links": [
+        {
+          "text": "NMA 814",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/814/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 818"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 818",
+      "links": [
+        {
+          "text": "NMA 818",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/818/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 820"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 820",
+      "links": [
+        {
+          "text": "NMA 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 821"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 821",
+      "links": [
+        {
+          "text": "NMA 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/821/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 822"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 822",
+      "links": [
+        {
+          "text": "NMA 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/822/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 824"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 824",
+      "links": [
+        {
+          "text": "NMA 824",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/824/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 825"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 825",
+      "links": [
+        {
+          "text": "NMA 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/825/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 828"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 828",
+      "links": [
+        {
+          "text": "NMA 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/828/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 82A/B"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 82A/B",
+      "links": [
+        {
+          "text": "NMA 82A/B",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/82A/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 830"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 830",
+      "links": [
+        {
+          "text": "NMA 830",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/830/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 832"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 832",
+      "links": [
+        {
+          "text": "NMA 832",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/832/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 835"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 835",
+      "links": [
+        {
+          "text": "NMA 835",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/835/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 838"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 838",
+      "links": [
+        {
+          "text": "NMA 838",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/838/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 842"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 842",
+      "links": [
+        {
+          "text": "NMA 842",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/842/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 856"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 856",
+      "links": [
+        {
+          "text": "NMA 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/856/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 867"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 867",
+      "links": [
+        {
+          "text": "NMA 867",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/867/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 886"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 886",
+      "links": [
+        {
+          "text": "NMA 886",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/886/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 891"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 891",
+      "links": [
+        {
+          "text": "NMA 891",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/891/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 925"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 925",
+      "links": [
+        {
+          "text": "NMA 925",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/925/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 928"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 928",
+      "links": [
+        {
+          "text": "NMA 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/928/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 929"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 929"
+    },
+    {
+      "kind": "text",
+      "text": "RTA 933"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 933",
+      "links": [
+        {
+          "text": "NMA 933",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/933/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 934"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 934",
+      "links": [
+        {
+          "text": "NMA 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/934/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 936"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 936",
+      "links": [
+        {
+          "text": "NMA 936",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/936/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 939"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 939",
+      "links": [
+        {
+          "text": "NMA 939",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/939/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 946"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 946",
+      "links": [
+        {
+          "text": "NMA 946",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/946/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 948"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 948",
+      "links": [
+        {
+          "text": "NMA 948",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/948/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 953"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 953",
+      "links": [
+        {
+          "text": "NMA 953",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/953/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 954"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 954",
+      "links": [
+        {
+          "text": "NMA 954",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/954/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 958"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 958",
+      "links": [
+        {
+          "text": "NMA 958",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/958/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 962"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 962",
+      "links": [
+        {
+          "text": "NMA 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 965"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 965",
+      "links": [
+        {
+          "text": "NMA 965",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/965/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "RTA 968"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 968"
+    },
+    {
+      "kind": "text",
+      "text": "RTA 997"
+    },
+    {
+      "kind": "text",
+      "text": "NMA 997",
+      "links": [
+        {
+          "text": "NMA 997",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/997/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "New Media - RTA-NMA Course Code Conversion"
+}

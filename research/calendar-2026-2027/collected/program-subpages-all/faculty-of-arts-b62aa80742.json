@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "59908cdf2085e70e864bd276ef82608503c406daa77872a89b09dbc231ed2929",
+  "source_bytes": 47239,
+  "title": "Faculty of Arts",
+  "headings": [
+    "Faculty of Arts",
+    "Undergraduate Programs Listed Alphabetically"
+  ],
+  "course_codes_referenced": [],
+  "official_links": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Faculty of Arts"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Undergraduate Programs Listed Alphabetically"
+    }
+  ],
+  "inventory_name": "Faculty of Arts"
+}

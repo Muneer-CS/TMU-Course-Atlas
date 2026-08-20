@@ -1,0 +1,790 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/entrepreneurship_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "582a2c14847bbffcb1ee5c04de4523f37e025c1788f00d7dcd7302724ed4b20b",
+  "source_bytes": 63665,
+  "title": "Minor in Entrepreneurship and Innovation",
+  "headings": [
+    "Minor in Entrepreneurship and Innovation"
+  ],
+  "course_codes_referenced": [
+    "ACC 607",
+    "BSM 100",
+    "BSM 200",
+    "EID 100",
+    "ENG 520",
+    "ENT 100",
+    "ENT 401",
+    "ENT 500",
+    "ENT 501",
+    "ENT 505",
+    "ENT 511",
+    "ENT 524",
+    "ENT 526",
+    "ENT 527",
+    "ENT 601",
+    "ENT 725",
+    "ENT 727",
+    "ENT 801",
+    "FIN 502",
+    "GEO 719",
+    "GMS 422",
+    "GMS 701",
+    "GMS 750",
+    "JRN 842",
+    "LAW 525",
+    "LAW 603",
+    "MHR 741",
+    "MKT 504",
+    "MKT 723",
+    "MKT 730",
+    "MKT 731",
+    "PLG 710",
+    "RMG 100",
+    "RMG 200",
+    "RTA 989",
+    "SSH 400"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Business Management - Entrepreneurship and Innovation Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/entrepreneurship_major/"
+    },
+    {
+      "text": "ENT 526",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/526/"
+    },
+    {
+      "text": "ENT 524",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/524/"
+    },
+    {
+      "text": "ENT 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/601/"
+    },
+    {
+      "text": "BSM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+    },
+    {
+      "text": "ENT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+    },
+    {
+      "text": "ENT 725",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/725/"
+    },
+    {
+      "text": "ACC 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/607/"
+    },
+    {
+      "text": "BSM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+    },
+    {
+      "text": "EID 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+    },
+    {
+      "text": "ENG 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/520/"
+    },
+    {
+      "text": "ENT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/100/"
+    },
+    {
+      "text": "ENT 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/401/"
+    },
+    {
+      "text": "ENT 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/501/"
+    },
+    {
+      "text": "ENT 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+    },
+    {
+      "text": "ENT 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/511/"
+    },
+    {
+      "text": "ENT 527",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/527/"
+    },
+    {
+      "text": "ENT 727",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/727/"
+    },
+    {
+      "text": "ENT 801",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/801/"
+    },
+    {
+      "text": "FIN 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/502/"
+    },
+    {
+      "text": "GEO 719",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+    },
+    {
+      "text": "GMS 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/422/"
+    },
+    {
+      "text": "GMS 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/701/"
+    },
+    {
+      "text": "GMS 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/750/"
+    },
+    {
+      "text": "JRN 842",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/842/"
+    },
+    {
+      "text": "LAW 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+    },
+    {
+      "text": "LAW 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+    },
+    {
+      "text": "MHR 741",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+    },
+    {
+      "text": "MKT 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+    },
+    {
+      "text": "MKT 723",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+    },
+    {
+      "text": "MKT 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+    },
+    {
+      "text": "MKT 731",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+    },
+    {
+      "text": "PLG 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLG/710/"
+    },
+    {
+      "text": "RMG 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/100/"
+    },
+    {
+      "text": "RMG 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/200/"
+    },
+    {
+      "text": "RTA 989",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/989/"
+    },
+    {
+      "text": "SSH 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/400/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/entrepreneurship_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Entrepreneurship and Innovation"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who complete the Entrepreneurship and Innovation Minor will have developed an understanding of the process of entrepreneurship and the essential factors needed for the successful growth of a new venture. Also, students will have developed an appreciation for the challenges involved in managing innovation and in nurturing creative thinking."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Ted Rogers School of Business Management, Entrepreneurship & Strategy Department"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Business Management - Entrepreneurship and Innovation Major",
+      "links": [
+        {
+          "text": "Business Management - Entrepreneurship and Innovation Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/entrepreneurship_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) Required courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 526 Entrepreneurial Behaviour and Strategy or ENT 524 The Practice of Entrepreneurship",
+      "links": [
+        {
+          "text": "ENT 526",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/526/"
+        },
+        {
+          "text": "ENT 524",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/524/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 601 Identifying Opportunities",
+      "links": [
+        {
+          "text": "ENT 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/601/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 100 * The New Business: From Idea to Reality",
+      "links": [
+        {
+          "text": "BSM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 500 New Venture Startup",
+      "links": [
+        {
+          "text": "ENT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 725 Management of Innovation",
+      "links": [
+        {
+          "text": "ENT 725",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/725/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 607 Accounting for Small Business",
+      "links": [
+        {
+          "text": "ACC 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 200 * The Growing Business: Breaking Even",
+      "links": [
+        {
+          "text": "BSM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EID 100 Digital Skills and Innovation",
+      "links": [
+        {
+          "text": "EID 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 520 The Language of Persuasion",
+      "links": [
+        {
+          "text": "ENG 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 100 Applied Entrepreneurship",
+      "links": [
+        {
+          "text": "ENT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 401 Design Thinking Experience",
+      "links": [
+        {
+          "text": "ENT 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 501 Family Business in Canada",
+      "links": [
+        {
+          "text": "ENT 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 505 * Small-Business Management",
+      "links": [
+        {
+          "text": "ENT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 511 Funding New Ventures",
+      "links": [
+        {
+          "text": "ENT 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 527 Theories in Entrepreneurship",
+      "links": [
+        {
+          "text": "ENT 527",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/527/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 727 Applied Research in Entrepreneurship",
+      "links": [
+        {
+          "text": "ENT 727",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/727/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 801 Entrepreneurial Career and Life Design",
+      "links": [
+        {
+          "text": "ENT 801",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/801/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 502 Personal Financial Planning",
+      "links": [
+        {
+          "text": "FIN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 422 Quality Management",
+      "links": [
+        {
+          "text": "GMS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 701 Purchasing and Supply Management I",
+      "links": [
+        {
+          "text": "GMS 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 750 Consulting to Management",
+      "links": [
+        {
+          "text": "GMS 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "JRN 842 Building Your Brand: The Freelance Career",
+      "links": [
+        {
+          "text": "JRN 842",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/842/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 525 The Law of the Marketplace",
+      "links": [
+        {
+          "text": "LAW 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 741 Managing Interpersonal Dynamics and Teams",
+      "links": [
+        {
+          "text": "MHR 741",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/741/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 504 Effective Persuasion",
+      "links": [
+        {
+          "text": "MKT 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 723 Services Marketing",
+      "links": [
+        {
+          "text": "MKT 723",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/723/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 730 Assessing/Managing Market Opportunities",
+      "links": [
+        {
+          "text": "MKT 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 731 Competitive Intelligence",
+      "links": [
+        {
+          "text": "MKT 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLG 710 Municipal Finance for Planners",
+      "links": [
+        {
+          "text": "PLG 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLG/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 100 Issues and Innovations in Retailing I",
+      "links": [
+        {
+          "text": "RMG 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RMG 200 Introduction to Retail",
+      "links": [
+        {
+          "text": "RMG 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/retail-management/RMG/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 989 Emerging Media Markets/Entrepreneurship",
+      "links": [
+        {
+          "text": "RTA 989",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/989/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 400 Special Topics in Social Ventures",
+      "links": [
+        {
+          "text": "SSH 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Any one CMN course"
+    },
+    {
+      "kind": "text",
+      "text": "* BSM 100 , BSM 200 and ENT 505 are not available to students in programs within the Ted Rogers School of Management.",
+      "links": [
+        {
+          "text": "BSM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+        },
+        {
+          "text": "BSM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+        },
+        {
+          "text": "ENT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Entrepreneurship and Innovation"
+}

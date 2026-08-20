@@ -1,0 +1,516 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "d7c595bc3fc516f00435e3410486d092c2562169244c5c179f3eee990bf57b79",
+  "source_bytes": 56551,
+  "title": "Computer Engineering Core Elective Table II",
+  "headings": [
+    "Computer Engineering Core Elective Table II",
+    "Group 1",
+    "Group 2",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CEN 810",
+    "COE 817",
+    "COE 818",
+    "COE 838",
+    "COE 848",
+    "COE 865",
+    "COE 892",
+    "CPS 888",
+    "ELE 709",
+    "ELE 815",
+    "ELE 863",
+    "ELE 882",
+    "ELE 885",
+    "ELE 888"
+  ],
+  "official_links": [
+    {
+      "text": "Computer Engineering",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/"
+    },
+    {
+      "text": "COE 817",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/817/"
+    },
+    {
+      "text": "COE 818",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/818/"
+    },
+    {
+      "text": "COE 838",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/838/"
+    },
+    {
+      "text": "COE 848",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/848/"
+    },
+    {
+      "text": "COE 865",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/865/"
+    },
+    {
+      "text": "CPS 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/888/"
+    },
+    {
+      "text": "COE 892",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/892/"
+    },
+    {
+      "text": "CEN 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+    },
+    {
+      "text": "ELE 709",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/709/"
+    },
+    {
+      "text": "ELE 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/815/"
+    },
+    {
+      "text": "ELE 863",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/863/"
+    },
+    {
+      "text": "ELE 882",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/882/"
+    },
+    {
+      "text": "ELE 885",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/885/"
+    },
+    {
+      "text": "ELE 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/888/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_ii/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Computer Engineering Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Computer Engineering",
+      "links": [
+        {
+          "text": "Computer Engineering",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2022 to the Full-Time, Five-Year Co-op Program:"
+    },
+    {
+      "kind": "text",
+      "text": "A total of four courses is required from Table II as grouped and noted below."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Group 1"
+    },
+    {
+      "kind": "text",
+      "text": "A minimum of two to a maximum of three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 817 Network Security",
+      "links": [
+        {
+          "text": "COE 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 818 Advanced Computer Architecture",
+      "links": [
+        {
+          "text": "COE 818",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/818/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 838 Systems-on-Chip Design",
+      "links": [
+        {
+          "text": "COE 838",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/838/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 848 Fundamentals of Data Engineering",
+      "links": [
+        {
+          "text": "COE 848",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/848/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 865 Advanced Computer Networks",
+      "links": [
+        {
+          "text": "COE 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/865/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 888 Software Engineering",
+      "links": [
+        {
+          "text": "CPS 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/888/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 892 Distributed and Cloud Computing",
+      "links": [
+        {
+          "text": "COE 892",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/892/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Group 2"
+    },
+    {
+      "kind": "text",
+      "text": "A minimum of one to a maximum of two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 810 Selected Topics in Engineering",
+      "links": [
+        {
+          "text": "CEN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 709 Real-Time Computer Control Systems",
+      "links": [
+        {
+          "text": "ELE 709",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/709/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 815 Wireless Communications",
+      "links": [
+        {
+          "text": "ELE 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 863 VLSI Circuits for Data Communications",
+      "links": [
+        {
+          "text": "ELE 863",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/863/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 882 Intro to Digital Image Processing",
+      "links": [
+        {
+          "text": "ELE 882",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/882/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 885 Optical Communication Systems",
+      "links": [
+        {
+          "text": "ELE 885",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/885/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 888 Intelligent Systems",
+      "links": [
+        {
+          "text": "ELE 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/888/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2023 and after: A total of four courses is required from Table II.",
+      "links": [
+        {
+          "text": "Table II.",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/computer_eng/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 810 Selected Topics in Engineering",
+      "links": [
+        {
+          "text": "CEN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 817 Network Security",
+      "links": [
+        {
+          "text": "COE 817",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/817/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 818 Advanced Computer Architecture",
+      "links": [
+        {
+          "text": "COE 818",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/818/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 838 Systems-on-Chip Design",
+      "links": [
+        {
+          "text": "COE 838",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/838/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "COE 865 Advanced Computer Networks",
+      "links": [
+        {
+          "text": "COE 865",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-engineering/COE/865/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 882 Introduction to Digital Image Processing",
+      "links": [
+        {
+          "text": "ELE 882",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/882/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ELE 888 Intelligent Systems",
+      "links": [
+        {
+          "text": "ELE 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/electrical-engineering/ELE/888/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Computer Engineering Core Elective Table II"
+}

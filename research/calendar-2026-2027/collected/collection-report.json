@@ -1,0 +1,19 @@
+{
+  "calendar_year": "2026-2027",
+  "collection_status": "complete",
+  "counts": {
+    "programs_expected": 72,
+    "programs_collected": 72,
+    "minors_expected": 69,
+    "minors_discovered": 69,
+    "minors_collected": 69,
+    "optional_specializations_discovered": 4,
+    "optional_specializations_collected": 4,
+    "program_tables_collected": 111,
+    "program_subpages_from_sitemap_collected": 130,
+    "shared_pages_collected": 6,
+    "unique_program_course_references": 2100,
+    "unique_minor_course_references": 1492
+  },
+  "errors": []
+}

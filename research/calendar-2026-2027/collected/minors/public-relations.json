@@ -1,0 +1,935 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/public_relations_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "a023f4ac2edf951cdc32b5fb13be1c0709ede82fa62fbfc99222ccb79f215867",
+  "source_bytes": 67826,
+  "title": "Minor in Public Relations",
+  "headings": [
+    "Minor in Public Relations"
+  ],
+  "course_codes_referenced": [
+    "CMN 100",
+    "CMN 114",
+    "CMN 200",
+    "CMN 269",
+    "CMN 279",
+    "CMN 288",
+    "CMN 300",
+    "CMN 305",
+    "CMN 306",
+    "CMN 314",
+    "CMN 413",
+    "CMN 450",
+    "CMN 460",
+    "CMN 601",
+    "JRN 103",
+    "JRN 105",
+    "JRN 215",
+    "JRN 344",
+    "JRN 400",
+    "JRN 401",
+    "JRN 402",
+    "JRN 406",
+    "JRN 412",
+    "JRN 415",
+    "JRN 500",
+    "JRN 502",
+    "JRN 505",
+    "JRN 509",
+    "JRN 510",
+    "JRN 512",
+    "MKT 100",
+    "NNS 101",
+    "NNS 102",
+    "NNS 103",
+    "NNS 344",
+    "NNS 400",
+    "NNS 401",
+    "NNS 402",
+    "NNS 406",
+    "NNS 410",
+    "NNS 412",
+    "NNS 419",
+    "NNS 500",
+    "NNS 502",
+    "NNS 505",
+    "NNS 509",
+    "NNS 510",
+    "NNS 512",
+    "RTA 233"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Professional Communication",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/pro_comm_minor/"
+    },
+    {
+      "text": "News Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/news_studies_minor/"
+    },
+    {
+      "text": "CMN 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/200/"
+    },
+    {
+      "text": "CMN 279",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+    },
+    {
+      "text": "CMN 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/305/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "NNS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/101/"
+    },
+    {
+      "text": "JRN 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/103/"
+    },
+    {
+      "text": "NNS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/102/"
+    },
+    {
+      "text": "JRN 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/105/"
+    },
+    {
+      "text": "NNS 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/103/"
+    },
+    {
+      "text": "JRN 215",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/215/"
+    },
+    {
+      "text": "NNS 344",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/344/"
+    },
+    {
+      "text": "JRN 344",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/344/"
+    },
+    {
+      "text": "NNS 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/400/"
+    },
+    {
+      "text": "JRN 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/400/"
+    },
+    {
+      "text": "NNS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/401/"
+    },
+    {
+      "text": "JRN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/401/"
+    },
+    {
+      "text": "NNS 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/402/"
+    },
+    {
+      "text": "JRN 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/402/"
+    },
+    {
+      "text": "NNS 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/406/"
+    },
+    {
+      "text": "JRN 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/406/"
+    },
+    {
+      "text": "NNS 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/410/"
+    },
+    {
+      "text": "JRN 415",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/415/"
+    },
+    {
+      "text": "NNS 412",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/412/"
+    },
+    {
+      "text": "JRN 412",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/412/"
+    },
+    {
+      "text": "NNS 419",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/419/"
+    },
+    {
+      "text": "NNS 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/500/"
+    },
+    {
+      "text": "JRN 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/500/"
+    },
+    {
+      "text": "NNS 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/502/"
+    },
+    {
+      "text": "JRN 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/502/"
+    },
+    {
+      "text": "NNS 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/505/"
+    },
+    {
+      "text": "JRN 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/505/"
+    },
+    {
+      "text": "NNS 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/509/"
+    },
+    {
+      "text": "JRN 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/509/"
+    },
+    {
+      "text": "NNS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/510/"
+    },
+    {
+      "text": "JRN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/510/"
+    },
+    {
+      "text": "NNS 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/512/"
+    },
+    {
+      "text": "JRN 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/512/"
+    },
+    {
+      "text": "RTA 233",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/233/"
+    },
+    {
+      "text": "CMN 269",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/269/"
+    },
+    {
+      "text": "CMN 288",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/288/"
+    },
+    {
+      "text": "CMN 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/306/"
+    },
+    {
+      "text": "CMN 314",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/314/"
+    },
+    {
+      "text": "CMN 413",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/413/"
+    },
+    {
+      "text": "CMN 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/450/"
+    },
+    {
+      "text": "CMN 460",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/460/"
+    },
+    {
+      "text": "CMN 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/601/"
+    },
+    {
+      "text": "Journalism",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/journalism/"
+    },
+    {
+      "text": "Professional Communication",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/"
+    },
+    {
+      "text": "CMN 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+    },
+    {
+      "text": "CMN 114",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/114/"
+    },
+    {
+      "text": "CMN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/300/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/public_relations_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Public Relations"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Public Relations will help students understand the role of Public Relations experts as they negotiate between the organizations they represent and the media. Through theory and practice, students will gain experience in the tools and ways of thinking that shape stakeholder relationships."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Professional Communication and offered in collaboration with the School of Journalism"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This Minor cannot be taken in conjunction with the Minor in Professional Communication or the News Studies Minor.",
+      "links": [
+        {
+          "text": "Professional Communication",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/pro_comm_minor/"
+        },
+        {
+          "text": "News Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/news_studies_minor/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, you must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) courses:"
+    },
+    {
+      "kind": "text",
+      "text": "One of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 200 Introduction to Professional Writing",
+      "links": [
+        {
+          "text": "CMN 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 279 * Introduction to Professional Communication",
+      "links": [
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 305 Strategic Public Relations in ProCom",
+      "links": [
+        {
+          "text": "CMN 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/305/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) electives from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "Group 1 Electives: Select a minimum of two (2) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 101 † Introduction to News Studies (or JRN 103 )",
+      "links": [
+        {
+          "text": "NNS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/101/"
+        },
+        {
+          "text": "JRN 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 102 Understanding Multimedia Journalism (or JRN 105 )",
+      "links": [
+        {
+          "text": "NNS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/102/"
+        },
+        {
+          "text": "JRN 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 103 Basics of Photojournalism (or JRN 215 )",
+      "links": [
+        {
+          "text": "NNS 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/103/"
+        },
+        {
+          "text": "JRN 215",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/215/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 344 Law, Ethics and Evolving News Standards (or JRN 344 )",
+      "links": [
+        {
+          "text": "NNS 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/344/"
+        },
+        {
+          "text": "JRN 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/344/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 400 Critical Issues in Journalism (or JRN 400 )",
+      "links": [
+        {
+          "text": "NNS 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/400/"
+        },
+        {
+          "text": "JRN 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 401 History of Journalism (or JRN 401 )",
+      "links": [
+        {
+          "text": "NNS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/401/"
+        },
+        {
+          "text": "JRN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 402 Theory in Journalism and Mass Communication (or JRN 402 )",
+      "links": [
+        {
+          "text": "NNS 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/402/"
+        },
+        {
+          "text": "JRN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 406 Navigating Spin and PR (or JRN 406 )",
+      "links": [
+        {
+          "text": "NNS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/406/"
+        },
+        {
+          "text": "JRN 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 410 Queer Media (or JRN 415 )",
+      "links": [
+        {
+          "text": "NNS 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/410/"
+        },
+        {
+          "text": "JRN 415",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/415/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 412 Documentary Survey (or JRN 412 )",
+      "links": [
+        {
+          "text": "NNS 412",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/412/"
+        },
+        {
+          "text": "JRN 412",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/412/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 419 Journalism in Comedy",
+      "links": [
+        {
+          "text": "NNS 419",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/419/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 500 Journalism and the Arts (or JRN 500 )",
+      "links": [
+        {
+          "text": "NNS 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/500/"
+        },
+        {
+          "text": "JRN 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 502 Follow the Money: Business Journalism (or JRN 502 )",
+      "links": [
+        {
+          "text": "NNS 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/502/"
+        },
+        {
+          "text": "JRN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 505 Health and Science Journalism (or JRN 505 )",
+      "links": [
+        {
+          "text": "NNS 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/505/"
+        },
+        {
+          "text": "JRN 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 509 Journalism and the Political Arena (or JRN 509 )",
+      "links": [
+        {
+          "text": "NNS 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/509/"
+        },
+        {
+          "text": "JRN 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 510 Reporting Religion (or JRN 510 )",
+      "links": [
+        {
+          "text": "NNS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/510/"
+        },
+        {
+          "text": "JRN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NNS 512 Reporting Sports (or JRN 512 or RTA 233 Sport Journalism)",
+      "links": [
+        {
+          "text": "NNS 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/512/"
+        },
+        {
+          "text": "JRN 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/512/"
+        },
+        {
+          "text": "RTA 233",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/233/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Group 2 Electives (no minimum):"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 269 Countercultural Communication",
+      "links": [
+        {
+          "text": "CMN 269",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/269/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 288 Communication and Social Media",
+      "links": [
+        {
+          "text": "CMN 288",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/288/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 306 Risk and Crisis Communication",
+      "links": [
+        {
+          "text": "CMN 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 314 Professional Presentations",
+      "links": [
+        {
+          "text": "CMN 314",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/314/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 413 Corporate Communications",
+      "links": [
+        {
+          "text": "CMN 413",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/413/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 450 Participatory Media and Communication",
+      "links": [
+        {
+          "text": "CMN 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 460 Food, Communication and Culture",
+      "links": [
+        {
+          "text": "CMN 460",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/460/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 601 Visual Communication: A Critical Approach",
+      "links": [
+        {
+          "text": "CMN 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/601/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Journalism students may use a maximum of two JRN courses as credits toward the Minor in Public Relations. Where JRN and NNS versions of a course are available, BJourn students must take JRN version of the course.",
+      "links": [
+        {
+          "text": "Journalism",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/journalism/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Professional Communication students cannot use any Group 2 Electives as credits toward the Minor in Public Relations.",
+      "links": [
+        {
+          "text": "Professional Communication",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/procomm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "† NNS 101 is a pre-requisite for all NNS courses.",
+      "links": [
+        {
+          "text": "NNS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/NNS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* The material in CMN 279 is covered by courses specific to individual programs. The following program-specific courses may therefore be used in place of CMN 279 for this Minor:",
+      "links": [
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        },
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 100 Professional Health Communication",
+      "links": [
+        {
+          "text": "CMN 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 114 Short Management Reports",
+      "links": [
+        {
+          "text": "CMN 114",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/114/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 300 Communication in the Computer Industry",
+      "links": [
+        {
+          "text": "CMN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Public Relations"
+}

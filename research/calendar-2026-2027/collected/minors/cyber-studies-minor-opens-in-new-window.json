@@ -1,0 +1,551 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/cyber_studies/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "a03069bf0880420a74a086e583745c2ceb98356469b5ba7ccad770316cfd4dc2",
+  "source_bytes": 61566,
+  "title": "Minor in Cyber Studies",
+  "headings": [
+    "Minor in Cyber Studies"
+  ],
+  "course_codes_referenced": [
+    "CPS 109",
+    "CPS 171",
+    "CPS 371",
+    "CPS 471",
+    "CPS 571",
+    "CPS 633",
+    "CPS 706",
+    "CRM 350",
+    "CYS 119",
+    "CYS 122",
+    "CYS 151",
+    "CYS 229",
+    "CYS 231",
+    "CYS 344",
+    "ITM 820",
+    "ITM 825",
+    "LAW 568",
+    "SCI 222",
+    "SCI 444"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Cyber Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+    },
+    {
+      "text": "CYS 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/122/"
+    },
+    {
+      "text": "SCI 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/222/"
+    },
+    {
+      "text": "CYS 344",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/344/"
+    },
+    {
+      "text": "SCI 444",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/444/"
+    },
+    {
+      "text": "ITM 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+    },
+    {
+      "text": "CPS 171",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/171/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "CYS 119",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/119/"
+    },
+    {
+      "text": "CPS 571",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/571/"
+    },
+    {
+      "text": "CYS 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/151/"
+    },
+    {
+      "text": "ITM 820",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/820/"
+    },
+    {
+      "text": "CPS 371",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/371/"
+    },
+    {
+      "text": "CPS 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+    },
+    {
+      "text": "CYS 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/231/"
+    },
+    {
+      "text": "CPS 471",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/471/"
+    },
+    {
+      "text": "CPS 633",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+    },
+    {
+      "text": "CRM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+    },
+    {
+      "text": "CYS 229",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/229/"
+    },
+    {
+      "text": "LAW 568",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/cyber_studies/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Cyber Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Cyber Studies Minor provides students with the ability to see – and communicate – how technology influences, and is influenced by, human behaviour, legal and policy frameworks and ethical considerations, within the context of cybersecurity. Cyber risk and cybersecurity breaches are having a major disruptive impact in our connected world. They are also multifaceted issues, drawing on technical subjects, elements of human behaviour, and legal and ethical frameworks. The Cyber Studies Minor offers a pathway for students from a range of Toronto Met Faculties and disciplines to reflect on cybersecurity, cyber crime and cyber risk through the lens of their own core disciplines."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: The Faculty of Science"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Cyber Science",
+      "links": [
+        {
+          "text": "Cyber Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED: One (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 122 Evidence-Based Security",
+      "links": [
+        {
+          "text": "CYS 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 222 Evidence-Based Security",
+      "links": [
+        {
+          "text": "SCI 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/222/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 344 Cybersecurity and Society",
+      "links": [
+        {
+          "text": "CYS 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/344/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 444 Cybersecurity and Society",
+      "links": [
+        {
+          "text": "SCI 444",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/444/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 825 Enterprise Information Security",
+      "links": [
+        {
+          "text": "ITM 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 171 Introduction to Cyber-Secure Coding",
+      "links": [
+        {
+          "text": "CPS 171",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/171/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 119 Found of Software Design and Development",
+      "links": [
+        {
+          "text": "CYS 119",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/119/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 571 Introduction to Cybersecurity",
+      "links": [
+        {
+          "text": "CPS 571",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/571/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 151 Introduction to Cybersecurity",
+      "links": [
+        {
+          "text": "CYS 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 820 Network Security",
+      "links": [
+        {
+          "text": "ITM 820",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/820/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 371 Introduction to Security Protocols",
+      "links": [
+        {
+          "text": "CPS 371",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/371/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 706 Computer Networks I",
+      "links": [
+        {
+          "text": "CPS 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 231 Introduction to Security Protocols",
+      "links": [
+        {
+          "text": "CYS 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/231/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "ELECTIVE COURSES: Plus one (1) of the following courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 471 * Software Security Fundamentals",
+      "links": [
+        {
+          "text": "CPS 471",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/471/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 633 * Computer Security",
+      "links": [
+        {
+          "text": "CPS 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 350 † Cyber Criminology",
+      "links": [
+        {
+          "text": "CRM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 229 * Secure Software Development",
+      "links": [
+        {
+          "text": "CYS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 † Cyber-Crime and Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* CPS 471 and CPS 633 are antirequisites. CPS 471 and CYS 229 are antirequisites. † If students choose CRM 350 or LAW 568 as electives, they will need to fulfil the prerequisites for these courses. In such cases the student will require more than 6 courses to complete the minor.",
+      "links": [
+        {
+          "text": "CPS 471",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/471/"
+        },
+        {
+          "text": "CPS 633",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/633/"
+        },
+        {
+          "text": "CPS 471",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/471/"
+        },
+        {
+          "text": "CYS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/229/"
+        },
+        {
+          "text": "CRM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+        },
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Cyber Studies Minor (opens in new window)"
+}

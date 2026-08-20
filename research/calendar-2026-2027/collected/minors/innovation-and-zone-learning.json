@@ -1,0 +1,601 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/innovationzone_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "f076eacdd773a30da72704ad8c77e381f077ea221a283ddaa04b4c49bffa3782",
+  "source_bytes": 61154,
+  "title": "Minor in Innovation and Zone Learning",
+  "headings": [
+    "Minor in Innovation and Zone Learning"
+  ],
+  "course_codes_referenced": [
+    "CPS 101",
+    "CPS 106",
+    "CPS 109",
+    "CPS 847",
+    "CRI 300",
+    "CRI 500",
+    "CRI 780",
+    "ENT 500",
+    "FCD 222",
+    "FCD 815",
+    "FCD 962",
+    "JRN 555",
+    "JRN 843",
+    "NMA 107",
+    "NMA 222",
+    "NMA 223",
+    "NMA 321",
+    "NMA 962",
+    "PSY 217",
+    "RTA 102",
+    "RTA 108",
+    "SCI 888",
+    "SSH 100",
+    "SSH 502",
+    "SSH 505",
+    "ZON 100",
+    "ZON 200"
+  ],
+  "official_links": [
+    {
+      "text": "ZON 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+    },
+    {
+      "text": "ZON 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/200/"
+    },
+    {
+      "text": "FCD 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+    },
+    {
+      "text": "ENT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+    },
+    {
+      "text": "SCI 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/888/"
+    },
+    {
+      "text": "CPS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/101/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "CPS 106",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/106/"
+    },
+    {
+      "text": "CPS 847",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/847/"
+    },
+    {
+      "text": "CRI 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+    },
+    {
+      "text": "JRN 555",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/555/"
+    },
+    {
+      "text": "JRN 843",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/843/"
+    },
+    {
+      "text": "FCD 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+    },
+    {
+      "text": "NMA 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+    },
+    {
+      "text": "FCD 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+    },
+    {
+      "text": "NMA 962",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+    },
+    {
+      "text": "RTA 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/102/"
+    },
+    {
+      "text": "RTA 108",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/108/"
+    },
+    {
+      "text": "NMA 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/107/"
+    },
+    {
+      "text": "NMA 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+    },
+    {
+      "text": "NMA 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+    },
+    {
+      "text": "CRI 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+    },
+    {
+      "text": "CRI 780",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/780/"
+    },
+    {
+      "text": "PSY 217",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/217/"
+    },
+    {
+      "text": "SSH 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/100/"
+    },
+    {
+      "text": "SSH 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/502/"
+    },
+    {
+      "text": "SSH 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/505/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/innovationzone_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Innovation and Zone Learning"
+    },
+    {
+      "kind": "text",
+      "text": "The Minor in Innovation and Zone Learning offers students the opportunity to take courses in a wide range of subjects and disciplines that will help them develop as changemakers and launch new ideas and new ventures into the world. Coursework will help students foster their ability to identify, analyze, and evaluate situations, ideas, and information, and to formulate responses and develop solutions to tangible problems. Students will pursue the development of their projects and ventures with the support of the Zone Learning network and its resources namely co-working spaces, research labs, and mentorship from peers, industry advisors, and academic researchers. Students who complete the program will have obtained curricular credit in a critically important secondary field of study, which coupled with their own majors, will leave them better prepared for their future roles."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: RTA School of Media, Department of Computer Science, and Office of Zone Learning"
+    },
+    {
+      "kind": "text",
+      "text": "To obtain the minor, students will have to take three (3) required courses and three (3) electives from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "3 Required courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ZON 100 Zone Learning Project I",
+      "links": [
+        {
+          "text": "ZON 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ZON 200 Zone Learning Project II (continuation of ZON 100 Zone Learning Project I)",
+      "links": [
+        {
+          "text": "ZON 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/200/"
+        },
+        {
+          "text": "ZON 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/zone-learning/ZON/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 815 Design Solutions Supercourse",
+      "links": [
+        {
+          "text": "FCD 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 500 New Venture Startup",
+      "links": [
+        {
+          "text": "ENT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 888 Evidence-Based Innovation",
+      "links": [
+        {
+          "text": "SCI 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/888/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus 3 Elective courses:"
+    },
+    {
+      "kind": "text",
+      "text": "A total of three (3) courses from the following two (2) categories must be completed. You must complete at least one (1) course from each category. See additional restrictions below."
+    },
+    {
+      "kind": "text",
+      "text": "Ideation and Prototyping Category"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 101 Intro to App Development",
+      "links": [
+        {
+          "text": "CPS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I OR CPS 106 Intro to Multimedia Computation",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        },
+        {
+          "text": "CPS 106",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/106/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 847 Software Tools for Startups",
+      "links": [
+        {
+          "text": "CPS 847",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/847/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 300 Digital Design Studio",
+      "links": [
+        {
+          "text": "CRI 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "JRN 555 Live: Journalism on Stage",
+      "links": [
+        {
+          "text": "JRN 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "JRN 843 Reimagining the News",
+      "links": [
+        {
+          "text": "JRN 843",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/journalism/JRN/843/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 222 Coding for Creatives OR NMA 222 Intro to Computational Arts",
+      "links": [
+        {
+          "text": "FCD 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/222/"
+        },
+        {
+          "text": "NMA 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 962 Designing Interactions OR NMA 962 Interaction Design",
+      "links": [
+        {
+          "text": "FCD 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/962/"
+        },
+        {
+          "text": "NMA 962",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/962/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "RTA 102 Creative Process for Media Production OR RTA 108 Sport Media Message Design OR NMA 107 Creative Processes - New Media",
+      "links": [
+        {
+          "text": "RTA 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/102/"
+        },
+        {
+          "text": "RTA 108",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/media/RTA/108/"
+        },
+        {
+          "text": "NMA 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/107/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 223 Designing Material Experiences",
+      "links": [
+        {
+          "text": "NMA 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NMA 321 Intro to Tangible Media",
+      "links": [
+        {
+          "text": "NMA 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/new-media/NMA/321/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Empathy and Growth Category"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 500 Project Management",
+      "links": [
+        {
+          "text": "CRI 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 780 Your Creative Self",
+      "links": [
+        {
+          "text": "CRI 780",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/780/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 217 Psychology and Design",
+      "links": [
+        {
+          "text": "PSY 217",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/217/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 100 Inquiry and Problem-Solving",
+      "links": [
+        {
+          "text": "SSH 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 502 Community Action Research",
+      "links": [
+        {
+          "text": "SSH 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SSH 505 Making the Future",
+      "links": [
+        {
+          "text": "SSH 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-science-and-humanities/SSH/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Restriction: Students enrolled in any RTA School of Media program may count a maximum of three (3) RTA-coded courses (or co-listed FCD courses that also have an RTA-code) toward completion of the Minor."
+    },
+    {
+      "kind": "text",
+      "text": "Note: Zones regularly introduce new programs and adjust existing programs. Students are advised to contact the Zones or the Office of Zone Learning ( zonelearning@torontomu.ca ) for current information on Zone entry requirements.",
+      "links": [
+        {
+          "text": "zonelearning@torontomu.ca",
+          "url": "https://www.torontomu.ca/zonelearning@torontomu.ca"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Innovation and Zone Learning"
+}

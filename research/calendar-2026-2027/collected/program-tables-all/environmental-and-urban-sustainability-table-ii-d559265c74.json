@@ -1,0 +1,1729 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "ad0cd9a99af6be05114c7f4fa5c92460d2dc79475b06da18fac14166fff43604",
+  "source_bytes": 83129,
+  "title": "Environmental and Urban Sustainability Core Elective Table II",
+  "headings": [
+    "Environmental and Urban Sustainability Core Elective Table II",
+    "For students admitted Fall 2025 and before",
+    "For students admitted Fall 2026 and after",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ASC 102",
+    "ASC 200",
+    "ASC 403",
+    "ASC 855",
+    "BCH 261",
+    "BLG 340",
+    "BLG 401",
+    "CHY 142",
+    "CHY 423",
+    "ECN 502",
+    "ECN 510",
+    "ENH 122",
+    "ENH 324",
+    "ENH 524",
+    "ENH 825",
+    "EUS 450",
+    "EUS 501",
+    "EUS 550",
+    "EUS 650",
+    "EUS 702",
+    "EUS 750",
+    "EUS 760",
+    "EUS 799",
+    "EUS 850",
+    "EUS 860",
+    "EUS 870",
+    "EUS 880",
+    "GEO 221",
+    "GEO 241",
+    "GEO 311",
+    "GEO 351",
+    "GEO 361",
+    "GEO 411",
+    "GEO 441",
+    "GEO 446",
+    "GEO 507",
+    "GEO 513",
+    "GEO 514",
+    "GEO 521",
+    "GEO 527",
+    "GEO 530",
+    "GEO 541",
+    "GEO 542",
+    "GEO 546",
+    "GEO 551",
+    "GEO 555",
+    "GEO 561",
+    "GEO 570",
+    "GEO 575",
+    "GEO 581",
+    "GEO 605",
+    "GEO 607",
+    "GEO 612",
+    "GEO 641",
+    "GEO 642",
+    "GEO 643",
+    "GEO 645",
+    "GEO 652",
+    "GEO 655",
+    "GEO 671",
+    "GEO 681",
+    "GEO 711",
+    "GEO 716",
+    "GEO 772",
+    "GEO 802",
+    "HIS 828",
+    "HTT 510",
+    "IDE 309",
+    "LAW 535",
+    "OHS 322",
+    "OHS 422",
+    "PLE 715",
+    "PLX 333",
+    "POG 415",
+    "POL 377",
+    "PSY 518",
+    "SOC 708"
+  ],
+  "official_links": [
+    {
+      "text": "Environmental and Urban Sustainability",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+    },
+    {
+      "text": "ASC 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/102/"
+    },
+    {
+      "text": "ASC 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/200/"
+    },
+    {
+      "text": "ASC 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/403/"
+    },
+    {
+      "text": "ASC 855",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/855/"
+    },
+    {
+      "text": "BCH 261",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+    },
+    {
+      "text": "BLG 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/340/"
+    },
+    {
+      "text": "BLG 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/401/"
+    },
+    {
+      "text": "CHY 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+    },
+    {
+      "text": "CHY 423",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/423/"
+    },
+    {
+      "text": "ECN 502",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+    },
+    {
+      "text": "ECN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+    },
+    {
+      "text": "ENH 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+    },
+    {
+      "text": "ENH 324",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/324/"
+    },
+    {
+      "text": "ENH 524",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/524/"
+    },
+    {
+      "text": "ENH 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+    },
+    {
+      "text": "EUS 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+    },
+    {
+      "text": "EUS 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+    },
+    {
+      "text": "EUS 650",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/650/"
+    },
+    {
+      "text": "EUS 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/750/"
+    },
+    {
+      "text": "EUS 760",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/760/"
+    },
+    {
+      "text": "EUS 799",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/799/"
+    },
+    {
+      "text": "EUS 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/850/"
+    },
+    {
+      "text": "EUS 860",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+    },
+    {
+      "text": "EUS 870",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/870/"
+    },
+    {
+      "text": "EUS 880",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/880/"
+    },
+    {
+      "text": "GEO 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+    },
+    {
+      "text": "GEO 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+    },
+    {
+      "text": "GEO 513",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+    },
+    {
+      "text": "GEO 514",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/514/"
+    },
+    {
+      "text": "GEO 555",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/555/"
+    },
+    {
+      "text": "GEO 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/570/"
+    },
+    {
+      "text": "GEO 575",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/575/"
+    },
+    {
+      "text": "GEO 581",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/581/"
+    },
+    {
+      "text": "GEO 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/612/"
+    },
+    {
+      "text": "GEO 655",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+    },
+    {
+      "text": "GEO 671",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+    },
+    {
+      "text": "GEO 681",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/681/"
+    },
+    {
+      "text": "HIS 828",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+    },
+    {
+      "text": "HTT 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+    },
+    {
+      "text": "IDE 309",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/309/"
+    },
+    {
+      "text": "LAW 535",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+    },
+    {
+      "text": "OHS 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+    },
+    {
+      "text": "OHS 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+    },
+    {
+      "text": "PLE 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+    },
+    {
+      "text": "POG 415",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/415/"
+    },
+    {
+      "text": "PSY 518",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/518/"
+    },
+    {
+      "text": "SOC 708",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/708/"
+    },
+    {
+      "text": "EUS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/501/"
+    },
+    {
+      "text": "EUS 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/702/"
+    },
+    {
+      "text": "GEO 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/221/"
+    },
+    {
+      "text": "GEO 241",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/241/"
+    },
+    {
+      "text": "GEO 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/351/"
+    },
+    {
+      "text": "GEO 361",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/361/"
+    },
+    {
+      "text": "GEO 441",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/441/"
+    },
+    {
+      "text": "GEO 446",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/446/"
+    },
+    {
+      "text": "GEO 507",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/507/"
+    },
+    {
+      "text": "GEO 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+    },
+    {
+      "text": "GEO 527",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/527/"
+    },
+    {
+      "text": "GEO 530",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/530/"
+    },
+    {
+      "text": "GEO 541",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+    },
+    {
+      "text": "GEO 542",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+    },
+    {
+      "text": "GEO 546",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/546/"
+    },
+    {
+      "text": "GEO 551",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/551/"
+    },
+    {
+      "text": "GEO 561",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+    },
+    {
+      "text": "GEO 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/605/"
+    },
+    {
+      "text": "GEO 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/607/"
+    },
+    {
+      "text": "GEO 641",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+    },
+    {
+      "text": "GEO 642",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+    },
+    {
+      "text": "GEO 643",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+    },
+    {
+      "text": "GEO 645",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/645/"
+    },
+    {
+      "text": "GEO 652",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/652/"
+    },
+    {
+      "text": "GEO 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+    },
+    {
+      "text": "GEO 716",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/716/"
+    },
+    {
+      "text": "GEO 772",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+    },
+    {
+      "text": "GEO 802",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/802/"
+    },
+    {
+      "text": "PLX 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+    },
+    {
+      "text": "POL 377",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/377/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Environmental and Urban Sustainability Core Elective Table II"
+    },
+    {
+      "kind": "text",
+      "text": "Environmental and Urban Sustainability",
+      "links": [
+        {
+          "text": "Environmental and Urban Sustainability",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "For students admitted Fall 2025 and before",
+      "links": [
+        {
+          "text": "For students admitted Fall 2025 and before",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students are required to take seven (7) courses from Table II. Not all courses are three hours in length."
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 102 The Built World",
+      "links": [
+        {
+          "text": "ASC 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 200 Sustainable Practices",
+      "links": [
+        {
+          "text": "ASC 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 403 Site Development and Planning",
+      "links": [
+        {
+          "text": "ASC 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 855 Sustainable Ratings Systems",
+      "links": [
+        {
+          "text": "ASC 855",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/855/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 261 * Biochemistry",
+      "links": [
+        {
+          "text": "BCH 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 340 * Environmental Biology",
+      "links": [
+        {
+          "text": "BLG 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 401 Ecotoxicology",
+      "links": [
+        {
+          "text": "BLG 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 142 * Organic Chemistry I",
+      "links": [
+        {
+          "text": "CHY 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 423 Environmental Science",
+      "links": [
+        {
+          "text": "CHY 423",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/423/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Introduction to Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 324 Wastewater Treatment Systems",
+      "links": [
+        {
+          "text": "ENH 324",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/324/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 524 Pollution Control",
+      "links": [
+        {
+          "text": "ENH 524",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/524/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 450 Responses to Climate Change",
+      "links": [
+        {
+          "text": "EUS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 550 Sustainable Cities: Politics and Equity",
+      "links": [
+        {
+          "text": "EUS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 650 Waste and Waste Management",
+      "links": [
+        {
+          "text": "EUS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 750 Energy and Transportation Transitions",
+      "links": [
+        {
+          "text": "EUS 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 760 Cities at Risk",
+      "links": [
+        {
+          "text": "EUS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 799 Special Topics in Env. Urban Sust.",
+      "links": [
+        {
+          "text": "EUS 799",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/799/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 850 Sustainability in Organizations",
+      "links": [
+        {
+          "text": "EUS 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 860 Measuring Sustainability",
+      "links": [
+        {
+          "text": "EUS 860",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/860/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 870 Ecological Restoration",
+      "links": [
+        {
+          "text": "EUS 870",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/870/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 880 Field Studies",
+      "links": [
+        {
+          "text": "EUS 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/880/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 311 Indigenous Geographies",
+      "links": [
+        {
+          "text": "GEO 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 411 Resource and Environmental Planning",
+      "links": [
+        {
+          "text": "GEO 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 513 Physical Geography in Decision Support",
+      "links": [
+        {
+          "text": "GEO 513",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 514 Resource Management in Northern Canada",
+      "links": [
+        {
+          "text": "GEO 514",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/514/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 555 Colonial Infrastructures in North America",
+      "links": [
+        {
+          "text": "GEO 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 570 Neolithic Geographies",
+      "links": [
+        {
+          "text": "GEO 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 575 Hydrology in a Changing World",
+      "links": [
+        {
+          "text": "GEO 575",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/575/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 581 GIS, Geographic Data and Mapping",
+      "links": [
+        {
+          "text": "GEO 581",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/581/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 612 Environmental Decision Making",
+      "links": [
+        {
+          "text": "GEO 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 655 Queer Geographies",
+      "links": [
+        {
+          "text": "GEO 655",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 671 Developmental and Environmental Law",
+      "links": [
+        {
+          "text": "GEO 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 681 GIS and Geographic Analysis",
+      "links": [
+        {
+          "text": "GEO 681",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/681/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 828 Science, Corporations and the Environment",
+      "links": [
+        {
+          "text": "HIS 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 510 Sustainable Tourism Development",
+      "links": [
+        {
+          "text": "HTT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 309 Sustainable Design",
+      "links": [
+        {
+          "text": "IDE 309",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/309/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 322 Introductory Toxicology",
+      "links": [
+        {
+          "text": "OHS 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 422 Advanced Toxicology",
+      "links": [
+        {
+          "text": "OHS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 715 Environmental Assessment",
+      "links": [
+        {
+          "text": "PLE 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POG 415 Environmental Politics and Policy",
+      "links": [
+        {
+          "text": "POG 415",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POG/415/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 518 Environmental Psychology",
+      "links": [
+        {
+          "text": "PSY 518",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/518/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 708 Environmental Sociology",
+      "links": [
+        {
+          "text": "SOC 708",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/708/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This is a six-hour course."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "For students admitted Fall 2026 and after",
+      "links": [
+        {
+          "text": "For students admitted Fall 2026 and after",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/eus/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students are required to take five (5) courses from Table II. Not all courses are three hours in length."
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 102 The Built World",
+      "links": [
+        {
+          "text": "ASC 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 200 Sustainable Practices",
+      "links": [
+        {
+          "text": "ASC 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 403 Site Development and Planning",
+      "links": [
+        {
+          "text": "ASC 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 855 Sustainable Ratings Systems",
+      "links": [
+        {
+          "text": "ASC 855",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/855/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 502 Economics of Energy and Natural Resources",
+      "links": [
+        {
+          "text": "ECN 502",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/502/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 510 Environmental Economics",
+      "links": [
+        {
+          "text": "ECN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 122 Introduction to Epidemiology",
+      "links": [
+        {
+          "text": "ENH 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 324 Wastewater Treatment Systems",
+      "links": [
+        {
+          "text": "ENH 324",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/324/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 524 Pollution Control",
+      "links": [
+        {
+          "text": "ENH 524",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/524/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 825 Risk Assessment",
+      "links": [
+        {
+          "text": "ENH 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 501 Ecological Processes in the Cdn Landscape",
+      "links": [
+        {
+          "text": "EUS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 650 Waste and Waste Management",
+      "links": [
+        {
+          "text": "EUS 650",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/650/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 702 Senior Field Project",
+      "links": [
+        {
+          "text": "EUS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 750 Energy and Transportation Transitions",
+      "links": [
+        {
+          "text": "EUS 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 760 Cities at Risk",
+      "links": [
+        {
+          "text": "EUS 760",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/760/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 799 Special Topics in Env. Urban Sust.",
+      "links": [
+        {
+          "text": "EUS 799",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/799/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 850 Sustainability in Organizations",
+      "links": [
+        {
+          "text": "EUS 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/850/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 870 Ecological Restoration",
+      "links": [
+        {
+          "text": "EUS 870",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/870/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EUS 880 Field Studies",
+      "links": [
+        {
+          "text": "EUS 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environment-and-urban-sustainability/EUS/880/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 221 Location Analysis",
+      "links": [
+        {
+          "text": "GEO 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 241 Cartographic Principles and Practice",
+      "links": [
+        {
+          "text": "GEO 241",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/241/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 351 Internal Structure of the City",
+      "links": [
+        {
+          "text": "GEO 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 361 Inferential Statistics in Geography",
+      "links": [
+        {
+          "text": "GEO 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 411 Resource and Environmental Planning",
+      "links": [
+        {
+          "text": "GEO 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 441 Geographic Information Science",
+      "links": [
+        {
+          "text": "GEO 441",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/441/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 446 Introduction to Drone Flight and Imagery",
+      "links": [
+        {
+          "text": "GEO 446",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/446/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 507 Explorations of the Urban Environment",
+      "links": [
+        {
+          "text": "GEO 507",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/507/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 513 Physical Geography in Decision Support",
+      "links": [
+        {
+          "text": "GEO 513",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/513/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 521 Geodemographics",
+      "links": [
+        {
+          "text": "GEO 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/521/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 527 Inequalities in Urban Neighbourhoods",
+      "links": [
+        {
+          "text": "GEO 527",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/527/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 530 Urban Economic Geography",
+      "links": [
+        {
+          "text": "GEO 530",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/530/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 541 GIS programming",
+      "links": [
+        {
+          "text": "GEO 541",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/541/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 542 Introduction to Remote Sensing",
+      "links": [
+        {
+          "text": "GEO 542",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/542/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 546 Advanced Drone Operations and Analysis",
+      "links": [
+        {
+          "text": "GEO 546",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/546/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 551 Urbanization and Regional Development",
+      "links": [
+        {
+          "text": "GEO 551",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/551/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 555 Colonial Infrastructures in North America",
+      "links": [
+        {
+          "text": "GEO 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 561 Multivariate Analytical Techniques",
+      "links": [
+        {
+          "text": "GEO 561",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/561/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 570 Neolithic Geographies",
+      "links": [
+        {
+          "text": "GEO 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 575 Hydrology in a Changing World",
+      "links": [
+        {
+          "text": "GEO 575",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/575/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 605 The Geography of the Canadian North",
+      "links": [
+        {
+          "text": "GEO 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 607 Cities and the Canadian Economic Landscape",
+      "links": [
+        {
+          "text": "GEO 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/607/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 612 Environmental Decision Making",
+      "links": [
+        {
+          "text": "GEO 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 641 GIS and Decision Support",
+      "links": [
+        {
+          "text": "GEO 641",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/641/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 642 Advanced Remote Sensing and GI",
+      "links": [
+        {
+          "text": "GEO 642",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/642/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 643 Field Methods for Spatial Data",
+      "links": [
+        {
+          "text": "GEO 643",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/643/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 645 Place and Population Health",
+      "links": [
+        {
+          "text": "GEO 645",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/645/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 652 Urban Transportation Systems",
+      "links": [
+        {
+          "text": "GEO 652",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/652/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 655 Queer Geographies",
+      "links": [
+        {
+          "text": "GEO 655",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/655/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 671 Developmental and Environmental Law",
+      "links": [
+        {
+          "text": "GEO 671",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/671/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 711 An Indigenous Guide to the Apocalypse",
+      "links": [
+        {
+          "text": "GEO 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/711/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 716 Geographies of Health",
+      "links": [
+        {
+          "text": "GEO 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/716/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 772 Individual Research Paper",
+      "links": [
+        {
+          "text": "GEO 772",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/772/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 802 The Geography of Recreation and Leisure",
+      "links": [
+        {
+          "text": "GEO 802",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/802/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HIS 828 Science, Corporations and the Environment",
+      "links": [
+        {
+          "text": "HIS 828",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/history/HIS/828/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTT 510 Sustainable Tourism Development",
+      "links": [
+        {
+          "text": "HTT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 309 Sustainable Design",
+      "links": [
+        {
+          "text": "IDE 309",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/309/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 535 Environmental Law and Business",
+      "links": [
+        {
+          "text": "LAW 535",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/535/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 322 Introductory Toxicology",
+      "links": [
+        {
+          "text": "OHS 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "OHS 422 Advanced Toxicology",
+      "links": [
+        {
+          "text": "OHS 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/occupational-health/OHS/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 715 Environmental Assessment",
+      "links": [
+        {
+          "text": "PLE 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POL 377 Urban Sustainability Policy",
+      "links": [
+        {
+          "text": "POL 377",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/377/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 518 Environmental Psychology",
+      "links": [
+        {
+          "text": "PSY 518",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/518/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 708 Environmental Sociology",
+      "links": [
+        {
+          "text": "SOC 708",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/708/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Environmental and Urban Sustainability - Table II"
+}

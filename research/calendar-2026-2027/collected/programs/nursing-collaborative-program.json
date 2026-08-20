@@ -1,0 +1,1381 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "40164e3c848313942caa60dcdfbc84dd2d35d41d3576f77b6ed3912e5f16a524",
+  "source_bytes": 114582,
+  "title": "Nursing - Collaborative Program",
+  "headings": [
+    "Nursing - Collaborative Program",
+    "TMU/Centennial/George Brown Collaborative Nursing Degree Program",
+    "Admission Information",
+    "Additional Nursing Program Requirements",
+    "Pre‑placement Clearance and Course Enrolment Restrictions",
+    "Program Overview/Curriculum Information",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Program Outcomes",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Academic Standing Variation",
+    "Graduation Requirement Variation",
+    "Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BLG 101",
+    "BLG 111",
+    "BLG 131",
+    "GEO 716",
+    "NSE 101",
+    "NSE 103",
+    "NSE 111",
+    "NSE 121",
+    "NSE 203",
+    "NSE 211",
+    "NSE 212",
+    "NSE 221",
+    "NSE 222",
+    "NSE 311",
+    "NSE 321",
+    "NSE 411",
+    "NSE 421",
+    "PAT 201",
+    "PAT 202",
+    "PAT 401",
+    "PPN 101",
+    "PPN 102",
+    "PPN 201",
+    "PPN 202",
+    "PPN 301",
+    "PPN 302",
+    "PPN 303",
+    "PPN 401",
+    "PPN 402",
+    "PSY 102",
+    "SOC 506"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Community Services",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "GEO 716",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/716/"
+    },
+    {
+      "text": "SOC 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "BLG 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+    },
+    {
+      "text": "NSE 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/101/"
+    },
+    {
+      "text": "NSE 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/111/"
+    },
+    {
+      "text": "PPN 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/101/"
+    },
+    {
+      "text": "PSY 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+    },
+    {
+      "text": "BLG 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+    },
+    {
+      "text": "NSE 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/103/"
+    },
+    {
+      "text": "NSE 121",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/121/"
+    },
+    {
+      "text": "PPN 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/102/"
+    },
+    {
+      "text": "NSE 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/203/"
+    },
+    {
+      "text": "NSE 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/211/"
+    },
+    {
+      "text": "NSE 212",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/212/"
+    },
+    {
+      "text": "PAT 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/pathotherapeutics/PAT/201/"
+    },
+    {
+      "text": "PPN 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/201/"
+    },
+    {
+      "text": "BLG 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/131/"
+    },
+    {
+      "text": "NSE 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/221/"
+    },
+    {
+      "text": "NSE 222",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/222/"
+    },
+    {
+      "text": "PAT 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/pathotherapeutics/PAT/202/"
+    },
+    {
+      "text": "PPN 202",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/202/"
+    },
+    {
+      "text": "NSE 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/311/"
+    },
+    {
+      "text": "NSE 321",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/321/"
+    },
+    {
+      "text": "PPN 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/301/"
+    },
+    {
+      "text": "PPN 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/302/"
+    },
+    {
+      "text": "PPN 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/303/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "NSE 411",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/411/"
+    },
+    {
+      "text": "PAT 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/pathotherapeutics/PAT/401/"
+    },
+    {
+      "text": "PPN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/401/"
+    },
+    {
+      "text": "NSE 421",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/421/"
+    },
+    {
+      "text": "PPN 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/402/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Nursing - Collaborative Program"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Science in Nursing (BScN)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Daphne Cockwell School of Nursing",
+      "links": [
+        {
+          "text": "Daphne Cockwell School of Nursing",
+          "url": "https://www.torontomu.ca/content/ryerson/nursing/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "TMU/Centennial/George Brown Collaborative Nursing Degree Program"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English, Biology (SBI4U), Chemistry (SCH4U), and Grade 11 U or M or Grade 12 U Mathematics (one of Functions and Applications (MCF3M), Functions and Relations (MCR3U), Advanced Functions (MHF4U), Calculus and Vectors (MCV4U), Mathematics of Data Management (MDM4U)."
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70-75 percent range) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants applying as 'Mature Students' must have Grade 12 U courses (or equivalent) in English, Biology and Chemistry, and Grade 11 U or M or higher Mathematics. The grade(s) required in the subject prerequisites (normally in the 70-75 percent range or higher) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants who have been absent from full-time formal education for a period of ten years or longer may be required to repeat prerequisite subjects to ensure currency of knowledge and preparedness for the program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants with prior university or college study must present a minimum CGPA of 2.33 (C+) and be considered 'In Good Standing' with no failures in core prerequisite subjects in order to be considered. Higher CGPAs/averages may be required subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Only applications to the first year of the Nursing program will be considered, and consideration is limited to applicants without prior post-secondary studies in Nursing. Advanced standing for students with prior Nursing studies cannot be considered. In addition, diploma prepared RPNs ineligible for Bridging-to-University programs and applicants who have already completed a nursing degree will not be considered for admission."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Additional Nursing Program Requirements"
+    },
+    {
+      "kind": "text",
+      "text": "All nursing students, in order to practice nursing, must be active participants, working with, and providing care to, diverse populations inclusive of male, female, and LGBTQ2s individuals. Students who are unable to meet this requirement will jeopardize their progress in the program."
+    },
+    {
+      "kind": "text",
+      "text": "Before undertaking this program, students should be aware that, under the provisions of the Regulated Health Profession and Nursing Acts, to qualify to write the College of Nurses of Ontario (CNO) registration exams they must:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Be a Canadian citizen, permanent resident of Canada or be authorized under the Immigration Act (Canada)."
+    },
+    {
+      "kind": "list_item",
+      "text": "Not have any criminal convictions including those under the Narcotic Control and Food and Drugs Acts."
+    },
+    {
+      "kind": "list_item",
+      "text": "Not have been the subject of proceedings with respect to professional misconduct, incompetence or incapacity in another health profession in Ontario, or in nursing in another jurisdiction."
+    },
+    {
+      "kind": "list_item",
+      "text": "Not be suffering from a mental or physical disorder which makes it desirable in the public interest that you not practice. (Refer to (PDF file) Requisite Skills and Abilities for Nursing Practice in Ontario (external link, opens in new window) fact sheet on the CNO website.)",
+      "links": [
+        {
+          "text": "(PDF file) Requisite Skills and Abilities for Nursing Practice in Ontario (external link, opens in new window)",
+          "url": "https://www.torontomu.ca/globalassets/docs/reg/41078-skillabilities-4pager-final.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition, and in accordance with the policy of the program, the Public Hospitals Act, other legislation and the requirements of the practice placement settings, the Practice Requirements Record must be completed in its entirety by a student's health care provider and all supporting documents must be attached. Practice Requirements Record form with full instructions and submission deadlines can be obtained from the Central Placement Office (CPO) website .",
+      "links": [
+        {
+          "text": "Central Placement Office (CPO) website",
+          "url": "https://www.torontomu.ca/content/ryerson/nursing/central-placement-office/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Communicable diseases immunization details as specified in the Practice Requirements Record."
+    },
+    {
+      "kind": "list_item",
+      "text": "Vulnerable Sector Screening – Police Reference Checks are done to protect clientele who are considered 'vulnerable persons'. A 'clear' police check means that there is currently no police record found for that individual in the jurisdiction surveyed. A 'not clear' police check means that there is a police record found for the individual for an undisclosed reason. Students are required to keep the original vulnerable sector screening – police reference check. It is the placement agency that will make the decision whether or not to accept the student for placement. This agency decision may require the student to self-disclose the particulars of the 'not clear' police check. Students have the right to not disclose the particulars of the 'not clear' police check. Students denied placement by the agency on the grounds of a “Not Clear’ police check will not be able to complete their practice placement and will jeopardize their progress in the program. International students will need to retain the police clearance document that was used to obtain their study permit. Students who live in the City of Toronto must obtain an application form from the program site of admission. Students who live in other municipalities or provinces must obtain the application from their local police agency."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students are required to be tested and fitted for a respiratory mask. Students will then carry a card with them that indicates the type and model of mask they have been tested for. At time of testing, students must remove facial hair and any clothing covering their face to ensure a proper seal. Likewise, in the event that students are required to wear a mask during their placement, students must remove facial hair and any clothing that covers their face."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students are required to obtain Cardiopulmonary Resuscitation (CPR) certification. Only Healthcare Professional (HCP) level certification will be accepted."
+    },
+    {
+      "kind": "list_item",
+      "text": "Standard First Aid & CPR: All nursing students are required to hold a valid Cardiopulmonary Resuscitation (CPR) – Healthcare Provider (HCP) Level certification for placement purposes. This certification must be renewed annually and must remain valid for the entire duration of each clinical placement."
+    },
+    {
+      "kind": "text",
+      "text": "Additional Requirement for Year 1 Nursing Students: Year 1 students must also complete Standard First Aid training. Please register for a course that offers either “In-Class Format” or “Blended Format” (First Aid and CPR-BLS combined). These courses are available through various recognized First Aid training providers across the Greater Toronto Area (GTA). Students are responsible for ensuring the training provider meets the required certification standards."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Pre‑placement Clearance and Course Enrolment Restrictions",
+      "links": [
+        {
+          "text": "Pre‑placement Clearance and Course Enrolment Restrictions",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Collaborative Nursing students who have not met the pre‑placement clearance criteria are not permitted to enrol in clinical or practice‑based courses. For questions about this criteria or to request enrolment into elective courses, please contact the Student Affairs Coordinator for your respective year. Please refer to the Daphne Cockwell School of Nursing website for contact information.",
+      "links": [
+        {
+          "text": "Daphne Cockwell School of Nursing website",
+          "url": "https://www.torontomu.ca/content/ryerson/nursing/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The four-year collaborative degree program is offered in partnership by Toronto Metropolitan University, Centennial College and George Brown College. Students admitted at each campus complete the same program. Students admitted to the Toronto Met campus of the program complete their four years at Toronto Met. Students admitted to a college campus complete the first two years of their studies at the college and the final two years of their studies at the Toronto Met campus with the teaching shared by university and college faculty in all years. The program is committed to preparing nursing leaders who are highly competent, knowledgeable and committed to playing an integral role in shaping our health care future. The program educates nurses to work with persons and communities of diverse backgrounds, ages, degrees of health and illness and in a variety of contexts."
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum, based on a philosophical foundation of phenomenology and critical social theory, has five themes that serve to organize content and are reflected in all years of the program in varying degrees of depth. These themes are primary health care/health promotion, reflective practice/critical thinking, meaningful relationships/caring/communication, political/social justice and personal/professional development. The program is also underpinned by a number of important concepts, addressed, discussed, and threaded throughout the Professional Practice in Nursing courses that are required across all four years. These concepts include the following:"
+    },
+    {
+      "kind": "text",
+      "text": "• Safety • Scholarship • Relational Practice • Determinants of Health • Diversity • Professional Nursing Practice • Leadership • Health Systems • Teaching/Learning"
+    },
+    {
+      "kind": "text",
+      "text": "The curriculum is composed of professional nursing courses and series of required and elective courses selected from other disciplines to enhance and support the broad knowledge base required of professional nurses. Students complete required professionally related courses in anatomy and physiology, microbiology, and psychology. Students are also required to select courses from a variety of liberal studies and open electives. Learning is characterized as an interactive, lifelong process that involves the development of the learner as a person. Nursing students are recognized as adult learners responsible for their own learning. This learning is fostered by a caring collaborative student-teacher relationship based on mutual trust and respect, where both students and teachers are learners. Year I of the program focuses on knowledge of self in the context of health. The student develops a theoretical perspective from which to view practice and an appreciation of the cultural diversity within the social and political context of society. There is an emphasis on the development of effective communication abilities, and foundational nursing practice and health assessment skills."
+    },
+    {
+      "kind": "text",
+      "text": "In Year II , the focus of the program shifts to knowledge of others in the context of illness, including chronic and acute illness and end-of-life care. Students further develop their professional role in building therapeutic relationships with families. They also acquire knowledge of research methods and the ability to critically evaluate research findings for their utility in nursing practice. In Year III students further develop the theme of health with an emphasis on knowledge of community, in the context of primary health care. Students acquire knowledge and skills in areas of maternal/child health, pediatrics and mental health. There is an emphasis on leadership, advocacy and social activism. Year IV focuses on the integration of the professional self into the health care system as students prepare to transition to the role of a new graduate nurse. Students explore in depth issues related to professional practice and demonstrate leadership skills. Nursing practice experiences begin in the first year of the program and expose the student to a broad range of nursing practice settings and the multiplicity of nursing roles. Nursing experiences occur primarily in community settings and hospitals within the Greater Toronto Area (GTA). Travel to various agencies throughout the GTA is an expectation. Graduates of the Toronto Met, Centennial, George Brown Collaborative Nursing Degree Program are eligible to write the College of Nurses of Ontario registration examination (NCLEX) and accept entry-level positions in a variety of settings where nursing is practiced. Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website for complete details."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "Students may only take two Psychology (PSY) courses for credit."
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "GEO 716 , and SOC 506 are not available for credit.",
+      "links": [
+        {
+          "text": "GEO 716",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/716/"
+        },
+        {
+          "text": "SOC 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/506/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Outcomes",
+      "links": [
+        {
+          "text": "Program Outcomes",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Communication"
+    },
+    {
+      "kind": "text",
+      "text": "1a. Applies clear and accurate verbal communication 1b. Applies clear and accurate written communication 1c. Applies principles and processes of relational practice and effective communication with individuals 1d. Applies principles and processes of relational practice and effective communication with families 1e. Applies principles and processes of relational practice and effective communication with groups 1f. Applies principles and processes of relational practice and effective communication with communities."
+    },
+    {
+      "kind": "text",
+      "text": "Application of evidence-informed knowledge & care"
+    },
+    {
+      "kind": "text",
+      "text": "2a. Applies broad knowledge base in nursing and other disciplines in the provision of evidence - informed care. 2b. Applies critical reasoning in decision-making and delivery of care"
+    },
+    {
+      "kind": "text",
+      "text": "Inter/Intra professional care"
+    },
+    {
+      "kind": "text",
+      "text": "3a. Collaborates with clients in supporting the achievement of health outcomes. 3b. Collaborates with inter-professional members in supporting the achievement of health outcomes. 3c. Collaborates with unregulated health care providers and other staff as a health care team in supporting the achievement of health outcomes."
+    },
+    {
+      "kind": "text",
+      "text": "Culturally safe/sensitive practice"
+    },
+    {
+      "kind": "text",
+      "text": "4a. Implements culturally safe and competent care to address the health needs of diverse individuals. 4b. Implements culturally safe and competent care to address the health needs of diverse families. 4c. Implements culturally safe and competent care to address the health needs of diverse communities."
+    },
+    {
+      "kind": "text",
+      "text": "Ethical and Legal practice"
+    },
+    {
+      "kind": "text",
+      "text": "5. Demonstrates ethical practice, professional responsibility and accountability to clients and organizations within all domains of nursing practice."
+    },
+    {
+      "kind": "text",
+      "text": "Strategies & Interventions"
+    },
+    {
+      "kind": "text",
+      "text": "6. Plans effective interventions to manage care within health systems."
+    },
+    {
+      "kind": "text",
+      "text": "Technology"
+    },
+    {
+      "kind": "text",
+      "text": "7. Incorporates information and communication technologies, and digital tools to support the delivery of client care that meets evidence informed, organizational, ethical, regulatory and legislative requirements."
+    },
+    {
+      "kind": "text",
+      "text": "Leadership & Advocacy"
+    },
+    {
+      "kind": "text",
+      "text": "8a. Demonstrates effective leadership in practice and facilitates change and innovation across practice situations and settings. 8b. Demonstrates effective advocacy in practice and facilitates change and innovation across practice situations and settings."
+    },
+    {
+      "kind": "text",
+      "text": "Safety"
+    },
+    {
+      "kind": "text",
+      "text": "9a. Contributes to a culture of safety in the provision of quality healthcare. 9b. Identifies limits to own knowledge and ability in the provision of safe quality healthcare."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED :"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 101 Anatomy and Physiology I",
+      "links": [
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 101 Communication for the Nsg Professional",
+      "links": [
+        {
+          "text": "NSE 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 111 Foundations for Nursing Practice",
+      "links": [
+        {
+          "text": "NSE 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 101 Introduction to the Nursing Profession",
+      "links": [
+        {
+          "text": "PPN 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 102 Introduction to Psychology I",
+      "links": [
+        {
+          "text": "PSY 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/102/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 111 Anatomy and Physiology II",
+      "links": [
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 103 Introduction to Health Assessment",
+      "links": [
+        {
+          "text": "NSE 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 121 Clinical Practice I",
+      "links": [
+        {
+          "text": "NSE 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/121/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 102 Health, Wellness and the Role of the Nurse",
+      "links": [
+        {
+          "text": "PPN 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/102/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 203 Advanced Health Assessment",
+      "links": [
+        {
+          "text": "NSE 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 211 Clinical Practice II",
+      "links": [
+        {
+          "text": "NSE 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/211/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 212 Nursing Research: Quantitative Methods",
+      "links": [
+        {
+          "text": "NSE 212",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/212/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PAT 201 Pathotherapeutics I",
+      "links": [
+        {
+          "text": "PAT 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/pathotherapeutics/PAT/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 201 Living with Chronic Illness",
+      "links": [
+        {
+          "text": "PPN 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/201/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 131 Microbiology for Nursing",
+      "links": [
+        {
+          "text": "BLG 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 221 Clinical Practice III",
+      "links": [
+        {
+          "text": "NSE 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 222 Nursing Research: Qualitative Methods",
+      "links": [
+        {
+          "text": "NSE 222",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/222/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PAT 202 Pathotherapeutics II",
+      "links": [
+        {
+          "text": "PAT 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/pathotherapeutics/PAT/202/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 202 Acute and Life Threatening Illness",
+      "links": [
+        {
+          "text": "PPN 202",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/202/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 311 Clinical Practice IV",
+      "links": [
+        {
+          "text": "NSE 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 321 Clinical Practice V",
+      "links": [
+        {
+          "text": "NSE 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/321/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 301 Promoting Perinatal and Child Health",
+      "links": [
+        {
+          "text": "PPN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 302 Promoting Community Health",
+      "links": [
+        {
+          "text": "PPN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 303 Promoting Mental Health",
+      "links": [
+        {
+          "text": "PPN 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/303/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Four Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 411 Clinical Practice VI",
+      "links": [
+        {
+          "text": "NSE 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/411/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PAT 401 Advanced Pathotherapeutics",
+      "links": [
+        {
+          "text": "PAT 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/pathotherapeutics/PAT/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 401 Transition to the Profession",
+      "links": [
+        {
+          "text": "PPN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "NSE 421 Clinical Practice VII",
+      "links": [
+        {
+          "text": "NSE 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/421/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PPN 402 Preparation for Independent Practice",
+      "links": [
+        {
+          "text": "PPN 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/professional-practice-nursing/PPN/402/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Academic Standing Variation",
+      "links": [
+        {
+          "text": "Academic Standing Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Standing"
+    },
+    {
+      "kind": "text",
+      "text": "Grade"
+    },
+    {
+      "kind": "text",
+      "text": "Consequence/Comment"
+    },
+    {
+      "kind": "text",
+      "text": "Clear"
+    },
+    {
+      "kind": "text",
+      "text": "'C' or above in all Theory* and Practice† courses."
+    },
+    {
+      "kind": "text",
+      "text": "Probationary"
+    },
+    {
+      "kind": "text",
+      "text": "'C-' or below in any Theory* or Practice† course or an F in BLG 10A/B or BLG 101 / BLG 111 in first year, or an F in BLG 131 in second year.",
+      "links": [
+        {
+          "text": "BLG 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/101/"
+        },
+        {
+          "text": "BLG 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/111/"
+        },
+        {
+          "text": "BLG 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Probationary Contract required"
+    },
+    {
+      "kind": "list_item",
+      "text": "Repeat all Theory* course(s) with a grade of 'C-' or below, and/or the Practice† course(s)"
+    },
+    {
+      "kind": "list_item",
+      "text": "Repeat all of the designated corequisite¶ courses with a grade of 'C+' or below"
+    },
+    {
+      "kind": "text",
+      "text": "Required to Withdraw"
+    },
+    {
+      "kind": "text",
+      "text": "Students on Probation who"
+    },
+    {
+      "kind": "list_item",
+      "text": "get a 'C-' or below in a Theory* course other than one in which they previously received a 'C-' or below and/or"
+    },
+    {
+      "kind": "list_item",
+      "text": "get a 'C- or below' in a Practice† course."
+    },
+    {
+      "kind": "text",
+      "text": "May apply for reinstatement after one year."
+    },
+    {
+      "kind": "text",
+      "text": "Permanent Withdrawal"
+    },
+    {
+      "kind": "list_item",
+      "text": "'C-' or below in a repeated Theory* course and/or"
+    },
+    {
+      "kind": "list_item",
+      "text": "A second 'C- or below in any Practice† course, either new or repeated."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applied regardless of GPA"
+    },
+    {
+      "kind": "list_item",
+      "text": "May not apply for readmission to the program."
+    },
+    {
+      "kind": "text",
+      "text": "* Nursing Theory courses: Courses with NSE, NUR, PAT, PPN and NAE prefixes. † Nursing Practice courses: NSE 121 , NSE 211 , NSE 221 , NSE 311 , NSE 321 , NSE 411 , NSE 421 . ¶ Corequisite courses: All Nursing courses in a given year have designated corequisites. All clinical practice courses have Nursing Theory courses as corequisites. Please refer to the Course Descriptions chapter of this calendar.",
+      "links": [
+        {
+          "text": "NSE 121",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/121/"
+        },
+        {
+          "text": "NSE 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/211/"
+        },
+        {
+          "text": "NSE 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/221/"
+        },
+        {
+          "text": "NSE 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/311/"
+        },
+        {
+          "text": "NSE 321",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/321/"
+        },
+        {
+          "text": "NSE 411",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/411/"
+        },
+        {
+          "text": "NSE 421",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nursing/NSE/421/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Graduation Requirement Variation",
+      "links": [
+        {
+          "text": "Graduation Requirement Variation",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "In addition to fulfilling Toronto Metropolitan University's Graduation Requirements, students in all Nursing programs are required to have obtained a minimum grade of 'C' in all nursing theory and practice courses (NCL, NUC, NUR, NSE, PAT, PPN, NAE)."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Advisory Council",
+      "links": [
+        {
+          "text": "Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nursing_collaborative/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Irmajean Bajnok, RN, BScN, MScN, PhD Senior Policy Analyst Registered Nurses Association of Ontario Pam Hubley, RN, MSc, FCAN Vice President & Chief Nurse Executive UHN Ovie Onagbeboma, MBA(c), RN, MBA (Candidate) Founder, Executive Director, Canadian Black Nurses Alliance (CBNA) Clinical Nurse Manager, Long Term Ventilation Service Interim Clinical Nurse Manager, Respiratory Complex Care, West Park Healthcare Centre Jennifer A. D. Price, RN, CCN(C), PhD Vice President, Clinical Programs & Corporate Nursing & Professional Practice Executive, Women's College Hospital Advanced Practice Nurse Cardiology, Women's Cardiovascular Health Initiative Adjunct Professor, Lawrence S Bloomberg Faculty of Nursing, University of Toronto Tiziana Rivera, RN, BSc, MSc, GNC(C), CHE Vice President, Quality & Chief Nursing Executive William Osler Health System"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Nursing - Collaborative Program"
+}

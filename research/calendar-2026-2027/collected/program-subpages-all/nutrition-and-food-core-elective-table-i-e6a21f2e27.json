@@ -1,0 +1,751 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/table_i_ii_open/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "af02d7b66a1a1659a4eb013d939958ed669d590b15671c3f232ddac0232dbf4d",
+  "source_bytes": 63183,
+  "title": "Nutrition and Food Core Elective Table I",
+  "headings": [
+    "Nutrition and Food Core Elective Table I",
+    "Core Elective Table I",
+    "Concentration in Nutrition and Health Research",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "CYC 550",
+    "CYC 560",
+    "CYC 570",
+    "FCS 100",
+    "FCS 101",
+    "FCS 200",
+    "FND 301",
+    "FNF 400",
+    "FNN 301",
+    "FNN 400",
+    "FNP 350",
+    "FNP 400",
+    "FNP 500",
+    "FNP 550",
+    "FNR 320",
+    "FNR 400",
+    "FNR 401",
+    "FNS 400",
+    "FNY 400",
+    "FNY 403",
+    "FNY 405",
+    "FNY 407",
+    "FNY 408",
+    "FNY 409",
+    "FNY 510",
+    "PLN 303"
+  ],
+  "official_links": [
+    {
+      "text": "Nutrition and Food",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "CYC 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+    },
+    {
+      "text": "CYC 560",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+    },
+    {
+      "text": "CYC 570",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+    },
+    {
+      "text": "FCS 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/100/"
+    },
+    {
+      "text": "FCS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+    },
+    {
+      "text": "FCS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+    },
+    {
+      "text": "FND 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FND/301/"
+    },
+    {
+      "text": "FNF 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+    },
+    {
+      "text": "FNN 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNN/301/"
+    },
+    {
+      "text": "FNN 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNN/400/"
+    },
+    {
+      "text": "FNP 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/350/"
+    },
+    {
+      "text": "FNP 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/400/"
+    },
+    {
+      "text": "FNP 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/500/"
+    },
+    {
+      "text": "FNP 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/550/"
+    },
+    {
+      "text": "FNR 320",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/320/"
+    },
+    {
+      "text": "FNR 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/400/"
+    },
+    {
+      "text": "FNR 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/401/"
+    },
+    {
+      "text": "FNS 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNS/400/"
+    },
+    {
+      "text": "FNY 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/400/"
+    },
+    {
+      "text": "FNY 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/403/"
+    },
+    {
+      "text": "FNY 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/405/"
+    },
+    {
+      "text": "FNY 407",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/407/"
+    },
+    {
+      "text": "FNY 408",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/408/"
+    },
+    {
+      "text": "FNY 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/409/"
+    },
+    {
+      "text": "FNY 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/510/"
+    },
+    {
+      "text": "PLN 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physiology/PLN/303/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/table_i_ii_open/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Nutrition and Food Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Nutrition and Food",
+      "links": [
+        {
+          "text": "Nutrition and Food",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Minimum of four (4) courses must be taken from Core Elective Table I."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Minimum of four from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 † Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 550 Foundations of Social Innovation",
+      "links": [
+        {
+          "text": "CYC 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 560 Social Innovation in Practice",
+      "links": [
+        {
+          "text": "CYC 560",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/560/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYC 570 Social Innovation in Action",
+      "links": [
+        {
+          "text": "CYC 570",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/child-and-youth-care/CYC/570/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 100 Working Toward a Just Society",
+      "links": [
+        {
+          "text": "FCS 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 101 Social Justice and Mental Health",
+      "links": [
+        {
+          "text": "FCS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 200 Indigenous Relations in Practice",
+      "links": [
+        {
+          "text": "FCS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FND 301 Product Development",
+      "links": [
+        {
+          "text": "FND 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FND/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNF 400 The Social Context of Human Sexuality",
+      "links": [
+        {
+          "text": "FNF 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/family-studies/FNF/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNN 301 † Intro to Nutrition Management of Human Disease",
+      "links": [
+        {
+          "text": "FNN 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNN/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNN 400 † Advanced Nutrition for Health Promotion",
+      "links": [
+        {
+          "text": "FNN 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNN/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNP 350 † Interpersonal Comm/Counselling Nutrition",
+      "links": [
+        {
+          "text": "FNP 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNP 400 Interprofessional Placement",
+      "links": [
+        {
+          "text": "FNP 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNP 500 Advanced Issues in Nutrition",
+      "links": [
+        {
+          "text": "FNP 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNP 550 † Introduction to Dietetics Practice",
+      "links": [
+        {
+          "text": "FNP 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNP/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNR 320 Foundations of Qualitative Research",
+      "links": [
+        {
+          "text": "FNR 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNR 400 Independent Research Study I",
+      "links": [
+        {
+          "text": "FNR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNR 401 Independent Research Study II",
+      "links": [
+        {
+          "text": "FNR 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNS 400 † Food Service Systems Management",
+      "links": [
+        {
+          "text": "FNS 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNS/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 400 Selected Topics in Food Security",
+      "links": [
+        {
+          "text": "FNY 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 403 Food Security Concepts and Principles",
+      "links": [
+        {
+          "text": "FNY 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 405 Applied Research Methods and Evaluation",
+      "links": [
+        {
+          "text": "FNY 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 407 Community Development and Food Security",
+      "links": [
+        {
+          "text": "FNY 407",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/407/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 408 Urban Food Security",
+      "links": [
+        {
+          "text": "FNY 408",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/408/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 409 Gender and Food Security",
+      "links": [
+        {
+          "text": "FNY 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 510 Indigenous Food Systems in Canada",
+      "links": [
+        {
+          "text": "FNY 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLN 303 Exercise Science and Physiology",
+      "links": [
+        {
+          "text": "PLN 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physiology/PLN/303/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "†Required for application to dietetic practical training programs accredited by Accreditation Canada's EQual Program (external link) .",
+      "links": [
+        {
+          "text": "Accreditation Canada's EQual Program (external link)",
+          "url": "https://www.torontomu.ca/assessment-programs/health-education-accreditation/programs/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Concentration in Nutrition and Health Research"
+    },
+    {
+      "kind": "text",
+      "text": "A Concentration is a structured plan of study within a program (6 to 12 core or core electives) that provides an opportunity for advanced or in-depth study in a particular area of interest. Students must declare their concentration prior to applying to graduate. Courses used to fulfil the requirements of a concentration cannot also be used to fulfil the requirements of a minor."
+    },
+    {
+      "kind": "text",
+      "text": "An optional Concentration may be selected from Core Elective Table I starting in 5th Semester."
+    },
+    {
+      "kind": "text",
+      "text": "To register in the optional Concentration in Nutrition and Health Research, students must first complete the following Table I elective courses: FND 301 *, FNR 320 or FNY 405 , in addition to FNR 400 , and FNR 401 . Students must obtain written approval from a faculty member who agrees to supervise their research in FNR 400 and FNR 401 . In addition, students must complete any three other elective courses from Core Elective Table I.",
+      "links": [
+        {
+          "text": "FND 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FND/301/"
+        },
+        {
+          "text": "FNR 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/320/"
+        },
+        {
+          "text": "FNY 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/405/"
+        },
+        {
+          "text": "FNR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/400/"
+        },
+        {
+          "text": "FNR 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/401/"
+        },
+        {
+          "text": "FNR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/400/"
+        },
+        {
+          "text": "FNR 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A total of six (6) courses are required as follows:"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FNR 400 Independent Research Study I",
+      "links": [
+        {
+          "text": "FNR 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNR 401 Independent Research Study II",
+      "links": [
+        {
+          "text": "FNR 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Required Group 1: One of:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FND 301 * Product Development",
+      "links": [
+        {
+          "text": "FND 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FND/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNR 320 Foundations of Qualitative Research",
+      "links": [
+        {
+          "text": "FNR 320",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FNR/320/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FNY 405 Applied Research Methods and Evaluation",
+      "links": [
+        {
+          "text": "FNY 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/food-security/FNY/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) other elective courses from Core Elective Table I (opens in new window) . * FND 301 is a Required Group 1 course only for students admitted Fall 2024 and after.",
+      "links": [
+        {
+          "text": "Core Elective Table I (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/nutrition/table_i_ii_open/"
+        },
+        {
+          "text": "FND 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/nutrition-and-food/FND/301/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Nutrition and Food Core Elective Table I"
+}

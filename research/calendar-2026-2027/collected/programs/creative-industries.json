@@ -1,0 +1,1102 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "8cb85d9a87fbcdce2eb2737cf7a95f4aa11384a6588ac2caa7038323be673653",
+  "source_bytes": 90434,
+  "title": "Creative Industries",
+  "headings": [
+    "Creative Industries",
+    "Admission Information",
+    "Program Overview/Curriculum Information",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four Year Program (for students admitted Fall 2023 to Fall 2024)",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Four-Year Program (for students admitted Fall 2025 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BSM 100",
+    "BSM 200",
+    "BSM 600",
+    "CMN 210",
+    "CMN 313",
+    "CRI 100",
+    "CRI 200",
+    "CRI 300",
+    "CRI 460",
+    "CRI 500",
+    "CRI 700",
+    "CRI 800",
+    "CRI 810",
+    "CSE 100",
+    "CSE 200",
+    "CSE 300",
+    "CSE 310",
+    "FCD 800",
+    "MKT 100",
+    "PLX 111"
+  ],
+  "official_links": [
+    {
+      "text": "The Creative School",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "BSM 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/600/"
+    },
+    {
+      "text": "CRI 460",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/460/"
+    },
+    {
+      "text": "CRI 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/700/"
+    },
+    {
+      "text": "CMN 313",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/313/"
+    },
+    {
+      "text": "FCD 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/800/"
+    },
+    {
+      "text": "Table II (Creative-Content Modules).",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "CRI 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+    },
+    {
+      "text": "CRI 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/800/"
+    },
+    {
+      "text": "CRI 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/810/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_i/"
+    },
+    {
+      "text": "BSM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+    },
+    {
+      "text": "CRI 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/100/"
+    },
+    {
+      "text": "PLX 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/111/"
+    },
+    {
+      "text": "CSE 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+    },
+    {
+      "text": "BSM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+    },
+    {
+      "text": "CMN 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/210/"
+    },
+    {
+      "text": "CRI 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/200/"
+    },
+    {
+      "text": "CRI 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+    },
+    {
+      "text": "CSE 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "CSE 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/300/"
+    },
+    {
+      "text": "CSE 310",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Creative Industries"
+    },
+    {
+      "kind": "text",
+      "text": "The Creative School",
+      "links": [
+        {
+          "text": "The Creative School",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Arts (BA)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "School of Creative Industries",
+      "links": [
+        {
+          "text": "School of Creative Industries",
+          "url": "https://www.torontomu.ca/content/ryerson/creativeindustries/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U English. Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "A grade of 70 percent or higher will be required in Grade 12 U English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Core courses develop your competencies in communication, digital technology, critical thinking, research design, collaboration and teamwork while informing you about the economic, legal, political and technological environment in which Canadian and international creative enterprises function."
+    },
+    {
+      "kind": "text",
+      "text": "As you proceed through the program you select two Creative-Content Modules from Table II to focus your studies. These modules of five courses offer students exposure to creative fields, including film, television, live performance, music, publishing, news media and fashion. You’ll learn about the historical, creative and production aspects of these fields while examining how they function as businesses, both domestically and globally. At the same time, you undertake several business courses that provide you with the foundational business, management and entrepreneurial skills vital to your future career. The interdisciplinary design of the program and the broad range of elective choice give you the flexibility to shape your studies to fit your personal interests and aspirations. You may also elect to combine your program with a minor in another discipline. The University’s downtown location in Canada’s media, artistic and financial capital provides an ideal setting for the study of the Creative Industries and for your work between your third and fourth year."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four Year Program (for students admitted Fall 2023 to Fall 2024)",
+      "links": [
+        {
+          "text": "Full-Time, Four Year Program (for students admitted Fall 2023 to Fall 2024)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2026-2027 to students admitted Fall 2024."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 600 The Mature Business",
+      "links": [
+        {
+          "text": "BSM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 460 Financial Management for Creatives",
+      "links": [
+        {
+          "text": "CRI 460",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/460/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 700 HR in Creative Industries",
+      "links": [
+        {
+          "text": "CRI 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 313 Organizational Report Writing",
+      "links": [
+        {
+          "text": "CMN 313",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/313/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 800 Foundations of Research Methods",
+      "links": [
+        {
+          "text": "FCD 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table II (Creative-Content Modules) .",
+      "links": [
+        {
+          "text": "Table II (Creative-Content Modules)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Last offered 2027-2028 to students admitted Fall 2024."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 500 Project Management",
+      "links": [
+        {
+          "text": "CRI 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 800 Managing Creative Enterprises",
+      "links": [
+        {
+          "text": "CRI 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 810 Studies in Creative Collaboration",
+      "links": [
+        {
+          "text": "CRI 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II (Creative-Content Modules).",
+      "links": [
+        {
+          "text": "Table II (Creative-Content Modules).",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and after)",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program (for students admitted Fall 2025 and after)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 100 The New Business: From Idea to Reality",
+      "links": [
+        {
+          "text": "BSM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 100 Creative Industries Overview",
+      "links": [
+        {
+          "text": "CRI 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 111 Imagining the Creative City",
+      "links": [
+        {
+          "text": "PLX 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 100 Wicked Problems and Creative Interventions",
+      "links": [
+        {
+          "text": "CSE 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 200 The Growing Business: Breaking Even",
+      "links": [
+        {
+          "text": "BSM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 210 Text, Image and Sound",
+      "links": [
+        {
+          "text": "CMN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 200 IP Issues in the Digital Age",
+      "links": [
+        {
+          "text": "CRI 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II (Creative-Content Modules)",
+      "links": [
+        {
+          "text": "Table II (Creative-Content Modules)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2026-2027 to students admitted Fall 2025 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BSM 600 The Mature Business",
+      "links": [
+        {
+          "text": "BSM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business-essentials/BSM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 300 Digital Design Studio",
+      "links": [
+        {
+          "text": "CRI 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 200 Creative Strategic Foresight",
+      "links": [
+        {
+          "text": "CSE 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II (Creative-Content Modules) .",
+      "links": [
+        {
+          "text": "Table II (Creative-Content Modules)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2027-2028 to students admitted Fall 2025 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 460 Financial Management for Creatives",
+      "links": [
+        {
+          "text": "CRI 460",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/460/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 700 HR in Creative Industries",
+      "links": [
+        {
+          "text": "CRI 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 800 Foundations of Research Methods",
+      "links": [
+        {
+          "text": "FCD 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 300 Creative Global Masterclass",
+      "links": [
+        {
+          "text": "CSE 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CSE 310 * International Context",
+      "links": [
+        {
+          "text": "CSE 310",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-school-experience/CSE/310/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Four courses from Table II (Creative-Content Modules) .",
+      "links": [
+        {
+          "text": "Table II (Creative-Content Modules)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Not available if taken as a Core Elective Table I course."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "First offered 2028-2029 to students admitted Fall 2025 and after."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 500 Project Management",
+      "links": [
+        {
+          "text": "CRI 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 800 Managing Creative Enterprises",
+      "links": [
+        {
+          "text": "CRI 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRI 810 Studies in Creative Collaboration",
+      "links": [
+        {
+          "text": "CRI 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/creative-industries/CRI/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II (Creative-Content Modules).",
+      "links": [
+        {
+          "text": "Table II (Creative-Content Modules).",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/table_i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/creative_industries/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bunmi Adaoye Senior Vice President Proof Strategies Connie Chan Creative Product Marketing Lead TikTok Nancy Chu Employer Brand Specialist, Digital Media KPMG Kadon Douglas Executive Director BIPOC TV & FILM Zach Dugdale Production Manager, Cinematics Ubisoft Ashlee Froese Lawyer and Trademark agent Froese Law"
+    },
+    {
+      "kind": "text",
+      "text": "Marc Gamboa Operations Manager Bather Ainsley Gilkinson Director, National Media Relations Sony Music Umair Jaffar CEO Small World Aakanksha (Ashlie) Luthra Producer Juliet Creative"
+    },
+    {
+      "kind": "text",
+      "text": "Diane Mahoney Partner, VP Client Services Bruce Mau Design (PAC Chair)"
+    },
+    {
+      "kind": "text",
+      "text": "John Schoales Senior Policy Advisor Ontario Ministry of Tourism, Culture & Sport"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Creative Industries"
+}

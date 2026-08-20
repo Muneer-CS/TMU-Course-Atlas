@@ -1,0 +1,265 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/publichealth/pubhealth_core_tablei/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "895ebecd33113479cfbd22fbe07eee2926973b6f2620600e19b1cae5c5343b95",
+  "source_bytes": 51967,
+  "title": "Public Health Core Elective Table I",
+  "headings": [
+    "Public Health Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "ENH 324",
+    "ENH 505",
+    "ENH 610",
+    "FCS 101",
+    "FCS 200",
+    "POH 400",
+    "POH 410",
+    "POH 420",
+    "POH 430",
+    "POH 440",
+    "PUB 409",
+    "PUB 508",
+    "PUB 609",
+    "PUB 800",
+    "PUB 808"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Community Services",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+    },
+    {
+      "text": "ENH 324",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/324/"
+    },
+    {
+      "text": "ENH 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/505/"
+    },
+    {
+      "text": "ENH 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/610/"
+    },
+    {
+      "text": "FCS 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+    },
+    {
+      "text": "FCS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+    },
+    {
+      "text": "POH 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/400/"
+    },
+    {
+      "text": "POH 410",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/410/"
+    },
+    {
+      "text": "POH 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/420/"
+    },
+    {
+      "text": "POH 430",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/430/"
+    },
+    {
+      "text": "POH 440",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/440/"
+    },
+    {
+      "text": "PUB 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/409/"
+    },
+    {
+      "text": "PUB 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/508/"
+    },
+    {
+      "text": "PUB 609",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/609/"
+    },
+    {
+      "text": "PUB 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/800/"
+    },
+    {
+      "text": "PUB 808",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/808/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Public Health Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Community Services",
+      "links": [
+        {
+          "text": "Faculty of Community Services",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 324 * Wastewater Treatment Systems",
+      "links": [
+        {
+          "text": "ENH 324",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/324/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 505 * Infection Control",
+      "links": [
+        {
+          "text": "ENH 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/505/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENH 610 Parasitology and Pest Control",
+      "links": [
+        {
+          "text": "ENH 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/environmental-health/ENH/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 101 Social Justice and Mental Health",
+      "links": [
+        {
+          "text": "FCS 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 200 Indigenous Relations in Practice",
+      "links": [
+        {
+          "text": "FCS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 400 Global Health",
+      "links": [
+        {
+          "text": "POH 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 410 Climate Change and Health",
+      "links": [
+        {
+          "text": "POH 410",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/410/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 420 Addictions and Mental Health",
+      "links": [
+        {
+          "text": "POH 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 430 Rural, Remote, and Equity Health",
+      "links": [
+        {
+          "text": "POH 430",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/430/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "POH 440 Chronic Disease and Injury Prevention",
+      "links": [
+        {
+          "text": "POH 440",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health-and-occupational-health/POH/440/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 409 * Water Quality I",
+      "links": [
+        {
+          "text": "PUB 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 508 * Food Safety",
+      "links": [
+        {
+          "text": "PUB 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 609 * Water Quality II",
+      "links": [
+        {
+          "text": "PUB 609",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/609/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 800 * Advanced Professional Practice",
+      "links": [
+        {
+          "text": "PUB 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PUB 808 * Food Safety Management",
+      "links": [
+        {
+          "text": "PUB 808",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/public-health/PUB/808/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*For students enrolled in Optional Specialization in Public Health Inspection: Core course contributing to the CIPHI Instructional Objectives. Must be completed with a 60% passing grade to be considered for CIPHI certification post-graduation."
+    }
+  ],
+  "inventory_name": "Public Health - Table I"
+}

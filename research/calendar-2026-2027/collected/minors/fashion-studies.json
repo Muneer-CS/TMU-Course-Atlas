@@ -1,0 +1,768 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/fashion_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "e7236308ebb6c82dfa73619adc77ca2a495de4ed42a86db01f4e56e2810a4ef9",
+  "source_bytes": 61306,
+  "title": "Minor in Fashion Studies",
+  "headings": [
+    "Minor in Fashion Studies"
+  ],
+  "course_codes_referenced": [
+    "FFS 102",
+    "FFS 110",
+    "FFS 120",
+    "FFS 200",
+    "FFS 402",
+    "FFS 511",
+    "FFS 702",
+    "FFS 710",
+    "FSN 105",
+    "FSN 123",
+    "FSN 132",
+    "FSN 199",
+    "FSN 203",
+    "FSN 223",
+    "FSN 224",
+    "FSN 232",
+    "FSN 302",
+    "FSN 304",
+    "FSN 400",
+    "FSN 503",
+    "FSN 504",
+    "FSN 508",
+    "FSN 509",
+    "FSN 510",
+    "FSN 525",
+    "FSN 555",
+    "FSN 556",
+    "FSN 600",
+    "FSN 605",
+    "FSN 610",
+    "FSN 620",
+    "FSN 631",
+    "FSN 704",
+    "FSN 706"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+    },
+    {
+      "text": "FSN 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/223/"
+    },
+    {
+      "text": "FSN 105",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/105/"
+    },
+    {
+      "text": "FSN 123",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/123/"
+    },
+    {
+      "text": "FSN 199",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/199/"
+    },
+    {
+      "text": "FFS 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/102/"
+    },
+    {
+      "text": "FFS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/110/"
+    },
+    {
+      "text": "FFS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/120/"
+    },
+    {
+      "text": "FFS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/200/"
+    },
+    {
+      "text": "FFS 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/402/"
+    },
+    {
+      "text": "FFS 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/511/"
+    },
+    {
+      "text": "FFS 702",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/702/"
+    },
+    {
+      "text": "FFS 710",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/710/"
+    },
+    {
+      "text": "FSN 132",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/132/"
+    },
+    {
+      "text": "FSN 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/203/"
+    },
+    {
+      "text": "FSN 224",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/224/"
+    },
+    {
+      "text": "FSN 232",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/232/"
+    },
+    {
+      "text": "FSN 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/302/"
+    },
+    {
+      "text": "FSN 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/304/"
+    },
+    {
+      "text": "FSN 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/400/"
+    },
+    {
+      "text": "FSN 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/503/"
+    },
+    {
+      "text": "FSN 504",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/504/"
+    },
+    {
+      "text": "FSN 508",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/508/"
+    },
+    {
+      "text": "FSN 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/509/"
+    },
+    {
+      "text": "FSN 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/510/"
+    },
+    {
+      "text": "FSN 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/525/"
+    },
+    {
+      "text": "FSN 555",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/555/"
+    },
+    {
+      "text": "FSN 556",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/556/"
+    },
+    {
+      "text": "FSN 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/600/"
+    },
+    {
+      "text": "FSN 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/605/"
+    },
+    {
+      "text": "FSN 610",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/610/"
+    },
+    {
+      "text": "FSN 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/620/"
+    },
+    {
+      "text": "FSN 631",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/631/"
+    },
+    {
+      "text": "FSN 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/704/"
+    },
+    {
+      "text": "FSN 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/706/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/fashion_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Fashion Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Fashion Studies Minor will allow students to pursue a primarily lecture-based overview of the fashion industry, including history, design, textiles, and marketing. The Minor is of interest to students not enrolled in the School of Fashion who wish to understand the various components of the fashion industry."
+    },
+    {
+      "kind": "text",
+      "text": "Required courses include a focus on both design and commercial aspects which explores the use of trend information and appropriate material selection for different segments of the fashion marketplace."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: School of Fashion"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion Communication",
+      "links": [
+        {
+          "text": "Fashion Communication",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion Design",
+      "links": [
+        {
+          "text": "Fashion Design",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Fashion (for students admitted Fall 2020 and after)",
+      "links": [
+        {
+          "text": "Fashion",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/fashion/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Required courses (1):"
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 223 Fashion Concepts and Theory",
+      "links": [
+        {
+          "text": "FSN 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/223/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Required Group 1: One (1) course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 105 Fashion Systems",
+      "links": [
+        {
+          "text": "FSN 105",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/105/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 123 Intro to Fashion",
+      "links": [
+        {
+          "text": "FSN 123",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/123/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 199 Fashion: The Industry",
+      "links": [
+        {
+          "text": "FSN 199",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/199/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus four (4) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 102 Dress, the Body, and Identity",
+      "links": [
+        {
+          "text": "FFS 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 110 Art and Historical Change: Revival and Renewal",
+      "links": [
+        {
+          "text": "FFS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 120 Fashion and Race",
+      "links": [
+        {
+          "text": "FFS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 200 Textile Histories",
+      "links": [
+        {
+          "text": "FFS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 402 Fashion and Modernity",
+      "links": [
+        {
+          "text": "FFS 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 511 Fashion and Material Culture",
+      "links": [
+        {
+          "text": "FFS 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/511/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 702 Fashion and Abject Body",
+      "links": [
+        {
+          "text": "FFS 702",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/702/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FFS 710 Post-Colonial Perspectives",
+      "links": [
+        {
+          "text": "FFS 710",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion---fashion-studies/FFS/710/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 132 History of Art",
+      "links": [
+        {
+          "text": "FSN 132",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/132/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 203 History of Design",
+      "links": [
+        {
+          "text": "FSN 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/203/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 224 Fashion History in Context",
+      "links": [
+        {
+          "text": "FSN 224",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/224/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 232 History of Art II",
+      "links": [
+        {
+          "text": "FSN 232",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/232/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 302 Fashion Histories: Ancient to Pre-modern",
+      "links": [
+        {
+          "text": "FSN 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 304 Fashion Journalism and Copy Writing",
+      "links": [
+        {
+          "text": "FSN 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 400 Fashion in International Markets",
+      "links": [
+        {
+          "text": "FSN 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 503 Critical Issues in Design",
+      "links": [
+        {
+          "text": "FSN 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 504 Fashioning Feminism",
+      "links": [
+        {
+          "text": "FSN 504",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/504/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 508 World Fashion: Contemporary Perspectives",
+      "links": [
+        {
+          "text": "FSN 508",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/508/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 509 Topics in Fashion History and Theory",
+      "links": [
+        {
+          "text": "FSN 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 510 Fashion Film, Cinema and New Media",
+      "links": [
+        {
+          "text": "FSN 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 525 Indigenous Fashion",
+      "links": [
+        {
+          "text": "FSN 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 555 History of Fashion Illustration",
+      "links": [
+        {
+          "text": "FSN 555",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/555/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 556 Design and Cultural Diversity",
+      "links": [
+        {
+          "text": "FSN 556",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/556/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 600 Design Justice",
+      "links": [
+        {
+          "text": "FSN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 605 Fashioning Queer Futures",
+      "links": [
+        {
+          "text": "FSN 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/605/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 610 Carnival Arts",
+      "links": [
+        {
+          "text": "FSN 610",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/610/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 620 Black Fashion",
+      "links": [
+        {
+          "text": "FSN 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 631 Fashion and Popular Culture in East Asia",
+      "links": [
+        {
+          "text": "FSN 631",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/631/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 704 Dress-Cultural Transformation",
+      "links": [
+        {
+          "text": "FSN 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 706 Fashion Event Planning",
+      "links": [
+        {
+          "text": "FSN 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/706/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Fashion Studies"
+}

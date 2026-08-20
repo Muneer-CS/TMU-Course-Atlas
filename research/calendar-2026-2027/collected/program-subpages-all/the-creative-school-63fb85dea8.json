@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "efab42edc5e158e9eda37e43bc2c756475dcd2e7381f83e99811de01421d32d0",
+  "source_bytes": 47255,
+  "title": "The Creative School",
+  "headings": [
+    "The Creative School",
+    "Undergraduate Programs Listed Alphabetically"
+  ],
+  "course_codes_referenced": [],
+  "official_links": [],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "The Creative School"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Undergraduate Programs Listed Alphabetically"
+    }
+  ],
+  "inventory_name": "The Creative School"
+}

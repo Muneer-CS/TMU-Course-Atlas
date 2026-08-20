@@ -1,0 +1,4279 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "3b6307a4e8647af33b0110108c6c4dc03864e4de5a787e620dd03c9c643e5003",
+  "source_bytes": 222207,
+  "title": "Business Management - Real Estate Management Major",
+  "headings": [
+    "Business Management - Real Estate Management Major",
+    "Program Overview",
+    "Optional Co-operative Program Overview",
+    "Full-Time, Four-Year Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Five-Year Co-Op Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Full-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Full-Time, Third-Year Direct Entry Co-op Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Part-Time, First-Year Entry Program",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Part-Time, Third-Year Direct Entry Program",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ACC 406",
+    "BUS 800",
+    "ECN 104",
+    "ECN 204",
+    "ENT 101",
+    "FIN 300",
+    "FIN 401",
+    "GEO 151",
+    "GEO 231",
+    "GEO 719",
+    "GMS 200",
+    "GMS 401",
+    "HTL 510",
+    "ITM 102",
+    "LAW 122",
+    "LAW 603",
+    "LAW 703",
+    "MHR 523",
+    "MKT 100",
+    "PLX 333",
+    "QMS 110",
+    "QMS 210",
+    "REM 300",
+    "REM 400",
+    "REM 420",
+    "REM 500",
+    "REM 520",
+    "REM 600",
+    "REM 620",
+    "REM 660",
+    "REM 680",
+    "REM 700",
+    "REM 750",
+    "REM 770",
+    "REM 800",
+    "REM 805",
+    "WKT 100",
+    "WKT 117",
+    "WKT 200",
+    "WKT 217",
+    "WKT 300",
+    "WKT 317",
+    "WKT 400",
+    "WKT 417"
+  ],
+  "official_links": [
+    {
+      "text": "Business Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "GMS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "REM 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+    },
+    {
+      "text": "ACC 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+    },
+    {
+      "text": "ITM 102",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+    },
+    {
+      "text": "REM 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+    },
+    {
+      "text": "REM 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+    },
+    {
+      "text": "FIN 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+    },
+    {
+      "text": "REM 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+    },
+    {
+      "text": "REM 520",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+    },
+    {
+      "text": "LAW 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+    },
+    {
+      "text": "GEO 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+    },
+    {
+      "text": "GEO 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+    },
+    {
+      "text": "GEO 719",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+    },
+    {
+      "text": "HTL 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+    },
+    {
+      "text": "LAW 703",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+    },
+    {
+      "text": "PLX 333",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+    },
+    {
+      "text": "REM 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+    },
+    {
+      "text": "REM 620",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+    },
+    {
+      "text": "REM 660",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+    },
+    {
+      "text": "REM 680",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+    },
+    {
+      "text": "REM 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+    },
+    {
+      "text": "REM 770",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+    },
+    {
+      "text": "REM 805",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "BUS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+    },
+    {
+      "text": "REM 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+    },
+    {
+      "text": "REM 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+    },
+    {
+      "text": "WKT 117",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/117/"
+    },
+    {
+      "text": "WKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+    },
+    {
+      "text": "WKT 217",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/217/"
+    },
+    {
+      "text": "WKT 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+    },
+    {
+      "text": "WKT 317",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/317/"
+    },
+    {
+      "text": "WKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+    },
+    {
+      "text": "WKT 417",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/417/"
+    },
+    {
+      "text": "WKT 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Management - Real Estate Management Major"
+    },
+    {
+      "kind": "text",
+      "text": "Business Management",
+      "links": [
+        {
+          "text": "Business Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview",
+      "links": [
+        {
+          "text": "Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Real estate propels the local and national economy. Learn the skills that will allow you to flourish in the housing and commercial property arenas, such as real estate finance, property development, economics, sustainability and real estate law."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Optional Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Optional Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section(s). The School offers an optional co-op program which provides graduates with up to 16 months of work experience integrated into their academic program. The co-op option extends the program by one year. The School cannot guarantee work term jobs, but the Business Career Hub and the School will prospect for employers and make every effort to locate suitable positions, as well as be available to advise students on their search for program related jobs. The co-op program enables students to earn prevailing wages for the level of responsibility and contribution of the jobs they perform and thus finance at least part of their university education."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management & Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE : Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt.",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 800 Real Estate Project Capstone",
+      "links": [
+        {
+          "text": "REM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Department Consent is needed to enrol in REM 805 .",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Five-Year Co-Op Program",
+      "links": [
+        {
+          "text": "Full-Time, Five-Year Co-Op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option after the fourth semester of the program. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.00 (or higher). Subject to competition, grades above the minimum may be required"
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communication skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester (offered in Winter Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt.",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 800 Real Estate Project Capstone",
+      "links": [
+        {
+          "text": "REM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 117 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 117",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/117/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 217 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 217",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/217/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 317 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/317/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 417 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/417/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Full-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt.",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 800 Real Estate Project Capstone",
+      "links": [
+        {
+          "text": "REM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Third-Year Direct Entry Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Third-Year Direct Entry Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to be considered for this program must apply for admission into the co-op option by October 1. Admission into the co-op program is based on the following four items:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Recommended CGPA of 3.00 (or higher). Subject to competition, grades above the minimum may be required"
+    },
+    {
+      "kind": "list_item",
+      "text": "Evidence of superior oral and written communication skills"
+    },
+    {
+      "kind": "list_item",
+      "text": "Interview"
+    },
+    {
+      "kind": "list_item",
+      "text": "Resume/Cover Letter"
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester (offered in Winter Only)"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt.",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 800 Real Estate Project Capstone",
+      "links": [
+        {
+          "text": "REM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Department Consent is needed to enrol in REM 805 .",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Department Consent is needed to enrol in REM 805 .",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The sequencing of academic and work terms is shown below:"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 117 or WKT 100 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 117",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/117/"
+        },
+        {
+          "text": "WKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 217 or WKT 200 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 217",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/217/"
+        },
+        {
+          "text": "WKT 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 317 or WKT 300 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/317/"
+        },
+        {
+          "text": "WKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 417 or WKT 400 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/417/"
+        },
+        {
+          "text": "WKT 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/400/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Please be advised that this schedule may be subject to revisions."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the Co-op Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students are expected to follow the sequence prescribed for their program. Graduation with the co-op designation requires successful completion of a minimum of 3 work terms."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 401 Operations Management",
+      "links": [
+        {
+          "text": "GMS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 * Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 406 Introduction Management Accounting",
+      "links": [
+        {
+          "text": "ACC 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 102 * Business Information Systems",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ITM 102 and LAW 122 will be timetabled either in the 3rd or 4th semester.",
+      "links": [
+        {
+          "text": "ITM 102",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/102/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 800 Real Estate Project Capstone",
+      "links": [
+        {
+          "text": "REM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time, Third-Year Direct Entry Program",
+      "links": [
+        {
+          "text": "Part-Time, Third-Year Direct Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/real_estate_management_major/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Direct Entry students will normally be admitted into 5th semester (3rd Year) of this program. Students should refer to their Offer of Admission for details."
+    },
+    {
+      "kind": "text",
+      "text": "Direct entry students must complete the curriculum below, in addition to the following reachback courses. Reachback courses are courses from the first four semesters of the program that must be completed in order to graduate."
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 300 Managerial Finance I",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 122 Business Law",
+      "links": [
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 300 Introduction to Real Estate Management",
+      "links": [
+        {
+          "text": "REM 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 420 Sustainability in Real Estate",
+      "links": [
+        {
+          "text": "REM 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 700 Real Estate Valuation",
+      "links": [
+        {
+          "text": "REM 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/700/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "FIN 401 Managerial Finance II",
+      "links": [
+        {
+          "text": "FIN 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/401/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 400 Real Estate Development Finance",
+      "links": [
+        {
+          "text": "REM 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 520 Real Estate Economics",
+      "links": [
+        {
+          "text": "REM 520",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/520/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 603 Advanced Business Law",
+      "links": [
+        {
+          "text": "LAW 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/603/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 151 Location, Location, Location",
+      "links": [
+        {
+          "text": "GEO 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 231 Principles of Demography",
+      "links": [
+        {
+          "text": "GEO 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GEO 719 GIS in Business: Strategic Mgmt Decisions",
+      "links": [
+        {
+          "text": "GEO 719",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/geography/GEO/719/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "HTL 510 Hotel Real Estate Management",
+      "links": [
+        {
+          "text": "HTL 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/hospitality-and-tourism-management/HTL/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 703 Real Estate Law",
+      "links": [
+        {
+          "text": "LAW 703",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/703/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLX 333 City Building: Planning for Non-Planners",
+      "links": [
+        {
+          "text": "PLX 333",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLX/333/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives LIBERAL STUDIES: Two courses from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        },
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 800 Strategic Management",
+      "links": [
+        {
+          "text": "BUS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 500 Real Estate Development and Project Mgmt",
+      "links": [
+        {
+          "text": "REM 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 800 Real Estate Project Capstone",
+      "links": [
+        {
+          "text": "REM 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 600 Housing and Construction Management",
+      "links": [
+        {
+          "text": "REM 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 620 Real Estate Investment Analysis",
+      "links": [
+        {
+          "text": "REM 620",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/620/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 660 Real Estate Strategic Management",
+      "links": [
+        {
+          "text": "REM 660",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/660/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 680 Special Topics in Real Estate Management",
+      "links": [
+        {
+          "text": "REM 680",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/680/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 750 Real Estate Research Methods",
+      "links": [
+        {
+          "text": "REM 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 770 Global Real Estate",
+      "links": [
+        {
+          "text": "REM 770",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/770/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "REM 805 * Real Estate Management Research Project",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Three Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Departmental consent is needed to enrol in REM 805",
+      "links": [
+        {
+          "text": "REM 805",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/real-estate-management/REM/805/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Business Management - Real Estate Management Major"
+}

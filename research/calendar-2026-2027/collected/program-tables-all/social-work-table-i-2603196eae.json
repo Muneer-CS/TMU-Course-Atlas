@@ -1,0 +1,1003 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "970e1c8466a6bfdd9360f1297bb8838bb41fa5ee5427195e240d6ffb738a54f6",
+  "source_bytes": 65636,
+  "title": "Social Work Core Elective Table I",
+  "headings": [
+    "Social Work Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "FCS 400",
+    "INT 900",
+    "INT 901",
+    "INT 902",
+    "INT 904",
+    "INT 905",
+    "INT 906",
+    "INT 907",
+    "INT 908",
+    "INT 910",
+    "INT 911",
+    "INT 913",
+    "INT 914",
+    "INT 915",
+    "INT 916",
+    "INT 917",
+    "INT 920",
+    "INT 921",
+    "INT 922",
+    "INT 923",
+    "INT 930",
+    "INT 935",
+    "INT 940",
+    "INT 945",
+    "INT 960",
+    "INT 965",
+    "SWP 900",
+    "SWP 901",
+    "SWP 902",
+    "SWP 903",
+    "SWP 905",
+    "SWP 906",
+    "SWP 907",
+    "SWP 908",
+    "SWP 909",
+    "SWP 910",
+    "SWP 914",
+    "SWP 915",
+    "SWP 916",
+    "SWP 917",
+    "SWP 918",
+    "SWP 919",
+    "SWP 920",
+    "SWP 921",
+    "SWP 923",
+    "SWP 924",
+    "SWP 925",
+    "SWP 926",
+    "SWP 927",
+    "SWP 928",
+    "SWP 929",
+    "SWP 930",
+    "SWP 931",
+    "SWP 932",
+    "SWP 933",
+    "SWP 934",
+    "SWP 935",
+    "SWP 936",
+    "SWP 937",
+    "SWP 938",
+    "SWP 939",
+    "SWP 950",
+    "SWP 951"
+  ],
+  "official_links": [
+    {
+      "text": "Social Work",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+    },
+    {
+      "text": "FCS 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/400/"
+    },
+    {
+      "text": "INT 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/900/"
+    },
+    {
+      "text": "INT 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/901/"
+    },
+    {
+      "text": "INT 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+    },
+    {
+      "text": "INT 904",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+    },
+    {
+      "text": "INT 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+    },
+    {
+      "text": "INT 906",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/906/"
+    },
+    {
+      "text": "INT 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+    },
+    {
+      "text": "INT 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+    },
+    {
+      "text": "INT 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+    },
+    {
+      "text": "INT 911",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+    },
+    {
+      "text": "INT 913",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/913/"
+    },
+    {
+      "text": "INT 914",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/914/"
+    },
+    {
+      "text": "INT 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/915/"
+    },
+    {
+      "text": "INT 916",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/916/"
+    },
+    {
+      "text": "INT 917",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/917/"
+    },
+    {
+      "text": "INT 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/920/"
+    },
+    {
+      "text": "INT 921",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/921/"
+    },
+    {
+      "text": "INT 922",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/922/"
+    },
+    {
+      "text": "INT 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/923/"
+    },
+    {
+      "text": "INT 930",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/930/"
+    },
+    {
+      "text": "INT 935",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/935/"
+    },
+    {
+      "text": "INT 940",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/940/"
+    },
+    {
+      "text": "INT 945",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/945/"
+    },
+    {
+      "text": "INT 960",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/960/"
+    },
+    {
+      "text": "INT 965",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/965/"
+    },
+    {
+      "text": "SWP 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/900/"
+    },
+    {
+      "text": "SWP 901",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/901/"
+    },
+    {
+      "text": "SWP 902",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/902/"
+    },
+    {
+      "text": "SWP 903",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/903/"
+    },
+    {
+      "text": "SWP 905",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/905/"
+    },
+    {
+      "text": "SWP 906",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/906/"
+    },
+    {
+      "text": "SWP 907",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/907/"
+    },
+    {
+      "text": "SWP 908",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/908/"
+    },
+    {
+      "text": "SWP 909",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/909/"
+    },
+    {
+      "text": "SWP 910",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/910/"
+    },
+    {
+      "text": "SWP 914",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/914/"
+    },
+    {
+      "text": "SWP 915",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/915/"
+    },
+    {
+      "text": "SWP 916",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/916/"
+    },
+    {
+      "text": "SWP 917",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/917/"
+    },
+    {
+      "text": "SWP 918",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/918/"
+    },
+    {
+      "text": "SWP 919",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/919/"
+    },
+    {
+      "text": "SWP 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/920/"
+    },
+    {
+      "text": "SWP 921",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/921/"
+    },
+    {
+      "text": "SWP 923",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/923/"
+    },
+    {
+      "text": "SWP 924",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/924/"
+    },
+    {
+      "text": "SWP 925",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/925/"
+    },
+    {
+      "text": "SWP 926",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/926/"
+    },
+    {
+      "text": "SWP 927",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/927/"
+    },
+    {
+      "text": "SWP 928",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/928/"
+    },
+    {
+      "text": "SWP 929",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/929/"
+    },
+    {
+      "text": "SWP 930",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/930/"
+    },
+    {
+      "text": "SWP 931",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/931/"
+    },
+    {
+      "text": "SWP 932",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/932/"
+    },
+    {
+      "text": "SWP 933",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/933/"
+    },
+    {
+      "text": "SWP 934",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/934/"
+    },
+    {
+      "text": "SWP 935",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/935/"
+    },
+    {
+      "text": "SWP 936",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/936/"
+    },
+    {
+      "text": "SWP 937",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/937/"
+    },
+    {
+      "text": "SWP 938",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/938/"
+    },
+    {
+      "text": "SWP 939",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/939/"
+    },
+    {
+      "text": "SWP 950",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/950/"
+    },
+    {
+      "text": "SWP 951",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/951/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Social Work Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Social Work",
+      "links": [
+        {
+          "text": "Social Work",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/community/socialwork/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCS 400 Indigenous Sovereignty in Practice",
+      "links": [
+        {
+          "text": "FCS 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fundamentals-of-community-service/FCS/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 900 Program Planning and Evaluation Strategies",
+      "links": [
+        {
+          "text": "INT 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 901 * Gerontology: Critical Issues and Future Trends",
+      "links": [
+        {
+          "text": "INT 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 902 *†† Disability Issues",
+      "links": [
+        {
+          "text": "INT 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 904 Health Promotion and Community Development",
+      "links": [
+        {
+          "text": "INT 904",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/904/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 905 Conflict Resolution in Community Services",
+      "links": [
+        {
+          "text": "INT 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 906 Sexuality: Power and Pleasure",
+      "links": [
+        {
+          "text": "INT 906",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/906/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 907 Team Work for Community Services",
+      "links": [
+        {
+          "text": "INT 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 908 Homelessness in Canadian Society",
+      "links": [
+        {
+          "text": "INT 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 910 † Indigenous Peoples, Pol and Reconciliation",
+      "links": [
+        {
+          "text": "INT 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 911 International Community Development",
+      "links": [
+        {
+          "text": "INT 911",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/911/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 913 Issues of Migration",
+      "links": [
+        {
+          "text": "INT 913",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/913/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 914 Settlement Experiences",
+      "links": [
+        {
+          "text": "INT 914",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/914/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 915 Responses to Migration",
+      "links": [
+        {
+          "text": "INT 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 916 Introduction to Fundraising",
+      "links": [
+        {
+          "text": "INT 916",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/916/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 917 Interprof. Ed for Community Development",
+      "links": [
+        {
+          "text": "INT 917",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/917/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 920 Community Collaborations",
+      "links": [
+        {
+          "text": "INT 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 921 Writing Bodies Differently",
+      "links": [
+        {
+          "text": "INT 921",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/921/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 922 Introduction to Indigenous Worldviews",
+      "links": [
+        {
+          "text": "INT 922",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/922/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 923 Canada's Story: An Indigenous Perspective",
+      "links": [
+        {
+          "text": "INT 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 930 Aging: From Cells to Society",
+      "links": [
+        {
+          "text": "INT 930",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/930/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 935 Ethical/Legal Frameworks in Aging",
+      "links": [
+        {
+          "text": "INT 935",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/935/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 940 Mobilizing Research for Change",
+      "links": [
+        {
+          "text": "INT 940",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/940/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 945 Technology and Aging Populations",
+      "links": [
+        {
+          "text": "INT 945",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/945/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 960 Leadership Framework for Community",
+      "links": [
+        {
+          "text": "INT 960",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/960/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "INT 965 Sex, Drugs and Incarceration",
+      "links": [
+        {
+          "text": "INT 965",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interdisciplinary-studies/INT/965/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 900 Race and Ethnicity",
+      "links": [
+        {
+          "text": "SWP 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 901 Youth and Social Justice",
+      "links": [
+        {
+          "text": "SWP 901",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/901/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 902 Gerontology",
+      "links": [
+        {
+          "text": "SWP 902",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/902/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 903 Crisis Intervention",
+      "links": [
+        {
+          "text": "SWP 903",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/903/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 905 Criticl. Appr. to Mental Health and Madness",
+      "links": [
+        {
+          "text": "SWP 905",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/905/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 906 Gerontology: Social Policy and Soc Security",
+      "links": [
+        {
+          "text": "SWP 906",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/906/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 907 Inequality, Oppression and Health",
+      "links": [
+        {
+          "text": "SWP 907",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/907/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 908 Social Group Work",
+      "links": [
+        {
+          "text": "SWP 908",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/908/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 909 Social Work and the Law: Children and Family",
+      "links": [
+        {
+          "text": "SWP 909",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/909/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 910 Queer Theory and Identities",
+      "links": [
+        {
+          "text": "SWP 910",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/910/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 914 Ethics and Values for Social Work",
+      "links": [
+        {
+          "text": "SWP 914",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/914/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 915 Independent Study I",
+      "links": [
+        {
+          "text": "SWP 915",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/915/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 916 Independent Study II",
+      "links": [
+        {
+          "text": "SWP 916",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/916/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 917 Special Topics I",
+      "links": [
+        {
+          "text": "SWP 917",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/917/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 918 Special Topics II",
+      "links": [
+        {
+          "text": "SWP 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/918/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 919 Substance Use and Abuse",
+      "links": [
+        {
+          "text": "SWP 919",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/919/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 920 Addressing Substance Use and Abuse",
+      "links": [
+        {
+          "text": "SWP 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 921 * Disability Issues Social Work Practice",
+      "links": [
+        {
+          "text": "SWP 921",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/921/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 923 Family Violence",
+      "links": [
+        {
+          "text": "SWP 923",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/923/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 924 Strategies for Addressing Conflict",
+      "links": [
+        {
+          "text": "SWP 924",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/924/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 925 † Strong Helpers' Teachings",
+      "links": [
+        {
+          "text": "SWP 925",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/925/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 926 Critical Practice with Queer Populations",
+      "links": [
+        {
+          "text": "SWP 926",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/926/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 927 Advocacy in Social Work",
+      "links": [
+        {
+          "text": "SWP 927",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/927/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 928 International Social Work",
+      "links": [
+        {
+          "text": "SWP 928",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/928/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 929 Working in Marginalized Communities",
+      "links": [
+        {
+          "text": "SWP 929",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/929/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 930 Spirituality in the Helping Professions",
+      "links": [
+        {
+          "text": "SWP 930",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/930/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 931 Human Rights for Social Workers",
+      "links": [
+        {
+          "text": "SWP 931",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/931/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 932 Evaluating Social Work Practices",
+      "links": [
+        {
+          "text": "SWP 932",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/932/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 933 Indigenous Health and Well Being",
+      "links": [
+        {
+          "text": "SWP 933",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/933/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 934 Community Engagement Foundations",
+      "links": [
+        {
+          "text": "SWP 934",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/934/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 935 Engaging Diverse Communities",
+      "links": [
+        {
+          "text": "SWP 935",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/935/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 936 Community Engagement Practices",
+      "links": [
+        {
+          "text": "SWP 936",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/936/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 937 Community Engagement Capstone",
+      "links": [
+        {
+          "text": "SWP 937",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/937/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 938 Innovative Organizing in Precarious Times",
+      "links": [
+        {
+          "text": "SWP 938",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/938/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 939 Art and Social Transformation",
+      "links": [
+        {
+          "text": "SWP 939",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/939/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 950 Fat Studies and Fat Activism",
+      "links": [
+        {
+          "text": "SWP 950",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/950/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SWP 951 Critical Clinical Social Work",
+      "links": [
+        {
+          "text": "SWP 951",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/951/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Please be aware of course exclusions on Interdisciplinary Studies and Disability Studies courses before enrolment."
+    },
+    {
+      "kind": "text",
+      "text": "† Please note that SWP 917 and SWP 918 , Special Topics courses, may not be offered every year. Course subject changes when courses are offered.",
+      "links": [
+        {
+          "text": "SWP 917",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/917/"
+        },
+        {
+          "text": "SWP 918",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/social-work/SWP/918/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "†† If not previously selected"
+    }
+  ],
+  "inventory_name": "Social Work - Table I"
+}

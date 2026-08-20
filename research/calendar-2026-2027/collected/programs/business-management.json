@@ -1,0 +1,1006 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "09e532cdf7fb454e15690a9f5b2b050eb0351622380408b29f2ca28b60be3935",
+  "source_bytes": 101959,
+  "title": "Business Management",
+  "headings": [
+    "Business Management",
+    "Admission Information - Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program",
+    "Notes:",
+    "Admission Information - Part-Time, First-Year Entry Program",
+    "Notes:",
+    "Admission Information - Full-Time and Part-Time Third Year Direct Entry Programs and Full-Time, Third-Year Direct Entry Co-op Program",
+    "Program Overview",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time Program Notes",
+    "International Exchange",
+    "Part-Time Program Notes",
+    "Course Identification",
+    "Curriculum Information - Part-Time Program",
+    "Co-operative Education Overview",
+    "Optional Co-operative Program",
+    "Program Advisory Council",
+    "Ted Rogers School of Management Dean's Council",
+    "First Year Studies - Common to all Majors",
+    "Undeclared (First Year Studies Only)",
+    "1st & 2nd Semester",
+    "Business Management Majors",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "ACC 100",
+    "ECN 104",
+    "ECN 110",
+    "ECN 204",
+    "ECN 210",
+    "ECN 505",
+    "ECN 607",
+    "ENT 101",
+    "FIN 300",
+    "GMS 200",
+    "LAW 122",
+    "MHR 523",
+    "MKT 100",
+    "PHL 214",
+    "PHL 509",
+    "PHL 612",
+    "POL 613",
+    "QMS 110",
+    "QMS 210",
+    "SOC 501"
+  ],
+  "official_links": [
+    {
+      "text": "Ted Rogers School of Management",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+    },
+    {
+      "text": "FIN 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+    },
+    {
+      "text": "LAW 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "upper level",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "ECN 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+    },
+    {
+      "text": "ECN 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+    },
+    {
+      "text": "PHL 214",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+    },
+    {
+      "text": "SOC 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/501/"
+    },
+    {
+      "text": "PHL 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+    },
+    {
+      "text": "PHL 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+    },
+    {
+      "text": "POL 613",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/613/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "ECN 104",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+    },
+    {
+      "text": "ENT 101",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+    },
+    {
+      "text": "GMS 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+    },
+    {
+      "text": "QMS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+    },
+    {
+      "text": "ACC 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+    },
+    {
+      "text": "ECN 204",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+    },
+    {
+      "text": "MHR 523",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "QMS 210",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Business Management"
+    },
+    {
+      "kind": "text",
+      "text": "Ted Rogers School of Management",
+      "links": [
+        {
+          "text": "Ted Rogers School of Management",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Commerce (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Ted Rogers School of Business Management",
+      "links": [
+        {
+          "text": "Ted Rogers School of Business Management",
+          "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program. Part-time, first-year entry program. Full-time and part-time, third-year direct entry. Full-time, third-year direct entry co-op."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time, Four-Year Program and Full-Time, Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses including Grade 12 U courses in: English and Mathematics [one of Grade 12 U Calculus and Vectors (MCV4U), Advanced Functions (MHF4U) or Mathematics of Data Management (MDM4U)]."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Grade 12 U Calculus and Vectors (MCV4U) is the preferred Mathematics course."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70 percent range or higher) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates will be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Students can apply directly to the regular four-year undergraduate program or the five-year co-op option. Admission to the co-op option is subject to competition. Applicants who are not selected for the co-op option are automatically considered for the regular program. To maintain a place in co-op, students will need to meet CGPA requirements, successfully complete all courses and submit required documentation."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Part-Time, First-Year Entry Program",
+      "links": [
+        {
+          "text": "Admission Information - Part-Time, First-Year Entry Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "All applicants to the program must have the following qualifications: A and C, or B and C."
+    },
+    {
+      "kind": "text",
+      "text": "A. O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English and Mathematics [one of Grade 12 U Calculus and Vectors (MCV4U), Advanced Functions (MHF4U) or Mathematics of Data Management (MDM4U)]."
+    },
+    {
+      "kind": "text",
+      "text": "OR"
+    },
+    {
+      "kind": "text",
+      "text": "B. Ability to meet Toronto Metropolitan University's Mature Student guidelines .",
+      "links": [
+        {
+          "text": "Mature Student guidelines",
+          "url": "https://www.torontomu.ca/content/ryerson/admissions/undergraduate/requirements/mature/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "AND"
+    },
+    {
+      "kind": "text",
+      "text": "C. Completion of at least one certificate program from the Business Management area taken through The G. Raymond Chang School of Continuing Education, or seven individual courses from the Bachelor of Commerce (Business Management) program taken through The G. Raymond Chang School of Continuing Education, or equivalent qualifications from other post-secondary institutions. The cumulative grade point average required for admission each year is determined on the basis of competition. Candidates are encouraged to present cumulative grade point averages of 2.67 (B-) or higher to maximize their chances for admission consideration on a competitive basis."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "Grade 12 U Calculus and Vectors (MCV4U) is the preferred Mathematics course."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the 70 percent range or higher) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates will be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "list_item",
+      "text": "Co-op is not available for part-time students."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time and Part-Time Third Year Direct Entry Programs and Full-Time, Third-Year Direct Entry Co-op Program",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time and Part-Time Third Year Direct Entry Programs and Full-Time, Third-Year Direct Entry Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Ted Rogers School of Business Management will consider graduates of an approved three-year Advanced Diploma in Business Administration from a public Ontario College for Direct Entry to the third year of the Business Management program. A cumulative grade point average of 3.0 ('B') or higher is required for admission consideration. Subject to competition and space limitation, a higher grade point average may be required."
+    },
+    {
+      "kind": "text",
+      "text": "College graduates are required to complete all third and fourth year courses. To ensure adequate academic preparation, graduates will also be required to complete up to five courses from the second year, or provide evidence that equivalent courses have already been completed. The additional course(s) will include FIN 300 , LAW 122 † or their equivalent. Please refer to the calendar page of each major for complete information on the reachback courses.",
+      "links": [
+        {
+          "text": "FIN 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/finance/FIN/300/"
+        },
+        {
+          "text": "LAW 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/122/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Acceptable Business Administration Advanced Diplomas are determined at Toronto Metropolitan University's sole discretion. Programs that lack sufficient academic preparation, especially in quantitative analysis, will not be accepted for Direct Entry admission. Please visit the Undergraduate Admissions program page for further details."
+    },
+    {
+      "kind": "list_item",
+      "text": "The Business Management Direct Entry majors that are available are Economics and Management Science, Entrepreneurship and Innovation, Global Management, Law and Business, Human Resources Management, Marketing Management and Real Estate Management."
+    },
+    {
+      "kind": "list_item",
+      "text": "Due to the nature of the required courses and their prerequisites in the Entrepreneurship and Innovation major, students pursuing the Direct Entry Entrepreneurship and Innovation major option will normally require three years to complete the program."
+    },
+    {
+      "kind": "list_item",
+      "text": "Direct Entry Business Management program students can pursue a minor. Refer to the Transfer Credit and Minors sections of the calendar for details."
+    },
+    {
+      "kind": "list_item",
+      "text": "Applicants to Business Management full-time Direct Entry can apply to the regular program or the co-op option (excluding the Health Services Management major and the Economics and Management Science major). The co-op program is not available for Business Management Part-Time Direct Entry students."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview",
+      "links": [
+        {
+          "text": "Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Business Management program provides students with a specialization in their chosen vocation, a practical and comprehensive knowledge of all basic functions of business, an awareness of social, political, and economic issues facing contemporary society, a questioning attitude to encourage and assist change, an ability to employ analytical skills for decision-making, and a desire to continue to learn and develop. It is considered important that all students in the Business Management program demonstrate an ability to write in clear and correct English. A lack of competence in written work submitted may be reflected in the final grade. Further development of writing and communication skills can be obtained through the elective English and Communication courses."
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters are common to all students. The curriculum provides students with a general overview of business in society, introduces them to all the basic business functions, and develops their awareness of social, human and economic issues through the introduction of the liberal studies."
+    },
+    {
+      "kind": "text",
+      "text": "In third semester students enter their major in one of: Economics and Management Science, Entrepreneurship and Innovation, Global Management Studies, Health Services Management, Human Resources Management, Law and Business, Marketing Management or Real Estate Management. The Marketing Management Major has a specific entrance requirement which is outlined within the curriculum. In addition, students continue studies in general business courses and the liberal studies area to broaden their perspective. The major started in the third semester is continued throughout the program."
+    },
+    {
+      "kind": "text",
+      "text": "The Marketing Department in the Ted Rogers School of Business Management co-ordinates an interdisciplinary Minor in Sales Management and Service Quality. This Minor provides students with the knowledge, skills and tools to manage customer relationships and to work effectively as a member of a sales team."
+    },
+    {
+      "kind": "text",
+      "text": "A limited number of students who have completed a three-year Business Administration diploma program with a minimum 'B' average from a recognized Community College, are admitted each year. These students are usually approved directly into the third year of the program. This opportunity is available on either a full- or part-time basis."
+    },
+    {
+      "kind": "text",
+      "text": "Experience has shown that our graduates are well-equipped to offer valuable services to the business community. Many graduates will go into the business world and will find complete satisfaction in their progress to greater responsibilities. The students are not simply learning to react to business pressures. They are prepared to operate pro-actively. Students work in the classroom and on real-life projects, learning how the process of solving problems works. The professors immerse the students thoroughly in their disciplines and then add the dimension of experience making Business education at Toronto Met more relevant in the business world."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 110 and ECN 210 are not available for credit.",
+      "links": [
+        {
+          "text": "ECN 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/110/"
+        },
+        {
+          "text": "ECN 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics and Management Science Majors: Economics (ECN) courses are not available for credit."
+    },
+    {
+      "kind": "text",
+      "text": "Law and Business Majors: PHL 214 is not available for credit. Students may take only two Philosophy courses for credit.",
+      "links": [
+        {
+          "text": "PHL 214",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/214/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "ECN 505, ECN 607 and SOC 501 are not available for credit.",
+      "links": [
+        {
+          "text": "SOC 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Economics and Management Science Majors: Economics (ECN) courses are not available for credit"
+    },
+    {
+      "kind": "text",
+      "text": "Health Services Management Majors: PHL 509 is not available for credit.",
+      "links": [
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Law and Business Majors: PHL 612 is not available for credit to students who choose PHL 612 from Required Group 1. POL 613 is not available for credit.",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        },
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        },
+        {
+          "text": "POL 613",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/politics-and-public-administration/POL/613/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time Program Notes",
+      "links": [
+        {
+          "text": "Full-Time Program Notes",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "International Exchange"
+    },
+    {
+      "kind": "text",
+      "text": "Through the student exchange program, an opportunity is provided for students to spend a semester studying abroad. International experience gained in this way places graduates at a significant advantage in the competitive global economy. The School has a total of 42 International partners within 23 countries."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Part-Time Program Notes",
+      "links": [
+        {
+          "text": "Part-Time Program Notes",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Course Identification"
+    },
+    {
+      "kind": "text",
+      "text": "Part-time courses are administered by either the program department or The G. Raymond Chang School of Continuing Education. The mode of delivery is not reflected in this calendar. Continuing education courses are listed in your enrolment information package and are identified by with a 'C' prefix (e.g., CACC100). These identifiers are for internal use only and do not affect the equivalency."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Curriculum Information - Part-Time Program"
+    },
+    {
+      "kind": "text",
+      "text": "The part-time program is offered to accommodate those students who intend to take the degree at a slower pace than the full-time day program, due to the demands of daytime employment and/or family obligations. Part-time students fulfill their course requirements primarily in the evenings by enrolling in courses through The G. Raymond Chang School of Continuing Education for the first six semesters, and through The Ted Rogers School of Business Management evening course offerings for semesters seven and eight. Part-time students are entitled to access up to a maximum of three courses per semester, space permitting . The School can make no guarantees that all courses required will be offered or available each semester for the part-time program. Students who feel that the part-time course accessibility no longer suits them, should apply to transfer permanently into the full-time day program."
+    },
+    {
+      "kind": "text",
+      "text": "Students interested in pursuing an Entrepreneurship and Innovation Major should know that the majority of courses required for the Major will not be available in the evening (at this time). Students wanting to pursue this Major will have to take the majority of the required courses during the day."
+    },
+    {
+      "kind": "text",
+      "text": "Part-time undergraduate students complete the curriculum for their program as set out in the edition of the Undergraduate Calendar of the year they were admitted to their program, unless stated otherwise."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Co-operative Education Overview",
+      "links": [
+        {
+          "text": "Co-operative Education Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Co-operative Program"
+    },
+    {
+      "kind": "text",
+      "text": "The Ted Rogers School of Business Management also offers co-op options to Full-Time program students for each of the seven majors, providing graduates with 16 months of work experience integrated into their academic experience. (Please note that co-op is not available at this time for Direct Entry students majoring in Economics and Management Science and Health Services Management.)"
+    },
+    {
+      "kind": "text",
+      "text": "Current students wishing to be considered for the co-op option can apply for admission as early as the end of the first year of their program. Please be advised that admission deadlines vary by major. Admission is competitive, with the assessment of applicants taking the form of a competition based on academic performance, non-academic requirements, and potential to succeed in co-op work terms."
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: Students are expected to follow the sequence prescribed for their program. Deviation from the sequence requires the submission of a formal request to the Co-op Faculty Advisor and approval from the School. With permission from the School/Department, students may be allowed to graduate with the co-op endorsement with fewer than the prescribed work terms; notwithstanding any approved deviations, a minimum of three work terms must be successfully completed in all cases."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ted Rogers School of Management Dean's Council"
+    },
+    {
+      "kind": "text",
+      "text": "Vinny Bhathal, CPA, CMA Managing Partner, Chief Controller & Treasurer, Sprott Inc. and Chief Financial Officer Sprott Asset Management LP. Michael Brooks CEO RealPac Darlene Dasent Executive Vice President & Chief Financial Officer University Health Network (UHN) Rania Llewellyn Former President and CEO Laurentian Bank of Canada Rita Loncar Co-Founder and CEO TALO Associates"
+    },
+    {
+      "kind": "text",
+      "text": "Kristina Milbourn Managing Counsel Litigation Rogers Communications Christopher West Director, Business and Service Management Branch The Central Agencies I&IT Cluster"
+    },
+    {
+      "kind": "text",
+      "text": "For updates see: https://www.torontomu.ca/tedrogersschool/about/leadership/deans-council",
+      "links": [
+        {
+          "text": "https://www.torontomu.ca/tedrogersschool/about/leadership/deans-council",
+          "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/about/leadership/deans-council"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "First Year Studies - Common to all Majors"
+    },
+    {
+      "kind": "text",
+      "text": "First year studies are common to the Full-Time, Four-Year Programs and Full-Time, Five-Year Co-op Programs in all Business Management Majors."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Undeclared (First Year Studies Only)",
+      "links": [
+        {
+          "text": "Undeclared (First Year Studies Only)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/trsm/business_mgt/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "The first two semesters of the program are common for all Business Management Majors."
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 104 Introductory Microeconomics",
+      "links": [
+        {
+          "text": "ECN 104",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/104/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 101 * Building an Entrepreneurial Mindset",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "GMS 200 Introduction to Global Management",
+      "links": [
+        {
+          "text": "GMS 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/global-management-studies/GMS/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 110 Applied Mathematics for Business",
+      "links": [
+        {
+          "text": "QMS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ACC 100 Introductory Financial Accounting",
+      "links": [
+        {
+          "text": "ACC 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/accounting/ACC/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ECN 204 Introductory Macroeconomics",
+      "links": [
+        {
+          "text": "ECN 204",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/economics/ECN/204/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 523 Human Resources Management",
+      "links": [
+        {
+          "text": "MHR 523",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/523/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 * Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "QMS 210 Applied Statistics for Business",
+      "links": [
+        {
+          "text": "QMS 210",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/quantitative-methods/QMS/210/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* ENT 101 and MKT 100 will be timetabled either in 1st or 2nd Semester.",
+      "links": [
+        {
+          "text": "ENT 101",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/101/"
+        },
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Note: Students planning to enter the Marketing Management Major must obtain a grade of at least 2.67 (B-) in MKT 100 .",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Business Management students must declare their Major before course intentions in March of their first year. See How to Change My Plan or Major for more information.",
+      "links": [
+        {
+          "text": "How to Change My Plan or Major",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/change-plan-major/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Business Management Majors"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Business Management"
+}

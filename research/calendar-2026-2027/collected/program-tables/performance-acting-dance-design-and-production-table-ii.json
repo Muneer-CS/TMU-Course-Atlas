@@ -1,0 +1,532 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/production_table_ii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "f362d9439885e2bd0f43e25525d504a4d6162294eadbac26e9622cb9a62b4941",
+  "source_bytes": 57315,
+  "title": "Professionally-Related Table II- Performance Production",
+  "headings": [
+    "Professionally-Related Table II- Performance Production"
+  ],
+  "course_codes_referenced": [
+    "CMN 279",
+    "CMN 288",
+    "CMN 305",
+    "CMN 306",
+    "CMN 450",
+    "EID 100",
+    "ENG 110",
+    "ENG 208",
+    "ENT 500",
+    "FCD 230",
+    "FCD 240",
+    "FCD 316",
+    "FCD 362",
+    "FCD 540",
+    "FCD 920",
+    "FSN 706",
+    "IDF 201",
+    "LAW 529",
+    "MHR 405",
+    "MHR 522",
+    "MKT 100",
+    "MKT 300",
+    "MKT 500",
+    "MKT 510",
+    "MKT 600",
+    "MKT 700",
+    "PSY 813",
+    "SOC 932",
+    "THF 316",
+    "THF 317",
+    "THF 402",
+    "THF 417"
+  ],
+  "official_links": [
+    {
+      "text": "Performance: Acting/Dance/Production",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/"
+    },
+    {
+      "text": "CMN 279",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+    },
+    {
+      "text": "CMN 288",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/288/"
+    },
+    {
+      "text": "CMN 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/305/"
+    },
+    {
+      "text": "CMN 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/306/"
+    },
+    {
+      "text": "CMN 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/450/"
+    },
+    {
+      "text": "EID 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+    },
+    {
+      "text": "ENG 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+    },
+    {
+      "text": "ENG 208",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+    },
+    {
+      "text": "ENT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+    },
+    {
+      "text": "FCD 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/230/"
+    },
+    {
+      "text": "FCD 240",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/240/"
+    },
+    {
+      "text": "FCD 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/316/"
+    },
+    {
+      "text": "FCD 362",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+    },
+    {
+      "text": "FCD 540",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/540/"
+    },
+    {
+      "text": "FCD 920",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/920/"
+    },
+    {
+      "text": "FSN 706",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/706/"
+    },
+    {
+      "text": "IDF 201",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDF/201/"
+    },
+    {
+      "text": "LAW 529",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+    },
+    {
+      "text": "MHR 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+    },
+    {
+      "text": "MHR 522",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+    },
+    {
+      "text": "MKT 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+    },
+    {
+      "text": "MKT 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+    },
+    {
+      "text": "MKT 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+    },
+    {
+      "text": "MKT 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+    },
+    {
+      "text": "MKT 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+    },
+    {
+      "text": "MKT 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+    },
+    {
+      "text": "PSY 813",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+    },
+    {
+      "text": "SOC 932",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/932/"
+    },
+    {
+      "text": "THF 317",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/317/"
+    },
+    {
+      "text": "THF 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/402/"
+    },
+    {
+      "text": "THF 417",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/417/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Professionally-Related Table II- Performance Production"
+    },
+    {
+      "kind": "text",
+      "text": "Performance: Acting/Dance/Production",
+      "links": [
+        {
+          "text": "Performance: Acting/Dance/Production",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/fcad/performance/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "For students admitted Fall 2024 and before:"
+    },
+    {
+      "kind": "text",
+      "text": "Select three courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 279 Introduction to Professional Communication",
+      "links": [
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 288 Communication and Social Media",
+      "links": [
+        {
+          "text": "CMN 288",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/288/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 305 Strategic Public Relations in ProCom",
+      "links": [
+        {
+          "text": "CMN 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 306 Risk and Crisis Communication",
+      "links": [
+        {
+          "text": "CMN 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 450 Participatory Media and Communication",
+      "links": [
+        {
+          "text": "CMN 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "EID 100 Digital Skills and Innovation",
+      "links": [
+        {
+          "text": "EID 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/digital-entrepreneurship-and-innovation/EID/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 110 Literatures Across Borders",
+      "links": [
+        {
+          "text": "ENG 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG 208 Introduction to Non-Fiction",
+      "links": [
+        {
+          "text": "ENG 208",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/english/ENG/208/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ENT 500 New Venture Startup",
+      "links": [
+        {
+          "text": "ENT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/entrepreneurship-and-strategy/ENT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 230 Topics in Communication and Design",
+      "links": [
+        {
+          "text": "FCD 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 240 History of Art and Design: Global Survey",
+      "links": [
+        {
+          "text": "FCD 240",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/240/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 316 The Global Stage",
+      "links": [
+        {
+          "text": "FCD 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 362 Introduction to UX/UI Design",
+      "links": [
+        {
+          "text": "FCD 362",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/362/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 540 Marketing for Creatives",
+      "links": [
+        {
+          "text": "FCD 540",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/540/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FCD 920 Visual Story Production",
+      "links": [
+        {
+          "text": "FCD 920",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication-and-design/FCD/920/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "FSN 706 Fashion Event Planning",
+      "links": [
+        {
+          "text": "FSN 706",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/fashion/FSN/706/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDF 201 Fundamentals of Design Theory",
+      "links": [
+        {
+          "text": "IDF 201",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDF/201/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 529 Employment and Labour Law",
+      "links": [
+        {
+          "text": "LAW 529",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/529/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 405 Organizational Behaviour",
+      "links": [
+        {
+          "text": "MHR 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/405/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MHR 522 Union Management Relations",
+      "links": [
+        {
+          "text": "MHR 522",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/human-resources/MHR/522/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 100 Principles of Marketing",
+      "links": [
+        {
+          "text": "MKT 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 300 Marketing Metrics and Analysis",
+      "links": [
+        {
+          "text": "MKT 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/300/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 500 Marketing Research",
+      "links": [
+        {
+          "text": "MKT 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 510 Strategic Brand Management",
+      "links": [
+        {
+          "text": "MKT 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/510/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 600 Integrated Case Analysis",
+      "links": [
+        {
+          "text": "MKT 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MKT 700 Marketing Analytics and Decision-Making",
+      "links": [
+        {
+          "text": "MKT 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/marketing/MKT/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PSY 813 * Psychology of Art and Creativity",
+      "links": [
+        {
+          "text": "PSY 813",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/psychology/PSY/813/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SOC 932 * The Entertainment Industry",
+      "links": [
+        {
+          "text": "SOC 932",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/sociology/SOC/932/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 316 The Global Stage"
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 317 † Global Performance Studio",
+      "links": [
+        {
+          "text": "THF 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/317/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 402 Text Examination: Dramaturgy and Direction",
+      "links": [
+        {
+          "text": "THF 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "THF 417 Advanced Playwriting",
+      "links": [
+        {
+          "text": "THF 417",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/417/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Students must meet the prerequisites specified by Arts to enrol in this course"
+    },
+    {
+      "kind": "text",
+      "text": "† THF 317 has a GPA Weight of 2.00 and a Course Count of 2.00.",
+      "links": [
+        {
+          "text": "THF 317",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/theatre/THF/317/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: At the Program's discretion, students with a strong Academic Standing may take up to two other courses offered by the University in place of courses listed above. Students must obtain prior approval."
+    }
+  ],
+  "inventory_name": "Performance: Acting/Dance/Design and Production - Table II"
+}

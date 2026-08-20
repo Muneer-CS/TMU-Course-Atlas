@@ -1,0 +1,2871 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "70dc18dd393034877ad70ca4a960436cfda26c642ae04eefb01e5398787a3a50",
+  "source_bytes": 195443,
+  "title": "Biology",
+  "headings": [
+    "Biology",
+    "Admission Information",
+    "Notes:",
+    "Program Overview/Curriculum Information",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Research Practicum",
+    "How to Enrol",
+    "Career Opportunities",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Co-operative Program Overview",
+    "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section.",
+    "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program (for all Options) section.",
+    "Program Advisory Council",
+    "Full-Time, Four-Year Program and Full-Time, Five-Year Coop Program (for students admitted Fall 2026 and after)",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Biology - First Two Years Common (for students admitted Fall 2025 and before)",
+    "Biology - First Two Years Common for all Options",
+    "3rd & 4th Semester",
+    "Biology (Regular Program) (for students admitted Fall 2025 and before)",
+    "Regular Full-Time Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Biology - Biophysics Option (for students admitted Fall 2025 and before)",
+    "Biophysics Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Biology - Bioinformatics and Computational Biology Option (for students admitted Fall 2025 and before)",
+    "Bioinformatics and Computational Biology Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Biology - Environmental Biology Option (for students admitted Fall 2025 and before)",
+    "Environmental Biology Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options).",
+    "5th Semester",
+    "6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program (for all Options)",
+    "Co-operative Work Terms",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "BCH 261",
+    "BCH 361",
+    "BCH 463",
+    "BCH 880",
+    "BLG 143",
+    "BLG 144",
+    "BLG 151",
+    "BLG 181",
+    "BLG 230",
+    "BLG 307",
+    "BLG 311",
+    "BLG 315",
+    "BLG 316",
+    "BLG 340",
+    "BLG 351",
+    "BLG 400",
+    "BLG 401",
+    "BLG 409",
+    "BLG 567",
+    "BLG 599",
+    "BLG 699",
+    "BLG 720",
+    "BLG 721",
+    "BLG 777",
+    "BLG 800",
+    "BLG 803",
+    "BLG 850",
+    "BLG 888",
+    "BMS 150",
+    "CHY 103",
+    "CHY 113",
+    "CHY 142",
+    "CHY 182",
+    "CHY 183",
+    "CHY 423",
+    "CHY 583",
+    "CMN 600",
+    "CPS 109",
+    "CPS 118",
+    "CPS 209",
+    "CPS 305",
+    "CPS 501",
+    "MTH 110",
+    "MTH 131",
+    "MTH 231",
+    "MTH 330",
+    "MTH 380",
+    "MTH 500",
+    "MTH 511",
+    "MTH 599",
+    "MTH 607",
+    "PCS 111",
+    "PCS 120",
+    "PCS 130",
+    "PCS 227",
+    "PCS 229",
+    "PCS 300",
+    "PCS 352",
+    "PCS 354",
+    "PCS 401",
+    "SCI 180",
+    "SCI 999",
+    "WKT 405",
+    "WKT 505",
+    "WKT 506",
+    "WKT 605",
+    "WKT 606"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+    },
+    {
+      "text": "SCI 180",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "SCI 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "PCS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+    },
+    {
+      "text": "BLG 181",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+    },
+    {
+      "text": "BMS 150",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+    },
+    {
+      "text": "CHY 182",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+    },
+    {
+      "text": "CHY 183",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+    },
+    {
+      "text": "BLG 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+    },
+    {
+      "text": "BLG 699",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+    },
+    {
+      "text": "BLG 850",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+    },
+    {
+      "text": "CHY 583",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+    },
+    {
+      "text": "MTH 511",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+    },
+    {
+      "text": "MTH 599",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "BLG 143",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+    },
+    {
+      "text": "CHY 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+    },
+    {
+      "text": "MTH 131",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/131/"
+    },
+    {
+      "text": "PCS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "CPS 118",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/118/"
+    },
+    {
+      "text": "BLG 144",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+    },
+    {
+      "text": "CHY 113",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+    },
+    {
+      "text": "MTH 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/231/"
+    },
+    {
+      "text": "PCS 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+    },
+    {
+      "text": "BLG 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+    },
+    {
+      "text": "BLG 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/230/"
+    },
+    {
+      "text": "BLG 311",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+    },
+    {
+      "text": "CHY 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+    },
+    {
+      "text": "MTH 380",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/380/"
+    },
+    {
+      "text": "BCH 261",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+    },
+    {
+      "text": "BLG 316",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/316/"
+    },
+    {
+      "text": "BLG 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+    },
+    {
+      "text": "BLG 567",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/567/"
+    },
+    {
+      "text": "BCH 361",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+    },
+    {
+      "text": "BLG 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+    },
+    {
+      "text": "Open Electives",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "BLG 315",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+    },
+    {
+      "text": "BCH 880",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/880/"
+    },
+    {
+      "text": "BLG 720",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/720/"
+    },
+    {
+      "text": "BLG 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/721/"
+    },
+    {
+      "text": "BLG 777",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/777/"
+    },
+    {
+      "text": "BLG 888",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/888/"
+    },
+    {
+      "text": "CMN 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+    },
+    {
+      "text": "BCH 463",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/463/"
+    },
+    {
+      "text": "MTH 330",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+    },
+    {
+      "text": "PCS 229",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+    },
+    {
+      "text": "PCS 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+    },
+    {
+      "text": "PCS 227",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+    },
+    {
+      "text": "PCS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+    },
+    {
+      "text": "PCS 354",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+    },
+    {
+      "text": "Table III",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_iii/"
+    },
+    {
+      "text": "PCS 352",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+    },
+    {
+      "text": "Table II",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_ii/"
+    },
+    {
+      "text": "MTH 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+    },
+    {
+      "text": "MTH 607",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/607/"
+    },
+    {
+      "text": "CPS 209",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+    },
+    {
+      "text": "MTH 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/500/"
+    },
+    {
+      "text": "Open Elective",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/"
+    },
+    {
+      "text": "BLG 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/800/"
+    },
+    {
+      "text": "CPS 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+    },
+    {
+      "text": "CPS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+    },
+    {
+      "text": "BLG 351",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/351/"
+    },
+    {
+      "text": "BLG 409",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/409/"
+    },
+    {
+      "text": "BLG 803",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/803/"
+    },
+    {
+      "text": "BLG 340",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/340/"
+    },
+    {
+      "text": "CHY 423",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/423/"
+    },
+    {
+      "text": "BLG 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/401/"
+    },
+    {
+      "text": "Table V",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_v1/"
+    },
+    {
+      "text": "WKT 405",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+    },
+    {
+      "text": "WKT 505",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+    },
+    {
+      "text": "WKT 506",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+    },
+    {
+      "text": "WKT 605",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+    },
+    {
+      "text": "WKT 606",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Biology"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Science",
+      "links": [
+        {
+          "text": "Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Science (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Chemistry and Biology",
+      "links": [
+        {
+          "text": "Department of Chemistry and Biology",
+          "url": "https://www.torontomu.ca/content/ryerson/science/current-undergraduate-students/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information",
+      "links": [
+        {
+          "text": "Admission Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Advanced Functions (MHF4U), two of Biology (SBI4U) or Chemistry (SCH4U) or Physics (SPH4U)."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Notes:"
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the range of 70 percent) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Completion of all three science courses is recommended. Biology (SBI4U) is strongly recommended."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "First Year: The BSc (Hons) in Biology shares a point of entry with the programs in Chemistry and Medical Physics, through which new science students at Toronto Met complete a common first year. This allows students to explore various science-based routes to degree completion before they commit to the Biology program. In addition to science foundation courses, the first year of studies will include an introduction to the use of computers as scientific tools, and an orientation course that will support students in making a successful transition to university and planning their steps to degree completion. Students in Science programs must enrol in SCI 180 in their first semester of studies.",
+      "links": [
+        {
+          "text": "SCI 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Upper Years: In the upper years of the curriculum, students will focus on developing their technological expertise and exploring the research and industrial applications of biological science. Depending on electives chosen, students graduate with a BSc (Hons) in Biology with or without a minor in another topic. In the final year, they may consolidate their learning by undertaking an independent, faculty-supervised thesis project in their field of academic focus."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Research Practicum"
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 999 - Research Practicum gives students the chance to gain hands-on research experience, in a lab or in the field, by engaging in the research work of a faculty member. Toronto Met records participation in the practicum on the student’s Official Transcript.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 999 is a non-credit, pass-fail course that is not used to fulfil degree program requirements. Students who meet the expectations for the research will get a passing grade. These expectations will be worked out between the student and the professor at enrolment. To take part in SCI 999 , students must have a CGPA of 2.5 or more, and they must commit to a minimum of 5 to 10 hours each week (on average) for one term.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        },
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "There are no tuition fees associated with this practicum."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to Enrol"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must first find a supervisor. Descriptions of faculty research are available on the Faculty of Science website (opens in new window) .",
+      "links": [
+        {
+          "text": "Faculty of Science website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/science/programs/undergraduate/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Students should contact supervisors whose research interests them by email or in person. Students must give their potential supervisor an unofficial transcript (opens in new window) , a one-page resumé and a brief covering letter. This package must include their contact information, degree program and stream, a brief statement of their career goals and how this research experience would further those goals, and any relevant work experience (paid or volunteer).",
+      "links": [
+        {
+          "text": "unofficial transcript (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/RAMSSsupport/ugrad_grad/academics/view_unofficial_transcript/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Follow the instructions available in the (PDF file) Research Practicum Application Form. (opens in new window)",
+      "links": [
+        {
+          "text": "(PDF file) Research Practicum Application Form. (opens in new window)",
+          "url": "https://www.torontomu.ca/content/dam/science/documents/ResearchPracticumApplicationForm.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Career Opportunities"
+    },
+    {
+      "kind": "text",
+      "text": "As a graduate of the Biology program, students will have high calibre skills in problem-solving and technological innovation, particularly in the areas of biotechnology and environmental science - two sectors experiencing increasing demand for qualified professionals. Here are a few of the many career paths you may take:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Scientist, Researcher, or Science Manager (government, academia, or industry through further studies and completion of a master's degree or PhD at the post-graduate level)"
+    },
+    {
+      "kind": "list_item",
+      "text": "Biochemistry, Microbiology, Molecular Sciences, Biotechnology"
+    },
+    {
+      "kind": "list_item",
+      "text": "Technical support (Biotechnology, Agri-Food, and Pharmaceutical Sectors) • Research, Product Development and Manufacturing • Quality Control"
+    },
+    {
+      "kind": "list_item",
+      "text": "Food and Beverage Industry • Research, Product Development and Manufacturing • Quality Control"
+    },
+    {
+      "kind": "list_item",
+      "text": "Environmental Science"
+    },
+    {
+      "kind": "list_item",
+      "text": "Teaching (primary, secondary, and post-secondary)"
+    },
+    {
+      "kind": "list_item",
+      "text": "Health Sciences (Medicine, Dentistry, and allied health sciences)"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table A - Lower Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 111 , BLG 181 , BMS 150 , CHY 182 , CHY 183 and SCI courses are not available for credit.",
+      "links": [
+        {
+          "text": "PCS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/111/"
+        },
+        {
+          "text": "BLG 181",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/181/"
+        },
+        {
+          "text": "BMS 150",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biomedical-sciences/BMS/150/"
+        },
+        {
+          "text": "CHY 182",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/182/"
+        },
+        {
+          "text": "CHY 183",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/183/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Table B - Upper Level Restrictions"
+    },
+    {
+      "kind": "text",
+      "text": "BLG 599 , BLG 699 , BLG 850 , CHY 583 , MTH 511 , and MTH 599 are not available for credit.",
+      "links": [
+        {
+          "text": "BLG 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/599/"
+        },
+        {
+          "text": "BLG 699",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/699/"
+        },
+        {
+          "text": "BLG 850",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/850/"
+        },
+        {
+          "text": "CHY 583",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/583/"
+        },
+        {
+          "text": "MTH 511",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/511/"
+        },
+        {
+          "text": "MTH 599",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/599/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Co-operative Program Overview",
+      "links": [
+        {
+          "text": "Co-operative Program Overview",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section."
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program (for all Options) section."
+    },
+    {
+      "kind": "text",
+      "text": "An optional co-operative program is available which provides the graduating students with 12 months of work experience integrated into their academic studies that enhances their organizational and technical abilities as well as their oral and written communication skills."
+    },
+    {
+      "kind": "text",
+      "text": "Although the Career & Co-op Centre (opens in new window) cannot guarantee work term employment, they provide major assistance in locating suitable positions and counselling of students in their search for suitable jobs. This co-operative program enables students to earn competitive wages to offset the costs of a university education.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first year of the Biology program can apply through the Career & Co-op Centre for admission to the co-operative education program at the end of first year during our Spring/Summer admissions period. This is the only time for students to apply to Co-op. Enrolment in the co-op program is limited. Admission will be based on a criteria which includes the student's grade point average, courses completed, a resume, statement of intent and interview if deemed necessary. To be admitted into the co-­op program, students must have all first year courses completed and a CLEAR Academic Standing. Students who are direct entry/transfer are not permitted into the program except on an exceptional case by case basis. Students who are ahead with significant course credits are not permitted into the program except on an exceptional case by case basis. All decisions regarding admission into the program are final and at the discretion of the Career and Co-op Centre."
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis. Each work term is assessed by the School's Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job. Students must successfully complete 3 co-op WKT’s in order to graduate from their program of study with a Co-op designation. Once the requirements are satisfied being able to do another work term is at the discretion of the TMU Career & Co-op Centre."
+    },
+    {
+      "kind": "text",
+      "text": "The co-op program requires five years to complete the degree in Biology. The regular program can be completed in four years."
+    },
+    {
+      "kind": "text",
+      "text": "All Co-op placements must be approved by the Career, Co-op and Student Success Centre (opens in new window) and the Faculty Advisor for the Biology co-op program.",
+      "links": [
+        {
+          "text": "Career, Co-op and Student Success Centre (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Additional information about co-op can be found on the Co-operative Education website: www.torontomu.ca/career-coop-student-success",
+      "links": [
+        {
+          "text": "www.torontomu.ca/career-coop-student-success",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Lee Beaudette, BSc, MSc, PhD Manager, Soil Biotechnology Laboratory Environment Canada Biological Assessment and Standardization Section Jeffery Costa, BSc, MSc (Biology '11) Geotechnical Lab Technician at Golder Associates, Royal Ontario Museum Gary A. Epp, BSc, MSc, PhD Manager Ecological Services - Environment Global Ecological Services Technical Practice Group Lead Tash Jefferies, BSc (Applied Chemistry and Biology '03) Ontario Environment Industry Association (ONEIA) Jonathan Newman Deputy Director, Scientific Services Centre of Forensic Sciences (Toronto) Ministry of Community Safety and Correctional Services Mark Surka, BSc PhD Sr. Scientific Lead, Oncology at Janssen, Pharmaceutical companies at Johnson and Johnson"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Full-Time, Four-Year Program and Full-Time, Five-Year Coop Program (for students admitted Fall 2026 and after)"
+    },
+    {
+      "kind": "text",
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 143 Biology I",
+      "links": [
+        {
+          "text": "BLG 143",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/143/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 103 General Chemistry I",
+      "links": [
+        {
+          "text": "CHY 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/103/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 131 Modern Mathematics I",
+      "links": [
+        {
+          "text": "MTH 131",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/131/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 120 Physics I",
+      "links": [
+        {
+          "text": "PCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 180 * Orientation",
+      "links": [
+        {
+          "text": "SCI 180",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/180/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 118 Introductory Programming for Scientists",
+      "links": [
+        {
+          "text": "CPS 118",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/118/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* This course is graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 144 Biology II",
+      "links": [
+        {
+          "text": "BLG 144",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/144/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 113 General Chemistry II",
+      "links": [
+        {
+          "text": "CHY 113",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/113/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 231 Modern Mathematics II",
+      "links": [
+        {
+          "text": "MTH 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 130 Physics II",
+      "links": [
+        {
+          "text": "PCS 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 151 Microbiology I",
+      "links": [
+        {
+          "text": "BLG 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 230 Botany",
+      "links": [
+        {
+          "text": "BLG 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 142 Organic Chemistry I",
+      "links": [
+        {
+          "text": "CHY 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 380 Probability and Statistics I",
+      "links": [
+        {
+          "text": "MTH 380",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/380/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 261 Biochemistry",
+      "links": [
+        {
+          "text": "BCH 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 316 Zoology",
+      "links": [
+        {
+          "text": "BLG 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 400 Genetics",
+      "links": [
+        {
+          "text": "BLG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 567 Ecology",
+      "links": [
+        {
+          "text": "BLG 567",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/567/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 361 Advanced Biochemistry I",
+      "links": [
+        {
+          "text": "BCH 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 307 Molecular Biology",
+      "links": [
+        {
+          "text": "BLG 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Revised curriculum begins Winter 2029. Full-Time, Five-Year Co-op program: Revised curriculum begins Winter 2030."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 315 Evolution",
+      "links": [
+        {
+          "text": "BLG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 880 Advanced Biochemistry Laboratory",
+      "links": [
+        {
+          "text": "BCH 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/880/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 720 Urban Field Biology - Water Ecosystems",
+      "links": [
+        {
+          "text": "BLG 720",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/720/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 721 Inter-University Field Course",
+      "links": [
+        {
+          "text": "BLG 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 777 Organismal Biodiversity Laboratory",
+      "links": [
+        {
+          "text": "BLG 777",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/777/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 888 Molecular Biology Laboratory",
+      "links": [
+        {
+          "text": "BLG 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/888/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies . CORE ELECTIVE: One course from Table I OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Revised curriculum begins 2029-2030. Full-Time, Five-Year Co-op program: Revised curriculum 2030-2031."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biology - First Two Years Common (for students admitted Fall 2025 and before)"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Biology - First Two Years Common for all Options",
+      "links": [
+        {
+          "text": "Biology - First Two Years Common for all Options",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 151 Microbiology I",
+      "links": [
+        {
+          "text": "BLG 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 230 Botany",
+      "links": [
+        {
+          "text": "BLG 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/230/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 311 Cell Biology",
+      "links": [
+        {
+          "text": "BLG 311",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/311/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 142 Organic Chemistry I",
+      "links": [
+        {
+          "text": "CHY 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 380 Probability and Statistics I",
+      "links": [
+        {
+          "text": "MTH 380",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/380/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 261 Biochemistry",
+      "links": [
+        {
+          "text": "BCH 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 316 Zoology",
+      "links": [
+        {
+          "text": "BLG 316",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/316/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 400 Genetics",
+      "links": [
+        {
+          "text": "BLG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 567 Ecology",
+      "links": [
+        {
+          "text": "BLG 567",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/567/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biology (Regular Program) (for students admitted Fall 2025 and before)"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Regular Full-Time Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Regular Full-Time Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 361 Advanced Biochemistry I",
+      "links": [
+        {
+          "text": "BCH 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 307 Molecular Biology",
+      "links": [
+        {
+          "text": "BLG 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 463 Advanced Biochemistry II",
+      "links": [
+        {
+          "text": "BCH 463",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/463/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 315 Evolution",
+      "links": [
+        {
+          "text": "BLG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 880 Advanced Biochemistry Laboratory",
+      "links": [
+        {
+          "text": "BCH 880",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/880/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 888 Molecular Biology Laboratory",
+      "links": [
+        {
+          "text": "BLG 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/888/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies . OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table I OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table I OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_i1/"
+        },
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biology - Biophysics Option (for students admitted Fall 2025 and before)"
+    },
+    {
+      "kind": "text",
+      "text": "Biophysics is an interdisciplinary science that applies the theories and methods of physics to biological questions."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Biophysics Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Biophysics Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "text",
+      "text": "This option is available to students entering their fifth semester of the Biology program. Biophysics typically addresses biological problems at the molecular level by drawing knowledge and experimental techniques from a wide variety of disciplines to indirectly observe or model the structures and interactions of individual molecules or complexes of molecules. Biophysics is typically studied at the graduate level which makes this option at Toronto Met unique. Students who choose this option will enhance their undergraduate biology education with courses such as Radiation Biology, Health Physics and Medical Physics. Biophysics offers careers in teaching and research at educational, medical and government institutions, research and development at pharmaceutical, biotechnology and nanotechnology and other biologically oriented high-tech companies, and in regulation and public policy at all levels of government and private organizations. This undergraduate option can also lead the way to post-graduate studies toward certification as a health or medical physicist."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Fall 2027. Full-Time, Five-Year Co-op program: Last offered Fall 2027."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 361 Advanced Biochemistry I",
+      "links": [
+        {
+          "text": "BCH 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 330 Calculus and Geometry",
+      "links": [
+        {
+          "text": "MTH 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 229 Introduction to Medical Physics",
+      "links": [
+        {
+          "text": "PCS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 300 Modern Physics",
+      "links": [
+        {
+          "text": "PCS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Winter 2028. Full-Time, Five-Year Co-op program: Last offered Winter 2029."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 463 Advanced Biochemistry II",
+      "links": [
+        {
+          "text": "BCH 463",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/463/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 315 Evolution",
+      "links": [
+        {
+          "text": "BLG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 227 Biophysics",
+      "links": [
+        {
+          "text": "PCS 227",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 401 Quantum Mechanics I",
+      "links": [
+        {
+          "text": "PCS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered 2028-2029. Full-Time, Five-Year Co-op program: Last offered 2029-2030."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 307 Molecular Biology",
+      "links": [
+        {
+          "text": "BLG 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 354 Radiation Biology",
+      "links": [
+        {
+          "text": "PCS 354",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/354/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Two courses from Table III",
+      "links": [
+        {
+          "text": "Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 352 Nuclear Physics/Radiation Protection",
+      "links": [
+        {
+          "text": "PCS 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table II .",
+      "links": [
+        {
+          "text": "Table II",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_ii/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table III .",
+      "links": [
+        {
+          "text": "Table III",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_iii/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biology - Bioinformatics and Computational Biology Option (for students admitted Fall 2025 and before)"
+    },
+    {
+      "kind": "text",
+      "text": "Bioinformatics and Computational Biology is an interdisciplinary field that applies the techniques of computer science, applied mathematics, and statistics to address problems inspired by biology."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Bioinformatics and Computational Biology Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Bioinformatics and Computational Biology Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "text",
+      "text": "This option is available to students entering their fifth semester of the Biology program. Careers in Bioinformatics and Computational Biology might range from analysis of genomic sequences to visualizing the activity of an animal's nervous system or modeling the responses of a plant to changing environmental conditions. Students choosing this option will enhance their biology education with courses in computer programming, stochastic modeling and bioinformatics. Bioinformatics is a fast growing subdiscipline that uses Bioinformatics and Computational Biology methods for the interpretation of vast amounts of data from high throughout techniques in the biological field. Students who chose to study computational biology will be exposed to this rapidly evolving field and can pursue a career in the Life Sciences as a scientific curator, gene analyst, protein analyst, or phylogenist, in the Computer Science/Engineering area as a database programmer or bioinformatics software developer, in Applied Sciences as a molecular modeller or biostatistician, or Pharmaceutical Sciences as a Cheminformatician or pharmacogenetician."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Fall 2027. Full-Time, Five-Year Co-op program: Last offered Fall 2027."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 361 Advanced Biochemistry I",
+      "links": [
+        {
+          "text": "BCH 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 307 Molecular Biology",
+      "links": [
+        {
+          "text": "BLG 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 110 Discrete Mathematics I",
+      "links": [
+        {
+          "text": "MTH 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/110/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 330 Calculus and Geometry",
+      "links": [
+        {
+          "text": "MTH 330",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/330/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Winter 2028. Full-Time, Five-Year Co-op program: Last offered Winter 2029."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 315 Evolution",
+      "links": [
+        {
+          "text": "BLG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 607 Graph Theory",
+      "links": [
+        {
+          "text": "MTH 607",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/607/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED GROUP 1: One course from the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 500 Introduction to Stochastic Processes",
+      "links": [
+        {
+          "text": "MTH 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/500/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered 2028-2029. Full-Time, Five-Year Co-op program: Last offered 2029-2030."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 800 Genomics and Proteomics",
+      "links": [
+        {
+          "text": "BLG 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 501 Bioinformatics",
+      "links": [
+        {
+          "text": "CPS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies . OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        },
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 888 Molecular Biology Laboratory",
+      "links": [
+        {
+          "text": "BLG 888",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/888/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Biology - Environmental Biology Option (for students admitted Fall 2025 and before)"
+    },
+    {
+      "kind": "text",
+      "text": "Environmental biology is a science with an inter-disciplinary approach that merges chemistry, engineering and other pertinent fields."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Environmental Biology Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Environmental Biology Option, Full-Time Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program (for all Options)."
+    },
+    {
+      "kind": "text",
+      "text": "This option is available to students entering their fifth semester of the Biology program. Students will receive training in wastewater technologies, environmental engineering, ecotoxicology, digital image analysis, chemical analytical techniques, ecosystem ecology, wetlands management, data recording and transmission, and statistical and policy analyses. Well educated undergraduates in the Environmental Biology (EVB) option are fundamentally important for research and development of novel technologies to protect and remediate the environment and develop improved and sustainable alternatives. Graduates of the EVB option will likely enjoy great demand for direct employment in government and private organizations and in the ever-growing “green” industries."
+    },
+    {
+      "kind": "heading",
+      "level": 4,
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Fall 2027. Full-Time, Five-Year Co-op program: Last offered Fall 2027."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 361 Advanced Biochemistry I",
+      "links": [
+        {
+          "text": "BCH 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 351 Applied Microbiology",
+      "links": [
+        {
+          "text": "BLG 351",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/351/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 409 Biometry",
+      "links": [
+        {
+          "text": "BLG 409",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/409/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 803 Ecosystem Processes",
+      "links": [
+        {
+          "text": "BLG 803",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/803/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 4,
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Winter 2028. Full-Time, Five-Year Co-op program: Last offered Winter 2029."
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 315 Evolution",
+      "links": [
+        {
+          "text": "BLG 315",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/315/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 340 Environmental Biology",
+      "links": [
+        {
+          "text": "BLG 340",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/340/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 423 Environmental Science",
+      "links": [
+        {
+          "text": "CHY 423",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/423/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective",
+      "links": [
+        {
+          "text": "Open Elective",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "Full-Time, Four-Year program: Last offered Winter 2028-2029. Full-Time, Five-Year Co-op program: Last offered Winter 2029-2030."
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 401 Ecotoxicology",
+      "links": [
+        {
+          "text": "BLG 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table V",
+      "links": [
+        {
+          "text": "Table V",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_v1/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: One course from Table V",
+      "links": [
+        {
+          "text": "Table V",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/table_v1/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: Two Open Electives",
+      "links": [
+        {
+          "text": "Open Electives",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sequence of Academic and Work Terms for Co-op Program (for all Options)"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Work Terms"
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 405 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 405",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/405/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 505 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 505",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/505/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 506 - Work Term III",
+      "links": [
+        {
+          "text": "WKT 506",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/506/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 605 - Work Term IV or 6th Semester",
+      "links": [
+        {
+          "text": "WKT 605",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/605/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 606 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 606",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/606/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "WKT courses are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Students deviating from the prescribed co-operative work term schedule should consult with their Faculty Advisor or Program Director to ensure all graduation requirements can be met in a timely manner."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Biology"
+}

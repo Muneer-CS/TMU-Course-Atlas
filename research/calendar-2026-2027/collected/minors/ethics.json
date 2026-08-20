@@ -1,0 +1,425 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/ethics_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "acb103a85ccf912665b836f2f82a0cbcf66f5afbf6a769e3b6ff52f25bc524b6",
+  "source_bytes": 57840,
+  "title": "Minor in Ethics",
+  "headings": [
+    "Minor in Ethics"
+  ],
+  "course_codes_referenced": [
+    "BUS 221",
+    "BUS 223",
+    "CRM 322",
+    "PHL 302",
+    "PHL 306",
+    "PHL 307",
+    "PHL 334",
+    "PHL 400",
+    "PHL 406",
+    "PHL 420",
+    "PHL 444",
+    "PHL 449",
+    "PHL 503",
+    "PHL 509",
+    "PHL 530",
+    "PHL 602",
+    "PHL 603",
+    "PHL 612",
+    "PHL 614"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Arts and Contemporary Studies - Philosophy Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+    },
+    {
+      "text": "English and Philosophy Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/"
+    },
+    {
+      "text": "History and Philosophy Double Major",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/"
+    },
+    {
+      "text": "Philosophy",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/"
+    },
+    {
+      "text": "PHL 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/400/"
+    },
+    {
+      "text": "PHL 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/503/"
+    },
+    {
+      "text": "PHL 603",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/603/"
+    },
+    {
+      "text": "PHL 614",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/614/"
+    },
+    {
+      "text": "BUS 221",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+    },
+    {
+      "text": "BUS 223",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+    },
+    {
+      "text": "CRM 322",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/322/"
+    },
+    {
+      "text": "PHL 302",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+    },
+    {
+      "text": "PHL 306",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+    },
+    {
+      "text": "PHL 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/307/"
+    },
+    {
+      "text": "PHL 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+    },
+    {
+      "text": "PHL 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/420/"
+    },
+    {
+      "text": "PHL 449",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/449/"
+    },
+    {
+      "text": "PHL 509",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+    },
+    {
+      "text": "PHL 612",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Ethics"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Socrates raised the basic moral question when he asked: Why are things not better than they are? How should things be instead? The importance of a theoretical and practical knowledge of morality and ethics for both private and public life is increasingly being recognized. As citizens and professionals, ethical fluency is a crucial skill for negotiating the complexities of contemporary life. The Ethics Minor is designed to provide conversancy with the major ethical theories and traditions, along with problem solving and analysis of cases, thus enabling students to prepare themselves for the ethical challenges they may face."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Philosophy and Music"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Arts and Contemporary Studies - Philosophy Option",
+      "links": [
+        {
+          "text": "Arts and Contemporary Studies - Philosophy Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/arts_contemporary/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "English and Philosophy Double Major",
+      "links": [
+        {
+          "text": "English and Philosophy Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/english_philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "History and Philosophy Double Major",
+      "links": [
+        {
+          "text": "History and Philosophy Double Major",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/history_philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Philosophy",
+      "links": [
+        {
+          "text": "Philosophy",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/arts/philosophy/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "One (1) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 400 Human Rights and Justice",
+      "links": [
+        {
+          "text": "PHL 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 503 Ancient and Modern Ethics",
+      "links": [
+        {
+          "text": "PHL 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 603 The Nature of Ethics",
+      "links": [
+        {
+          "text": "PHL 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 614 Philosophy of Human Rights",
+      "links": [
+        {
+          "text": "PHL 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/614/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Five (5) of the following:"
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 221 Business Decision-Making",
+      "links": [
+        {
+          "text": "BUS 221",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/221/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BUS 223 Ethics in Commerce",
+      "links": [
+        {
+          "text": "BUS 223",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/business/BUS/223/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 322 Ethics in Criminal Justice",
+      "links": [
+        {
+          "text": "CRM 322",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/322/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 302 * Ethics and Health Care",
+      "links": [
+        {
+          "text": "PHL 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 306 Freedom, Equality, Limits of Authority",
+      "links": [
+        {
+          "text": "PHL 306",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/306/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 307 Business Ethics",
+      "links": [
+        {
+          "text": "PHL 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 334 Ethics in Professional Life"
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 400 Human Rights and Justice",
+      "links": [
+        {
+          "text": "PHL 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 406 Issues of Life, Death and Poverty",
+      "links": [
+        {
+          "text": "PHL 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 420 Philosophy, Diversity and Recognition",
+      "links": [
+        {
+          "text": "PHL 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 444 Ethics in Health Services Management"
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 449 Philosophy of Punishment",
+      "links": [
+        {
+          "text": "PHL 449",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/449/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 503 Ancient and Modern Ethics",
+      "links": [
+        {
+          "text": "PHL 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/503/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 509 * Bioethics",
+      "links": [
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 530 Media Ethics"
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 602 Health Policy: Ethics and Justice"
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 603 Modern and Contemporary Ethics",
+      "links": [
+        {
+          "text": "PHL 603",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/603/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 612 Philosophy of Law",
+      "links": [
+        {
+          "text": "PHL 612",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/612/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PHL 614 Philosophy of Human Rights",
+      "links": [
+        {
+          "text": "PHL 614",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/614/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "* Note that these courses have antirequisites that are also part of this Minor; PHL 302 and PHL 509 are antirequisites.",
+      "links": [
+        {
+          "text": "PHL 302",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/302/"
+        },
+        {
+          "text": "PHL 509",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/philosophy/PHL/509/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Ethics"
+}

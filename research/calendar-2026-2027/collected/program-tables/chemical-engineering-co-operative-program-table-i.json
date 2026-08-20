@@ -1,0 +1,653 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "0b166aebfc1578da91daf38d509a6f9026991739c808435192705576c6c3c623",
+  "source_bytes": 58782,
+  "title": "Chemical Engineering Core Elective Table I",
+  "headings": [
+    "Chemical Engineering Core Elective Table I",
+    "Energy",
+    "Environment",
+    "Intelligent Systems",
+    "Materials",
+    "Pharmaceutical",
+    "Process Engineering",
+    "Special Topics",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CEN 810",
+    "CHE 402",
+    "CHE 403",
+    "CHE 404",
+    "CHE 414",
+    "CHE 420",
+    "CHE 422",
+    "CHE 424",
+    "CHE 425",
+    "CHE 426",
+    "CHE 435",
+    "CHE 450",
+    "CHE 451",
+    "CHE 454",
+    "CHE 460",
+    "CHE 461",
+    "CHE 462",
+    "CHE 471",
+    "CHE 473",
+    "CHE 474",
+    "CHE 480",
+    "CHE 490",
+    "CHE 615",
+    "CHE 616",
+    "CHE 618",
+    "CHE 714",
+    "CHE 715"
+  ],
+  "official_links": [
+    {
+      "text": "Chemical Engineering Co-operative Program",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+    },
+    {
+      "text": "CHE 404",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/404/"
+    },
+    {
+      "text": "CHE 435",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/435/"
+    },
+    {
+      "text": "CHE 473",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/473/"
+    },
+    {
+      "text": "CHE 490",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/490/"
+    },
+    {
+      "text": "CHE 615",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/615/"
+    },
+    {
+      "text": "CHE 616",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/616/"
+    },
+    {
+      "text": "CHE 618",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/618/"
+    },
+    {
+      "text": "CHE 425",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/425/"
+    },
+    {
+      "text": "CHE 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/450/"
+    },
+    {
+      "text": "CHE 462",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/462/"
+    },
+    {
+      "text": "CHE 451",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/451/"
+    },
+    {
+      "text": "CHE 454",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/454/"
+    },
+    {
+      "text": "CHE 474",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/474/"
+    },
+    {
+      "text": "CHE 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/715/"
+    },
+    {
+      "text": "CHE 420",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/420/"
+    },
+    {
+      "text": "CHE 422",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/422/"
+    },
+    {
+      "text": "CHE 460",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/460/"
+    },
+    {
+      "text": "CHE 461",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/461/"
+    },
+    {
+      "text": "CHE 714",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/714/"
+    },
+    {
+      "text": "CHE 402",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/402/"
+    },
+    {
+      "text": "CHE 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/403/"
+    },
+    {
+      "text": "CHE 414",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/414/"
+    },
+    {
+      "text": "CHE 424",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/424/"
+    },
+    {
+      "text": "CHE 426",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/426/"
+    },
+    {
+      "text": "CHE 480",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/480/"
+    },
+    {
+      "text": "CHE 471",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/471/"
+    },
+    {
+      "text": "CEN 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/table_i/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Chemical Engineering Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Chemical Engineering Co-operative Program",
+      "links": [
+        {
+          "text": "Chemical Engineering Co-operative Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/chemical/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students are required to complete a total of five (5) courses ."
+    },
+    {
+      "kind": "text",
+      "text": "Not every course listed in Table I is offered every year."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Energy"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 404 Enhanced Oil Recovery",
+      "links": [
+        {
+          "text": "CHE 404",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/404/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 435 Hydrogen and Fuel Cell Technologies",
+      "links": [
+        {
+          "text": "CHE 435",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/435/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 473 Sustainable Energy Technologies",
+      "links": [
+        {
+          "text": "CHE 473",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/473/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Environment"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 490 Resource Recovery from Waste and Circular Economy",
+      "links": [
+        {
+          "text": "CHE 490",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/490/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 615 Air Pollution and Control",
+      "links": [
+        {
+          "text": "CHE 615",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/615/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 616 Water and Wastewater Treatment",
+      "links": [
+        {
+          "text": "CHE 616",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/616/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 618 Solid Waste Treatment",
+      "links": [
+        {
+          "text": "CHE 618",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/618/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Intelligent Systems"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 425 Process and Engineering Optimization",
+      "links": [
+        {
+          "text": "CHE 425",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/425/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 450 Introduction to Artificial Intelligence in Chemical Engineering",
+      "links": [
+        {
+          "text": "CHE 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 462 Computer Process Control",
+      "links": [
+        {
+          "text": "CHE 462",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/462/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Materials"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 451 Plastics Technology",
+      "links": [
+        {
+          "text": "CHE 451",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/451/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 454 Polymer Science",
+      "links": [
+        {
+          "text": "CHE 454",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/454/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 474 Nanotechnology and Its Applications",
+      "links": [
+        {
+          "text": "CHE 474",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/474/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 715 Membrane Technology",
+      "links": [
+        {
+          "text": "CHE 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/715/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pharmaceutical"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 420 Particulate Engineering",
+      "links": [
+        {
+          "text": "CHE 420",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/420/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 422 Biochemical Engineering",
+      "links": [
+        {
+          "text": "CHE 422",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/422/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 460 Design and Characterization of Mixing Operations in Pharmaceutical Industry",
+      "links": [
+        {
+          "text": "CHE 460",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/460/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 461 Biopharmaceutical Processes and Design",
+      "links": [
+        {
+          "text": "CHE 461",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/461/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 714 Pharmaceutical Technology and Processing",
+      "links": [
+        {
+          "text": "CHE 714",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/714/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Process Engineering"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 402 Natural Gas Processing",
+      "links": [
+        {
+          "text": "CHE 402",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/402/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 403 Petroleum Refining Processes",
+      "links": [
+        {
+          "text": "CHE 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/403/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 414 Rate Processes in Chemical Engineering",
+      "links": [
+        {
+          "text": "CHE 414",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/414/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 424 Food Process Engineering",
+      "links": [
+        {
+          "text": "CHE 424",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/424/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 426 Transport Phenomena",
+      "links": [
+        {
+          "text": "CHE 426",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/426/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 480 Microfluidic Systems",
+      "links": [
+        {
+          "text": "CHE 480",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/480/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Special Topics"
+    },
+    {
+      "kind": "list_item",
+      "text": "CHE 471 Thesis/Research and Design Project",
+      "links": [
+        {
+          "text": "CHE 471",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemical-engineering/CHE/471/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CEN 810 Selected Topics in Engineering",
+      "links": [
+        {
+          "text": "CEN 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/common-engineering/CEN/810/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Chemical Engineering Co-operative Program - Table I"
+}

@@ -1,0 +1,723 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/table_i/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "51559e04ba0c02ec79fa1d8c9d327176c2f0be4b67506d9371bb8b3cea9799c3",
+  "source_bytes": 63332,
+  "title": "Medical Physics Core Elective Table I",
+  "headings": [
+    "Medical Physics Core Elective Table I"
+  ],
+  "course_codes_referenced": [
+    "BCH 261",
+    "BCH 361",
+    "BLG 151",
+    "BLG 251",
+    "BLG 400",
+    "BLG 601",
+    "BLG 701",
+    "BLG 856",
+    "CHY 142",
+    "CHY 242",
+    "CMN 600",
+    "CPS 109",
+    "CPS 209",
+    "CPS 305",
+    "CPS 393",
+    "CPS 501",
+    "CPS 844",
+    "MTH 480",
+    "PCS 224",
+    "PCS 350",
+    "PCS 358",
+    "PCS 406",
+    "PCS 450",
+    "PCS 550",
+    "PCS 624",
+    "PCS 700",
+    "PCS 724",
+    "PCS 800",
+    "PCS 810"
+  ],
+  "official_links": [
+    {
+      "text": "Medical Physics",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+    },
+    {
+      "text": "BCH 261",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+    },
+    {
+      "text": "BCH 361",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+    },
+    {
+      "text": "BLG 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+    },
+    {
+      "text": "BLG 251",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/251/"
+    },
+    {
+      "text": "BLG 400",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+    },
+    {
+      "text": "BLG 601",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+    },
+    {
+      "text": "BLG 701",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+    },
+    {
+      "text": "BLG 856",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/856/"
+    },
+    {
+      "text": "CHY 142",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+    },
+    {
+      "text": "CHY 242",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/242/"
+    },
+    {
+      "text": "CMN 600",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+    },
+    {
+      "text": "CPS 109",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+    },
+    {
+      "text": "CPS 209",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+    },
+    {
+      "text": "CPS 305",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+    },
+    {
+      "text": "CPS 393",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+    },
+    {
+      "text": "CPS 501",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+    },
+    {
+      "text": "CPS 844",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/844/"
+    },
+    {
+      "text": "MTH 480",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/480/"
+    },
+    {
+      "text": "PCS 224",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/224/"
+    },
+    {
+      "text": "PCS 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+    },
+    {
+      "text": "PCS 358",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/358/"
+    },
+    {
+      "text": "PCS 406",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/406/"
+    },
+    {
+      "text": "PCS 450",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/450/"
+    },
+    {
+      "text": "PCS 550",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/550/"
+    },
+    {
+      "text": "PCS 624",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/624/"
+    },
+    {
+      "text": "PCS 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/700/"
+    },
+    {
+      "text": "PCS 724",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+    },
+    {
+      "text": "PCS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/800/"
+    },
+    {
+      "text": "PCS 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/810/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Medical Physics Core Elective Table I"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Physics",
+      "links": [
+        {
+          "text": "Medical Physics",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 261 Biochemistry",
+      "links": [
+        {
+          "text": "BCH 261",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/261/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BCH 361 Advanced Biochemistry I",
+      "links": [
+        {
+          "text": "BCH 361",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biochemistry/BCH/361/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 151 Microbiology I",
+      "links": [
+        {
+          "text": "BLG 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 251 Microbiology II",
+      "links": [
+        {
+          "text": "BLG 251",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/251/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 400 Genetics",
+      "links": [
+        {
+          "text": "BLG 400",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/400/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 601 Physiology",
+      "links": [
+        {
+          "text": "BLG 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 701 Anatomy",
+      "links": [
+        {
+          "text": "BLG 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 856 Immunology",
+      "links": [
+        {
+          "text": "BLG 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/856/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 142 Organic Chemistry I",
+      "links": [
+        {
+          "text": "CHY 142",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/142/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CHY 242 Organic Chemistry II",
+      "links": [
+        {
+          "text": "CHY 242",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/chemistry/CHY/242/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 600 Science, Communication and Society",
+      "links": [
+        {
+          "text": "CMN 600",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/600/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 393 Introduction to UNIX, C and C++",
+      "links": [
+        {
+          "text": "CPS 393",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 501 Bioinformatics",
+      "links": [
+        {
+          "text": "CPS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 844 Data Mining",
+      "links": [
+        {
+          "text": "CPS 844",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/844/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 480 Probability and Statistics II",
+      "links": [
+        {
+          "text": "MTH 480",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/480/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 224 Solid State Physics",
+      "links": [
+        {
+          "text": "PCS 224",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/224/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 350 Computational Methods in Medical Physics",
+      "links": [
+        {
+          "text": "PCS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 358 Mechanics",
+      "links": [
+        {
+          "text": "PCS 358",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/358/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 406 Radiation Protection/Health Physics",
+      "links": [
+        {
+          "text": "PCS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 450 Directed Project I",
+      "links": [
+        {
+          "text": "PCS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 550 Directed Project II",
+      "links": [
+        {
+          "text": "PCS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 624 Electromagnetism II",
+      "links": [
+        {
+          "text": "PCS 624",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/624/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 700 Quantum Mechanics II",
+      "links": [
+        {
+          "text": "PCS 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 724 Condensed Matter Physics/Materials",
+      "links": [
+        {
+          "text": "PCS 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 800 Dynamical Systems",
+      "links": [
+        {
+          "text": "PCS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 810 Complex Networks and Applications",
+      "links": [
+        {
+          "text": "PCS 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to apply for the clinically-accredited graduate programs in Medical Physics are advised to choose their electives from the following list of courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 406 Radiation Protection/Health Physics",
+      "links": [
+        {
+          "text": "PCS 406",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/406/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 700 Quantum Mechanics II",
+      "links": [
+        {
+          "text": "PCS 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 724 Condensed Matter Physics/Materials",
+      "links": [
+        {
+          "text": "PCS 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 624 Electromagnetism II",
+      "links": [
+        {
+          "text": "PCS 624",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/624/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 450 Directed Project I",
+      "links": [
+        {
+          "text": "PCS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 550 Directed Project II",
+      "links": [
+        {
+          "text": "PCS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 601 Physiology",
+      "links": [
+        {
+          "text": "BLG 601",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/601/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BLG 701 Anatomy",
+      "links": [
+        {
+          "text": "BLG 701",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/biology/BLG/701/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to pursue a professional or academic career in Physics , are advised to choose their electives from the following list of courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 224 Solid State Physics",
+      "links": [
+        {
+          "text": "PCS 224",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/224/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 700 Quantum Mechanics II",
+      "links": [
+        {
+          "text": "PCS 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/700/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 724 Condensed Matter Physics/Materials",
+      "links": [
+        {
+          "text": "PCS 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 624 Electromagnetism II",
+      "links": [
+        {
+          "text": "PCS 624",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/624/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 450 Directed Project I",
+      "links": [
+        {
+          "text": "PCS 450",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/450/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 550 Directed Project II",
+      "links": [
+        {
+          "text": "PCS 550",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/550/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 358 Mechanics",
+      "links": [
+        {
+          "text": "PCS 358",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/358/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 800 Dynamical Systems",
+      "links": [
+        {
+          "text": "PCS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 810 Complex Networks and Applications",
+      "links": [
+        {
+          "text": "PCS 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Students wishing to obtain solid computational skills , are advised to choose from the following list of Table I courses:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 109 Computer Science I",
+      "links": [
+        {
+          "text": "CPS 109",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/109/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 209 Computer Science II",
+      "links": [
+        {
+          "text": "CPS 209",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/209/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 393 Introduction to UNIX, C and C++",
+      "links": [
+        {
+          "text": "CPS 393",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/393/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PCS 350 Computational Methods in Medical Physics",
+      "links": [
+        {
+          "text": "PCS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 305 Data Structures",
+      "links": [
+        {
+          "text": "CPS 305",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/305/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 844 Data Mining",
+      "links": [
+        {
+          "text": "CPS 844",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/844/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CPS 501 Bioinformatics",
+      "links": [
+        {
+          "text": "CPS 501",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/computer-science/CPS/501/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Medical Physics - Table I"
+}

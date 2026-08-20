@@ -1,0 +1,666 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/core_table_iii/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "dcce900bbe261eacb0d157fddc803dd095cec02aa8408ba4b2c4c356651aa9a9",
+  "source_bytes": 58182,
+  "title": "Core Elective Table III",
+  "headings": [
+    "Core Elective Table III"
+  ],
+  "course_codes_referenced": [
+    "ARC 721",
+    "ARC 821",
+    "ASC 704",
+    "ASC 730",
+    "ASC 731",
+    "ASC 733",
+    "ASC 734",
+    "ASC 735",
+    "ASC 736",
+    "ASC 737",
+    "ASC 738",
+    "ASC 750",
+    "ASC 751",
+    "ASC 752",
+    "ASC 755",
+    "ASC 756",
+    "ASC 853",
+    "ASC 855",
+    "ASC 856",
+    "ASC 857",
+    "ASC 900",
+    "BSC 721",
+    "BSC 722",
+    "BSC 821",
+    "BSC 822",
+    "IDE 301",
+    "IDE 304",
+    "IDE 307",
+    "IDE 500",
+    "PLE 515",
+    "PLE 525",
+    "PLE 565",
+    "PLE 635",
+    "PLE 715",
+    "PLE 735",
+    "PLE 755",
+    "PLE 765",
+    "PLE 815",
+    "PMT 721",
+    "PMT 722",
+    "PMT 821",
+    "PMT 822"
+  ],
+  "official_links": [
+    {
+      "text": "Architectural Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+    },
+    {
+      "text": "ARC 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/721/"
+    },
+    {
+      "text": "ARC 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/821/"
+    },
+    {
+      "text": "ASC 704",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/704/"
+    },
+    {
+      "text": "ASC 730",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/730/"
+    },
+    {
+      "text": "ASC 731",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/731/"
+    },
+    {
+      "text": "ASC 733",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/733/"
+    },
+    {
+      "text": "ASC 734",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/734/"
+    },
+    {
+      "text": "ASC 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/735/"
+    },
+    {
+      "text": "ASC 736",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/736/"
+    },
+    {
+      "text": "ASC 737",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/737/"
+    },
+    {
+      "text": "ASC 738",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/738/"
+    },
+    {
+      "text": "ASC 750",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/750/"
+    },
+    {
+      "text": "ASC 751",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/751/"
+    },
+    {
+      "text": "ASC 752",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/752/"
+    },
+    {
+      "text": "ASC 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/755/"
+    },
+    {
+      "text": "ASC 756",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/756/"
+    },
+    {
+      "text": "ASC 853",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/853/"
+    },
+    {
+      "text": "ASC 855",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/855/"
+    },
+    {
+      "text": "ASC 856",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/856/"
+    },
+    {
+      "text": "ASC 857",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/857/"
+    },
+    {
+      "text": "ASC 900",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/900/"
+    },
+    {
+      "text": "BSC 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/721/"
+    },
+    {
+      "text": "BSC 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/722/"
+    },
+    {
+      "text": "BSC 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/821/"
+    },
+    {
+      "text": "BSC 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/822/"
+    },
+    {
+      "text": "IDE 301",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/301/"
+    },
+    {
+      "text": "IDE 304",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/304/"
+    },
+    {
+      "text": "IDE 307",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/307/"
+    },
+    {
+      "text": "IDE 500",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/500/"
+    },
+    {
+      "text": "PLE 515",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/515/"
+    },
+    {
+      "text": "PLE 525",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/525/"
+    },
+    {
+      "text": "PLE 565",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/565/"
+    },
+    {
+      "text": "PLE 635",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+    },
+    {
+      "text": "PLE 715",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+    },
+    {
+      "text": "PLE 735",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/735/"
+    },
+    {
+      "text": "PLE 755",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/755/"
+    },
+    {
+      "text": "PLE 765",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/765/"
+    },
+    {
+      "text": "PLE 815",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/815/"
+    },
+    {
+      "text": "PMT 721",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/721/"
+    },
+    {
+      "text": "PMT 722",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/722/"
+    },
+    {
+      "text": "PMT 821",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/821/"
+    },
+    {
+      "text": "PMT 822",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/822/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Core Elective Table III"
+    },
+    {
+      "kind": "text",
+      "text": "Architectural Science",
+      "links": [
+        {
+          "text": "Architectural Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/feas/architectural/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARC 721 Theorizing Technology in Architecture",
+      "links": [
+        {
+          "text": "ARC 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ARC 821 The Architect in Society",
+      "links": [
+        {
+          "text": "ARC 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ARC/821/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 704 Independent Study",
+      "links": [
+        {
+          "text": "ASC 704",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/704/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 730 Construction Case Studies Advanced",
+      "links": [
+        {
+          "text": "ASC 730",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/730/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 731 The Architecture of Urban Housing",
+      "links": [
+        {
+          "text": "ASC 731",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/731/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 733 Canadian Architecture Since 1945",
+      "links": [
+        {
+          "text": "ASC 733",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/733/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 734 Advanced Digital Design",
+      "links": [
+        {
+          "text": "ASC 734",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/734/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 735 Heritage Conservation Theory and Practice",
+      "links": [
+        {
+          "text": "ASC 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/735/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 736 Architectural Representation",
+      "links": [
+        {
+          "text": "ASC 736",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/736/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 737 Designing the Productive City",
+      "links": [
+        {
+          "text": "ASC 737",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/737/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 738 Architectural Research Excursions",
+      "links": [
+        {
+          "text": "ASC 738",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/738/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 750 Architecture and Public Policy",
+      "links": [
+        {
+          "text": "ASC 750",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/750/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 751 Architectural Writing",
+      "links": [
+        {
+          "text": "ASC 751",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/751/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 752 Business Practices in the AEC Industry",
+      "links": [
+        {
+          "text": "ASC 752",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/752/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 755 Digital Tools",
+      "links": [
+        {
+          "text": "ASC 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 756 Fire Safety in the Built Environment",
+      "links": [
+        {
+          "text": "ASC 756",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/756/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 853 Landscape Design, Theory and Application",
+      "links": [
+        {
+          "text": "ASC 853",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/853/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 855 Sustainable Ratings Systems",
+      "links": [
+        {
+          "text": "ASC 855",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/855/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 856 The Small Building",
+      "links": [
+        {
+          "text": "ASC 856",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/856/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 857 Glass in Architecture",
+      "links": [
+        {
+          "text": "ASC 857",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/857/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ASC 900 Selected Topics in Architectural Science",
+      "links": [
+        {
+          "text": "ASC 900",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/architectural-science/ASC/900/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 721 Existing Building Forensics",
+      "links": [
+        {
+          "text": "BSC 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 722 Sustainable Environmental Control Systems",
+      "links": [
+        {
+          "text": "BSC 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/722/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 821 Sustainable Detail Design",
+      "links": [
+        {
+          "text": "BSC 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/821/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "BSC 822 Advanced Envelopes/Components",
+      "links": [
+        {
+          "text": "BSC 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/building-science/BSC/822/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 301 Furniture Design",
+      "links": [
+        {
+          "text": "IDE 301",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/301/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 304 Set Design",
+      "links": [
+        {
+          "text": "IDE 304",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/304/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 307 Colour and its Application",
+      "links": [
+        {
+          "text": "IDE 307",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/307/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "IDE 500 Selected Topics in Interior Design",
+      "links": [
+        {
+          "text": "IDE 500",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/interior-design/IDE/500/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 515 Environmental Planning",
+      "links": [
+        {
+          "text": "PLE 515",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/515/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 525 Transportation Planning",
+      "links": [
+        {
+          "text": "PLE 525",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/525/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 565 Social and Community Planning",
+      "links": [
+        {
+          "text": "PLE 565",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/565/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 635 Feasibility Analysis of Development",
+      "links": [
+        {
+          "text": "PLE 635",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/635/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 715 Environmental Assessment",
+      "links": [
+        {
+          "text": "PLE 715",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/715/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 735 Private Development Seminar",
+      "links": [
+        {
+          "text": "PLE 735",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/735/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 755 Contemporary Urban Design",
+      "links": [
+        {
+          "text": "PLE 755",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/755/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 765 International Development",
+      "links": [
+        {
+          "text": "PLE 765",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/765/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PLE 815 Facility Siting and Env. Risk Assessment",
+      "links": [
+        {
+          "text": "PLE 815",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/planning/PLE/815/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 721 Economics for Project Management",
+      "links": [
+        {
+          "text": "PMT 721",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/721/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 722 Information Systems",
+      "links": [
+        {
+          "text": "PMT 722",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/722/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 821 Construction Practices and Management",
+      "links": [
+        {
+          "text": "PMT 821",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/821/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "PMT 822 Procurement and Construction Management",
+      "links": [
+        {
+          "text": "PMT 822",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/project-management/PMT/822/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Architectural Science - Core Elective Table III (opens in new window)"
+}

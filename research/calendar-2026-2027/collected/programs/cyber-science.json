@@ -1,0 +1,1274 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "6e615354cf00bff9e9c5b914574a664c00c1d84333fa66003b45cbebe0428c9b",
+  "source_bytes": 100661,
+  "title": "Cyber Science",
+  "headings": [
+    "Cyber Science",
+    "Admission Information - Full-Time Program",
+    "Program Overview/Curriculum Information",
+    "Co-operative Program Overview",
+    "Optional Specialization in Management Sciences (OS MS)",
+    "Research Practicum",
+    "How to Enrol",
+    "Transfer Credits",
+    "Liberal Studies",
+    "Minors",
+    "The G. Raymond Chang School of Continuing Education Certificates",
+    "Full-Time, Four-Year Program and Five-Year Co-op Program",
+    "Co-operative students see Sequence of Academic and Work Terms for Co-op Program.",
+    "1st & 2nd Semester",
+    "3rd & 4th Semester",
+    "5th & 6th Semester",
+    "7th & 8th Semester",
+    "Sequence of Academic and Work Terms for Co-op Program",
+    "Program Advisory Council",
+    "See important curriculum interpretation and application information to understand how requirements apply to you."
+  ],
+  "course_codes_referenced": [
+    "CMN 279",
+    "CPS 100",
+    "CPS 499",
+    "CRM 100",
+    "CRM 200",
+    "CRM 350",
+    "CYS 111",
+    "CYS 119",
+    "CYS 122",
+    "CYS 151",
+    "CYS 211",
+    "CYS 213",
+    "CYS 229",
+    "CYS 231",
+    "CYS 344",
+    "CYS 393",
+    "CYS 414",
+    "CYS 473",
+    "CYS 512",
+    "ITM 711",
+    "ITM 825",
+    "LAW 568",
+    "MTH 160",
+    "SCI 200",
+    "SCI 999",
+    "WKT 103",
+    "WKT 203",
+    "WKT 303",
+    "WKT 403",
+    "WKT 503"
+  ],
+  "official_links": [
+    {
+      "text": "Faculty of Science",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+    },
+    {
+      "text": "Optional Specialization in Management Sciences (OS MS)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+    },
+    {
+      "text": "SCI 999",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+    },
+    {
+      "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+    },
+    {
+      "text": "Table B - Upper Level Liberal Studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+    },
+    {
+      "text": "liberal studies",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+    },
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "CYS 119",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/119/"
+    },
+    {
+      "text": "CYS 151",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/151/"
+    },
+    {
+      "text": "CYS 122",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/122/"
+    },
+    {
+      "text": "MTH 160",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/160/"
+    },
+    {
+      "text": "CYS 111",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/111/"
+    },
+    {
+      "text": "CYS 229",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/229/"
+    },
+    {
+      "text": "CYS 231",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/231/"
+    },
+    {
+      "text": "SCI 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/200/"
+    },
+    {
+      "text": "CRM 100",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+    },
+    {
+      "text": "CYS 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/211/"
+    },
+    {
+      "text": "CYS 213",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/213/"
+    },
+    {
+      "text": "CYS 344",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/344/"
+    },
+    {
+      "text": "CYS 393",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/393/"
+    },
+    {
+      "text": "CMN 279",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+    },
+    {
+      "text": "CRM 200",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+    },
+    {
+      "text": "CRM 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+    },
+    {
+      "text": "CYS 414",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/414/"
+    },
+    {
+      "text": "CYS 473",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/473/"
+    },
+    {
+      "text": "CYS 512",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/512/"
+    },
+    {
+      "text": "ITM 825",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+    },
+    {
+      "text": "LAW 568",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+    },
+    {
+      "text": "Open Elective*",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+    },
+    {
+      "text": "Table I",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/"
+    },
+    {
+      "text": "ITM 711",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+    },
+    {
+      "text": "WKT 103",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/103/"
+    },
+    {
+      "text": "WKT 203",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/203/"
+    },
+    {
+      "text": "WKT 303",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/303/"
+    },
+    {
+      "text": "WKT 403",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/403/"
+    },
+    {
+      "text": "WKT 503",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+    },
+    {
+      "text": "important curriculum interpretation and application information",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Cyber Science"
+    },
+    {
+      "kind": "text",
+      "text": "Faculty of Science",
+      "links": [
+        {
+          "text": "Faculty of Science",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Degree Awarded:"
+    },
+    {
+      "kind": "text",
+      "text": "Bachelor of Science (Honours)"
+    },
+    {
+      "kind": "text",
+      "text": "Administered by:"
+    },
+    {
+      "kind": "text",
+      "text": "Department of Computer Science",
+      "links": [
+        {
+          "text": "Department of Computer Science",
+          "url": "https://www.torontomu.ca/content/ryerson/cs/future-undergraduate-students/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Program Format:"
+    },
+    {
+      "kind": "text",
+      "text": "Full-time, four-year program. Full-time, five-year co-op program."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Admission Information - Full-Time Program",
+      "links": [
+        {
+          "text": "Admission Information - Full-Time Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "O.S.S.D. with six Grade 12 U/M courses, including Grade 12 U courses in: English, Advanced Functions (MHF4U), and either Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U)."
+    },
+    {
+      "kind": "list_item",
+      "text": "ENG4U/EAE4U is the preferred English."
+    },
+    {
+      "kind": "list_item",
+      "text": "The grade(s) required in the subject prerequisites (normally in the range of 70 percent) will be determined subject to competition."
+    },
+    {
+      "kind": "list_item",
+      "text": "Subject to competition, candidates may be required to present averages/grades above the minimum."
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Overview/Curriculum Information",
+      "links": [
+        {
+          "text": "Program Overview/Curriculum Information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Toronto Met Cyber Science students will learn the fundamentals required for the next generation of cybersecurity roles, including the technical, business, legal, ethical, policy and social aspects of cybersecurity. Students will be immersed in lab activities based on real-life scenarios and will apply cybersecurity theories and techniques to learn how to manage cybersecurity within an organization, develop digital infrastructure, maintain secure operations and protect and defend against cyber risks."
+    },
+    {
+      "kind": "text",
+      "text": "As cybersecurity continues to grow as a concern for businesses, governments and populations around the world, Toronto Met Cyber Science graduates will be well-rounded cybersecurity experts who stand out in the job market. Graduates can apply their skills in roles in banking, telecommunications, private enterprises, government and tech companies, or choose to further their studies with a graduate degree in computer science or cybersecurity."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Co-operative Program Overview"
+    },
+    {
+      "kind": "text",
+      "text": "Curriculum scheduling is noted in the Full-Time, Four-Year and Five-Year Co-op Program section. Work term scheduling is noted in the Sequence of Academic and Work Terms for Co-op Program section."
+    },
+    {
+      "kind": "text",
+      "text": "The Cyber Science program also offers an optional co-operative program for full time students that provides the graduating students with up to 20 months of work experience that enhances their organizational and technical abilities as well as their oral and written communication skills. The optional co-op extends the program from four years to five. Although the Career & Co-op Centre cannot guarantee work term employment, they provide assistance in locating suitable positions and counselling students in their search for suitable jobs. This co-op program enables students to earn competitive wages to offset the costs of a university education."
+    },
+    {
+      "kind": "text",
+      "text": "Students who have completed the first year of the Cyber Science program can apply through the Career & Co-op Centre for admission to the co-operative education program at the end of first year during our spring/summer admissions period. This is the only time for students to apply to Co-op. Enrolment in the co-op program is limited. Admission will be based on a criteria which includes the student's grade point average, courses completed, a resume, statement of intent and interview if deemed necessary."
+    },
+    {
+      "kind": "text",
+      "text": "To be admitted into the co-­op program, students must have all first year courses completed and a CLEAR Academic Standing and a minimum cumulative GPA of 3.00 at the end of the 2nd semester of their first year, or receive departmental approval. To stay in the co-­op program, students must maintain a CLEAR Standing and minimum cumulative GPA of 3.00, or receive departmental approval."
+    },
+    {
+      "kind": "text",
+      "text": "Students who are direct entry/transfer are not permitted into the program except on an exceptional case by case basis. Students who are ahead with significant course credits are not permitted into the program except on an exceptional case by case basis."
+    },
+    {
+      "kind": "text",
+      "text": "All decisions regarding admission into the program are final and at the discretion of the Career and Co-op Centre. Students normally commence work terms upon completion of the second year of the program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Optional Specialization in Management Sciences (OS MS)"
+    },
+    {
+      "kind": "text",
+      "text": "Students can enrich their studies and hone their management skills with the Optional Specialization in Management Sciences. Courses within the optional specialization cover four major areas in management sciences: Strategic Engineering Management, Operations Management/Operations Research, Finance and Organizational Behaviour. For eligibility, registration, and course information see Optional Specialization in Management Sciences (OS MS) .",
+      "links": [
+        {
+          "text": "Optional Specialization in Management Sciences (OS MS)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/optional-specializations/management_sciences/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Research Practicum"
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 999 - Research Practicum gives students the chance to gain hands-on research experience, in a lab or in the field, by engaging in the research work of a faculty member. Toronto Met records participation in the practicum on the student’s Official Transcript.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 999 is a non-credit, pass-fail course that is not used to fulfil degree program requirements. Students who meet the expectations for the research will get a passing grade. These expectations will be worked out between the student and the professor at enrolment. To take part in SCI 999 , students must have a CGPA of 2.5 or more, and they must commit to a minimum of 5 to 10 hours each week (on average) for one term.",
+      "links": [
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        },
+        {
+          "text": "SCI 999",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/999/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "There are no tuition fees associated with this practicum."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to Enrol"
+    },
+    {
+      "kind": "list_item",
+      "text": "Students must first find a supervisor. Descriptions of faculty research are available on the Faculty of Science website (opens in new window) .",
+      "links": [
+        {
+          "text": "Faculty of Science website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/science/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Students should contact supervisors whose research interests them by email or in person. Students must give their potential supervisor an unofficial transcript (opens in new window) , a one-page resumé and a brief covering letter. This package must include their contact information, degree program and stream, a brief statement of their career goals and how this research experience would further those goals, and any relevant work experience (paid or volunteer).",
+      "links": [
+        {
+          "text": "unofficial transcript (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/myservicehub-support/students/academics/unofficial-transcript/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Follow the instructions available in the (PDF file) Research Practicum Application Form. (opens in new window)",
+      "links": [
+        {
+          "text": "(PDF file) Research Practicum Application Form. (opens in new window)",
+          "url": "https://www.torontomu.ca/content/dam/science/Images/PDF/Research_Practicum_Application_Form_April_2023.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Transfer Credits"
+    },
+    {
+      "kind": "text",
+      "text": "Requests for transfer credits using post-secondary Cyber Science courses taken ten or more years ago will normally be denied."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Liberal Studies"
+    },
+    {
+      "kind": "text",
+      "text": "Students must take three lower level liberal studies courses and three upper level liberal studies courses to graduate. Students must not choose courses that are restricted for their program or major.",
+      "links": [
+        {
+          "text": "lower level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        },
+        {
+          "text": "upper level",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Please refer to the liberal studies chapter of this calendar for more information on the Liberal Studies Policy. Further information on liberal studies can also be found at the Faculty of Arts' Liberal Studies website (opens in new window) .",
+      "links": [
+        {
+          "text": "liberal studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/"
+        },
+        {
+          "text": "Liberal Studies website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/liberal-studies/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Minors"
+    },
+    {
+      "kind": "text",
+      "text": "Students may pursue any Minor offered by Toronto Met (with some exceptions). Please refer to the Minors chapter of this calendar for further information on individual Minor requirements and exclusions.",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The G. Raymond Chang School of Continuing Education Certificates"
+    },
+    {
+      "kind": "text",
+      "text": "Undergraduate students wishing to pursue a continuing education certificate program should be aware of possible program exclusions. Please refer to the Certificate Registration section of the Curriculum Advising website (opens in new window) for complete details.",
+      "links": [
+        {
+          "text": "Curriculum Advising website (opens in new window)",
+          "url": "https://www.torontomu.ca/content/ryerson/curriculum-advising/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+      "links": [
+        {
+          "text": "Full-Time, Four-Year Program and Five-Year Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 5,
+      "text": "Co-operative students see Sequence of Academic and Work Terms for Co-op Program."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "1st & 2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 119 Foundations of Software Design and Development",
+      "links": [
+        {
+          "text": "CYS 119",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/119/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 151 Introduction to Cybersecurity",
+      "links": [
+        {
+          "text": "CYS 151",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/151/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 122 Evidence-Based Security",
+      "links": [
+        {
+          "text": "CYS 122",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/122/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "MTH 160 Mathematical Principles for Cyber Science",
+      "links": [
+        {
+          "text": "MTH 160",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/mathematics/MTH/160/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 111 The Cyber World: Components and Roles",
+      "links": [
+        {
+          "text": "CYS 111",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/111/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 229 Secure Software Development",
+      "links": [
+        {
+          "text": "CYS 229",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/229/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 231 Introduction to Security Protocols",
+      "links": [
+        {
+          "text": "CYS 231",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/231/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "SCI 200 Professionalism in Science",
+      "links": [
+        {
+          "text": "SCI 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/science/SCI/200/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3rd & 4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 100 Introduction to Canadian Criminal Justice",
+      "links": [
+        {
+          "text": "CRM 100",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/100/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 211 Networked Systems Security",
+      "links": [
+        {
+          "text": "CYS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/211/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 213 Computer Organization I",
+      "links": [
+        {
+          "text": "CYS 213",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/213/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 344 Cybersecurity and Society",
+      "links": [
+        {
+          "text": "CYS 344",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/344/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 393 Linux Operations for Cybersecurity",
+      "links": [
+        {
+          "text": "CYS 393",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/393/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CMN 279 Introduction to Professional Communication",
+      "links": [
+        {
+          "text": "CMN 279",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/communication/CMN/279/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 200 Criminal Law",
+      "links": [
+        {
+          "text": "CRM 200",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/200/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CRM 350 Cyber Criminology",
+      "links": [
+        {
+          "text": "CRM 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/criminology/CRM/350/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 414 Computer Organization II",
+      "links": [
+        {
+          "text": "CYS 414",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/414/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 473 Applied Cryptography",
+      "links": [
+        {
+          "text": "CYS 473",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/473/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "5th & 6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "REQUIRED:"
+    },
+    {
+      "kind": "list_item",
+      "text": "CYS 512 Cybersecurity Policy and Strategy",
+      "links": [
+        {
+          "text": "CYS 512",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/cyber-science/CYS/512/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "ITM 825 Enterprise Information Security",
+      "links": [
+        {
+          "text": "ITM 825",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/825/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "LAW 568 Cyber Crime and the Law",
+      "links": [
+        {
+          "text": "LAW 568",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/law/LAW/568/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES : One Open Elective*",
+      "links": [
+        {
+          "text": "Open Elective*",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table A - Lower Level Liberal Studies (opens in new window) .",
+      "links": [
+        {
+          "text": "Table A - Lower Level Liberal Studies (opens in new window)",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_a/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVES : One Open Elective*",
+      "links": [
+        {
+          "text": "Open Elective*",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 .",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "7th & 8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I.",
+      "links": [
+        {
+          "text": "Table I.",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/"
+        },
+        {
+          "text": "",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective*",
+      "links": [
+        {
+          "text": "Open Elective*",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "CORE ELECTIVE: Three courses from Table I .",
+      "links": [
+        {
+          "text": "Table I",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/cyber-science-core-elective-table-i/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "OPEN ELECTIVE: One Open Elective*",
+      "links": [
+        {
+          "text": "Open Elective*",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/open-electives/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "LIBERAL STUDIES: One course from Table B - Upper Level Liberal Studies .",
+      "links": [
+        {
+          "text": "Table B - Upper Level Liberal Studies",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/liberal-studies/table_b/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "*Course selection may not include CPS courses between CPS 100 and CPS 499, or any ITM course other than ITM 711 .",
+      "links": [
+        {
+          "text": "ITM 711",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/information-technology-management/ITM/711/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Sequence of Academic and Work Terms for Co-op Program",
+      "links": [
+        {
+          "text": "Sequence of Academic and Work Terms for Co-op Program",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fall"
+    },
+    {
+      "kind": "text",
+      "text": "Winter"
+    },
+    {
+      "kind": "text",
+      "text": "Spring/Summer"
+    },
+    {
+      "kind": "text",
+      "text": "Year 1"
+    },
+    {
+      "kind": "text",
+      "text": "1st Semester"
+    },
+    {
+      "kind": "text",
+      "text": "2nd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Year 2"
+    },
+    {
+      "kind": "text",
+      "text": "3rd Semester"
+    },
+    {
+      "kind": "text",
+      "text": "4th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 103 - Work Term I",
+      "links": [
+        {
+          "text": "WKT 103",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/103/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 3"
+    },
+    {
+      "kind": "text",
+      "text": "5th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "6th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 203 - Work Term II",
+      "links": [
+        {
+          "text": "WKT 203",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/203/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 4"
+    },
+    {
+      "kind": "text",
+      "text": "WKT 303 - Work term III",
+      "links": [
+        {
+          "text": "WKT 303",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/303/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 403 - Work Term IV",
+      "links": [
+        {
+          "text": "WKT 403",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/403/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "WKT 503 - Work Term V",
+      "links": [
+        {
+          "text": "WKT 503",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/work-term/WKT/503/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Year 5"
+    },
+    {
+      "kind": "text",
+      "text": "7th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "8th Semester"
+    },
+    {
+      "kind": "text",
+      "text": "--"
+    },
+    {
+      "kind": "text",
+      "text": "Work terms are graded on a pass/fail basis."
+    },
+    {
+      "kind": "text",
+      "text": "Each work term is assessed by the School's Faculty Advisor on the basis of the student's comprehensive written report and the employer's evaluation of the student's performance on the job."
+    },
+    {
+      "kind": "text",
+      "text": "Students must successfully complete a minimum of 3 co-op WKT’s in order to graduate from their program of study with a Co-op designation. Once the requirements are satisfied being able to do another work term is at the discretion of the Career & Co-op Centre.",
+      "links": [
+        {
+          "text": "Career & Co-op Centre.",
+          "url": "https://www.torontomu.ca/content/ryerson/career-coop-student-success/"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Program Advisory Council",
+      "links": [
+        {
+          "text": "Program Advisory Council",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/cyber-science/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "A Program Advisory Council (PAC) is a group of volunteers that provides expert advice to a school or department on program related matters such as curriculum, program review, technology and trends in the industry, discipline or profession. For more information, see Senate Policy #158 (Program Advisory Councils) .",
+      "links": [
+        {
+          "text": "Senate Policy #158 (Program Advisory Councils)",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/program-advisory-councils-policy-158/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The membership of the Program Advisory Council will be announced at a later date."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See important curriculum interpretation and application information to understand how requirements apply to you.",
+      "links": [
+        {
+          "text": "important curriculum interpretation and application information",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/policies-and-procedures/enrolment-records/curriculum_info/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Cyber Science"
+}

@@ -1,0 +1,776 @@
+{
+  "source_url": "https://www.torontomu.ca/calendar/2026-2027/minors/physics_minor/",
+  "calendar_year": "2026-2027",
+  "source_sha256": "1836765c26bf66fa13b5baa410611285172b0d555fa068513b9f348fe90d0e02",
+  "source_bytes": 64918,
+  "title": "Minor in Physics",
+  "headings": [
+    "Minor in Physics"
+  ],
+  "course_codes_referenced": [
+    "PCS 107",
+    "PCS 110",
+    "PCS 120",
+    "PCS 125",
+    "PCS 130",
+    "PCS 211",
+    "PCS 224",
+    "PCS 227",
+    "PCS 228",
+    "PCS 230",
+    "PCS 300",
+    "PCS 335",
+    "PCS 350",
+    "PCS 352",
+    "PCS 358",
+    "PCS 401",
+    "PCS 510",
+    "PCS 521",
+    "PCS 622",
+    "PCS 624",
+    "PCS 700",
+    "PCS 724",
+    "PCS 800",
+    "PCS 810"
+  ],
+  "official_links": [
+    {
+      "text": "Minors",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+    },
+    {
+      "text": "Biology - Biophysics Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+    },
+    {
+      "text": "Chemistry - Applied Physics Option",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/"
+    },
+    {
+      "text": "Medical Physics",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+    },
+    {
+      "text": "PCS 120",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+    },
+    {
+      "text": "PCS 130",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+    },
+    {
+      "text": "PCS 125",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+    },
+    {
+      "text": "PCS 211",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+    },
+    {
+      "text": "PCS 228",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+    },
+    {
+      "text": "PCS 300",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+    },
+    {
+      "text": "PCS 107",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/107/"
+    },
+    {
+      "text": "PCS 110",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/110/"
+    },
+    {
+      "text": "PCS 224",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/224/"
+    },
+    {
+      "text": "PCS 227",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+    },
+    {
+      "text": "PCS 230",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+    },
+    {
+      "text": "PCS 335",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+    },
+    {
+      "text": "PCS 350",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+    },
+    {
+      "text": "PCS 352",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+    },
+    {
+      "text": "PCS 358",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/358/"
+    },
+    {
+      "text": "PCS 401",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+    },
+    {
+      "text": "PCS 510",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/510/"
+    },
+    {
+      "text": "PCS 521",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/521/"
+    },
+    {
+      "text": "PCS 622",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/622/"
+    },
+    {
+      "text": "PCS 624",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/624/"
+    },
+    {
+      "text": "PCS 700",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/700/"
+    },
+    {
+      "text": "PCS 724",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+    },
+    {
+      "text": "PCS 800",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/800/"
+    },
+    {
+      "text": "PCS 810",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/810/"
+    },
+    {
+      "text": "Addenda and Errata",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+    },
+    {
+      "text": "",
+      "url": "https://www.torontomu.ca/calendar/2026-2027/minors/physics_minor/"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "Minor in Physics"
+    },
+    {
+      "kind": "text",
+      "text": "Minors",
+      "links": [
+        {
+          "text": "Minors",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/minors/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Physics Minor provides students with the opportunity to deepen their understanding of physical concepts as well as acquire lab and problem solving skills in Physics. The Physics Minor provides an option for students to have an emphasis in a field other than their own; the additional qualifications give them the opportunity to diversify in their choice of graduate program or career after graduation."
+    },
+    {
+      "kind": "text",
+      "text": "Administered by: Department of Physics"
+    },
+    {
+      "kind": "text",
+      "text": "Exclusions: This minor is not available to students in the following programs:"
+    },
+    {
+      "kind": "list_item",
+      "text": "Biology - Biophysics Option",
+      "links": [
+        {
+          "text": "Biology - Biophysics Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/biology/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Chemistry - Applied Physics Option",
+      "links": [
+        {
+          "text": "Chemistry - Applied Physics Option",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/chemistry/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Medical Physics",
+      "links": [
+        {
+          "text": "Medical Physics",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/programs/science/medical_physics/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "To receive this Minor, students must complete six (6) courses from the following curriculum:"
+    },
+    {
+      "kind": "text",
+      "text": "Two (2) courses from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 120",
+      "links": [
+        {
+          "text": "PCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Physics I, AND"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 130",
+      "links": [
+        {
+          "text": "PCS 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Physics II"
+    },
+    {
+      "kind": "text",
+      "text": "or"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 125",
+      "links": [
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Physics: Waves and Fields, AND"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 211",
+      "links": [
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Physics: Mechanics"
+    },
+    {
+      "kind": "text",
+      "text": "NOTE: Engineering students will take PCS 125 and PCS 211 . Science students will take PCS 120 and PCS 130 .",
+      "links": [
+        {
+          "text": "PCS 125",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/125/"
+        },
+        {
+          "text": "PCS 211",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/211/"
+        },
+        {
+          "text": "PCS 120",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/120/"
+        },
+        {
+          "text": "PCS 130",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/130/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Plus one (1) course from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 228",
+      "links": [
+        {
+          "text": "PCS 228",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Electricity and Magnetism"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 300",
+      "links": [
+        {
+          "text": "PCS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Modern Physics"
+    },
+    {
+      "kind": "text",
+      "text": "Plus three (3) courses from the following:"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 107",
+      "links": [
+        {
+          "text": "PCS 107",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/107/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The Natural Context"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 110",
+      "links": [
+        {
+          "text": "PCS 110",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/110/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 224",
+      "links": [
+        {
+          "text": "PCS 224",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/224/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Solid State Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 227",
+      "links": [
+        {
+          "text": "PCS 227",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/227/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Biophysics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 228 *",
+      "links": [
+        {
+          "text": "PCS 228",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/228/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Electricity and Magnetism"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 230",
+      "links": [
+        {
+          "text": "PCS 230",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/230/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Photonics and Optical Devices"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 300 *",
+      "links": [
+        {
+          "text": "PCS 300",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/300/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Modern Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 335",
+      "links": [
+        {
+          "text": "PCS 335",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/335/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Thermodynamics and Statistical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 350",
+      "links": [
+        {
+          "text": "PCS 350",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/350/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Computational Methods in Medical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 352",
+      "links": [
+        {
+          "text": "PCS 352",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/352/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Nuclear Physics/Radiation Protection"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 358",
+      "links": [
+        {
+          "text": "PCS 358",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/358/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mechanics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 401",
+      "links": [
+        {
+          "text": "PCS 401",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/401/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Quantum Mechanics I"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 510",
+      "links": [
+        {
+          "text": "PCS 510",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/510/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Fundamentals of Astrophysics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 521",
+      "links": [
+        {
+          "text": "PCS 521",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/521/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mathematical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 622",
+      "links": [
+        {
+          "text": "PCS 622",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/622/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mathematical Methods in Medical Physics"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 624",
+      "links": [
+        {
+          "text": "PCS 624",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/624/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Electromagnetism II"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 700",
+      "links": [
+        {
+          "text": "PCS 700",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/700/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Quantum Mechanics II"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 724",
+      "links": [
+        {
+          "text": "PCS 724",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/724/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Condensed Matter Physics/Materials"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 800",
+      "links": [
+        {
+          "text": "PCS 800",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/800/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dynamical Systems"
+    },
+    {
+      "kind": "text",
+      "text": "PCS 810",
+      "links": [
+        {
+          "text": "PCS 810",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/courses/physics/PCS/810/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Complex Networks and Applications"
+    },
+    {
+      "kind": "text",
+      "text": "*If not already taken as a required course."
+    },
+    {
+      "kind": "text",
+      "text": "Please see Senate Policy 2 , Section 7.4 for further information about Minors.",
+      "links": [
+        {
+          "text": "Senate Policy 2",
+          "url": "https://www.torontomu.ca/content/ryerson/senate/policies/undergraduate-curriculum-structure-policy-2/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Addenda and Errata",
+      "links": [
+        {
+          "text": "Addenda and Errata",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/addenda-and-errata/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Sitemap ",
+      "links": [
+        {
+          "text": "Sitemap",
+          "url": "https://www.torontomu.ca/calendar/2026-2027/sitemap/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Directory",
+      "links": [
+        {
+          "text": "Directory",
+          "url": "https://www.torontomu.ca/contact/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Maps and Directions",
+      "links": [
+        {
+          "text": "Maps and Directions",
+          "url": "https://www.torontomu.ca/maps/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Campus Status",
+      "links": [
+        {
+          "text": "Campus Status",
+          "url": "https://www.torontomu.ca/campus-status/"
+        }
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Follow Us"
+    },
+    {
+      "kind": "text",
+      "text": "Facebook, opens new window Instagram, opens new window Bluesky, opens new window YouTube, opens new window LinkedIn, opens new window Tiktok, opens new window",
+      "links": [
+        {
+          "text": "Facebook, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Instagram, opens new window",
+          "url": "https://www.torontomu.ca/torontomet"
+        },
+        {
+          "text": "Bluesky, opens new window",
+          "url": "https://www.torontomu.ca"
+        },
+        {
+          "text": "YouTube, opens new window",
+          "url": "https://www.torontomu.ca/TorontoMetropolitanUniversity"
+        },
+        {
+          "text": "LinkedIn, opens new window",
+          "url": "https://www.torontomu.ca/company/torontometropolitanuniversity"
+        },
+        {
+          "text": "Tiktok, opens new window",
+          "url": "https://www.torontomu.ca/@torontomet"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Careers",
+      "links": [
+        {
+          "text": "Careers",
+          "url": "https://www.torontomu.ca/jobs/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Media Room",
+      "links": [
+        {
+          "text": "Media Room",
+          "url": "https://www.torontomu.ca/media/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Privacy Policy",
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.torontomu.ca/privacy/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Accessibility",
+      "links": [
+        {
+          "text": "Accessibility",
+          "url": "https://www.torontomu.ca/accessibility/"
+        }
+      ]
+    },
+    {
+      "kind": "list_item",
+      "text": "Terms & Conditions",
+      "links": [
+        {
+          "text": "Terms & Conditions",
+          "url": "https://www.torontomu.ca/terms-conditions/"
+        }
+      ]
+    }
+  ],
+  "inventory_name": "Physics"
+}
