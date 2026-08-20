@@ -25,7 +25,7 @@ The yearly update process is documented in `research/update-guide.md`. Curriculu
 
 ## Status
 
-The research and curriculum-variant foundation is complete. The full all-program interface is under active development.
+The 2026-2027 research dataset and all-program interface are complete. Automated validation checks protect course-code search, source coverage, curriculum variants, requirement allowlists and the GitHub Pages production build.
 
 ## Copyright
 
